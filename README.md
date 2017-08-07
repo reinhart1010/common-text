@@ -8,7 +8,7 @@ The main [GitHub repository](https://github.com/mozilla/voice-web/) includes all
 As these texts will change the /server/data directory in the Common Voice repository, it is advisable to requesting pull requests for a batch of new voice samples to the main repository, as the testing process in the main repository may take longer.
 
 ### Syncing with Common Voice
-New texts from this repository will be named under `commontext-n.txt` where n is the Collection Number. Each Collection will contain 500 sentences.
+New texts from this repository will be named under `commontext-l-r-n.txt` where `l` in is the main language, `r` is the regional version of the language, and `c` is the Collection Number. Each Collection will contain 500 sentences.
 
 When a Pull Request is requested to include these new Collections, other sample texts from the main repository will be synced. This also means that not all Common Voice texts are available, and updated.
 
