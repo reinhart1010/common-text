@@ -10,5 +10,8 @@ However, there are some analysis needed on these sample texts. The main purpose 
 ### Available languages
 As of now, the Common voice repository only contains English sample texts. Multiple languages will be added soon.
 
+### Contributing to this project
+Since this repository syncs the texts from [mozilla/voice-web](https://github.com/mozilla/voice-web/) repository, it is highly recommended to add texts to the [server/data folder of Common Voice repository](https://github.com/mozilla/voice-web/blob/master/server/data). Please note that you may add a new text file with {your GitHub username}.txt to the folder.
+
 ### Usage for other than Common Voice project
 As a requirement for Common Voice, sample texts and voices should be contributed to Public Domain (or under similar licenses such as [CC0](https://creativecommons.org/publicdomain/zero/1.0/)). The [LICENSE](./LICENSE) file includes the CC0 license.
