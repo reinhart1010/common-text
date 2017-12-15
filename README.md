@@ -2,7 +2,7 @@
 
 ## Sample Texts for Mozilla's [Common Voice](https://voice.mozilla.org/)
 
-**[View current stats for English](https://github.com/reinhart1010/common-text/blob/master/stats/en-US.txt)** ([Raw version](https://raw.githubusercontent.com/reinhart1010/common-text/master/stats/en-US.txt) to save bandwidth)
+**[View current stats for English](https://github.com/reinhart1010/common-text/blob/master/stats/en-US.txt)** ([Raw version](https://raw.githubusercontent.com/reinhart1010/common-text/master/stats/en-US.txt) to save data)
 
 ### Why another repo?
 The main [GitHub repository](https://github.com/mozilla/voice-web/) includes all the source files for the text corpus, iOS and Android apps, as well as the server to run the website.All sample texts are located in server/data folder of that repository.
