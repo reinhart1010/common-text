@@ -4,10 +4,12 @@ This repository consists of 2 differently-licensed parts.
 
 ## 1. Sample texts
 
-As agreed on the Mozilla's [Common Voice Legal Terms](https://voice.mozilla.org/en/terms), all sample texts, recordings, as well as datasets are under Public Domain or in similar license, especially Creative Commons CC0 1.0 Universal (CC-0).
+As agreed on the Mozilla's [Common Voice Legal Terms](https://voice.mozilla.org/en/terms), all sample texts (contained here under `texts` directory), recordings, as well as datasets are under Public Domain or in similar license, especially Creative Commons CC0 1.0 Universal (CC-0).
 
 The full license script is found at LICENSE-CC0.txt.
 
 ## 2. Word Counting Scripts
 
-All files located under the `scripts/` folder are licensed under the MIT License (instead of Mozilla Public License 2.0).
+All files located under the `scripts` directory are licensed under the MIT License (instead of Mozilla Public License, version 2.0).
+
+The full license script is found at LICENSE-MIT.txt.
