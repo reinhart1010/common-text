@@ -1,0 +1,16 @@
+      1 
+      1 aaaa
+      1 axa
+      1 eee
+      1 it
+      2 o
+      2 xa
+      2 xe
+      3 oaa
+      3 x
+      6 oa
+      7 aaa
+     16 ee
+     19 aa
+     45 a
+     53 e

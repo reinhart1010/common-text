@@ -9,6 +9,4 @@ The following Linux packages are required, which are available to most Linux dis
 + cat
 + git
 
-Next, you may need to have a `voice-web` directory from https://github.com/mozilla/voice-web. This is where all the sample texts are contained, and *must** be placed outside the `common-text` directory in order for scripts to work properly. Make sure that you have read/write access to both directories, as well as read/write/execute access for these scripts.
-
-For example, if you placed the `common-text` directory under `~/Documents/`, you will need the `voice-web` directory under `~/Documents/` as well, not `~/Documents/common-text/`.
+This script requires you to have the Common Voice repository available on a specific location. See the root README file for details.
