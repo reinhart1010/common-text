@@ -1,0 +1,14 @@
+zéro
+un
+deux
+trois
+quatre
+cinq
+six
+sept
+huit
+neuf
+oui
+non
+Hey
+Firefox

@@ -1,26 +1,30 @@
       1 adak
       1 bak
-      1 bèk
-      1 beutôi
+      1 beuti
+      1 bk
       1 buetbuet
-      1 jadèh
+      1 gam
+      1 geupumano
+      1 geutingkue
+      1 jadh
       1 jeurat
       1 jih
       1 kamoe
       1 keu
       1 lagoe
-      1 lampôh
-      1 lé
+      1 lamph
       1 leumah
-      1 lhôk
+      1 lheueh
+      1 lhk
+      1 ln
       1 lom
-      1 lôn
+      1 ma
       1 meunan
       1 meunyo
       1 meuseujid
-      1 meutém
+      1 meutm
       1 neujak
-      1 neupatéh
+      1 neupath
       1 nga
       1 pih
       1 pirang
@@ -28,15 +32,17 @@
       1 puasa
       1 reuda
       1 rhap
+      1 si
       1 singoh
       1 tajak
       1 tamupakat
       1 tapeugala
-      1 trép
+      1 trp
       1 u
       1 ujeuen
       2 haba
       2 ka
+      2 l
       2 nyang
       2 pat
       2 peue

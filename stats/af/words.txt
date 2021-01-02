@@ -1,24 +1,118 @@
+      1 al
+      1 arm
+      1 bars
+      1 berg
+      1 bestaan
       1 dankie
+      1 dat
       1 dertig
+      1 diepe
+      1 dieptes
+      1 eeue
+      1 elke
+      1 geen
+      1 geskrik
+      1 getrou
       1 goed
-      1 in
+      1 graniet
+      1 gratis
+      1 grou
+      1 haar
+      1 help
+      1 huis
+      1 hulp
+      1 hy
+      1 iets
+      1 immers
+      1 intellegente
       1 ja
-      1 jaar
       1 jan
+      1 keer
+      1 kind
+      1 klipsteen
+      1 kyk
+      1 lank
+      1 lewe
+      1 maaltyd
+      1 maklik
+      1 mee
       1 met
-      1 my
+      1 myself
+      1 na
+      1 naels
+      1 ook
+      1 potlood
       1 pretoria
+      1 raak
+      1 randjie
+      1 rede
+      1 reeds
+      1 see
+      1 silwer
+      1 skaak
+      1 slaan
+      1 slag
+      1 sleep
+      1 so
+      1 stellenbosch
+      1 studeer
+      1 sug
+      1 suur
+      1 tik
+      1 tydsverdruif
+      1 uit
+      1 uiters
+      1 vaderlandsgrond
+      1 verelede
+      1 vergeet
+      1 vergewe
+      1 verlang
+      1 verlede
+      1 vir
+      1 vra
+      1 vrou
+      1 waai
       1 waar
-      1 wat
+      1 weet
+      1 wil
+      1 winterwind
+      1 wit
+      1 wolk
+      1 woon
+      1 wyk
+      2 aan
       2 afrikaans
       2 bly
-      2 dit
+      2 en
       2 gaan
-      2 hoe
-      2 jou
+      2 het
+      2 in
+      2 jaar
+      2 kou
+      2 man
       2 naam
+      2 oog
+      2 op
       2 oud
       2 praat
-      3 ek
-      3 jy
-      4 is
+      2 staan
+      2 sy
+      2 te
+      2 vas
+      3 daar
+      3 hoe
+      3 hou
+      3 my
+      3 om
+      4 dit
+      4 kan
+      4 soos
+      5 die
+      5 jou
+      6 jy
+      6 nie
+      6 van
+      7 wat
+      8 is
+     10 ek
+     12 n

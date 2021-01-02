@@ -2,87 +2,66 @@
       1 absolut
       1 accelerationen
       1 accepterar
-      1 äcklad
-      1 äcklig
-      1 ädla
       1 adrenalinkick
       1 adress
       1 advokatsamfundet
-      1 affärsidé
-      1 affärsplanen
       1 affekt
+      1 affrsid
+      1 affrsplanen
       1 afred
       1 afrika
-      1 ägaren
-      1 ägde
+      1 afterwork
       1 agenda
-      1 äger
       1 agera
-      1 ägg
-      1 äggen
-      1 ägglossning
       1 aggressiv
       1 agnes
       1 aha
-      1 åkt
-      1 äktenskapet
       1 aktiverar
       1 aktiveras
       1 aktivitet
       1 aktriser
-      1 äldre
       1 aldrigt
-      1 åldringshem
       1 algebra
       1 alkohol
       1 alkoholister
       1 allergiska
       1 allesammans
       1 allians
-      1 allmänbildning
-      1 allmänt
-      1 alltså
+      1 allmnbildning
+      1 allmnt
+      1 allts
       1 allvarlig
       1 allvarliga
       1 alstra
       1 alstrar
       1 alternativ
+      1 amerikan
       1 amerikansk
       1 amerikanska
-      1 ämnad
-      1 ämnen
       1 an
       1 anade
-      1 ända
       1 andan
-      1 ände
-      1 andedräkt
+      1 andedrkt
       1 andel
       1 andelar
-      1 ändlösa
       1 andningssystem
-      1 ändra
-      1 ändrar
-      1 ändrat
-      1 angeles
-      1 angenäm
-      1 ångerfullt
-      1 änglar
-      1 ångra
-      1 ångrat
+      1 andre
+      1 angenm
+      1 angrepp
+      1 angreppet
       1 angriparen
-      1 anhålla
-      1 anhåller
-      1 anhöriga
+      1 anhlla
+      1 anhller
+      1 anhriga
       1 anledningar
       1 anledningen
-      1 anmälan
+      1 anmlan
       1 anonym
       1 anonyma
       1 ansenlig
       1 ansikte
       1 ansiktet
-      1 ansökan
+      1 anskan
       1 ansvaret
       1 antagligen
       1 antal
@@ -90,124 +69,103 @@
       1 antibiotika
       1 antidepressiva
       1 antikviteter
-      1 äntligen
-      1 användas
-      1 används
-      1 använt
-      1 apa
+      1 anvndas
+      1 anvnds
+      1 anvnt
       1 apokalyps
       1 app
-      1 applåd
+      1 appld
       1 aptit
-      1 ära
       1 arab
       1 arbeta
       1 arbetade
+      1 arbetar
       1 arbetare
       1 arbetat
       1 arbetskraften
-      1 ärjättefint
-      1 ärliga
-      1 ärligaste
       1 armar
       1 armband
       1 armbandsur
       1 armens
-      1 ärofyllt
-      1 ärr
       1 arresterar
-      1 årskurs
+      1 arter
       1 artikel
-      1 årtiondena
       1 arvtagerska
       1 asgrymt
-      1 åsido
+      1 asiatisk
       1 asien
-      1 åsikt
       1 askan
       1 asken
-      1 åtaganden
       1 ateist
-      1 återfå
-      1 återgälda
-      1 återkom
-      1 återskapa
-      1 återvända
-      1 återvändo
-      1 åtgärder
-      1 ätit
-      1 atmosfär
-      1 atmosfärsomvandlingen
+      1 atmosfr
+      1 atmosfrsomvandlingen
       1 atombomb
-      1 åttaåring
       1 attackerade
       1 attackerat
-      1 attackförmåga
-      1 åttahundra
+      1 attackfrmga
       1 attityd
       1 auktioner
       1 auktionera
       1 autopiloten
       1 avancerade
       1 avbild
-      1 avböjde
+      1 avbjde
       1 avger
+      1 avgrs
       1 avklarat
-      1 avledningsmanövrer
-      1 avsevärda
-      1 avstängd
+      1 avledningsmanvrer
+      1 avsevrda
+      1 avstngd
       1 avstyrde
       1 avta
       1 avundas
       1 avundsjuk
-      1 avväpnande
       1 avverkat
+      1 avvpnande
       1 backstage
       1 badat
-      1 bäddad
-      1 både
       1 badkaret
       1 badminton
-      1 badrumsvåg
-      1 bakdörren
+      1 badrumsvg
+      1 bakdrren
       1 bakhuvud
+      1 balkong
       1 balkongen
       1 ballar
-      1 bälten
       1 banker
-      1 bär
+      1 bankomat
       1 baracker
-      1 bärande
-      1 bärbara
       1 baren
-      1 barmhärtighet
-      1 barndomslöfte
+      1 barmhrtighet
+      1 barndomslfte
       1 barnens
       1 barnvakt
-      1 båt
       1 batteribomber
       1 batterier
       1 batterierna
+      1 bddad
+      1 bde
       1 bebisar
       1 bedragare
-      1 bedrövlig
+      1 bedrvlig
+      1 beflsskolan
       1 befria
-      1 begånget
-      1 begår
-      1 begått
       1 bege
       1 begick
-      1 behåll
-      1 behåller
-      1 behövs
-      1 behövt
+      1 begnget
+      1 begr
+      1 begtt
+      1 behll
+      1 behller
+      1 behvs
+      1 behvt
       1 bekant
       1 bekantskap
-      1 bekväm
-      1 bekvämt
+      1 bekvm
+      1 bekvmt
       1 bekymmer
       1 bekymra
-      1 belöning
+      1 belning
       1 bensinmack
       1 beredd
       1 beredda
@@ -216,27 +174,28 @@
       1 berlin
       1 beroende
       1 beror
-      1 berör
-      1 berövar
+      1 berr
+      1 berttelse
+      1 bervar
       1 besatta
       1 besatthet
       1 besegra
       1 besegrade
       1 besegrat
+      1 besk
+      1 beska
+      1 beskt
       1 besluten
       1 beslutet
-      1 besök
-      1 besöka
-      1 besökt
       1 bespara
-      1 beställa
-      1 beställer
-      1 bestämde
-      1 består
       1 besticken
+      1 bestlla
+      1 bestller
       1 bestman
-      1 besvär
-      1 besvärat
+      1 bestmde
+      1 bestr
+      1 besvr
+      1 besvrat
       1 betalning
       1 bete
       1 betyda
@@ -250,7 +209,7 @@
       1 big
       1 bilbatteriet
       1 bilda
-      1 bilden
+      1 bilder
       1 biljett
       1 biljetter
       1 billig
@@ -262,75 +221,82 @@
       1 bit
       1 bitar
       1 biverkningar
+      1 bj
       1 bjudas
+      1 bjuder
       1 bjudit
-      1 blå
+      1 blade
       1 bladen
-      1 bländande
       1 blandning
       1 blanka
+      1 blda
       1 bleknat
       1 blivande
+      1 blndande
       1 blod
-      1 blöda
       1 blomma
       1 blommor
       1 blommorna
-      1 bluetoothhögtalare
+      1 bls
+      1 blser
+      1 blten
+      1 bluetoothhgtalare
       1 bluffade
       1 blunda
       1 blyg
-      1 blysås
-      1 böj
+      1 blyss
+      1 bner
+      1 bnor
+      1 bodde
+      1 boden
       1 bokat
-      1 bölade
       1 bolag
       1 bollen
-      1 bollträn
+      1 bolltrn
       1 bollywood
       1 bolsjevikerna
       1 bombexpert
       1 bombhotad
       1 bombteamet
-      1 böner
       1 boning
-      1 bönor
       1 bord
-      1 bördan
       1 borgarsvin
-      1 början
-      1 börjat
       1 borra
       1 borrmaskin
-      1 bortgömd
+      1 bortgmd
       1 bortom
       1 bosatte
       1 bota
       1 botar
+      1 bowla
       1 boxares
       1 boxning
-      1 brädden
-      1 bråka
-      1 brände
-      1 bränna
-      1 brått
+      1 brande
+      1 brd
+      1 brdan
+      1 brdden
+      1 brder
+      1 brdkaveln
+      1 brdkniv
       1 bredvid
       1 brev
       1 brinner
       1 brister
       1 britterna
+      1 brjat
+      1 brka
+      1 brllopsdag
+      1 brnde
+      1 brnna
       1 bro
       1 broar
-      1 bröd
-      1 bröder
-      1 brödkaveln
-      1 brödkniv
-      1 bröllopsdag
       1 bron
       1 brors
+      1 brorson
       1 brott
       1 brottet
       1 brottsplatsutredarna
+      1 brtt
       1 brud
       1 brudar
       1 brudgummar
@@ -338,8 +304,8 @@
       1 bruna
       1 bry
       1 brydde
-      1 bryta
       1 brytarna
+      1 bt
       1 bubblor
       1 bud
       1 budapset
@@ -352,16 +318,17 @@
       1 buss
       1 butler
       1 butlern
-      1 byäldstarna
       1 byggare
-      1 byggde
       1 byggnaden
+      1 byggnader
+      1 byldstarna
       1 byn
       1 byter
       1 byxorna
       1 cabrioleten
       1 cabrioletsportbilen
       1 cent
+      1 centralbyrn
       1 centralt
       1 ceremonin
       1 champis
@@ -373,9 +340,13 @@
       1 cheferna
       1 chorizofabriken
       1 cirklar
+      1 citron
       1 city
+      1 cklad
+      1 cklig
       1 ckligt
       1 cola
+      1 college
       1 cool
       1 cykeldynamo
       1 cykellampan
@@ -387,14 +358,14 @@
       1 dans
       1 dansa
       1 dansklubbar
-      1 dårhuset
-      1 därinne
-      1 därtill
       1 data
       1 datan
       1 datorer
       1 datorerna
       1 datorn
+      1 ddades
+      1 ddat
+      1 ddsruna
       1 definitivt
       1 dejta
       1 dejtade
@@ -404,6 +375,7 @@
       1 delarna
       1 delen
       1 deltar
+      1 dende
       1 denna
       1 design
       1 detaljerad
@@ -415,35 +387,35 @@
       1 diamantgruva
       1 diamantgruvan
       1 diamantverksamhet
-      1 diarré
+      1 diarr
       1 diskret
       1 diskutera
       1 distraheras
-      1 djur
+      1 dk
+      1 dla
+      1 dlja
       1 dock
       1 docka
-      1 dödades
-      1 dödat
-      1 dödsruna
-      1 döende
-      1 dök
-      1 dölja
       1 dom
       1 domstolen
-      1 dörr
-      1 dörrarna
       1 drabbas
       1 dramatisk
+      1 drhuset
       1 drinkarna
+      1 drinne
       1 driva
       1 drivlina
       1 drivs
+      1 drjer
+      1 drmhus
+      1 drmmar
+      1 drmt
       1 drogade
       1 droger
-      1 dröjer
-      1 drömhus
-      1 drömmar
-      1 drömt
+      1 drottningen
+      1 drr
+      1 drrarna
+      1 drtill
       1 drunknade
       1 drunknar
       1 druvor
@@ -460,18 +432,20 @@
       1 dyrkar
       1 efterbliven
       1 efterfest
-      1 efterfrågan
+      1 efterfrgan
       1 efternamn
-      1 efterrätt
-      1 eftertänksamt
+      1 efterrtt
+      1 eftertnksamt
       1 egna
       1 ej
-      1 eländet
       1 eld
-      1 elefant
       1 elegant
+      1 elektronik
       1 elitpraktikanter
+      1 elndet
+      1 emotionella
       1 ende
+      1 engelska
       1 england
       1 enkelt
       1 enkla
@@ -479,20 +453,20 @@
       1 ensak
       1 ensamma
       1 ensamvarg
-      1 entré
+      1 entr
       1 entusiasm
-      1 erbjöd
+      1 erbjd
       1 erbjuder
-      1 erkänner
-      1 erövra
+      1 erknner
       1 ertappade
-      1 ettårsdag
+      1 ervra
+      1 ettrsdag
       1 europa
       1 evakuerar
       1 evakuerats
       1 evakueringsordern
       1 eviga
-      1 evighetsnätverksgeneratorer
+      1 evighetsntverksgeneratorer
       1 exakta
       1 exceptionellt
       1 exmake
@@ -502,46 +476,36 @@
       1 experimentet
       1 exploderade
       1 explosionsradien
-      1 expojkväns
+      1 expojkvns
       1 exponentiellt
       1 fabriken
-      1 fågelmetaforerna
-      1 fåglarna
       1 fakultetsmedlem
       1 faller
       1 falsk
       1 falska
-      1 fälten
       1 familjeegendom
       1 familjens
-      1 fånga
-      1 fångar
-      1 fängelser
-      1 fängelset
-      1 fängslades
-      1 fångvaktare
-      1 fånig
-      1 fåniga
       1 fann
       1 fantasi
       1 fantastiska
-      1 färdig
-      1 färdiga
       1 farfars
-      1 färja
+      1 farliga
       1 farligt
       1 farmor
-      1 farväl
+      1 farvl
       1 fascinerad
       1 fasen
-      1 fästman
       1 fastnade
       1 fastnar
-      1 fästning
       1 fattat
-      1 fåttjobb
       1 favoritkyckling
       1 favoritplats
+      1 fda
+      1 fdde
+      1 fddes
+      1 fdelsedagar
+      1 fdelsedagen
+      1 fdseln
       1 feg
       1 fegis
       1 fejk
@@ -552,6 +516,8 @@
       1 fes
       1 fet
       1 fettet
+      1 fgelmetaforerna
+      1 fglarna
       1 fickor
       1 fiji
       1 fika
@@ -561,189 +527,199 @@
       1 finansiera
       1 finansierade
       1 finansmarknaderna
-      1 finger
       1 fingeravtrycken
       1 fingrarna
       1 finna
+      1 finska
       1 fisa
       1 fisketur
       1 fiskexpert
       1 fjantiga
       1 fjollor
+      1 flg
       1 flin
       1 flingor
       1 flinta
       1 flippade
-      1 flög
-      1 flörtig
+      1 fljare
+      1 fljt
       1 floyd
+      1 flrtig
+      1 flten
       1 flyghotellrestaurangmassagepaketet
       1 flygplats
       1 flykten
       1 flyr
       1 flyttat
-      1 föda
-      1 födde
-      1 föddes
-      1 födelsedagar
-      1 födelsedagen
-      1 födseln
-      1 följare
-      1 följt
+      1 fnga
+      1 fngar
+      1 fngelser
+      1 fngelset
+      1 fngslades
+      1 fngvaktare
+      1 fnig
+      1 fniga
+      1 fnstren
       1 folkvandringstiden
-      1 fönstren
-      1 föräldrars
-      1 förändrad
-      1 förändrat
-      1 förändrats
-      1 förbannade
-      1 förbättra
-      1 förbereda
-      1 förblir
       1 forell
-      1 föremålet
-      1 förenar
-      1 föreslår
-      1 föreslog
-      1 företagsekonomi
-      1 företagsjurist
-      1 företagsmannen
-      1 förfärlig
-      1 förfärliga
-      1 förflutna
-      1 förföljarna
-      1 förfrågan
-      1 förfrågningar
-      1 förhållandet
-      1 förhandlare
-      1 förhastad
-      1 förhastat
-      1 förhindra
-      1 förhör
-      1 förhöra
-      1 förklarar
-      1 förklarat
-      1 förkrossande
-      1 förkyld
-      1 förlåten
-      1 förlåtit
-      1 förlovade
-      1 förlust
-      1 förmåga
-      1 förmågor
       1 formligen
-      1 förmodar
-      1 förmodligen
-      1 förmögenhet
-      1 förnekar
-      1 förnuftig
-      1 förödelse
-      1 förpliktelse
-      1 förrgår
-      1 försäkra
-      1 försäkran
-      1 försäljningschef
-      1 försäljningschefen
-      1 försämrats
       1 forskats
-      1 förskräckligt
-      1 försörjas
-      1 försov
-      1 förstå
-      1 förståelsen
-      1 förstärker
-      1 förstås
-      1 försvinna
-      1 förtjänade
-      1 förtjusande
-      1 förtjust
       1 fortplantning
       1 fortplantningssystem
-      1 fortplantningssystemär
-      1 förtroende
-      1 förutsägbar
-      1 förutspår
-      1 förvaltning
-      1 förvånas
-      1 förvandlat
-      1 förväntades
-      1 förvärrades
-      1 förvärrats
-      1 förvirrad
+      1 fortplantningssystemr
       1 fosfor
-      1 fotbollsträning
+      1 fotbollstrning
       1 foten
-      1 fotknöl
+      1 fotknl
       1 fotogen
       1 fotogenet
       1 fotostudio
       1 fots
-      1 fräck
-      1 frågetecken
-      1 frågor
-      1 frågorna
-      1 framgångsrik
+      1 fra
+      1 framgngsrik
       1 framkalla
-      1 främling
-      1 främlingar
-      1 framöver
+      1 framver
       1 fransk
+      1 frbannade
+      1 frbereda
+      1 frblir
+      1 frbttra
+      1 frck
+      1 frdelse
+      1 frdig
+      1 frdiga
       1 fredag
       1 fredags
+      1 fremlet
+      1 frenar
+      1 freslog
+      1 freslr
       1 frestande
+      1 fretagsekonomi
+      1 fretagsjurist
+      1 fretagsmannen
+      1 frfljarna
+      1 frflutna
+      1 frfrgan
+      1 frfrgningar
+      1 frfrlig
+      1 frfrliga
+      1 frgetecken
+      1 frgor
+      1 frgorna
+      1 frhandlare
+      1 frhastad
+      1 frhastat
+      1 frhindra
+      1 frhllandet
+      1 frhr
+      1 frhra
       1 fridfull
       1 friidrott
-      1 frisläppt
+      1 frislppt
       1 fritt
-      1 fröjd
-      1 frön
+      1 frja
+      1 frjd
+      1 frklarar
+      1 frklarat
+      1 frkrossande
+      1 frkyld
+      1 frldrars
+      1 frlovade
+      1 frlten
+      1 frltit
+      1 frlust
+      1 frmga
+      1 frmgen
+      1 frmgenhet
+      1 frmgor
+      1 frmling
+      1 frmlingar
+      1 frmodar
+      1 frmodligen
+      1 frndrad
+      1 frndrat
+      1 frndrats
+      1 frnekar
+      1 frnuftig
+      1 frpliktelse
+      1 frrgr
+      1 frskra
+      1 frskran
+      1 frskrckligt
+      1 frsljningschef
+      1 frsljningschefen
+      1 frsmrats
+      1 frsov
+      1 frsrjas
+      1 frstelsen
+      1 frstrker
+      1 frsts
+      1 frsvann
+      1 frsvinna
+      1 frtjnade
+      1 frtjusande
+      1 frtjust
+      1 frtroende
       1 fruar
       1 fruktbar
       1 frukter
       1 frus
       1 frustrerad
-      1 ful
+      1 frutsgbar
+      1 frutspr
+      1 frvaltning
+      1 frvandlat
+      1 frvirrad
+      1 frvnas
+      1 frvntades
+      1 frvrrades
+      1 frvrrats
+      1 fstman
+      1 fstning
+      1 fttjobb
       1 fullo
       1 fullpackade
+      1 fulltrff
       1 funderar
       1 fungerat
       1 funka
       1 funnit
       1 fy
       1 fyllebeslut
+      1 fyrkanten
       1 fyrverkeriet
       1 fysiska
+      1 ga
       1 galaxen
       1 galenpanna
       1 galenpannor
       1 galenskaper
       1 galnare
+      1 galning
       1 galningen
       1 gamle
-      1 gäng
-      1 gängen
       1 garage
       1 garantera
       1 garanterar
       1 garantier
-      1 gårdagen
-      1 gårdens
-      1 gårdsägarna
+      1 garen
       1 gas
-      1 gäster
-      1 gästtalare
       1 gatan
       1 gatorna
       1 gay
+      1 gde
       1 generade
       1 generations
       1 generatorer
       1 generatorerna
       1 generatorn
-      1 genomsöka
+      1 genomska
       1 gentlemannen
+      1 gg
+      1 ggen
+      1 gglossning
       1 gibson
-      1 gift
       1 giftiga
       1 gigantiskt
       1 gilla
@@ -753,39 +729,41 @@
       1 girighet
       1 gjorda
       1 gjordes
-      1 gläder
-      1 glädje
-      1 glamourös
+      1 glamours
       1 glas
       1 glass
-      1 glöda
+      1 glda
+      1 glder
+      1 gldje
+      1 gled
+      1 gllde
       1 glutenfri
+      1 gmd
+      1 gmda
+      1 gmt
       1 gnuggar
       1 gode
       1 godis
-      1 godkänt
+      1 godknt
+      1 golf
       1 golvar
       1 golven
-      1 gömd
-      1 gömda
-      1 gömt
-      1 gottgörelse
+      1 gonen
+      1 gottgrelse
       1 grabb
       1 grabbarna
       1 grabben
-      1 grälade
-      1 grälet
       1 grannarna
-      1 grannmöte
-      1 gräs
-      1 gråten
+      1 grannmte
+      1 granska
       1 grav
-      1 gräv
-      1 gräva
-      1 gräver
-      1 gravfälten
+      1 gravflten
       1 gravitationens
-      1 gravöl
+      1 gravl
+      1 grdagen
+      1 grdens
+      1 grdorna
+      1 grdsgarna
       1 grejen
       1 greppa
       1 greppet
@@ -794,57 +772,52 @@
       1 grindsensorn
       1 gripen
       1 griper
-      1 grödorna
-      1 grönbena
-      1 grönsaker
+      1 grlade
+      1 grlet
+      1 grnbena
+      1 grnsaker
       1 grott
       1 grova
-      1 grundidén
-      1 grundläggande
+      1 grten
+      1 grundidn
+      1 grundlggande
       1 grundskolan
+      1 grv
+      1 grva
+      1 grver
       1 grym
+      1 gst
+      1 gster
+      1 gsttalare
       1 guds
       1 guide
-      1 guideböckerna
+      1 guidebckerna
       1 guldgruva
       1 gulle
       1 gulligare
       1 gulligaste
       1 gulligt
       1 gungig
+      1 gvle
       1 gyllne
       1 gymnasieexamen
       1 hack
-      1 häcken
-      1 häftig
-      1 häftigt
-      1 häl
-      1 halvår
+      1 halvr
       1 hamna
       1 hamnade
       1 hamnar
-      1 hämnas
-      1 hämtade
       1 handbojor
       1 handelscentret
-      1 händerna
-      1 händighet
       1 handkassa
       1 handlingen
-      1 handmålar
-      1 häng
-      1 hängivelse
-      1 hängivenhet
-      1 hänglåset
+      1 handmlar
       1 hantera
       1 hantverkaren
-      1 häpnad
       1 hare
       1 harklar
       1 harmonisk
-      1 häromkring
-      1 hästkapplöpningar
       1 havet
+      1 hcken
       1 hebreiska
       1 hejare
       1 hejsan
@@ -852,6 +825,7 @@
       1 helsida
       1 helvetes
       1 helvetet
+      1 helvetets
       1 hemfalla
       1 hemklassrum
       1 hemliga
@@ -861,70 +835,85 @@
       1 hemresa
       1 hemsidan
       1 herre
+      1 herren
       1 hertiginnan
+      1 herzl
       1 heta
       1 hetare
       1 hetaste
       1 hetsa
-      1 hette
+      1 hftig
+      1 hftproblem
+      1 hgsta
+      1 hgt
+      1 hgtalare
       1 himlen
       1 himmelriket
       1 hindrar
       1 hiphop
       1 hissar
-      1 historia
       1 historien
-      1 hitåt
+      1 hitt
       1 hittad
-      1 hjälpas
-      1 hjälte
+      1 hjer
+      1 hjlpas
+      1 hjlte
       1 hjulen
-      1 höftproblem
-      1 högsta
-      1 högt
-      1 högtalare
-      1 höjer
+      1 hl
+      1 hmnas
+      1 hmtade
+      1 hnderna
+      1 hndighet
+      1 hng
+      1 hngivelse
+      1 hngivenhet
+      1 hnglset
       1 hollywood
       1 hopp
       1 hoppade
       1 hoppades
-      1 hopplös
+      1 hoppls
       1 hora
-      1 hörda
-      1 hörn
-      1 hörs
       1 hot
       1 hota
       1 hotellchefen
+      1 hpnad
+      1 hrda
+      1 hrn
+      1 hromkring
+      1 hrs
+      1 hstkapplpningar
       1 huden
-      1 hudkräm
-      1 hungersäsong
+      1 hudkrm
+      1 hungerssong
       1 hurrannsakan
       1 hursomhelst
-      1 hushållerska
-      1 hushållssoporna
-      1 hustru
-      1 huvudaktieägare
+      1 husflugor
+      1 hushllerska
+      1 hushllssoporna
+      1 huvudaktiegare
       1 huvuden
       1 huvudet
       1 hybridbil
       1 hyfsat
       1 hyllan
-      1 hyran
+      1 hyr
       1 hyst
       1 idealisk
       1 ideellt
-      1 idén
       1 identifiera
       1 identifierat
       1 identiska
-      1 idiotsäkra
+      1 idiotskra
+      1 idn
       1 ifall
+      1 igonfallande
       1 ikapp
-      1 illamående
+      1 illamende
       1 illegal
       1 illusion
       1 imponerad
+      1 imponerande
       1 importerad
       1 inblandning
       1 inbringa
@@ -938,19 +927,19 @@
       1 indragen
       1 inflytande
       1 informerat
-      1 införstådda
-      1 ingången
-      1 ingår
-      1 ingenjör
+      1 infrstdda
+      1 ingenjr
+      1 ingngen
+      1 ingr
       1 initialer
       1 inkluderar
       1 inkomsten
       1 inleda
       1 innebar
-      1 innebörden
+      1 innebrden
       1 innefattar
-      1 innehåller
       1 innehar
+      1 innehller
       1 innovativ
       1 inrett
       1 insats
@@ -975,84 +964,76 @@
       1 invasionen
       1 invigdes
       1 involverar
-      1 iögonfallande
-      1 isär
       1 isolerade
       1 isolerar
       1 isolerat
-      1 istället
+      1 isr
+      1 israel
       1 istanbul
-      1 iväg
+      1 istllet
+      1 ivg
       1 jacka
       1 jackan
       1 jagad
-      1 jajamän
-      1 jämför
-      1 jämföra
-      1 järnet
-      1 järnvägsräls
-      1 jaså
-      1 jättefin
-      1 jätteroboten
-      1 jättesöt
-      1 jäveln
-      1 jävlar
-      1 jävlig
+      1 jajamn
+      1 jas
       1 jeans
+      1 jeffrey
       1 jennifer
+      1 jmfr
+      1 jmfra
+      1 jmfrt
       1 jobbade
       1 jogga
-      1 johan
       1 johans
       1 johns
-      1 jordbävning
       1 jordbruk
       1 jordbruksministeriet
-      1 jordnöt
+      1 jordbvning
+      1 jordnt
+      1 jrnet
+      1 jrnvgarna
+      1 jrnvgsrls
+      1 jttefin
+      1 jtteroboten
+      1 jttest
       1 jubla
       1 judiskt
       1 julafton
       1 julljus
-      1 julstämningen
+      1 julstmningen
       1 jurist
+      1 jvel
+      1 jveln
+      1 jvlas
+      1 jvlig
       1 kablage
       1 kackerlackor
-      1 kaféet
-      1 käft
-      1 käka
+      1 kafet
       1 kakelexpert
       1 kallare
-      1 källaren
-      1 kallas
-      1 källor
       1 kalorier
       1 kameran
-      1 kämpar
       1 kampfiskmat
       1 kanada
-      1 kända
-      1 kändisar
-      1 kännas
-      1 känsla
       1 kanten
       1 kaos
       1 kapital
-      1 karaktärisering
+      1 karaktrisering
       1 karaoke
       1 karlakarl
-      1 kärnreläet
-      1 kärnvapen
-      1 karriärsvalet
+      1 karrirsvalet
       1 kartan
       1 kasern
       1 kassa
-      1 kassaskåpet
+      1 kassaskpet
       1 kassavana
       1 kassetten
       1 kastade
       1 kastar
+      1 katarina
       1 katastrofalt
-      1 katastrofhjälp
+      1 katastrofhjlp
       1 kateder
       1 katolska
       1 katrine
@@ -1062,20 +1043,21 @@
       1 kavla
       1 kavlar
       1 kedjade
+      1 kedjor
       1 kent
+      1 kft
       1 kidnappad
       1 kidnappade
       1 kidnappat
-      1 killarna
       1 kilo
       1 kimberlit
+      1 kines
       1 kirurgisk
       1 kissa
       1 kissade
       1 kissen
-      1 klädde
-      1 kläderna
-      1 klämmer
+      1 kk
+      1 kka
       1 klandra
       1 klanta
       1 klantade
@@ -1085,8 +1067,9 @@
       1 klappat
       1 klarsignal
       1 klassen
-      1 klättra
-      1 klättrar
+      1 kldd
+      1 kldde
+      1 klderna
       1 klen
       1 klientelet
       1 klienters
@@ -1095,25 +1078,31 @@
       1 klinik
       1 klippte
       1 kliver
+      1 kllaren
+      1 kllor
+      1 klmmer
       1 klocktornet
       1 klok
+      1 klttra
+      1 klttrar
       1 klubbarna
       1 kluven
       1 klyschorna
       1 km
-      1 knä
-      1 knäna
-      1 knäpper
-      1 knäpphet
+      1 kmpar
       1 knapptryckning
+      1 knda
+      1 kndisar
       1 knep
+      1 knnas
+      1 knpper
+      1 knpphet
+      1 knsla
+      1 knslig
       1 knuffa
       1 knuffat
-      1 köer
-      1 kök
       1 kokain
       1 kokar
-      1 koll
       1 kollapsar
       1 kollat
       1 kommersiell
@@ -1121,18 +1110,19 @@
       1 kompisar
       1 komplex
       1 kon
-      1 kön
       1 koncentriska
       1 konceptet
       1 kondensatorn
       1 konfigurerat
+      1 konflikten
       1 konfronterar
       1 konkret
       1 konkurrenten
       1 konkurrenterna
       1 konkurrerande
+      1 konkurs
       1 konstaplar
-      1 konstnär
+      1 konstnr
       1 konstruerade
       1 konstruktioner
       1 kontoret
@@ -1140,37 +1130,37 @@
       1 kontrollera
       1 kontrollerat
       1 konverterar
-      1 köp
       1 kopp
       1 kopplar
-      1 körde
       1 korkade
       1 korkat
-      1 körkonserten
       1 korrupta
       1 kors
       1 korsbalkarna
-      1 korsfästelsen
+      1 korsfstelsen
       1 kortens
       1 kortsiktiga
       1 kortspel
       1 korvkungen
       1 kos
       1 kostym
-      1 köttätare
+      1 kp
       1 kraftfull
       1 kraftigt
       1 kramar
       1 kranen
-      1 kränkande
-      1 kräva
-      1 kräver
+      1 krde
       1 krig
+      1 kriget
       1 kriminellt
       1 kring
       1 kristallen
       1 kristian
       1 kristus
+      1 krkonserten
+      1 krnkande
+      1 krnrelet
+      1 krnvapen
       1 krockar
       1 kropp
       1 kroppar
@@ -1178,56 +1168,54 @@
       1 krossade
       1 krossar
       1 krossat
+      1 krva
+      1 krver
+      1 kryllar
       1 kryptiskt
+      1 kt
+      1 ktenskapet
+      1 ktttare
       1 kuddar
       1 kungligt
       1 kusiner
+      1 kval
       1 kvalitet
-      1 kvällar
-      1 kvällarna
-      1 kvävas
+      1 kvart
       1 kvavt
-      1 kylskåp
-      1 kylskåpspengarna
+      1 kvllar
+      1 kvllarna
+      1 kvvas
+      1 kylskp
+      1 kylskpspengarna
       1 kymigt
       1 kyrkan
       1 labbet
       1 labyrint
       1 labyrinten
       1 labyrinter
-      1 lådan
       1 laddar
       1 lades
       1 ladin
       1 lagen
-      1 lågor
+      1 lager
       1 lagret
-      1 lågt
-      1 lågvatten
-      1 lammkött
+      1 lammktt
       1 lampa
       1 lamporna
       1 lana
       1 landar
-      1 länder
       1 landningen
-      1 längesen
-      1 långsamt
-      1 längst
-      1 längsta
       1 lantbrukarna
       1 laptop
-      1 läroböcker
       1 lars
       1 larva
-      1 låsa
-      1 läsåret
-      1 läst
       1 lastbilar
       1 lat
-      1 låten
-      1 lättade
-      1 läxan
+      1 lataste
+      1 ldjveln
+      1 ldre
+      1 ldringshem
+      1 lebowskis
       1 ledande
       1 ledare
       1 leder
@@ -1235,7 +1223,7 @@
       1 ledning
       1 ledningar
       1 ledningarna
-      1 ledtråd
+      1 ledtrd
       1 leende
       1 legendariska
       1 leker
@@ -1249,6 +1237,11 @@
       1 letade
       1 leve
       1 levt
+      1 lgn
+      1 lgner
+      1 lgor
+      1 lgt
+      1 lgvatten
       1 licens
       1 lidande
       1 likadant
@@ -1260,96 +1253,86 @@
       1 linjerna
       1 litat
       1 litegrann
+      1 ljlig
       1 ljud
       1 ljudet
       1 ljuger
       1 ljusa
       1 ljuset
       1 ljussken
+      1 ln
+      1 lnder
+      1 lngesen
+      1 lngsamt
+      1 lngst
+      1 lngsta
       1 locka
       1 lodisar
       1 lodisen
       1 log
       1 loggar
-      1 lögn
-      1 lögner
       1 lojalitet
-      1 löjlig
       1 lokale
       1 lokaler
-      1 löpsedeln
-      1 los
-      1 lös
-      1 löshåret
       1 lossnade
-      1 löst
       1 lotto
       1 lovat
+      1 lpsedeln
+      1 lrobcker
+      1 ls
+      1 lshret
+      1 lsret
+      1 lten
+      1 lttade
       1 luckra
       1 ludvigs
-      1 lugn
+      1 lugnare
+      1 lule
+      1 lurad
       1 lust
+      1 lvsbyn
+      1 lxan
       1 lyckades
       1 lyckliga
       1 lyrisk
       1 lysande
-      1 må
+      1 m
       1 macka
       1 macken
       1 mackorna
-      1 mådde
       1 mage
       1 magen
       1 magister
-      1 magnetfältet
-      1 majoritetsdelägare
+      1 magnetfltet
+      1 majoritetsdelgare
       1 make
       1 makens
-      1 mäklaren
       1 makten
-      1 mål
-      1 målgrupp
-      1 målträningen
       1 mammas
-      1 månaden
-      1 månadens
       1 manligheten
-      1 människan
-      1 människans
-      1 människorna
-      1 manövrera
       1 mans
-      1 mänsklighetens
-      1 mardröm
-      1 mardrömmar
+      1 manvrera
+      1 mardrm
+      1 mardrmmar
       1 marijuana
-      1 märker
-      1 märkligt
-      1 marknadsför
-      1 marknadsföringsfilm
+      1 marknadsfr
+      1 marknadsfringsfilm
       1 marknadspriset
-      1 märkt
-      1 märkte
       1 marscherar
-      1 mås
-      1 måsar
-      1 måsen
-      1 måsjävel
-      1 maskingeväret
+      1 maskingevret
       1 maskinmaterial
       1 massagen
       1 massiva
-      1 mästare
-      1 mataffären
+      1 mataffren
       1 matchade
       1 matchar
       1 matkrisen
       1 mats
       1 matsmula
-      1 mått
-      1 mätt
-      1 mattan
+      1 mattjveln
       1 mcdonalds
+      1 mdde
+      1 mdrar
       1 meddela
       1 meddelanden
       1 meddelar
@@ -1359,25 +1342,25 @@
       1 medicinering
       1 medlidande
       1 medvetande
-      1 medvindgeneratorn
       1 mejsla
       1 mel
-      1 mellanhänderna
+      1 mellanhnderna
       1 melodramatisk
       1 mening
       1 meningen
-      1 meningslös
+      1 meningsls
       1 mentalt
       1 menyn
       1 mes
-      1 mesta
       1 metallbitar
       1 metallbitarna
       1 metallcylindern
-      1 migrän
+      1 migrn
       1 mikrodos
       1 mikrodoser
       1 mikrofonen
+      1 miljonr
+      1 miljonren
       1 miljontals
       1 milt
       1 miner
@@ -1387,50 +1370,67 @@
       1 minnena
       1 minner
       1 minsann
-      1 minuter
+      1 minskat
       1 minuters
       1 missat
-      1 missbedömde
-      1 missfärgar
+      1 missbedmde
+      1 missfrgar
       1 misslyckades
       1 mista
       1 mitten
       1 mitzvahn
-      1 mjölk
-      1 mjölkchoklad
+      1 mjliga
+      1 mjligheten
+      1 mjligheterna
+      1 mjlk
+      1 mjlkchoklad
       1 mjukisbyxor
+      1 mklaren
+      1 ml
+      1 mlgrupp
+      1 mltrningen
+      1 mnaden
+      1 mnadens
+      1 mnniskan
+      1 mnniskans
+      1 mnniskorna
+      1 mnsklighetens
       1 mobilerna
       1 mockakofta
       1 modiga
       1 mognade
-      1 möjliga
-      1 möjligheten
-      1 möjligheterna
       1 moln
       1 monster
       1 moral
       1 moralens
       1 moralisk
       1 moraliskt
-      1 mördar
-      1 mördare
-      1 mördaren
       1 morgonen
       1 morgonkaffe
       1 morgonrock
       1 morgonsamlingen
-      1 mörk
-      1 mörka
       1 mors
       1 mosade
-      1 mössan
-      1 möten
       1 motion
       1 motiv
+      1 motor
       1 motorcykelkort
-      1 motorsom
       1 motsatsen
-      1 motstånd
+      1 motstnd
+      1 mrdar
+      1 mrdare
+      1 mrdaren
+      1 mrka
+      1 mrker
+      1 mrkligt
+      1 mrkte
+      1 ms
+      1 msar
+      1 msen
+      1 msjvel
+      1 mssan
+      1 mstare
+      1 mten
       1 multiplicera
       1 mun
       1 munnen
@@ -1440,135 +1440,139 @@
       1 muskler
       1 musklerna
       1 mygglarver
-      1 nacken
-      1 nådde
+      1 myror
       1 nagel
       1 naglar
-      1 någotom
-      1 nämen
-      1 nämligen
-      1 nämna
-      1 nånting
-      1 når
-      1 närhelst
-      1 närliggande
-      1 närmar
-      1 närmare
-      1 närmaste
-      1 närvara
-      1 nätet
+      1 nancy
       1 nationalgardet
       1 natt
-      1 nått
       1 natten
-      1 nätter
+      1 naturen
       1 naturkunskap
       1 naturkunskapen
-      1 nda
-      1 ndrade
-      1 nervös
+      1 ndbistnd
+      1 ndde
+      1 nde
+      1 ndlager
+      1 ndlsa
+      1 ndra
+      1 ndrar
+      1 ndrat
+      1 ndvndig
+      1 ndvndigtvis
+      1 nervs
       1 nervsystem
-      1 neutraliseringssättet
+      1 neutraliseringssttet
       1 nger
+      1 ngerfullt
+      1 nglar
+      1 nglarnas
+      1 ngotom
+      1 ngrat
+      1 nihilist
       1 nionde
       1 nischbransch
-      1 nivåer
+      1 nittio
+      1 niver
       1 nja
-      1 nödbistånd
-      1 nödlager
-      1 nödvändig
-      1 nödvändigtvis
-      1 nöjet
-      1 noll
+      1 njet
+      1 nmen
+      1 nmligen
+      1 nmna
+      1 nnting
+      1 nolla
       1 normal
       1 normala
       1 normalt
       1 norpa
-      1 norr
+      1 norrbottens
+      1 norrbottningar
+      1 norrland
       1 norrut
       1 notan
       1 noterat
       1 november
-      1 nskar
-      1 ntligen
-      1 nuförtiden
-      1 numerärt
+      1 nrhelst
+      1 nrliggande
+      1 nrmar
+      1 nrmare
+      1 nrmaste
+      1 nrvara
+      1 nska
+      1 ntet
+      1 ntt
+      1 ntter
+      1 nufrtiden
+      1 numerrt
       1 nutiden
       1 nyckelfaktor
       1 nycklar
+      1 nyfdd
       1 nyfiken
-      1 nyfödd
       1 nyfunnen
       1 nyhet
       1 nyheten
       1 nyhetsankarets
-      1 nyhetsinläggen
+      1 nyhetsinlggen
       1 nyligen
       1 nys
       1 nyttigt
-      1 oändligt
       1 oavsett
-      1 obemärkt
+      1 obemrkt
       1 obetald
       1 obetalda
       1 obevakad
       1 objektivt
+      1 ockupera
       1 oddsen
-      1 ödet
       1 odla
+      1 odugliga
       1 oemottagliga
       1 offret
-      1 oförskämt
+      1 ofrskmt
       1 oftast
-      1 öga
-      1 ogenerös
-      1 ögonen
+      1 ogeners
+      1 ogiltigt
       1 ohyfsade
-      1 öka
       1 okarakteristiskt
       1 oklart
+      1 okontrollerat
       1 oktoberhyran
-      1 öl
-      1 olämpliga
       1 olikt
       1 oljud
+      1 olmpliga
       1 omarkerade
       1 ombytlighet
       1 omger
       1 omgivningen
+      1 omjlig
+      1 omjligt
       1 omogen
       1 omogna
-      1 omöjlig
-      1 omöjligt
-      1 områden
-      1 områdets
+      1 omrden
+      1 omrdets
       1 omrigga
       1 omvandlande
-      1 önska
-      1 önskar
+      1 ondligt
       1 onyttigt
-      1 oöverstigligt
       1 opassande
       1 operationen
       1 operera
       1 opereras
       1 opererats
-      1 öppnade
-      1 öppnas
       1 opportunist
-      1 orättvist
       1 ordbok
-      1 ordinär
+      1 ordinr
       1 ordning
       1 organisk
       1 orkade
       1 oroande
       1 oroat
       1 oroliga
-      1 öron
       1 orsakat
-      1 osäker
-      1 oskadliggöra
+      1 orttvist
+      1 oskadliggra
+      1 osker
       1 oskulden
       1 osmaklig
       1 osmakligt
@@ -1578,51 +1582,29 @@
       1 otrolig
       1 otur
       1 otydliga
-      1 outhärdligt
-      1 övade
-      1 ovälkommet
-      1 ovanför
+      1 outhrdligt
+      1 ovanfr
       1 ovanliga
-      1 ovänner
-      1 oväsen
-      1 överdoser
-      1 överdoserat
-      1 överför
-      1 överförs
-      1 överlåter
-      1 överlevde
-      1 överlever
-      1 överlevnad
-      1 övermorgon
-      1 överraskade
-      1 överraskning
-      1 överskattad
-      1 överskattade
-      1 överstökat
-      1 övertaget
-      1 övertalande
-      1 övertygande
-      1 överväga
-      1 övervakningskamerorna
-      1 övervåningen
-      1 övervärderar
+      1 overstigligt
       1 ovetande
       1 ovidkommande
       1 ovisshet
-      1 övning
-      1 oxkärra
+      1 ovlkommet
+      1 ovnner
+      1 ovsen
+      1 oxkrra
+      1 pacifister
       1 pack
       1 packar
-      1 påfyllning
       1 paintball
       1 paket
-      1 påmind
       1 pang
+      1 pannan
       1 pansarvagnen
-      1 pantlånare
+      1 pantlnare
       1 pappan
       1 papper
-      1 papperssäljare
+      1 papperssljare
       1 pappsen
       1 paradigm
       1 parallella
@@ -1633,18 +1615,14 @@
       1 parti
       1 partier
       1 partner
-      1 påsar
       1 passerar
-      1 påstå
-      1 påstås
-      1 påtänd
       1 patient
       1 patienter
       1 pausen
-      1 påverka
       1 pedalen
       1 peka
-      1 pengakåt
+      1 pengakt
+      1 pensionat
       1 peppa
       1 perioder
       1 personalen
@@ -1652,7 +1630,7 @@
       1 personlighet
       1 perugia
       1 petat
-      1 piano
+      1 pfyllning
       1 piercing
       1 piller
       1 pillren
@@ -1660,22 +1638,25 @@
       1 pink
       1 pinsamt
       1 pirrar
-      1 pjåkigt
+      1 pissa
+      1 pite
+      1 pjkigt
       1 pladask
       1 planerna
       1 planeter
       1 planetomvandlaren
-      1 planläggning
       1 planlagt
+      1 planlggning
       1 planterar
-      1 platsen
       1 platser
       1 platta
       1 plikt
       1 ploppa
-      1 plötsliga
+      1 plten
+      1 pltsliga
       1 pluggade
       1 plural
+      1 pmind
       1 pojkar
       1 pojkarna
       1 polare
@@ -1689,14 +1670,15 @@
       1 potential
       1 potter
       1 poul
+      1 ppnade
+      1 ppnas
       1 pracka
-      1 präst
-      1 präster
       1 prat
       1 pratat
       1 precisa
       1 precision
       1 presenter
+      1 presidenthustru
       1 press
       1 processen
       1 proffsboxare
@@ -1706,9 +1688,14 @@
       1 prostitution
       1 protein
       1 prov
-      1 pröva
+      1 prst
+      1 prster
       1 pruttat
+      1 prva
       1 prydnadssaker
+      1 psar
+      1 pst
+      1 psts
       1 psykedeliska
       1 psykiater
       1 psykiska
@@ -1716,48 +1703,44 @@
       1 psykopat
       1 psykopaten
       1 psykos
+      1 ptnd
       1 publicitetsbomb
       1 pund
-      1 räck
-      1 räcka
-      1 räckt
+      1 pverka
+      1 ra
       1 rad
-      1 rådande
-      1 räddade
-      1 räddare
-      1 räddat
-      1 räddningstjänsten
-      1 råder
       1 radioaktiva
       1 radion
-      1 råkade
       1 rambo
       1 ramla
-      1 rånad
-      1 rånat
-      1 rånet
       1 rank
       1 rap
       1 rappa
+      1 rapporten
       1 rapporter
-      1 rastgården
+      1 rastgrden
       1 ratten
-      1 rättfärdiga
       1 rattfull
-      1 rättmätiga
-      1 rättmätige
-      1 rättvisans
-      1 rättvist
+      1 rck
+      1 rcka
+      1 rckt
+      1 rda
+      1 rdande
+      1 rddade
+      1 rddare
+      1 rddat
+      1 rddningstjnsten
+      1 rder
+      1 rdhrige
+      1 reagan
       1 reagerade
       1 receptionen
-      1 redogörelse
+      1 redogrelse
       1 reflexer
       1 reformationen
       1 regering
       1 regeringens
       1 regerings
-      1 regler
-      1 reglerna
       1 reklamkampanj
       1 rekord
       1 rektor
@@ -1768,7 +1751,7 @@
       1 replik
       1 representant
       1 repressalier
-      1 resebyrålicens
+      1 resebyrlicens
       1 reserverad
       1 reservplan
       1 reservsystem
@@ -1783,57 +1766,69 @@
       1 resurser
       1 reta
       1 revir
+      1 revolution
       1 rida
       1 ridlektion
+      1 rikets
       1 riktat
       1 riktiga
       1 riktige
       1 ringarna
+      1 ringen
       1 ringtonen
       1 risigt
       1 risken
       1 riskerar
       1 riva
+      1 rjttefint
+      1 rk
+      1 rkade
+      1 rken
+      1 rker
+      1 rkning
+      1 rliga
+      1 rligaste
+      1 rn
+      1 rnad
+      1 rnat
+      1 rnet
       1 roa
       1 roboten
       1 robotexperter
-      1 robotingenjörer
+      1 robotingenjrer
       1 robotstyrning
-      1 röda
-      1 rödhårige
-      1 rök
-      1 röken
-      1 röker
+      1 rofyllt
       1 roligare
+      1 ron
       1 ropats
-      1 röstar
-      1 rösten
       1 rovdjuret
-      1 rövhålen
+      1 rrelsehindrad
+      1 rskurs
+      1 rstar
+      1 rsten
+      1 rtiondena
+      1 rttfrdiga
+      1 rttighet
+      1 rttmtiga
+      1 rttmtige
+      1 rttvisans
+      1 rttvist
+      1 rumsren
       1 ruttnande
       1 ruttnar
+      1 rvhlen
       1 ryckas
       1 rykten
       1 rymma
       1 rymt
       1 ryssen
       1 sabbar
-      1 säckar
-      1 sådan
+      1 saddam
       1 sade
-      1 sågade
-      1 sågen
-      1 såhär
-      1 säkerhet
-      1 säkerhetsfirman
-      1 säkerhetsvakten
-      1 säkerhetsvakter
       1 sakerna
       1 sakna
       1 saknad
       1 saknas
-      1 säkrad
-      1 sällskap
       1 saltar
       1 samarbeta
       1 samarbete
@@ -1842,31 +1837,22 @@
       1 sammankopplade
       1 samtal
       1 samvete
-      1 säng
-      1 sångaren
-      1 sången
-      1 sängen
-      1 sänka
-      1 sänker
       1 sanning
       1 sara
-      1 såra
-      1 sårade
-      1 sårande
-      1 sårar
-      1 särskild
       1 satmaran
       1 satsar
       1 satsat
-      1 såvitt
       1 schema
       1 schimpanser
       1 schysst
       1 schyssta
+      1 sckar
+      1 sdan
+      1 sder
       1 sedlar
       1 seg
       1 seger
-      1 sekatör
+      1 sekatr
       1 sekvens
       1 sekvensens
       1 selfie
@@ -1874,30 +1860,35 @@
       1 seminarium
       1 sena
       1 serietidning
-      1 seriös
-      1 servitören
+      1 seris
+      1 servitren
       1 setts
       1 severin
       1 sextio
-      1 sextiotvå
+      1 sextiotv
+      1 sgade
+      1 sgen
       1 shoppa
       1 shorts
+      1 shr
+      1 sido
       1 siffran
       1 siffror
       1 signalen
       1 signalerna
+      1 sikt
       1 singel
       1 singelmamma
       1 sinnessjukt
       1 sinom
       1 sist
       1 sits
-      1 själar
-      1 själen
-      1 självbelåten
-      1 självmedicinering
-      1 självmordet
-      1 sjättedel
+      1 sjlar
+      1 sjlen
+      1 sjlvbelten
+      1 sjlvmedicinering
+      1 sjlvmordet
+      1 sjttedel
       1 sjuka
       1 sjukare
       1 sjukdom
@@ -1906,26 +1897,23 @@
       1 skada
       1 skadad
       1 skadade
-      1 skådespelartalang
-      1 skäl
-      1 skålar
+      1 skadestnd
       1 skalet
-      1 skälla
       1 skamligt
-      1 skämmas
       1 skandal
       1 skannade
-      1 skåp
       1 skapad
       1 skapat
-      1 skåpet
-      1 skär
-      1 skärm
       1 skattebrott
       1 skatten
       1 skatter
+      1 skdespelartalang
       1 ske
       1 skelettet
+      1 skerhet
+      1 skerhetsfirman
+      1 skerhetsvakten
+      1 skerhetsvakter
       1 skett
       1 skick
       1 skickades
@@ -1935,49 +1923,57 @@
       1 skilde
       1 skilja
       1 skillnaden
-      1 skilsmässa
+      1 skilsmssa
       1 skippar
       1 skitbra
-      1 skitdåligt
-      1 skitföretag
-      1 skithålet
+      1 skitdligt
+      1 skitfretag
+      1 skithlet
       1 skitlag
       1 skitmycket
-      1 skiträdd
+      1 skitrdd
       1 skitsamma
-      1 skitsnack
-      1 skitstövel
-      1 skitväska
+      1 skitvska
       1 skiva
+      1 skjut
+      1 sklar
+      1 skldsystemet
+      1 sklla
+      1 skmmas
+      1 sknhet
+      1 sknt
       1 skoja
       1 skolavgift
       1 skolavgiften
       1 skoldag
       1 skoldagarna
       1 skoldistriktet
-      1 sköldsystemet
-      1 skolgång
-      1 skönhet
-      1 skönt
-      1 skor
+      1 skolgng
       1 skott
       1 skottlossning
-      1 skräckfilmer
-      1 skrämmas
-      1 skrämmer
+      1 skp
+      1 skpet
+      1 skr
+      1 skrad
+      1 skrckfilmer
       1 skrev
       1 skrik
       1 skrika
       1 skriker
-      1 skriv
       1 skriva
       1 skrivbord
-      1 skrothögen
+      1 skrm
+      1 skrmmas
+      1 skrmmer
+      1 skrothg
+      1 skrothgen
       1 skrotupplaget
+      1 skrrad
       1 skruva
       1 skruvar
       1 skruvat
-      1 skulden
+      1 skruven
+      1 skte
       1 skurk
       1 skurkarna
       1 skurken
@@ -1987,40 +1983,38 @@
       1 skydd
       1 skyddar
       1 skyddas
-      1 slagfärdighet
+      1 slagfrdighet
       1 slagit
       1 slags
-      1 slagsmål
-      1 släkt
+      1 slagsml
       1 slaktade
-      1 släkten
-      1 släktingarna
       1 slant
-      1 släpat
-      1 släpp
       1 slashasarna
       1 slav
+      1 sldder
       1 slet
       1 slippa
       1 slipper
+      1 slkt
+      1 slkten
+      1 slktingarna
+      1 sllskap
+      1 slpat
+      1 slpp
+      1 slseri
       1 slump
-      1 slumpmässigt
-      1 slutföra
+      1 slumpmssigt
+      1 slutfra
       1 slutresultatet
-      1 slutsålt
-      1 småbitar
+      1 slutslt
       1 smak
       1 smakar
-      1 smaklös
+      1 smakls
       1 small
-      1 smällde
-      1 smälter
-      1 smältugnen
-      1 småpengar
-      1 smärre
       1 smarta
-      1 smärta
+      1 smbitar
       1 smet
+      1 smg
       1 smid
       1 smidigare
       1 smidigt
@@ -2028,15 +2022,22 @@
       1 sminkas
       1 sminket
       1 sminkningen
-      1 smög
+      1 smllde
+      1 smlter
+      1 smltugnen
+      1 smmarna
+      1 smn
       1 smoothies
-      1 smör
-      1 smörgås
-      1 smörja
+      1 smpengar
+      1 smr
+      1 smrgs
+      1 smrja
+      1 smrre
+      1 smrta
       1 smsar
       1 smset
       1 smugit
-      1 smygläge
+      1 smyglge
       1 snabba
       1 snabbare
       1 snabbast
@@ -2045,28 +2046,27 @@
       1 snackar
       1 snappade
       1 snarare
+      1 snderbrnd
+      1 sng
+      1 sngaren
+      1 snka
+      1 snker
       1 snortat
       1 snorungar
       1 snott
       1 snusk
       1 snygg
       1 snyggare
+      1 snyggt
       1 social
       1 socialekonomisk
       1 sodiumintag
-      1 söka
-      1 söker
-      1 sökt
-      1 sökte
       1 soldater
       1 solen
       1 solsken
-      1 solstrålen
+      1 solstrlen
       1 somliga
       1 sommar
-      1 sömmarna
-      1 sömn
-      1 sönderbränd
       1 soptunnorna
       1 sort
       1 sortera
@@ -2074,142 +2074,149 @@
       1 sovrummen
       1 spackel
       1 spanar
-      1 spannmål
-      1 spannmålså
       1 spanskaklass
-      1 spår
+      1 spar
       1 spara
       1 sparade
       1 sparras
-      1 spårvagn
-      1 specialbeställda
+      1 specialbestllda
       1 speciell
       1 speciellt
       1 spelade
       1 spelare
-      1 spelkväll
-      1 spöar
-      1 spöke
+      1 spelkvll
+      1 spke
+      1 spontan
       1 sportbilen
-      1 språk
+      1 spr
       1 sprang
-      1 sprängämnena
-      1 sprängas
-      1 sprängda
-      1 spränger
-      1 sprängts
       1 sprejat
       1 sprider
       1 springer
+      1 sprk
+      1 sprngas
+      1 sprngda
+      1 sprnger
+      1 sprngmnena
+      1 sprngts
+      1 sprvagn
       1 spydde
+      1 sra
+      1 srade
+      1 srande
+      1 srar
+      1 srskild
       1 stabil
       1 stabiliserad
       1 stabilitet
       1 stackare
       1 stackars
-      1 städa
-      1 städade
+      1 stad
       1 stadens
-      1 städerska
       1 stadscykel
       1 stake
       1 staken
       1 staket
       1 stal
-      1 stål
-      1 ställ
-      1 ställa
-      1 ställen
-      1 ställena
-      1 ställt
       1 stals
-      1 stämda
-      1 stämma
-      1 stånd
-      1 stäng
-      1 stängas
-      1 stängd
-      1 stängde
-      1 stänger
       1 starka
       1 starkare
       1 starkt
       1 startade
       1 startkatapulten
-      1 staten
       1 station
+      1 statistik
+      1 statistiska
       1 statlig
       1 statshemligheter
-      1 stått
       1 stblockets
-      1 stege
+      1 stda
+      1 stdade
+      1 stderska
       1 steget
       1 stekpannor
       1 stekta
       1 stela
       1 stelfrusen
       1 sten
-      1 stenhög
+      1 stenhg
       1 stil
       1 stilig
       1 stinker
       1 stipendium
       1 stirrar
-      1 stjäla
+      1 stjla
+      1 stl
+      1 stld
+      1 stldgods
+      1 stll
+      1 stlla
+      1 stllen
+      1 stllena
+      1 stllt
+      1 stmda
+      1 stmma
+      1 stnd
+      1 stng
+      1 stngas
+      1 stngd
+      1 stngde
+      1 stnger
       1 stockar
+      1 stockholm
+      1 stockholmare
       1 stol
-      1 stöld
-      1 stöldgods
       1 stolt
       1 stopp
       1 stoppas
-      1 stör
-      1 störa
-      1 störda
       1 storebror
       1 storgossen
-      1 störig
-      1 störigt
       1 storm
-      1 stövlarna
+      1 stra
       1 straff
       1 straffa
-      1 strålar
       1 strass
       1 strategi
+      1 strda
       1 streck
       1 strid
       1 striden
-      1 strömbrytare
-      1 struntar
+      1 strig
+      1 strigt
+      1 strlar
+      1 strmbrytare
       1 stryka
+      1 sttt
       1 stulen
       1 stulits
       1 stulna
       1 stunden
       1 stunder
+      1 stvlarna
       1 styr
       1 styrka
       1 styrkan
-      1 styrketräna
+      1 styrketrna
       1 subventionerat
+      1 sundsvall
       1 superladdade
       1 susie
       1 svagheter
-      1 svälter
-      1 svär
       1 svarade
-      1 svarar
       1 svarat
-      1 svärfar
-      1 svärföräldrar
-      1 svårläst
-      1 svärmor
       1 svarta
+      1 svensk
       1 svika
       1 svikit
       1 svit
-      1 sydvästra
+      1 svitt
+      1 svlter
+      1 svr
+      1 svrfar
+      1 svrfrldrar
+      1 svrlst
+      1 svrmor
+      1 sydvstra
       1 syftet
       1 synder
       1 synkroniseringen
@@ -2217,59 +2224,71 @@
       1 syns
       1 syre
       1 syskon
+      1 sysslade
       1 tabletter
       1 tackar
-      1 täcke
       1 tackla
       1 tacksamhet
-      1 tågbana
+      1 taganden
       1 taken
-      1 takvåningen
+      1 takvningen
       1 talare
       1 talaren
       1 talen
+      1 talet
       1 talkonst
       1 tand
       1 taniga
       1 tankar
+      1 tappade
+      1 tappar
       1 tappat
       1 tas
       1 taskigt
-      1 tävling
+      1 tatuera
+      1 tcke
       1 team
       1 teater
       1 teckning
       1 teckningar
       1 teckningen
+      1 tegelbyggnad
       1 tegelstenar
       1 teknikerna
       1 teknologin
       1 telefonen
-      1 telefonkö
+      1 telefonk
       1 telefonsamtal
       1 telegrammet
       1 telegrampojken
       1 teori
-      1 ter
+      1 terf
+      1 terglda
       1 terigen
+      1 terkom
       1 terminsavgiften
       1 terrorister
-      1 tervända
+      1 terskapa
+      1 tervndo
       1 testa
+      1 tgbana
+      1 tgrder
+      1 theodor
       1 ticka
       1 tidens
       1 tidningen
       1 tidslinje
       1 tidsparadox
-      1 tillåta
+      1 tidszonen
       1 tillbringar
-      1 tillfället
-      1 tillfälligt
-      1 tillfångatagit
-      1 tillgång
-      1 tillgängliga
-      1 tillräcklig
+      1 tillfllet
+      1 tillflligt
+      1 tillfngatagit
+      1 tillgng
+      1 tillgngliga
+      1 tillrcklig
       1 tillsagd
+      1 tillta
       1 tillverkare
       1 timing
       1 timmarna
@@ -2277,96 +2296,106 @@
       1 tiotusen
       1 tips
       1 tipsade
+      1 tit
       1 tittade
       1 tittat
-      1 tjäder
-      1 tjänar
-      1 tjänst
-      1 tjänsten
-      1 tjärnen
       1 tjata
+      1 tjder
+      1 tjnar
+      1 tjnst
+      1 tjnsten
+      1 tjrnen
       1 tjugofem
       1 tjura
       1 tjuvarna
       1 tjuven
-      1 tminstone
+      1 tm
+      1 tn
+      1 tntklder
       1 toalett
       1 toalettpapper
       1 toan
       1 tobaksblad
-      1 tobaksgården
+      1 tobaksgrden
       1 tokig
       1 tolerans
       1 tolv
-      1 töm
-      1 tomhänt
+      1 tomhnt
       1 tonen
-      1 töntkläder
       1 toppen
       1 toppendag
       1 torkar
       1 torrperiod
       1 torrperioden
-      1 trädet
+      1 tr
       1 traditionen
-      1 träff
       1 trafik
-      1 tråkig
+      1 trakten
       1 trampar
-      1 tränar
       1 trappan
       1 trapphuset
-      1 träskpojken
-      1 trestjärnigt
+      1 trdet
+      1 trestjrnigt
       1 trevlig
+      1 trevliga
+      1 trff
+      1 trg
       1 trick
       1 trivs
+      1 trjan
+      1 trkig
+      1 trnar
       1 troddes
-      1 trög
       1 trohet
-      1 tröjan
       1 trott
+      1 trskpojken
       1 trubbel
       1 trubbigt
       1 trycka
       1 trygg
       1 tryggast
       1 trygghetszon
+      1 ttahundra
+      1 ttaring
       1 tuban
       1 tuffa
       1 tufft
       1 tungan
       1 tunna
       1 tunnel
-      1 tunnhårig
+      1 tunnhrig
       1 tunnlar
-      1 tv
-      1 tvångsinläggas
-      1 tvärnitar
-      1 tvätta
-      1 tvättrummet
+      1 turnering
       1 tvekar
       1 tvillingbror
       1 tvingade
       1 tvingar
       1 tvivlar
+      1 tvling
       1 tvn
+      1 tvngsinlggas
+      1 tvrnitar
+      1 tvtta
+      1 tvttrummet
       1 tycka
       1 tyckt
       1 tydlig
       1 tytt
       1 underbara
-      1 underhållet
-      1 underläge
+      1 underbyxor
+      1 underhllet
+      1 underleverantr
+      1 underlge
       1 underligt
-      1 underrättelser
+      1 underrttelser
+      1 undersker
       1 underskrift
-      1 undersöker
       1 understruket
       1 undvek
       1 undviker
       1 ung
       1 unge
+      1 ungefr
       1 ungens
       1 ungersk
       1 ungerska
@@ -2381,7 +2410,8 @@
       1 uppenbarligen
       1 uppfann
       1 uppfattning
-      1 uppförde
+      1 uppflld
+      1 uppfrde
       1 uppfyllas
       1 uppgift
       1 uppgifterna
@@ -2390,137 +2420,137 @@
       1 uppleva
       1 upplevelse
       1 upplevelsen
-      1 uppmärksamhet
-      1 uppmärksamma
-      1 uppmärksammar
+      1 uppmrksamhet
+      1 uppmrksamma
+      1 uppmrksammar
       1 uppmuntra
-      1 uppnåt
-      1 upprörd
-      1 uppsägningen
+      1 uppnt
+      1 upprrd
       1 uppsatta
+      1 uppsgningen
       1 uppskatta
-      1 uppskrämd
-      1 upptäcka
+      1 uppskattad
+      1 uppskrmd
+      1 upptcka
       1 uppvaknande
-      1 uppväxt
-      1 uråldriga
+      1 uppvxt
       1 urarta
-      1 ursäkter
+      1 urinerade
+      1 urinerar
+      1 urldriga
+      1 ursktar
+      1 urskter
       1 ursprungligen
       1 utblottad
       1 utbudet
       1 utbyggnaden
       1 utbyte
       1 uteslutande
-      1 utföra
+      1 utfra
+      1 utgr
       1 utkastade
       1 utkik
-      1 utländskt
-      1 utlösare
-      1 utmärkt
+      1 utlndskt
+      1 utlsare
+      1 utmrkt
       1 utnyttja
       1 utnyttjar
       1 utnyttjas
       1 utomjordingar
-      1 utöver
-      1 utplånats
-      1 uträtta
+      1 utplnats
       1 utredare
       1 utrotad
+      1 utrtta
       1 utryckningspersonalen
-      1 utstrålning
-      1 uttråkning
+      1 utspelar
+      1 utstrlning
+      1 uttrkning
       1 utvalda
-      1 utvärderingen
       1 utvecklats
+      1 utver
+      1 utvrderingen
       1 vackrare
-      1 väder
-      1 vågade
-      1 vägde
-      1 väger
-      1 vägra
-      1 vägs
-      1 vågspel
+      1 vade
       1 vaka
       1 vakna
+      1 vaknar
       1 vakta
-      1 våld
-      1 väldig
-      1 våldsamma
-      1 våldsamt
-      1 väljer
-      1 välkomna
-      1 välkomstpresenten
       1 vallar
       1 vallarna
-      1 vanärar
-      1 vänd
       1 vandrade
-      1 våningen
-      1 vänj
       1 vanliga
       1 vanligtvis
-      1 väns
-      1 vänskap
-      1 vänskapsband
-      1 vänstra
-      1 vänt
-      1 värde
-      1 värdefullt
-      1 värderade
-      1 värdesaker
-      1 värdet
+      1 vanrar
+      1 vapenvgrare
       1 varhelst
-      1 varken
-      1 värktablett
-      1 värmen
       1 varmluftsballong
       1 varnar
       1 varnat
       1 varorna
-      1 värre
-      1 varsågod
+      1 varsgod
       1 varsin
-      1 värt
       1 varv
-      1 väskor
-      1 västern
-      1 våt
-      1 vätska
       1 vattendunk
       1 vattengrejen
       1 vattenljud
-      1 vattenpöl
+      1 vattenpl
       1 vattenskoter
-      1 växa
-      1 växla
+      1 vder
       1 veckor
-      1 vedervärdigt
+      1 vedervrdigt
       1 vegetarian
-      1 verallt
       1 veranda
-      1 verbefälhavaren
+      1 verbeflhavaren
+      1 verdoser
+      1 verdoserat
       1 verdriv
+      1 verfr
+      1 verfrs
       1 verklig
       1 verkliga
       1 verksam
+      1 verlevde
+      1 verlever
+      1 verlevnad
+      1 verlter
+      1 vermorgon
+      1 verraskade
+      1 verraskning
+      1 verskattad
+      1 verskattade
+      1 verstkat
+      1 vertaget
+      1 vertalande
+      1 vertramp
+      1 vertygande
+      1 vervakningskamerorna
+      1 vervga
+      1 vervningen
+      1 vervrderar
       1 vetenskapsman
       1 vettigt
       1 veva
+      1 vgade
+      1 vgde
+      1 vger
+      1 vgra
+      1 vgs
+      1 vgspel
       1 vidrigt
       1 vidtagit
+      1 vietnam
+      1 vigselring
       1 vikt
-      1 viktig
       1 viktigare
       1 viktigaste
       1 vila
       1 vilar
       1 vilda
+      1 vildmarken
       1 vin
       1 vindgenerator
-      1 vindgeneratorn
       1 vindkraft
-      1 vingård
+      1 vingrd
       1 vinklade
       1 vinner
       1 vinst
@@ -2536,95 +2566,119 @@
       1 visor
       1 viss
       1 vita
+      1 vld
+      1 vldig
+      1 vldsamma
+      1 vldsamt
+      1 vljer
+      1 vlkomna
+      1 vlkomstpresenten
+      1 vnd
+      1 vning
+      1 vningen
+      1 vnj
+      1 vns
+      1 vnskap
+      1 vnskapsband
+      1 vnstra
+      1 vnt
       1 vodka
       1 vodkan
       1 volymen
       1 vor
+      1 vrde
+      1 vrdefullt
+      1 vrderade
+      1 vrdesaker
+      1 vrdet
+      1 vren
       1 vrister
+      1 vrktablett
+      1 vrmen
+      1 vrre
+      1 vskor
+      1 vstern
+      1 vsterut
+      1 vt
+      1 vtska
       1 vunnit
       1 vuxen
-      1 yrkesmässig
+      1 vxa
+      1 vxla
+      1 webbplatsen
+      1 woo
+      1 yrkesmssig
       1 ytterligare
       1 yttersta
       1 yttrandefrihet
-      1 zeeland
       1 zoner
       2 adressen
       2 advokat
-      2 affärsman
-      2 ägare
-      2 ägarna
-      2 äggledare
+      2 affrsman
       2 aggressiva
-      2 ägodelar
       2 aj
       2 akta
-      2 äkta
-      2 åkte
       2 aktivera
       2 aktning
-      2 åldern
       2 alligatorskinn
       2 allra
-      2 älskling
       2 amerika
-      2 ämnet
-      2 ändrade
+      2 anka
       2 anledning
-      2 anmäla
+      2 anmla
       2 annans
       2 annanstans
       2 anser
       2 ansvarig
       2 antennen
-      2 äran
-      2 åratal
-      2 åren
-      2 året
       2 arm
       2 armen
-      2 armén
+      2 armn
       2 auktionshuset
-      2 avbröt
+      2 avbrt
       2 avbryter
       2 avgiften
       2 avgrund
-      2 avlägsna
-      2 avslöja
-      2 bägge
+      2 avlgsna
+      2 avslja
       2 bakgrund
-      2 bakom
       2 bank
       2 barnbarn
-      2 behövde
+      2 bcker
+      2 behvde
       2 ben
       2 beslutat
       2 besparingar
       2 betalade
-      2 beter
       2 bett
       2 bevisa
+      2 bgge
       2 bibliotekskort
+      2 bilden
       2 bin
       2 bio
       2 bjuda
       2 blanda
-      2 blåsa
+      2 blder
       2 blek
-      2 blöder
       2 blundar
-      2 böcker
       2 bokningar
       2 bombgruppen
-      2 bonuslådan
+      2 bonusldan
       2 bordet
       2 borras
       2 bott
-      2 bråttom
-      2 bröllop
+      2 bowling
+      2 brandt
+      2 brbara
+      2 brjan
+      2 brllop
+      2 brttom
       2 brukade
+      2 bryta
       2 brytare
       2 bussen
+      2 byggde
       2 byggnaderna
       2 byggt
       2 bytt
@@ -2634,30 +2688,31 @@
       2 coolt
       2 dagarna
       2 dagens
-      2 dam
       2 damen
       2 daniel
+      2 dator
+      2 ddad
       2 dela
       2 demokrati
       2 desarmera
       2 dessa
       2 distrahera
-      2 dödad
+      2 djur
+      2 dmma
       2 doften
       2 dog
       2 doktorn
-      2 dollar
-      2 dömma
+      2 donny
       2 dopp
       2 dotter
-      2 döttrar
       2 drack
-      2 dräkten
       2 dricker
       2 drink
       2 drinkar
-      2 drömmer
+      2 drkten
+      2 drmmer
       2 druckit
+      2 dttrar
       2 dumheterna
       2 dusch
       2 dussin
@@ -2668,7 +2723,7 @@
       2 dyrt
       2 ecstasy
       2 el
-      2 erkänna
+      2 erknna
       2 evakueringen
       2 exakt
       2 examen
@@ -2677,232 +2732,232 @@
       2 explosionen
       2 fallet
       2 farfar
-      2 färg
-      2 färre
       2 fars
       2 fart
-      2 fästmö
       2 fattade
       2 femton
       2 fina
+      2 finger
       2 finnas
       2 finner
       2 firar
       2 fiskar
       2 fixat
-      2 flaggstången
+      2 flaggstngen
       2 flaska
       2 flickan
+      2 fljande
+      2 fll
       2 fly
       2 flyg
       2 flygplatsen
-      2 följande
-      2 följer
-      2 föll
-      2 föräldrar
-      2 förändrar
-      2 förändras
-      2 föraren
-      2 föredatum
-      2 föreställningen
-      2 förinta
-      2 förklara
-      2 förlåter
-      2 förlorade
-      2 förlorar
-      2 förlorare
-      2 förpackningen
-      2 förrän
-      2 försenad
-      2 försökt
-      2 försörja
-      2 förståndet
-      2 förstasidan
-      2 förstått
-      2 förstör
-      2 förvånande
-      2 förväntade
+      2 fortg
       2 fot
-      2 fötter
       2 framtida
+      2 fraren
       2 fred
+      2 fredatum
+      2 frestllningen
+      2 frg
       2 fria
+      2 frinta
+      2 frlorar
+      2 frlorare
+      2 frlter
+      2 frndrar
+      2 frndras
+      2 frpackningen
+      2 frre
+      2 frrn
+      2 frsenad
+      2 frskt
+      2 frsrja
+      2 frstasidan
+      2 frstndet
+      2 frsttt
       2 frukten
       2 frun
+      2 frvnande
+      2 frvntade
+      2 fstm
+      2 ftter
       2 galenskap
       2 gammalt
       2 garderoben
+      2 gare
+      2 garna
       2 gemensamma
       2 genast
       2 generator
       2 genial
+      2 ggledare
+      2 gift
       2 gifter
       2 gisslan
       2 glada
-      2 glöm
-      2 glömde
-      2 glömma
-      2 glömmer
-      2 gömma
+      2 glm
+      2 glmde
+      2 glmma
+      2 glmmer
+      2 godelar
       2 grannar
       2 gratis
       2 grejer
-      2 gröna
       2 grovjobbet
+      2 grs
       2 gruppen
       2 gruvan
       2 gryningen
-      2 gubben
       2 gullig
       2 hakan
       2 halsband
       2 halsen
       2 halv
       2 hann
-      2 härinne
       2 hederligt
       2 helg
       2 helger
-      2 hemifrån
+      2 hemifrn
       2 hemligt
       2 hemsk
       2 herrar
       2 herrn
+      2 hette
+      2 hftigt
+      2 hgre
       2 hinner
-      2 hjälpte
-      2 hjärna
-      2 hjärnan
-      2 hjärta
-      2 höger
-      2 högre
+      2 historia
+      2 hjlpte
+      2 hjrna
+      2 hjrnan
+      2 hjrta
       2 hoppar
       2 hotell
-      2 hövding
-      2 hundra
+      2 hrinne
       2 hundrade
       2 hungrig
+      2 hustru
       2 huvud
+      2 hvding
       2 hypotetiskt
+      2 hyran
       2 hyser
       2 iakttagelse
-      2 idéer
+      2 ider
       2 idiot
       2 idioter
       2 idiotiskt
-      2 ihjäl
+      2 ihjl
       2 inbillar
       2 ingenstans
-      2 inlåsta
-      2 insåg
+      2 inlsta
       2 insatsen
+      2 insg
       2 insistera
-      2 inspektören
+      2 inspektren
       2 internet
       2 intresserade
       2 inuti
       2 investerade
       2 ipaden
-      2 irak
       2 irriterande
-      2 jäkla
       2 jamaica
-      2 jävligt
-      2 jobbigt
+      2 jeff
+      2 johan
       2 john
       2 joseph
-      2 kål
-      2 kämpade
-      2 känd
-      2 kändes
-      2 känn
-      2 kära
-      2 kärnrelä
-      2 karriär
-      2 karriären
-      2 kassaskåp
-      2 katt
-      2 klä
-      2 klagomål
+      2 kaka
+      2 kallar
+      2 kallas
+      2 karl
+      2 karrir
+      2 karriren
+      2 kassaskp
+      2 killarna
+      2 klagoml
       2 klarade
       2 klass
-      2 klassföreståndare
+      2 klassfrestndare
       2 klassrum
       2 klocktorn
       2 klubb
       2 klubbar
       2 klubben
-      2 knäpp
+      2 kmpade
+      2 kn
       2 knappast
-      2 knölen
-      2 ko
+      2 knd
+      2 kndes
+      2 knguru
+      2 knlen
+      2 knn
+      2 knpp
+      2 koll
       2 kollega
       2 kommissarie
       2 kommunicera
-      2 köper
-      2 köpt
-      2 köpte
-      2 köra
-      2 kört
+      2 kper
+      2 kpt
+      2 kpte
       2 kramas
       2 krav
-      2 krävs
+      2 krnrel
       2 kroatien
+      2 krt
+      2 krvs
+      2 kta
+      2 kte
       2 kunnat
       2 kusin
+      2 l
       2 laboratoriet
       2 lade
-      2 låg
-      2 lägenheten
-      2 lägger
-      2 lämnar
-      2 lämnat
-      2 låna
-      2 lånade
-      2 längs
-      2 lära
-      2 läsa
-      2 läser
-      2 låst
       2 lastbil
-      2 läste
-      2 låtsas
-      2 läxor
-      2 läxorna
+      2 ldan
+      2 ldern
       2 leda
       2 ledigt
-      2 lek
       2 leka
-      2 leta
       2 levande
       2 leverans
+      2 lg
+      2 lgenheten
+      2 lgger
+      2 lgnare
       2 lider
+      2 ligaspel
       2 ligga
       2 liknar
       2 listan
       2 litade
       2 litet
       2 livs
-      2 ljög
-      2 ljudnivån
+      2 ljg
+      2 ljudnivn
       2 ljug
-      2 lögnare
-      2 lördag
+      2 lmnar
+      2 lmnat
+      2 lna
+      2 lnade
+      2 lngs
+      2 lodisarna
       2 lov
-      2 lskling
+      2 lra
+      2 lrdag
+      2 lste
+      2 ltsas
+      2 lugn
       2 lugna
-      2 lura
+      2 lxor
+      2 lxorna
       2 lyser
       2 lyssnade
       2 mamman
       2 mammor
-      2 månen
       2 mannens
-      2 människa
-      2 mänsklig
       2 maria
       2 mark
       2 markerar
-      2 märklig
       2 maskinen
       2 massage
       2 mata
@@ -2912,48 +2967,55 @@
       2 max
       2 medvetet
       2 mellan
+      2 mesta
+      2 mhippan
       2 minsta
+      2 minuter
       2 missar
       2 misslyckas
       2 mitzvah
+      2 mnet
+      2 mnniska
+      2 mnsklig
       2 mobbad
       2 mobilen
-      2 möhippan
-      2 mördades
-      2 mörkret
-      2 mörkt
-      2 mötas
-      2 möter
-      2 mötet
-      2 motstå
+      2 motst
       2 mottagit
-      2 mötte
+      2 mrdades
+      2 mrklig
+      2 mrkret
+      2 mrs
+      2 mtas
+      2 mter
+      2 mtt
+      2 mtte
       2 musiken
       2 mystiske
-      2 någons
-      2 någonstans
-      2 nämnde
-      2 namnet
-      2 nånstans
-      2 närheten
-      2 naturkunskapslärare
+      2 nacken
+      2 naturkunskapslrare
       2 naturligt
-      2 nere
-      2 nivå
+      2 nda
+      2 ned
+      2 ngons
+      2 ngonstans
+      2 niv
+      2 nje
+      2 nmnde
+      2 nnstans
       2 noga
-      2 nöjd
-      2 nöje
+      2 norr
+      2 nrheten
+      2 nskar
+      2 ntligen
       2 nyckeln
       2 nycklarna
       2 nyheterna
-      2 nytta
       2 offer
       2 olagligt
-      2 olika
       2 olycka
       2 omkring
-      2 området
-      2 omständigheter
+      2 omrdet
+      2 omstndigheter
       2 oppositionen
       2 ordentligt
       2 ordet
@@ -2965,271 +3027,278 @@
       2 orkar
       2 oroar
       2 otroligt
-      2 ovårdad
-      2 överenskommelse
-      2 överraskad
-      2 översvämningar
-      2 övertala
+      2 ovrdad
+      2 pacifism
       2 packa
-      2 påminna
-      2 påminner
       2 pasta
       2 patrullbil
       2 paus
       2 per
       2 personen
-      2 pissar
+      2 piano
       2 placerat
       2 planen
       2 planera
       2 planerar
       2 planeten
-      2 plötsligt
+      2 platsen
+      2 pltsligt
+      2 pminna
+      2 pminner
       2 pojke
+      2 pongen
       2 prag
       2 praktikanter
       2 present
       2 president
-      2 presidenten
       2 propellern
+      2 puffran
       2 pumpen
-      2 rädd
-      2 räknade
-      2 räknas
       2 rakt
       2 ramen
-      2 rånar
+      2 ran
+      2 ratal
+      2 rdd
+      2 regler
+      2 reglerna
       2 regna
-      2 regnbågen
+      2 regnbgen
       2 relation
-      2 ren
       2 repor
-      2 ridstövlar
+      2 ret
+      2 ridstvlar
       2 rik
       2 riktig
       2 riskera
       2 ritningen
+      2 rknade
+      2 rknas
       2 rligt
+      2 rnar
       2 robot
-      2 röka
       2 rolig
-      2 röra
-      2 rörde
-      2 rösta
+      2 rra
+      2 rrde
+      2 rsta
       2 rulla
       2 rysk
       2 sabbade
-      2 säkrare
-      2 sålde
-      2 säljer
-      2 sålt
       2 salvia
       2 sam
-      2 särskilt
       2 satte
       2 scen
       2 semester
       2 serie
-      2 sextonårings
+      2 sextonrings
       2 sidan
       2 situation
-      2 självklart
-      2 självmordsbenägen
+      2 sjlvklart
+      2 sjlvmordsbengen
       2 sju
       2 sjukhuset
       2 sjunger
       2 sjuttio
+      2 sk
       2 skaffat
-      2 skåla
       2 skallen
       2 skallig
-      2 skämtar
       2 skillnad
       2 skiter
+      2 skitsnack
+      2 skitstvel
       2 skjutsa
+      2 skla
+      2 sklden
       2 skojade
-      2 skölden
       2 skon
-      2 skörd
-      2 sköt
-      2 sköter
-      2 skött
+      2 skor
+      2 skrare
       2 skrattade
+      2 skrd
       2 skrek
+      2 skriv
+      2 skter
+      2 sktt
+      2 skulden
       2 skulder
       2 skumt
       2 skyller
       2 slappna
+      2 slde
+      2 slt
       2 slutade
-      2 slutändan
       2 slutet
-      2 smälla
+      2 slutndan
       2 smicker
+      2 smlla
       2 smula
       2 smycken
       2 smyger
+      2 sndag
+      2 sngen
       2 snubben
       2 snygga
       2 socialt
-      2 sök
-      2 solglasögon
+      2 solglasgon
       2 somna
-      2 söndag
       2 soppa
-      2 sötnos
-      2 sött
       2 sover
       2 sovit
-      2 spåra
+      2 spannml
       2 sparken
       2 spel
       2 spelande
       2 spelaren
       2 spelet
-      2 spränga
-      2 sprängde
+      2 spra
       2 springa
+      2 sprnga
+      2 sprngde
       2 spyor
-      2 städat
-      2 stänga
+      2 srskilt
       2 start
+      2 staten
+      2 std
+      2 stdat
+      2 stege
       2 stick
       2 sticka
       2 stirra
-      2 stjäl
-      2 stöd
+      2 stjl
+      2 stnga
+      2 stnos
       2 stolta
       2 stoppar
       2 store
       2 stort
-      2 stöttar
-      2 stövlar
       2 stressad
-      2 strömbrytaren
+      2 strmbrytaren
       2 strunt
+      2 stttar
       2 stulit
-      2 suger
+      2 stvlar
       2 summa
       2 sumpade
       2 sur
-      2 svälta
       2 svampar
+      2 svarar
       2 svaret
       2 svensexan
       2 svensexor
+      2 sverige
       2 svin
+      2 svlta
       2 synd
       2 sysslar
       2 system
       2 systrar
-      2 t
       2 tacksam
       2 taget
       2 tal
       2 talade
-      2 tänderna
       2 tanke
       2 teknologi
       2 terapeut
+      2 tervnda
       2 test
+      2 the
       2 tider
       2 tidigt
-      2 tillfälle
-      2 tillstånd
+      2 tillflle
+      2 tillstnd
       2 tillverka
       2 titt
       2 tja
-      2 tjäna
-      2 tjänade
+      2 tjna
+      2 tjnade
+      2 tnderna
       2 tobak
+      2 togs
       2 ton
       2 torr
-      2 träd
-      2 trädgård
-      2 trädgården
-      2 träffat
-      2 tråkigt
+      2 trd
+      2 trdgrd
+      2 trdgrden
       2 tretton
-      2 trötta
+      2 trffat
+      2 trkigt
+      2 trta
+      2 trtta
       2 tummen
       2 tunga
       2 tupplur
-      2 tusen
-      2 tusentals
       2 tvivel
       2 tvungna
-      2 tydligen
-      2 umgås
-      2 underhåll
+      2 umgs
+      2 underbar
+      2 underhll
       2 universitetet
       2 unna
-      2 uppför
+      2 uppfr
       2 uppgifter
       2 upplevt
       2 uppskov
-      2 uppståndelse
+      2 uppstndelse
       2 uselt
-      2 utanför
-      2 utplånad
+      2 utplnad
       2 uttrycka
       2 vackra
-      2 vadå
-      2 vågar
-      2 väggen
       2 valet
-      2 välta
       2 van
       2 vana
-      2 vanära
+      2 vanra
       2 vansinne
-      2 vänster
-      2 väntat
       2 varenda
+      2 varken
       2 varnade
       2 vars
-      2 varsågoda
-      2 väska
+      2 varsgoda
       2 vattenansvarig
       2 vattenpump
       2 vattnet
       2 vems
+      2 verenskommelse
       2 verka
       2 verkligheten
+      2 verraskad
       2 version
+      2 versvmningar
+      2 vertala
       2 vetat
-      2 veterinären
-      2 vidröra
+      2 veterinren
+      2 vgar
+      2 vggen
+      2 vidrra
+      2 viktig
       2 vild
+      2 vindgeneratorn
       2 vinet
       2 vingar
       2 visade
       2 visar
       2 vittnen
+      2 vlta
+      2 vntat
+      2 vska
       2 yngre
+      2 zeeland
       3 aktiviteter
-      3 ålder
       3 allas
       3 alldeles
       3 allvar
       3 allvarligt
-      3 älska
       3 andas
+      3 angeles
       3 aning
       3 annie
       3 ar
       3 arg
-      3 återvänder
-      3 åtta
       3 auktionen
-      3 även
       3 avsluta
       3 banken
       3 bar
-      3 bära
       3 batteri
       3 bebis
-      3 beklagar
-      3 ber
       3 besatt
       3 besviken
       3 betalningen
@@ -3245,9 +3314,10 @@
       3 brudgummen
       3 brukar
       3 bunkern
-      3 chans
+      3 dam
+      3 dden
       3 dess
-      3 döden
+      3 dollar
       3 dragit
       3 drick
       3 dricka
@@ -3266,77 +3336,83 @@
       3 festa
       3 fixar
       3 flicka
+      3 fljde
+      3 fljer
       3 flyger
       3 flytta
       3 flyttade
       3 flyttar
-      3 följde
-      3 fönstret
-      3 förbannad
-      3 förbi
-      3 föremål
-      3 förlorat
-      3 förolämpade
-      3 förresten
-      3 försiktig
-      3 försiktiga
-      3 förstod
-      3 förstörde
-      3 förut
-      3 förutom
-      3 frågan
-      3 framför
+      3 fnstret
+      3 framfr
       3 framtid
-      3 frankrike
+      3 frbi
+      3 freml
+      3 frgan
+      3 frklara
+      3 frldrar
+      3 frlorade
+      3 frlorat
+      3 frolmpade
+      3 frresten
+      3 frsiktig
+      3 frsiktiga
+      3 frstod
+      3 frstrde
+      3 frut
       3 fullt
       3 fundera
       3 fungerade
       3 gett
+      3 gmma
       3 gravid
       3 grund
       3 gubbe
+      3 gubben
       3 gudmor
+      3 guldfisk
       3 h
-      3 hållit
-      3 hälsa
       3 halvtimme
-      3 hända
       3 handen
-      3 hår
-      3 håret
-      3 härligt
       3 hel
       3 herr
+      3 hger
       3 hindra
-      3 hjälpt
-      3 höll
-      3 hörni
+      3 hjlpt
+      3 hllit
+      3 hlsa
+      3 hnda
       3 hosta
       3 hotellet
+      3 hrni
       3 hud
       3 hundar
       3 hunden
-      3 ihåg
+      3 hundra
+      3 ihg
       3 imorgon
-      3 informationen
-      3 innebär
+      3 innebr
       3 inser
-      3 intressant
       3 intresserad
       3 investera
+      3 irak
       3 jaha
-      3 jättebra
-      3 jätterobot
+      3 jkla
       3 jobbat
+      3 jobbigt
       3 jordens
-      3 käften
+      3 jttebra
+      3 jtterobot
+      3 jvlar
+      3 jvligt
       3 kalla
       3 kallade
-      3 källare
-      3 kämpa
       3 kasta
       3 katastrof
+      3 kften
       3 killar
+      3 kinesen
+      3 kllare
+      3 kmpa
       3 kommissarien
       3 kontakt
       3 kontor
@@ -3345,369 +3421,421 @@
       3 korkad
       3 kostar
       3 kunskap
-      3 kvällen
+      3 kvllen
+      3 kyckling
       3 kyssa
       3 laddas
       3 lagar
-      3 läget
       3 lagligt
-      3 läkare
-      3 lär
-      3 lärare
-      3 läraren
+      3 lder
+      3 lek
+      3 leta
+      3 lfte
+      3 lget
       3 lik
       3 liknande
       3 litar
+      3 ljligt
       3 ljuga
-      3 löfte
-      3 löjligt
-      3 löser
+      3 lkare
+      3 los
       3 loss
       3 lova
+      3 lrare
+      3 lraren
+      3 lska
       3 luften
-      3 lunch
+      3 lura
       3 lyckan
       3 magneter
-      3 månader
-      3 mänskligheten
       3 marknaden
       3 massor
       3 menade
       3 mens
       3 meter
       3 misstag
-      3 mobil
-      3 möjlighet
+      3 mjlighet
+      3 mnader
+      3 mnen
+      3 mnskligheten
       3 mor
       3 mormor
       3 morse
-      3 möte
-      3 någonting
+      3 mrkt
+      3 mte
+      3 mtet
+      3 namnet
+      3 ndrade
+      3 ngonting
+      3 njd
       3 nyss
+      3 nytta
+      3 olika
       3 ont
       3 orolig
-      3 överallt
-      3 överens
-      3 översvämning
       3 panik
       3 par
       3 paris
       3 person
+      3 pissar
       3 plocka
-      3 pojkvän
+      3 pojkvn
       3 poliser
+      3 presidenten
       3 priset
       3 problemet
       3 radio
-      3 räkna
-      3 räknar
+      3 rak
       3 rent
       3 respekterar
       3 ringt
+      3 rka
+      3 rkna
+      3 rknar
       3 ryska
-      3 sådär
       3 samtalet
       3 satsa
       3 satt
-      3 sätter
-      3 sättet
-      3 självisk
+      3 sdr
+      3 sjlvisk
       3 sjuk
       3 sjukt
       3 skaffade
-      3 skål
-      3 skämta
       3 skapar
-      3 sker
       3 skjuter
+      3 skmta
+      3 skmtar
       3 skojar
       3 skola
-      3 sköta
       3 skratta
-      3 skyldig
+      3 skt
+      3 skta
       3 skynda
-      3 släppa
-      3 släpper
+      3 sljer
+      3 slppa
+      3 slpper
       3 smaka
-      3 smärtstillande
-      3 snällt
-      3 ställde
-      3 ställer
-      3 stämmer
+      3 smokey
+      3 smrtstillande
+      3 smutsig
+      3 snigel
+      3 snllt
       3 stationen
       3 steg
       3 sticker
       3 stipendieungarna
-      3 största
+      3 stllde
+      3 stller
+      3 stmmer
+      3 strsta
+      3 struntar
+      3 stter
+      3 sttet
       3 studera
       3 stulet
-      3 svar
+      3 suger
       3 syster
       3 taket
       3 talat
       3 tanken
       3 taxi
       3 te
-      3 tillräckligt
-      3 tillställningar
+      3 tervnder
+      3 tillrckligt
+      3 tillstllningar
       3 tittar
       3 tjej
       3 tjejen
       3 tjurar
       3 tom
       3 torka
-      3 träna
       3 trist
+      3 trna
       3 turism
+      3 tusen
+      3 tusentals
       3 tvungen
       3 typ
+      3 uggla
       3 ungern
-      3 upphör
-      3 va
+      3 upphr
+      3 utanfr
       3 vacker
-      3 vägrar
-      3 välja
-      3 vända
       3 vapen
       3 varann
-      3 världens
       3 varm
       3 varmt
-      3 värsta
-      3 växer
       3 vecka
-      3 veckan
       3 velat
+      3 verens
       3 verkar
+      3 versvmning
+      3 vgrar
       3 videon
       3 vidrig
       3 viktiga
       3 villkor
+      3 vlja
+      3 vnda
+      3 vnster
+      3 vrldens
+      3 vrsta
+      3 vxer
+      3 walter
       3 william
       3 yrke
-      4 affärer
+      4 affrer
       4 allihop
       4 annat
       4 annorlunda
-      4 använd
-      4 ärlig
-      4 äter
+      4 anvnd
+      4 arbete
       4 avslappnad
-      4 bäst
+      4 bakom
       4 batteriet
-      4 behålla
-      4 berättat
+      4 behlla
+      4 beige
+      4 beklagar
+      4 ber
+      4 berttat
       4 betalat
       4 betalt
       4 bil
       4 bland
+      4 blsa
       4 bo
-      4 bröt
+      4 brt
+      4 bst
+      4 bunny
       4 bygger
+      4 chans
       4 dags
-      4 därifrån
-      4 duger
+      4 drifrn
+      4 dude
       4 dum
-      4 efteråt
+      4 eftert
       4 evigt
       4 familjen
       4 fantastisk
       4 femtio
       4 fin
       4 flickorna
+      4 flj
+      4 fluga
       4 flyga
-      4 följ
-      4 föredrar
-      4 företag
       4 foto
-      4 frågade
-      4 frågat
+      4 frankrike
+      4 fredrar
+      4 fretag
+      4 frgade
+      4 frgat
+      4 frhjde
+      4 frutom
       4 funderat
       4 fungera
       4 fyra
-      4 galna
-      4 gången
-      4 gått
       4 gifte
       4 gluten
       4 goda
       4 grattis
+      4 grn
       4 gud
-      4 hallå
-      4 hänga
-      4 hänger
-      4 hårt
+      4 hall
       4 helgen
       4 heller
-      4 hög
+      4 hnga
+      4 hnger
       4 hoppats
-      4 hört
-      4 ifrån
+      4 hret
+      4 hrligt
+      4 ifrn
+      4 informationen
       4 inom
       4 jorden
       4 kaffe
-      4 kände
-      4 känt
+      4 kamel
       4 killen
+      4 kket
+      4 kl
       4 klara
       4 klienter
       4 klienterna
-      4 köket
+      4 knde
+      4 knt
       4 kontrakt
-      4 kvinna
+      4 kra
+      4 krokodil
       4 laga
       4 land
-      4 lät
-      4 lättare
       4 le
       4 lee
       4 letar
-      4 ligger
+      4 lila
       4 lilla
-      4 london
-      4 lösa
+      4 ljus
+      4 lr
+      4 lskling
+      4 lst
+      4 lttare
+      4 lunch
       4 lycka
       4 lyckas
       4 lyssnar
-      4 måltid
-      4 män
-      4 månad
-      4 männen
       4 maten
       4 mest
       4 minut
-      4 möjligt
-      4 någonsin
+      4 mjligt
+      4 mltid
+      4 mn
+      4 mnnen
+      4 mobil
+      4 nere
+      4 ngonsin
+      4 noll
       4 nummer
       4 offren
       4 ofta
-      4 öppnar
+      4 orange
       4 planet
-      4 plats
+      4 ppnar
       4 prova
       4 raring
       4 redo
       4 regn
       4 ritningarna
+      4 rlig
       4 rum
-      4 sägs
-      4 säker
-      4 samtidigt
-      4 själva
-      4 skämt
+      4 rummet
+      4 sgs
+      4 sjlva
       4 skickade
       4 skjuta
+      4 skl
+      4 skmt
+      4 skyldig
       4 slog
       4 sms
+      4 snabb
       4 snacka
-      4 snälla
+      4 snder
+      4 snlla
       4 snofsigt
-      4 sönder
       4 sorts
-      4 ställe
-      4 stället
       4 startar
+      4 stlle
+      4 stllet
       4 strax
       4 stund
-      4 svåra
+      4 svra
       4 tacka
       4 tagit
       4 tecken
       4 teckningarna
       4 tjejerna
-      4 tjugo
+      4 tjock
       4 tjuv
-      4 träden
       4 trots
+      4 tunn
       4 tyckte
+      4 tydligen
       4 tyst
       4 undan
       4 uppdrag
       4 uppe
-      4 upptagen
       4 val
       4 valde
-      4 välkommen
-      4 väskan
-      4 ven
-      4 vidare
+      4 vattenmelon
+      4 veckan
+      4 verallt
       4 vikariat
-      4 vilka
       4 vilket
+      4 violett
       4 vissa
+      4 vlkommen
+      4 vskan
       5 all
+      5 alligator
       5 allting
-      5 använder
-      5 bestämma
-      5 bestämmer
+      5 anvnder
+      5 apelsin
+      5 aprikos
+      5 bestmma
+      5 bestmmer
+      5 bitter
       5 bomb
-      5 bör
-      5 borgmästaren
-      5 börja
-      5 började
+      5 borgmstaren
+      5 brja
+      5 brjade
       5 chef
       5 dagen
-      5 dålig
-      5 dåliga
       5 dejt
-      5 dött
+      5 dliga
       5 driver
-      5 dröm
+      5 dtt
+      5 duger
       5 egen
+      5 elefant
       5 enligt
       5 ensam
       5 euro
-      5 fälla
+      5 fdelsedag
       5 fira
       5 fixa
-      5 flera
       5 flesta
-      5 födelsedag
-      5 förra
-      5 försöka
-      5 försökte
-      5 frågar
+      5 flla
       5 franska
-      5 gäller
-      5 glömt
+      5 frgar
+      5 frra
+      5 frska
+      5 frskte
+      5 galna
+      5 gepard
+      5 get
+      5 gngen
+      5 gon
       5 gott
-      5 hämtar
-      5 hård
+      5 groda
+      5 gtt
       5 hellre
       5 hittat
+      5 hmtar
       5 hoppa
-      5 hörde
-      5 hund
       5 information
       5 ingenting
-      5 kille
-      5 kläder
+      5 intressant
+      5 kattunge
+      5 klder
       5 knappt
-      5 kommit
-      5 kompis
-      5 kylskåpet
-      5 långt
+      5 kylskpet
       5 leva
+      5 ligger
       5 lita
-      5 människor
+      5 london
+      5 lser
+      5 magenta
       5 middag
       5 mindre
       5 minns
+      5 mirakuls
+      5 mnad
+      5 myra
+      5 nektarin
       5 ny
-      5 ögon
+      5 olivgrn
       5 ord
+      5 orm
       5 oroa
-      5 pågår
+      5 persika
+      5 pgr
       5 plantera
-      5 poäng
       5 procent
       5 regnet
+      5 ren
       5 resa
-      5 ring
       5 roll
+      5 rosa
       5 runt
-      5 säkert
-      5 såna
+      5 samtidigt
       5 senast
       5 senaste
       5 sitta
@@ -3715,43 +3843,58 @@
       5 skapa
       5 skickar
       5 skiten
-      5 slåss
-      5 små
+      5 skorpion
+      5 slss
+      5 sm
       5 smart
-      5 snäll
+      5 sna
+      5 snll
       5 sova
-      5 spela
       5 stilla
       5 stoppa
-      5 stora
-      5 träffade
-      5 trött
+      5 svar
+      5 ter
+      5 tiger
+      5 tjugo
+      5 trden
+      5 trtt
+      5 tta
+      5 turkos
       5 tycks
-      5 ursäkta
-      5 ute
+      5 upptagen
+      5 urskta
+      5 va
+      5 valp
+      5 varg
+      5 vidare
       5 vilja
-      6 ändå
-      6 ansvar
+      5 vilka
+      6 azurbl
       6 barnen
-      6 behöva
+      6 behva
       6 bilen
-      6 blivit
+      6 blckfisk
       6 bomberna
+      6 brandgul
+      6 bred
       6 bryter
+      6 chimpans
+      6 cyan
       6 cykel
       6 cykeln
-      6 dödade
-      6 dör
+      6 ddade
+      6 drm
+      6 druva
       6 egentligen
       6 elektricitet
-      6 emot
       6 fall
-      6 följa
-      6 förändra
-      6 förstöra
-      6 fortsätta
-      6 fortsätter
+      6 flera
+      6 flja
+      6 fortstta
+      6 fortstter
       6 framtiden
+      6 frndra
+      6 frstra
       6 frukost
       6 fungerar
       6 funkar
@@ -3759,502 +3902,575 @@
       6 gamla
       6 grej
       6 grupp
+      6 guldig
       6 haft
-      6 håll
+      6 hamster
       6 handlar
-      6 hänt
-      6 härifrån
-      6 hjärtat
+      6 hjrtat
+      6 hnt
+      6 hrde
+      6 hrifrn
+      6 hst
       6 hus
-      6 ibland
       6 illa
-      6 kärlek
+      6 jordgubbe
       6 klockan
       6 kollar
-      6 lägg
-      6 lämnade
+      6 kommit
+      6 kompis
+      6 krlek
+      6 kvinna
+      6 limegrn
+      6 lmnade
       6 lovade
       6 lovar
       6 lustigt
       6 massa
       6 medan
       6 miljoner
-      6 nära
-      6 öppna
+      6 mnniskor
+      6 nd
+      6 nra
       6 perfekt
       6 peter
+      6 pissade
       6 planer
+      6 ppna
       6 pratade
+      6 purpur
       6 reda
-      6 resten
       6 riktigt
+      6 ring
       6 roligt
+      6 rtta
+      6 rund
+      6 rv
       6 salt
       6 sanningen
       6 sedan
+      6 silvrig
       6 sitt
-      6 skörden
+      6 skrden
       6 skull
       6 skydda
-      6 slå
       6 slutar
+      6 spela
+      6 stora
       6 svara
-      6 svårt
-      6 tänkt
+      6 svart
+      6 svrt
       6 timme
-      6 trevligt
+      6 tnkt
+      6 trffade
       6 undrar
       6 uppskattar
-      6 väntar
       6 vare
-      6 världen
       6 viktigt
       6 vinna
-      7 ännu
-      7 åtminstone
+      6 vntar
+      6 zebra
+      7 ansvar
+      7 apa
       7 bad
+      7 banan
       7 be
-      7 berättar
-      7 betyder
-      7 dåligt
+      7 berttar
+      7 bjrn
+      7 blivit
+      7 br
+      7 dd
       7 direkt
-      7 död
-      7 dörren
+      7 dligt
       7 drar
       7 eftersom
+      7 emot
       7 faktiskt
       7 fara
       7 fem
+      7 fgel
       7 fikon
-      7 förlora
       7 fort
       7 fram
-      7 full
-      7 gammal
       7 ganska
-      7 gärna
+      7 giraff
+      7 glmt
+      7 gris
+      7 gul
       7 hatar
       7 hennes
       7 hittar
-      7 hos
-      7 igång
       7 igenom
+      7 igng
       7 inne
-      7 jo
-      7 känns
+      7 katt
+      7 kiwi
       7 klar
       7 klarar
+      7 knns
       7 konstigt
-      7 kort
-      7 lägga
-      7 lycklig
+      7 lime
+      7 lngt
       7 mannen
       7 marken
+      7 mattan
       7 meddelande
+      7 melon
+      7 mjuk
       7 modell
+      7 mrk
       7 namn
+      7 nnu
       7 oj
+      7 resten
       7 ringa
-      7 ringer
       7 saken
-      7 sätta
-      7 sida
-      7 sina
       7 sitter
-      7 skicka
-      7 skriver
+      7 skert
       7 son
-      7 stå
       7 stannar
-      7 tänka
+      7 stta
       7 telefon
       7 thomas
       7 tidigare
-      7 träffa
-      7 ursäkt
+      7 tnka
+      7 trevligt
+      7 trffa
+      7 urskt
       7 vatten
       7 vincent
+      7 vinrd
       7 visa
+      7 vrlden
       8 alfred
+      8 ananas
       8 annan
-      8 berättade
       8 betalar
-      8 fanns
-      8 fisk
-      8 försök
+      8 betyder
+      8 delfin
+      8 drren
+      8 ekorre
+      8 frlora
+      8 frsk
+      8 full
       8 gifta
       8 glad
-      8 hövdingen
-      8 idé
+      8 haj
+      8 hos
+      8 hrd
+      8 hrt
+      8 hvdingen
+      8 ibland
+      8 id
+      8 jo
       8 jobbar
-      8 känna
+      8 kille
       8 klart
-      8 kör
-      8 lång
+      8 kolsvart
+      8 kr
       8 ledsen
       8 lever
-      8 lugnt
+      8 lgga
+      8 lng
+      8 lsa
+      8 lycklig
       8 lyssna
-      8 nån
+      8 mandarin
       8 nytt
-      8 råd
+      8 plats
       8 regeringen
-      8 sälja
-      8 sån
+      8 ringer
       8 sant
+      8 sida
+      8 sina
+      8 skicka
+      8 skldpadda
+      8 skriver
+      8 slja
+      8 smal
+      8 sn
       8 snabbt
       8 tag
       8 talar
-      8 träffas
+      8 trffas
       8 tro
-      8 tyvärr
-      8 vägen
+      8 tyvrr
+      8 ute
       8 varandra
-      9 båda
-      9 begå
+      8 ven
+      8 vgen
+      8 vit
+      9 bda
+      9 beg
+      9 bl
       9 bomber
-      9 fast
+      9 fanns
       9 fint
-      9 företaget
-      9 förr
-      9 först
-      9 gånger
-      9 hämta
-      9 hej
-      9 heter
+      9 fisk
+      9 flodhst
+      9 fretaget
+      9 frr
+      9 gller
+      9 gnger
+      9 hg
+      9 hummer
+      9 hund
       9 idag
-      9 ikväll
+      9 ikvll
       9 jobba
-      9 köpa
-      9 lätt
+      9 kpa
+      9 lgg
       9 lika
-      9 pengarna
-      9 sätt
-      9 spelar
+      9 ltt
+      9 pong
+      9 sker
+      9 spindel
       9 stan
       9 svensexa
       9 tills
-      9 under
+      9 tminstone
       9 ur
-      9 vårt
      10 alls
      10 annars
      10 antar
-     10 barn
-     10 bättre
+     10 berttade
      10 bor
+     10 bttre
      10 dagar
-     10 deras
      10 fader
+     10 fast
      10 fest
      10 fler
+     10 frbannad
+     10 frst
+     10 gammal
+     10 grna
      10 halsbandet
      10 hittade
-     10 hjälper
-     10 höra
+     10 hjlper
+     10 hll
+     10 hmta
+     10 hra
      10 huset
-     10 räcker
-     10 rör
-     10 sånt
-     10 ses
+     10 knna
+     10 lugnt
+     10 matta
+     10 panda
+     10 rcker
      10 sex
-     10 sin
      10 slut
+     10 snt
+     10 spelar
      10 styra
      10 tala
-     10 tänkte
      10 tillsammans
      10 tjejer
-     10 visste
-     11 åker
-     11 börjar
+     10 tnkte
+     10 vrt
+     11 barn
+     11 brjar
      11 bygga
-     11 ert
+     11 deras
+     11 ful
      11 gav
      11 god
-     11 helst
-     11 hitta
+     11 hej
      11 hoppas
      11 innan
      11 kvinnor
      11 liten
+     11 nn
+     11 rd
      11 ringde
+     11 rr
+     11 ses
+     11 sl
+     11 stt
      11 timmar
-     11 visst
+     11 visste
      11 vore
-     12 använda
+     12 anvnda
      12 beslut
-     12 del
      12 dit
+     12 dlig
+     12 ert
      12 galen
-     12 gång
      12 harry
-     12 helvete
-     12 låter
+     12 helst
+     12 hitta
+     12 ker
      12 livet
-     12 nästa
-     12 nya
+     12 lter
+     12 modern
+     12 pengarna
      12 plan
-     12 rädda
-     12 säg
+     12 rdda
+     12 sin
      12 trodde
-     12 vänner
-     12 vart
+     12 under
+     12 visst
+     12 vnner
+     13 brun
+     13 del
      13 dra
      13 familj
      13 genom
+     13 helvete
      13 hemma
-     13 lämna
-     13 låta
+     13 ko
+     13 lta
      13 mat
-     13 polisen
-     13 samma
-     13 självmord
-     13 stor
+     13 nsta
+     13 nya
+     13 sjlvmord
      13 tiden
      13 tio
      13 titta
      13 tur
-     13 våra
-     14 betala
+     13 vart
+     13 vra
      14 enda
-     14 förlåt
-     14 fråga
+     14 frga
+     14 frlt
+     14 gng
      14 herregud
-     14 hjälp
+     14 hjlp
      14 ihop
      14 jobbet
-     14 längre
-     14 precis
-     15 äta
+     14 kanin
+     14 kort
+     14 lmna
+     14 polisen
+     14 st
      15 bryr
      15 budapest
-     15 era
-     15 första
-     15 fru
      15 gillar
-     15 hålla
      15 hand
-     15 hände
-     15 händer
-     15 kolla
+     15 heter
+     15 hlla
+     15 lngre
      15 morgon
-     15 nåt
-     15 pratar
+     15 nt
+     15 precis
+     15 samma
      15 senare
-     15 sett
      15 sista
-     15 själv
      15 snart
-     15 står
-     15 väg
+     15 vg
+     16 betala
      16 bror
+     16 era
      16 fattar
-     16 försöker
-     16 ger
+     16 frsta
+     16 hnde
+     16 hnder
      16 inga
-     16 jävla
      16 kunna
-     16 kväll
-     16 länge
-     16 mår
-     16 nästan
+     16 kvll
+     16 lnge
+     16 nstan
+     16 pratar
      16 sagt
      16 saker
+     16 sjlv
      16 staden
      16 stanna
-     16 tänk
-     16 varje
+     16 str
+     16 tnk
      17 blev
-     17 därför
      17 far
-     17 förstår
-     17 hör
-     17 komma
+     17 frsker
+     17 ger
      17 kul
      17 kvar
      17 menar
      17 mot
      17 pappa
-     17 pengar
-     17 sak
-     18 bästa
-     18 döda
-     18 håller
+     17 sett
+     17 varje
+     18 bsta
+     18 dda
+     18 drfr
+     18 fru
+     18 komma
+     18 lebowski
      18 redan
+     18 stor
      18 tre
-     18 tycker
-     19 åka
-     19 alltid
-     19 dö
      19 fortfarande
-     19 hjälpa
      19 just
-     19 skolan
-     19 tid
-     19 vän
-     19 vänta
-     19 verkligen
-     20 andra
+     19 pengar
+     19 vnta
+     20 alltid
      20 bort
-     20 dina
-     20 fel
+     20 frstr
      20 hit
+     20 hller
      20 jobb
-     20 många
-     20 skit
+     20 jvla
+     20 sak
+     20 skolan
+     20 tycker
+     20 verkligen
+     20 vn
+     21 andra
+     21 dina
      21 folk
-     21 helt
-     21 problem
-     21 väldigt
+     21 hjlpa
+     21 ka
+     21 mnga
+     21 tid
      21 veta
-     21 vilken
-     22 berätta
-     22 gick
+     21 vldigt
      22 gjort
      22 hela
      22 liv
-     22 rätt
-     22 såg
-     23 fått
+     22 mr
+     22 skit
+     22 vilken
+     23 bertta
+     23 fel
+     23 ftt
+     23 helt
      23 hem
      23 mamma
-     23 några
-     23 ner
+     23 problem
      23 tog
-     24 älskar
-     24 detta
-     24 kunde
-     24 säga
-     24 utan
-     25 år
-     25 över
+     24 gick
+     24 lskar
+     24 ner
+     25 detta
+     25 rtt
+     25 sga
      25 varit
-     25 vid
      26 ens
-     27 känner
-     27 sen
+     26 kunde
+     26 ngra
+     26 utan
+     26 vid
+     27 knner
      28 sluta
-     29 låt
-     29 säger
-     30 också
-     30 tack
-     31 bli
+     29 sen
+     30 ocks
+     30 ver
      31 prata
-     32 ditt
-     32 väl
-     32 vår
+     31 sger
+     32 bli
+     32 tack
+     33 ditt
+     33 vl
+     33 vr
      34 mer
-     35 fick
-     35 hans
-     35 tänker
-     35 två
-     35 vem
+     34 sg
+     35 tnker
+     36 beter
      36 dag
-     36 ville
-     37 än
-     37 borde
-     37 ge
-     37 igen
+     36 fick
+     36 hans
+     37 lt
      37 mina
-     38 blir
+     37 tv
+     37 vem
+     37 ville
+     38 borde
+     38 ge
+     38 n
+     39 blir
      39 fan
-     39 okej
-     40 inget
+     39 igen
+     40 okej
      41 kom
-     41 någon
      42 gjorde
-     42 lite
-     42 mitt
-     43 efter
-     43 finns
-     43 nog
-     45 ju
-     45 mycket
-     45 tar
-     46 åt
-     46 kanske
+     42 ngon
+     43 inget
+     43 lite
+     44 mitt
+     44 nog
+     45 efter
      47 tillbaka
-     50 aldrig
-     51 sa
-     52 går
-     52 henne
-     52 ser
-     52 upp
-     54 alla
-     54 sig
-     55 allt
-     55 få
-     55 tror
-     56 gå
-     57 från
-     59 hade
-     59 in
-     60 eller
-     65 se
-     66 man
-     68 vara
-     69 då
-     69 dem
-     70 bra
-     72 ingen
-     73 behöver
-     74 när
-     76 varför
-     77 ja
-     78 gör
-     78 något
-     80 oss
-     83 ha
-     83 ut
-     84 får
-     86 ta
-     87 r
-     88 er
-     92 göra
-     94 skulle
-     97 vet
-     98 nej
-    100 där
+     48 ju
+     48 mycket
+     48 t
+     48 tar
+     49 finns
+     49 kanske
+     52 aldrig
+     52 sa
+     54 henne
+     55 upp
+     56 tror
+     57 f
+     57 g
+     57 sig
+     58 alla
+     58 frn
+     60 allt
+     60 hade
+     60 ser
+     62 eller
+     62 in
+     68 man
+     68 se
+     70 dem
+     70 vara
+     73 behver
+     75 ingen
+     76 varfr
+     77 nr
+     78 ngot
+     81 oss
+     82 bra
+     83 ja
+     86 ha
+     87 ut
+     90 d
+     90 kolla
+     93 gra
+     94 er
+     95 skulle
+    101 nej
     102 honom
-    106 hur
-    110 din
-    115 kommer
-    127 måste
-    131 av
-    132 bara
-    136 min
+    102 vet
+    105 ta
+    108 hur
+    112 dr
+    116 kommer
+    118 din
+    131 mste
+    136 bara
+    139 gr
     139 hon
-    139 nu
-    150 ett
-    164 men
-    169 de
-    173 ni
-    181 vill
-    204 till
-    217 den
-    219 var
-    224 om
-    227 som
-    229 ska
-    245 här
-    262 så
-    264 kan
-    272 dig
-    278 vad
-    279 med
-    286 mig
-    287 i
-    308 han
-    354 och
-    364 för
-    391 på
-    446 en
-    465 har
-    570 vi
-    646 att
-    687 inte
-    981 du
-   1026 är
-   1273 det
-   1357 jag
+    142 av
+    144 nu
+    146 min
+    151 ett
+    175 men
+    178 de
+    186 vill
+    190 ni
+    209 till
+    228 var
+    230 den
+    231 ska
+    235 om
+    271 hr
+    272 kan
+    274 s
+    277 som
+    291 vad
+    294 med
+    297 mig
+    304 i
+    307 dig
+    331 han
+    371 och
+    427 p
+    462 fr
+    488 har
+    575 vi
+    660 att
+    718 inte
+    820 en
+   1040 du
+   1184 r
+   1317 det
+   1400 jag
