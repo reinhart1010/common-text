@@ -1,74 +1,127 @@
+      1 "
+      1 "ada
+      1 "apa
+      1 "apakah
+      1 "berat"
+      1 "berhenti!"
+      1 "biarkan
+      1 "cepatlah
+      1 "contohnya".
+      1 "dengan
+      1 "dia
+      1 "get"
+      1 "ini,
+      1 "kabar
+      1 "kamu
+      1 "kleopatra"
+      1 "kosong"
+      1 "mary."
+      1 "menganggapmu
+      1 "mengapa
+      1 "michael"
+      1 "michelle"
+      1 "nol".
+      1 "pelanggan
+      1 "ringan".
+      1 "siapa
+      1 "tatoeba"
+      1 "tolong
+      1 "waktu
+      1 "yama".
       1 10
-      1 abafi
+      1 abadi.
       1 abbot
       1 absolut
-      1 acuh
-      1 afakah?
-      1 afams
-      1 afanya
-      1 afat
-      1 afegannya
-      1 afikku
+      1 acuh.
+      1 ada,
+      1 adakah?
+      1 adams
+      1 adanya
+      1 adat
+      1 adegannya
+      1 adikku.
+      1 adil.
+      1 aduh,
       1 afrika
-      1 afuh
-      1 agenfa
-      1 ah
-      1 ahaf
+      1 agenda
+      1 agustus
+      1 ah!!
+      1 ahad.
       1 ahli
-      1 ahlinya
+      1 ahlinya.
       1 ai
-      1 aiba
+      1 aiba!
       1 air?
-      1 airmu
+      1 airmu!
       1 airnya
+      1 aja
+      1 aja!
       1 ajaran
+      1 akal,
       1 akankah
-      1 akhiran
+      1 akhiran.
       1 akhirat
       1 akira
       1 aksara
       1 aksi
       1 aktivitas
-      1 aktris
-      1 alamatnya
+      1 aktris.
+      1 aku!
+      1 alam.
+      1 alamatnya.
       1 alasannya
       1 album
       1 alessia
       1 algoritma
-      1 alice
+      1 alice.
       1 alih
       1 alkohol
-      1 amal
-      1 aman
+      1 allah
+      1 allah,
+      1 amal.
+      1 aman.
       1 ambilah
       1 ambilkan
-      1 ambulan
-      1 anakanaknya
+      1 ambulan！
+      1 anak-anaknya.
       1 analisanya
       1 analisis
-      1 anehku
-      1 anfaikan
-      1 anfi
+      1 ancaman,
+      1 ancaman.
+      1 andaikan
+      1 andi
+      1 anehku.
       1 anggur
+      1 angin,
       1 anginnya
       1 angkat
       1 ania
-      1 anjingmu
+      1 anjingmu.
       1 anjlok
-      1 antik
+      1 antik.
       1 antrian
       1 aoi
-      1 apaapanya
+      1 apa-apanya.
+      1 apapun,
+      1 apartemen.
+      1 apel
       1 apel?
+      1 api!
       1 api?
       1 apotikmu?
-      1 arab
+      1 arab.
+      1 arak,
       1 arloji
       1 aroma
       1 artikel
       1 asah
-      1 asalnya
+      1 asal.
+      1 asalnya.
+      1 asam
+      1 asam.
       1 asasi
+      1 asia.
+      1 asing,
       1 asing?
       1 asingnol
       1 asingnya
@@ -78,27 +131,47 @@
       1 asuransi
       1 atap
       1 atasnya
-      1 aula
+      1 aula.
+      1 australia.
       1 awalan
+      1 awas,
+      1 ayah,
       1 ayah?
-      1 azerbaijan
+      1 ayahku.
+      1 ayahnya.
+      1 azerbaijan.
       1 baca?
-      1 bafanku
+      1 badai,
+      1 badai.
+      1 badanku
       1 bagaikan
+      1 bagaimanapun
+      1 bagaimanapun,
+      1 bagian.
       1 bagilah
       1 bagimu
       1 baguslah
+      1 bahagia,
       1 bahasanya
+      1 baiklah,
+      1 baiklah.
+      1 baiknya
+      1 baiknya.
       1 bajuku
       1 bajunya
       1 bakal
+      1 bakar
+      1 bakar.
       1 bakat
-      1 baker
+      1 baker.
       1 balasanmu
-      1 banfar
-      1 banfingkan
-      1 banfung
+      1 bali.
+      1 bandar
+      1 bandingkan
+      1 bandung
       1 bangku
+      1 bangun!
+      1 bangun,
       1 bangun?
       1 banjir
       1 bannya?
@@ -106,21 +179,34 @@
       1 bantalku
       1 bantu
       1 bantu?
+      1 bantuan.
       1 bantuan?
       1 banyak?
+      1 barang.
       1 barang?
-      1 barangbarang
+      1 barang-barang
       1 barangkali
       1 barangmu
       1 barangnya
+      1 barat,
       1 baru?
-      1 baruku
+      1 baruku.
+      1 barunya
+      1 barunya.
       1 barunya?
       1 barusan
+      1 basah,
+      1 basah.
+      1 baseball,
+      1 baseball.
       1 basket?
-      1 bata
-      1 batasku
+      1 bata.
+      1 batas.
+      1 batasku.
       1 baterai
+      1 batu.
+      1 bau
+      1 bau.
       1 bawahnya
       1 bayangan
       1 bayar
@@ -129,114 +215,159 @@
       1 bebek
       1 begini?
       1 begitulah
-      1 beijing
+      1 beijing.
       1 bekal
+      1 bekas
+      1 bekas.
+      1 belakang.
       1 belakangan
-      1 belakangku
-      1 belakangmu
+      1 belakangku,
+      1 belakangmu.
       1 belakangmu?
+      1 belanda
+      1 belanda,
+      1 belanda.
+      1 belanja.
+      1 belas.
       1 belati
+      1 beli.
       1 beliau
+      1 belitung.
       1 belokan
+      1 belum.
+      1 benar!
+      1 benar".
       1 benarkah
       1 bencana
+      1 benci
+      1 benci.
+      1 benda
       1 beneran?
-      1 benfa
-      1 bensin
+      1 bensin.
       1 bentuk
       1 benturkan
       1 benyamin
+      1 bepergian.
       1 bepergian?
-      1 berafaptasi
+      1 beradaptasi
       1 beralkohol
       1 berambut
       1 beranak
-      1 beranfaianfai
+      1 berandai-andai
       1 beranggapan
-      1 berapapun
+      1 berangkat!"
+      1 berapa,
+      1 berapa?"
+      1 berapapun,
       1 berapi
+      1 beras.
       1 beratnya
       1 berbagi
-      1 berbahagialah
+      1 berbahagialah.
       1 berbaring
-      1 berbefa?
-      1 berbelokbelok
+      1 berbaris.
+      1 berbeda?
+      1 berbelanja,
+      1 berbelok-belok.
+      1 berbicara!
+      1 berbicara,
+      1 berbicara.
       1 berbincang
       1 berbisnis
-      1 berbuah
-      1 bercanfa?
+      1 berbohong
+      1 berbohong,
+      1 berbuah.
+      1 bercanda!?
+      1 bercerita
+      1 bercerita.
       1 bercermin?
-      1 bercinta
+      1 bercinta.
+      1 berdansa
+      1 berdansa?
+      1 berdasar,
+      1 berdebat
+      1 berderai
+      1 berderak-derak
+      1 berdua
+      1 berduduk
+      1 berduka
+      1 berduri.
       1 berekreasi
       1 berenangnya
       1 bereputasi
       1 beresiko?
-      1 berfansa
-      1 berfansa?
-      1 berfasar
-      1 berfebat
-      1 berferai
-      1 berferakferak
-      1 berfua
-      1 berfufuk
-      1 berfuka
-      1 berfuri
       1 bergabung
-      1 bergantian
+      1 bergantian.
       1 bergantung
+      1 bergegas
+      1 bergegas.
       1 bergelombang
-      1 berguguran
-      1 bergurau
-      1 berhafapan
-      1 berhafiah
+      1 bergerak!
+      1 bergerak,
+      1 berguguran.
+      1 berguna
+      1 berguna.
+      1 bergurau.
+      1 berhadapan
+      1 berhadiah
       1 berharga
-      1 berhatihati
+      1 berhati-hati.
       1 berhentilah
       1 berhitung
       1 berhubungan
       1 beri
+      1 berikan.
       1 berikutnya?
       1 berima
-      1 berisik
+      1 berisik.
       1 berisiko?
       1 beritaku
       1 beritanya
       1 berjalan?
+      1 berjalan-jalan.
       1 berjani
       1 berjanjilah
-      1 berjoget
+      1 berjoget.
       1 berjongkok
       1 berjuang
       1 berkas
       1 berkat
-      1 berkatakata
-      1 berkelahi
+      1 berkata-kata.
+      1 berkelahi.
       1 berkeliling
       1 berkemah
       1 berkenan
       1 berkencan
-      1 berkenfara
-      1 berkepingkeping
+      1 berkendara.
+      1 berkeping-keping
       1 berkerja
       1 berkonsentrasi
       1 berkontribusi
       1 berkontribusi?
       1 berkualitas
-      1 berkufa
+      1 berkuda
       1 berkumpul
+      1 berkurang
       1 berkurangnya
       1 berlabuh
       1 berlakulah
+      1 berlalu
+      1 berlalu,
       1 berlangsung
-      1 berlawanan
+      1 berlari,
+      1 berlatih,
+      1 berlatih.
+      1 berlawanan.
       1 berlebihan
       1 berliannya
-      1 berlimpah
+      1 berlibur
+      1 berlibur,
+      1 berlimpah.
       1 berlin
       1 berlin?
       1 berlomba
       1 bermanfaat
-      1 bermekaran
+      1 bermekaran.
       1 bermimpi
       1 bermotor
       1 bermuara
@@ -244,664 +375,969 @@
       1 bermuram
       1 bermutu
       1 berniat
-      1 bernilai
+      1 bernilai.
+      1 bernyanyi,
+      1 berolahraga
       1 berpegang
       1 berpengaruh
       1 berpergian
       1 berperilaku
-      1 berpisah
+      1 berpisah,
       1 bersabar
-      1 bersahabat
+      1 bersahabat.
+      1 bersalah
+      1 bersalah!
       1 bersalaman
-      1 bersantai
+      1 bersamamu
+      1 bersamamu.
+      1 bersama-sama
+      1 bersantai.
       1 bersatu
-      1 berselancar
+      1 berselancar.
       1 bersemangat
       1 bersemangat?
-      1 bersenangsenang
+      1 bersenang-senang.
+      1 bersepeda
+      1 bersepeda.
       1 berserakan
+      1 bersih
       1 bersihkan
       1 bersikap
-      1 bersimpati
+      1 bersimpati.
       1 bersinar
       1 berski
+      1 bersosialisasi
+      1 bersosialisasi.
       1 bersumpah
       1 bersungguh
       1 bersyukur
+      1 bertahan
       1 bertahun
+      1 bertambah
+      1 bertambah,
       1 bertamu
       1 bertanya?
-      1 bertanyatanya
+      1 bertanya-tanya
       1 bertaruh
-      1 berteman
+      1 berteman.
+      1 bertemu,
+      1 bertemu.
       1 bertenggang
-      1 berteriak
+      1 bertengkar.
+      1 berteriak.
       1 berterimakasih
       1 berterimakasihlah
-      1 bertetangga
+      1 bertetangga.
       1 bertingkah
+      1 bertiup.
+      1 beruang.
       1 berubah?
       1 berujar
       1 beruntung
+      1 berusaha,
       1 berusahalah
-      1 berwajib
+      1 berwajib.
       1 beserta
+      1 besi
+      1 besi.
+      1 besok!
+      1 besok,
       1 besok?
       1 betapa
       1 betty?
       1 bhinneka
+      1 biasa,
+      1 biasanya.
+      1 biaya,
+      1 biayanya.
       1 bibir
-      1 bicarakan
+      1 bicara,
+      1 bicarakan.
       1 bicaranya
-      1 bijak
+      1 bijak.
+      1 bilang,
       1 bimbinglah
+      1 bin
+      1 bin,
       1 bin?
-      1 binaraga
-      1 bintangbintang?
+      1 binaraga.
+      1 bintang-bintang?
       1 bioskop?
+      1 bir
+      1 bir.
       1 biru?
+      1 bisa!
+      1 bisa.
+      1 bisa."
       1 bisakan
       1 bisnis
       1 bisnya
-      1 bolakbalik
+      1 bob.
+      1 bohong.
+      1 bolak-balik
       1 bolanya
-      1 boleh?
+      1 boleh,
+      1 boleh.
+      1 boleh..?
+      1 bolpoin,
+      1 bolpoin.
       1 bon?
       1 bonaparte
-      1 boneka
+      1 boneka.
+      1 bosan!
+      1 bosku
+      1 bosku.
       1 botol
       1 bowling?
-      1 branfy
-      1 brasil
+      1 brandy
+      1 brasil.
       1 brasil?
       1 brazil?
-      1 brife
-      1 bu
+      1 bride.
+      1 bu.
+      1 buah,
+      1 buatan.
       1 buatlah
-      1 bufakmu
-      1 bufaya
-      1 buffhisme
+      1 budakmu.
+      1 budaya
+      1 buddhisme
       1 bukannya
-      1 bukti
-      1 bukubuku
+      1 bukit,
+      1 bukti.
+      1 buku-buku
       1 bukuku
       1 bukuku?
       1 bulan?
       1 bulu
-      1 bunfar
-      1 bunfarkan
-      1 bungabunga
+      1 bundar.
+      1 bundarkan
+      1 bunga-bunga
       1 bunyi
       1 bunyinya
       1 burj
-      1 buruburu
-      1 burungburung
-      1 burungnya
+      1 buru-buru
+      1 buruk,
+      1 burung-burung
+      1 burungnya!
+      1 bus,
       1 bus?
       1 butuhkan?
-      1 cabul
-      1 cafiz
+      1 cabul.
+      1 cadiz.
       1 cairan
       1 cameron
-      1 campur
-      1 canfaan
-      1 cangkir
-      1 caraku
+      1 campur.
+      1 candaan
+      1 cangkir.
+      1 cantik,
+      1 caraku.
+      1 caranya
+      1 cari.
       1 catatan
-      1 catur
-      1 cavenfon
-      1 cek
-      1 ceko
+      1 catur.
+      1 cavendon.
+      1 cek.
+      1 ceko.
       1 celanaku
       1 center
+      1 cepatlah!
+      1 cerah,
       1 ceri
-      1 ceritakan
+      1 ceria
+      1 ceria,
+      1 ceritakan.
       1 ceritamu
+      1 cina,
       1 cincin
-      1 cincinnya
+      1 cincinnya.
       1 cintaku
       1 cintamu
       1 claus
       1 coba?
-      1 cokelat
-      1 colorafo
-      1 contohnya
+      1 cokelat.
+      1 coklat
+      1 coklat.
+      1 colorado.
+      1 cuaca.
       1 cuciannya
-      1 cucucucunya
+      1 cucu-cucunya.
       1 curah
       1 curang
-      1 cutinya
-      1 earphone
+      1 cutinya.
+      1 da
+      1 dagingnya
+      1 dahulu.
+      1 dahulukan
+      1 dalamnya,
+      1 dampak
+      1 dangkal
+      1 danil
+      1 dapat.
+      1 dapatkan.
+      1 dapurnya
+      1 daratan
+      1 darurat,
+      1 dasar
+      1 data.
+      1 datang?
+      1 daur
+      1 dave
+      1 debat
+      1 dedaunan
+      1 dehidrasi
+      1 dekat,
+      1 dekati
+      1 demikian,
+      1 demikian.
+      1 demokrasi
+      1 denganku
+      1 denganku!
+      1 denganku.
+      1 dengannya?
+      1 dengar,
+      1 dengar.
+      1 depan,
+      1 depanku.
+      1 derajat,
+      1 deras
+      1 desa.
+      1 desainer.
+      1 desamu.
+      1 desas-desus
+      1 dewasa.
+      1 dewasanya
+      1 dhohirnya
+      1 dia!
+      1 dia,
+      1 diagnosa.
+      1 diam
+      1 diam!
+      1 diambang
+      1 diambil
+      1 diamnya
+      1 dianggap
+      1 diangkat.
+      1 diangkut.
+      1 diasuransikan
+      1 diatas.
+      1 diatur
+      1 dibagi
+      1 dibatalkan.
+      1 dibatas
+      1 dibawa
+      1 dibawah
+      1 dibayangkan.
+      1 dibelanjakan?
+      1 diberi.
+      1 diberitahu
+      1 dibersihkan
+      1 dibersihkan.
+      1 dibesarkan
+      1 dibiarkan
+      1 dibonceng
+      1 dibuang.
+      1 dibuat.
+      1 dibuka,
+      1 dibunuh
+      1 dibutuhkan?
+      1 dicari
+      1 dicatat.
+      1 dick
+      1 dicoba?
+      1 dicuci.
+      1 dicuri
+      1 didalam
+      1 didapat,
+      1 didapatkan
+      1 didasari
+      1 didepan
+      1 didepan,
+      1 dideritanya.
+      1 didirikan
+      1 didiskusikan.
+      1 diduduki
+      1 diganggu
+      1 diganti.
+      1 digantikan
+      1 digigit
+      1 digunakan,
+      1 dihantam
+      1 dihati.
+      1 dihindari.
+      1 dihiraukan.
+      1 diikuti.
+      1 dijangkau.
+      1 dijatuhi
+      1 dijelajahi.
+      1 dijunjung.
+      1 dikagumi.
+      1 dikalangan
+      1 dikarenakan
+      1 dikatakannya?
+      1 dikeluarkan
+      1 dikenal.
+      1 diketahui.
+      1 dikuburkan
+      1 dikumpulkan
+      1 dikunjungi
+      1 dilibatkan
+      1 diliburkan
+      1 diluar.
+      1 diluar?
+      1 dilukis
+      1 dimakan.
+      1 dimana!
+      1 dimana?
+      1 dimanfaatkan
+      1 dimata
+      1 dimengerti.
+      1 diminati
+      1 diminta,
+      1 diminta.
+      1 diminum
+      1 diminum.
+      1 dimulai
+      1 dina,
+      1 dina?
+      1 dinaikkan
+      1 dinamakan
+      1 dinas
+      1 dinding
+      1 dingim
+      1 dini.
+      1 dinikahi
+      1 dinyalakan,
+      1 dinyanyikan
+      1 dipakai,
+      1 dipakainya.
+      1 diparkir
+      1 dipatuhi.
+      1 dipecat.
+      1 dipegang
+      1 dipegang.
+      1 dipengaruhi
+      1 dipenjara.
+      1 dipenjarakan.
+      1 diperangkap
+      1 dipercaya.
+      1 dipercayai
+      1 dipergunakan
+      1 diperintah
+      1 dipersilahkan.
+      1 dipertunjukkan
+      1 dipesan.
+      1 dipijak,
+      1 dipinjam
+      1 dipinjami
+      1 dipojokkan.
+      1 dipotong.
+      1 dipraktekkan
+      1 dipuncak
+      1 dipungkiri
+      1 dirancang
+      1 direncanakan.
+      1 diriku.
+      1 dirimu!
+      1 dirimu.
+      1 disampaikan.
+      1 disampingnya.
+      1 disebelahnya.
+      1 disebutkan.
+      1 disediakan
+      1 diselesaikan
+      1 diselesaikan.
+      1 diselimuti
+      1 diseluruh
+      1 disini,
+      1 disini...
+      1 diskusikan
+      1 disukai.
+      1 disutradarai
+      1 ditabrak
+      1 ditakdirkan
+      1 ditangkap
+      1 ditanyai
+      1 ditayangkan
+      1 ditekan
+      1 ditekan,
+      1 ditentukan.
+      1 diterima.
+      1 ditonton.
+      1 ditunda
+      1 ditunggu.
+      1 diturunkan
+      1 ditutup!
+      1 diucapkan
+      1 diundang
+      1 diungkapkan
+      1 dog
+      1 dokumen.
+      1 dolar?
+      1 dompetku.
+      1 dompetnya
+      1 dosen
+      1 douane.
+      1 duda.
+      1 duduklah
+      1 dudukmu!
+      1 duga.
+      1 dulu.
+      1 duluan.
+      1 duluan?
+      1 dunia!
+      1 durja
+      1 duta
+      1 earphone.
+      1 edita.
       1 efek
-      1 efita
-      1 ehnampaknya
+      1 eh，nampaknya
       1 ejaan
       1 eksistensi
-      1 ekspektasinya
+      1 ekspektasinya.
+      1 email
       1 emang
       1 emi
-      1 enggak
+      1 enggak!
       1 engkau
       1 engsel
       1 entah
-      1 entahlah
-      1 enteng
+      1 entahlah,
+      1 enteng.
       1 era
-      1 eraterat
+      1 erat-erat.
       1 es
       1 esok
       1 esoknya
+      1 esperantis,
+      1 esperantis.
+      1 esperanto
+      1 esperanto,
       1 estat
-      1 evakuasi
+      1 estonia
+      1 estonia.
+      1 evakuasi.
       1 explore
-      1 fa
-      1 fagingnya
-      1 fahulukan
-      1 faktanya
+      1 faktanya,
       1 faktor
-      1 falamnya
-      1 fampak
-      1 fangkal
-      1 fanil
-      1 fantastis
-      1 fapatkan
-      1 fapurnya
-      1 faratan
-      1 farurat
-      1 fasar
+      1 fantastis.
       1 fasilitas
-      1 fatang?
-      1 faur
-      1 fave
       1 favoritmu?
-      1 febat
-      1 fefaunan
-      1 fehifrasi
-      1 fekati
-      1 femokrasi
-      1 fengannya?
-      1 fepanku
-      1 fesainer
-      1 fesamu
-      1 fesasfesus
       1 festival
-      1 fewasanya
-      1 fhohirnya
-      1 fiagnosa
-      1 fiambang
-      1 fiambil
-      1 fiamnya
-      1 fianggap
-      1 fiangkat
-      1 fiangkut
-      1 fiasuransikan
-      1 fiatur
-      1 fibagi
-      1 fibatalkan
-      1 fibatas
-      1 fibawa
-      1 fibawah
-      1 fibayangkan
-      1 fibelanjakan?
-      1 fiberi
-      1 fiberitahu
-      1 fibesarkan
-      1 fibiarkan
-      1 fibonceng
-      1 fibuang
-      1 fibunuh
-      1 fibutuhkan?
-      1 ficari
-      1 ficatat
-      1 fick
-      1 ficoba?
-      1 ficuci
-      1 fifalam
-      1 fifapat
-      1 fifapatkan
-      1 fifasari
-      1 fiferitanya
-      1 fifirikan
-      1 fifiskusikan
-      1 fifufuki
-      1 figanggu
-      1 figanti
-      1 figantikan
-      1 figigit
-      1 fihantam
-      1 fihati
-      1 fihinfari
-      1 fihiraukan
-      1 fiikuti
-      1 fijatuhi
-      1 fijelajahi
-      1 fiji
-      1 fijunjung
-      1 fikagumi
-      1 fikalangan
-      1 fikarenakan
-      1 fikatakannya?
-      1 fiketahui
-      1 fiksi
-      1 fiksinya
-      1 fikuburkan
-      1 fikumpulkan
-      1 fikunjungi
-      1 filibatkan
-      1 filiburkan
-      1 filsafat
-      1 filuar?
-      1 filukis
-      1 fimana?
-      1 fimanfaatkan
-      1 fimata
-      1 fimengerti
-      1 fiminati
-      1 fina
-      1 fina?
-      1 finaikkan
-      1 finamakan
+      1 fiji.
+      1 fiksi.
+      1 fiksinya.
+      1 filsafat.
       1 finansial
-      1 finas
-      1 fingim
-      1 fini
-      1 finikahi
-      1 finyalakan
-      1 finyanyikan
-      1 fipakainya
-      1 fiparkir
-      1 fipatuhi
-      1 fipengaruhi
-      1 fipenjara
-      1 fipenjarakan
-      1 fiperangkap
-      1 fipercaya
-      1 fipercayai
-      1 fipergunakan
-      1 fiperintah
-      1 fipersilahkan
-      1 fipertunjukkan
-      1 fipesan
-      1 fipijak
-      1 fipinjam
-      1 fipinjami
-      1 fipojokkan
-      1 fipotong
-      1 fipraktekkan
-      1 fipuncak
-      1 fipungkiri
-      1 firancang
-      1 firencanakan
-      1 fisampaikan
-      1 fisampingnya
-      1 fisebelahnya
-      1 fisebutkan
-      1 fisefiakan
-      1 fiselimuti
-      1 fiseluruh
-      1 fisika
-      1 fiskusikan
-      1 fisutrafarai
-      1 fitabrak
-      1 fitakfirkan
-      1 fitangkap
-      1 fitanyai
-      1 fitayangkan
-      1 fitentukan
-      1 fiterima
-      1 fitonton
-      1 fitunfa
-      1 fitunggu
-      1 fiturunkan
-      1 fiucapkan
-      1 fiunfang
-      1 fiungkapkan
-      1 flu
-      1 fog
-      1 fokumen
-      1 folar?
-      1 fompetku
-      1 fompetnya
-      1 fosen
+      1 fisika.
+      1 flu.
+      1 formulir.
+      1 foto,
       1 fotografi
-      1 fouane
-      1 fufa
-      1 fufuklah
-      1 fufukmu
-      1 fuga
-      1 fuji
+      1 fuji,
       1 fuji?
-      1 fuluan
-      1 fuluan?
-      1 furja
-      1 futa
+      1 gajinya
+      1 gajinya.
       1 gak
       1 galaksi
       1 gambar
       1 gang
-      1 gangguan
-      1 gantungan
-      1 garasi
+      1 gangguan,
+      1 gantungan.
+      1 garam
+      1 garam."
+      1 garasi,
       1 garasinya
+      1 garpu
+      1 garpu.
       1 gas
       1 gate
-      1 gaunnya
-      1 gefe
+      1 gaunnya.
+      1 gay,
+      1 gay.
+      1 gede
       1 gejala
       1 gelombang
       1 gemar
-      1 gentar
+      1 gempa
+      1 gempa.
+      1 gemuk,
+      1 gentar,
       1 genting
       1 george
       1 geraham
       1 gerahamku
       1 gerbangnya
-      1 get
+      1 gereja.
+      1 giat
+      1 gigi,
       1 gigitan?
+      1 gila
+      1 giliran
+      1 giliran.
       1 ginjal
-      1 gitarmu
+      1 gitar
+      1 gitarmu.
       1 global
-      1 golf
-      1 golfen
-      1 googleterjemahan
+      1 golden
+      1 golf.
+      1 google-terjemahan.
       1 goreng
       1 gorila
-      1 gramatik
+      1 gram.
+      1 gramatik.
+      1 gratis.
       1 grup
       1 gugup
+      1 gugur,
       1 gulai
       1 gulanya
       1 gulat
-      1 guna
+      1 guna.
       1 gunting
+      1 guru,
       1 guru?
       1 gurunya
       1 habiskan
+      1 hadir.
+      1 hadirin
       1 hafal
-      1 hafirin
-      1 halhal
+      1 hai.
+      1 hal.
+      1 hal-hal
       1 halilintar
       1 halnya
-      1 halus
+      1 halo!
+      1 halo.
+      1 halte
+      1 halte.
+      1 halus.
       1 hamba
-      1 hambatan
-      1 hamil
-      1 hantunya
+      1 hambatan,
+      1 hamil,
+      1 hangat
+      1 hangat,
+      1 hantunya.
       1 harapan
-      1 hargaharga
+      1 harga-harga
       1 harganya?
       1 hari?
-      1 hashimoto
+      1 harus.
+      1 hashimoto.
       1 hasil
       1 hasilnya
       1 hasilnya?
-      1 hathati
+      1 hat-hati
+      1 hati,
       1 hatiku
+      1 hatimu
+      1 hatimu.
       1 hatinya
-      1 hei
-      1 helm
-      1 henfak
-      1 henti
+      1 hei,
+      1 helm.
+      1 hendak
+      1 henti.
+      1 hewan.
       1 hias
-      1 hifungnya
-      1 hifupkan
-      1 hifupmu
+      1 hidungnya
+      1 hidupkan.
+      1 hidupku.
+      1 hidupmu.
+      1 hidupnya.
+      1 hilang!
       1 hilangkan
-      1 himalaya
-      1 hinfari
-      1 hinfu
-      1 hiragana
+      1 himalaya.
+      1 hindari.
+      1 hindu
+      1 hiragana,
       1 hirosi
       1 historis
+      1 hitam,
+      1 hitam.
       1 hitam?
+      1 hitung
+      1 hitung.
       1 hobinya
-      1 hollywoof
-      1 homo
+      1 hollywood
+      1 homo.
+      1 hormat
+      1 hormat",
       1 hot
-      1 hotelnya
-      1 hotfog
+      1 hotdog
+      1 hotelnya.
       1 hubungan
       1 hubunganmu
       1 hubungi
       1 hujan?
+      1 hukum
+      1 hukum.
+      1 hukuman
+      1 hukuman!
       1 humor
-      1 hutang
+      1 hutang.
       1 ialah
       1 iblis
+      1 ibuku,
+      1 ibuku.
       1 ibumu?
       1 ichiro
-      1 ifar
-      1 ifeifenya
-      1 ifenya
-      1 ifiot
-      1 ifiot?
+      1 idar
+      1 ide-idenya
+      1 idenya.
+      1 idiot.
+      1 idiot?
       1 iga?
-      1 ika
+      1 ika.
+      1 ikan,
       1 ikhlas
       1 iklan
       1 iklim
+      1 ikut.
       1 ikut?
       1 ikuti
       1 ikutilah
       1 ilegal
       1 ilmiah
       1 ilmu
-      1 imigrasi
+      1 imigrasi.
       1 impiannya
+      1 imut
       1 in
-      1 infahnya
-      1 infikator
-      1 ingatanku
+      1 indah,
+      1 indah."
+      1 indahnya
+      1 indikator
+      1 indonesia,
+      1 industri
+      1 industri.
+      1 informasi.
+      1 ingat!
+      1 ingat.
+      1 ingatanku.
       1 ingatanmu
-      1 inggeris
+      1 inggeris.
+      1 inggris!
       1 inggrismu?
+      1 ingin,
+      1 inginkan!
+      1 inginkan.
       1 inginkan?
+      1 inilah,
       1 inisial
       1 inovasi
       1 inspirasi
       1 instrumen
-      1 instrumental
+      1 instrumental.
       1 intan
       1 integritas
       1 internasional
       1 internetku
-      1 interview
+      1 interview.
       1 intinya
       1 introspeksilah
-      1 isinya
+      1 isinya.
       1 israel?
-      1 istiafat
-      1 istrimu
+      1 istiadat
+      1 istri.
+      1 istrimu,
       1 isyarat
       1 italia
       1 italy
-      1 itami
+      1 itami.
+      1 itu",
+      1 itulah.
       1 izinkan
-      1 jafikan
-      1 jafinya
-      1 jafwal
+      1 jack
+      1 jack.
+      1 jadikan
+      1 jadinya
+      1 jadwal.
       1 jago
       1 jakarta
-      1 jala
-      1 jalanku
+      1 jala.
+      1 jalanan.
+      1 jalanku.
+      1 jalannya,
       1 james
       1 jamin
       1 jaminan
+      1 jamnya
+      1 jamnya.
+      1 janda.
       1 jane
-      1 janfa
-      1 janjinya
-      1 jantan
-      1 jantung
+      1 janji.
+      1 janjinya.
+      1 jantan.
+      1 jantung.
       1 januari
       1 jarak
       1 jaraknya
+      1 jas,
+      1 jas.
+      1 jasku.
+      1 jasmu!
+      1 jatuh,
+      1 jatuh.
+      1 jauh,
+      1 jauh.
       1 jawabanmu
-      1 jawabannya
+      1 jawabannya.
+      1 jebakan
+      1 jebakan.
       1 jejak
       1 jelaskan
+      1 jembatan.
       1 jemuran
       1 jengkal
+      1 jerman
+      1 jerman?"
       1 jeruk
       1 jet
       1 jikalau
-      1 johanes
-      1 jos
-      1 jufi
-      1 jufy
-      1 juni
+      1 jim.
+      1 jiwa.
+      1 johanes.
+      1 john.
+      1 josé
+      1 judi.
+      1 judy
+      1 juli
+      1 juli.
+      1 juni.
       1 junior
       1 juta
       1 jutaan
-      1 jutawan
+      1 jutawan.
       1 juzo
+      1 kabar?
+      1 kabar?"
       1 kabarmu
       1 kabarnya
-      1 kabut
-      1 kafo
+      1 kabut.
+      1 kaca!
+      1 kado
+      1 kafe
+      1 kafe,
       1 kaitan
       1 kakaknya?
-      1 kakekku
+      1 kakekku.
       1 kakeku
       1 kalanya
+      1 kalender.
       1 kalo
-      1 kamarmu
+      1 kamarku
+      1 kamarku.
+      1 kamarmu.
+      1 kamarnya
+      1 kamarnya,
       1 kambing
+      1 kamera.
       1 kameraku
       1 kamis
+      1 kamu"
+      1 kamu,
       1 kamulah
-      1 kanakkanak
-      1 kanfang
-      1 kanfungannya
+      1 kan
+      1 kan.
+      1 'kan?
+      1 kanada,
+      1 kanak-kanak.
+      1 kandang
+      1 kandungannya
       1 kangen
       1 kanjinya
-      1 kantorku
+      1 kantin,
+      1 kantor.
+      1 kantorku.
       1 kantormu
       1 kantornya
       1 kanvas
-      1 kapalku
+      1 kapalku.
       1 kapalnya
+      1 kapan.
       1 kapanpun
+      1 karaoke
       1 karen
-      1 karirnya
-      1 karyawannya
+      1 karirnya.
+      1 karyawannya.
+      1 kaset
+      1 kasih,
+      1 kasih."
       1 kasti
-      1 kasur
+      1 kasur.
       1 kasus
-      1 katak
-      1 katakataku
-      1 katakatanya
-      1 kataku
-      1 katapun
-      1 kayaraya
-      1 kazak
-      1 keafaannya?
+      1 katak.
+      1 katakana
+      1 katakana.
+      1 kata-kataku
+      1 kata-katanya.
+      1 kataku.
+      1 katanya.
+      1 katapun.
+      1 kaya,
+      1 kaya.
+      1 kaya-raya.
+      1 kayu
+      1 kayu.
+      1 kazak.
+      1 kazuko
+      1 kazuko.
+      1 keadaannya?
+      1 kebahagiaan.
       1 kebahagiaannya
-      1 kebahagian
-      1 kebaikan
-      1 kebaikannya
+      1 kebahagian.
+      1 kebaikan.
+      1 kebaikannya.
       1 kebajikan
+      1 kebakaran
+      1 kebakaran.
       1 kebebasan
+      1 kebenaran
+      1 kebencian
+      1 kebencian.
       1 keberangkatannya
       1 keberaniannya
       1 keberhasilan
-      1 kebetulan
-      1 kebocoran
-      1 kebufayaan
+      1 kebersihan
+      1 kebersihan.
+      1 kebetulan.
+      1 kebiasaan
+      1 kebiasaan.
+      1 kebocoran.
+      1 kebudayaan
       1 kebutuhan
-      1 kebutuhanmu
+      1 kebutuhanmu.
       1 kecantikan
-      1 kecantikannya
-      1 kecenferungan
+      1 kecantikannya,
+      1 kecap
+      1 kecelakaan.
+      1 kecenderungan
       1 kecepatan
-      1 kecewa
+      1 kecewa.
+      1 kecil,
       1 kecintaan
       1 kecoa
-      1 kefaikefai
-      1 kefamaian
-      1 kefatangannya
-      1 kefelapan
-      1 kefepan
-      1 kefuanya
+      1 kedai.
+      1 kedai-kedai
+      1 kedamaian
+      1 kedatangannya.
+      1 kedelapan
+      1 kedepan.
+      1 kedua.
+      1 keduanya
+      1 kedutaan
+      1 kedutaan,
       1 kegagalan
-      1 kegiatan
-      1 keharusan
+      1 kegiatan.
+      1 keharusan.
+      1 kehidupan.
       1 kehormatan
-      1 kehormatannya
+      1 kehormatannya.
       1 keiko
-      1 kejafian
-      1 kejam
+      1 keinginan,
+      1 kejadian
+      1 kejam.
       1 keju
       1 kejujuran
       1 kejutan?
       1 kekal
       1 kekalahan
-      1 kekecilan
+      1 kekalahannya
+      1 kekecilan.
       1 kekeringan
-      1 kekuatanku
-      1 kelahirannya
+      1 kekuatanku.
+      1 kelahirannya.
       1 kelak
       1 kelalaian
       1 kelamaan
       1 kelasku
-      1 kelayang
-      1 kelelawar
+      1 kelasmu!
+      1 kelasmu.
+      1 kelayang.
+      1 kelelawar.
       1 kelihatannya?
       1 keliling
       1 kelinci
       1 kelompok
+      1 keluar,
       1 keluargamu
+      1 keluarkan.
+      1 keluhanmu
+      1 keluhanmu.
       1 kemampuan
-      1 kemampuanku
-      1 kemampuanmu
-      1 kemanamana
-      1 kemarahannya
-      1 kemauan
+      1 kemampuanku.
+      1 kemampuanmu.
+      1 kemana-mana
+      1 kemarahannya.
+      1 kemaren.
+      1 kemari.
+      1 kematian.
+      1 kemauan,
+      1 kembali!
       1 kembalikan
-      1 kembar
+      1 kembar.
+      1 kempes
+      1 kempes.
       1 kempis
+      1 kemudian!
       1 kemurnian
+      1 ken.
       1 ken?
       1 kena
       1 kenal?
       1 kenalan
-      1 kenalannya
+      1 kenalannya.
       1 kencangkan
       1 kencanku
       1 kencanmu
       1 kenji?
-      1 kenyataannya
-      1 kepafanya
+      1 kenyang,
+      1 kenyang.
+      1 kenyataannya,
+      1 kepadanya.
+      1 kepala,
       1 kepalaku
+      1 kepalamu
+      1 kepalamu.
+      1 kepalanya
+      1 kepalanya.
       1 keperawanan
-      1 kepribafian
-      1 kepulauan
+      1 kepercayaan
+      1 kepercayaan,
+      1 kepribadian
+      1 kepulauan.
       1 kepunahan
-      1 keraguanraguan
-      1 keraskeras
-      1 kerasmu
+      1 keraguan-raguan
+      1 keras-keras
+      1 kerasmu.
       1 kerasnya
-      1 keren
+      1 keren!
       1 kerena
+      1 kereta,
       1 kereta?
+      1 kerjakan
+      1 kerjakan.
       1 kerjakan?
-      1 kerufung
+      1 kerudung
       1 kerugiannya
       1 kerumahmu
-      1 kesalahankesalahan
-      1 kesalahpahaman
+      1 kesalahan.
+      1 kesalahan-kesalahan.
+      1 kesalahpahaman.
       1 kesamaan
       1 kesan
       1 kesana
       1 kesana?
-      1 kesefihannya
+      1 kesedihannya
       1 kesehatannya
       1 keselamatan
       1 kesembuhan
       1 kesempatan
-      1 kesepian
-      1 ketakutan
+      1 kesepian.
+      1 kesulitan
+      1 kesulitan,
+      1 ketakutan.
       1 ketemu
-      1 keterlambatannya
+      1 keterlambatannya.
       1 ketertarikan
       1 ketinggian
       1 ketuk
@@ -912,120 +1348,186 @@
       1 khusus
       1 kiamat
       1 kibune
-      1 kiev
-      1 kilo
+      1 kiev.
+      1 kilo.
+      1 kilometer
+      1 kilometer.
       1 kini
+      1 kipas!
       1 kiriman
       1 kirimkan
       1 kirinya
       1 kisah
       1 kita?
-      1 kitafake
-      1 klasik
-      1 kleopatra
+      1 kitadake.
+      1 klasik.
       1 kocok
-      1 koin
-      1 koko
+      1 koin.
+      1 koko,
       1 koleksi
       1 kolera
       1 koma
       1 komputer?
-      1 komputerku
+      1 komputerku.
       1 komputernya
       1 koneksi
-      1 konteks
+      1 konteks.
       1 koper
+      1 kopi,
+      1 koran,
       1 koranku?
       1 koreksi
-      1 korsika
+      1 korsika.
       1 kosa
+      1 kosong
+      1 kota,
       1 kota?
-      1 kotakota
-      1 kran
-      1 krefit?
-      1 krefitmu
+      1 kota-kota
+      1 kotor
+      1 kran.
+      1 kredit?
+      1 kreditmu.
+      1 krim
+      1 krim.
+      1 kriminal,
+      1 kriminal.
       1 krimnya
-      1 kritik
-      1 kritikan
+      1 kritik.
+      1 kritikan.
       1 kroasia
-      1 kualitas
+      1 kualitas.
       1 kualitasnya
+      1 kuat,
+      1 kuatir
       1 kubantu
       1 kubawa
       1 kubawakan
-      1 kubayar
+      1 kubayar,
       1 kuberi
       1 kuberikan
       1 kubilang
-      1 kubisa
-      1 kubur
-      1 kucari
+      1 kubisa.
+      1 kubur.
+      1 kucari.
+      1 kucing,
       1 kucingku
-      1 kucingkucing
-      1 kufakufa
-      1 kufanya
-      1 kufengar
+      1 kucing-kucing
+      1 kuda.
+      1 kuda-kuda
+      1 kudanya
+      1 kudengar
+      1 kuenya.
       1 kugantungkan
+      1 kuil
+      1 kuil.
       1 kuis
       1 kukira
       1 kuku
       1 kukuku
+      1 kuliah,
       1 kuliahnya
       1 kulihat
       1 kulit
       1 kumpulan
       1 kumpulkan
+      1 kunci,
+      1 kunci.
       1 kuncinya
-      1 kunming
-      1 kurakura
+      1 kuning.
+      1 kunming.
+      1 kuno.
+      1 kura-kura
       1 kurangi
+      1 kursi.
       1 kurun
+      1 kurus
+      1 kurus.
       1 kutu
       1 kutub
+      1 kyoto
       1 laboratorium?
-      1 lakilakiku
+      1 lagi!
+      1 lagu.
+      1 lain-lain
+      1 lainnya,
+      1 lainnya.
+      1 laki-laki,
+      1 laki-lakiku
+      1 laki-lakimu
+      1 laki-lakimu,
       1 laku
       1 lakukankanlah
-      1 lamanya
+      1 lamanya.
       1 lamaran
+      1 lancar
+      1 langit!
+      1 langit.
       1 langka
+      1 langsung.
       1 lanjuti
       1 lanjutkan
+      1 lapar
+      1 lapar..
       1 lapar?
-      1 lapis
+      1 lapis.
       1 laporan
+      1 laporanku
+      1 laporanku.
       1 laptop
-      1 lapuk
-      1 larilari
+      1 lapuk.
+      1 lari!
+      1 lari-lari
       1 larinya
-      1 lautan
-      1 lautnya
+      1 larut,
+      1 larut.
+      1 latihan
+      1 latihan.
+      1 laut,
+      1 lautan.
+      1 lautnya.
       1 layak
       1 layaknya
-      1 layanglayang
+      1 layang-layang.
       1 lazim
       1 lebarnya
-      1 lefakan
+      1 lebih.
+      1 ledakan
       1 lelakiku
-      1 lelakimu
+      1 lelakimu,
+      1 lelap
+      1 lelap.
+      1 lelucon
+      1 lelucon.
       1 lelucon?
-      1 lemah
-      1 lembut
+      1 lemah.
+      1 lemari.
+      1 lembar.
+      1 lembur
+      1 lembur.
+      1 lembut.
       1 lemon
       1 lenyap
-      1 leonarfo
+      1 leonardo
       1 lepaskan
       1 letakkan
+      1 lewat!
       1 lewati
-      1 lezat
-      1 lho
-      1 liar
+      1 lezat,
+      1 lho!
+      1 liar.
       1 liberty?
+      1 libur,
       1 libur?
+      1 liburan!
       1 licin
-      1 lifah
-      1 lifahnya
+      1 lidah.
+      1 lidahnya
+      1 lift
+      1 lift,
+      1 lift.
       1 lift?
+      1 lihat!
+      1 lihat,
       1 lihat?
       1 lihatlah
       1 lilin
@@ -1035,82 +1537,121 @@
       1 lisa?
       1 lisan
       1 listrik
+      1 loket
       1 lolos
       1 lomba
-      1 lompat
+      1 lompat.
       1 lompatlah
-      1 lonceng
+      1 lonceng,
       1 longgar
-      1 longsor
-      1 loretta
-      1 lorong
+      1 longsor.
+      1 loretta.
+      1 lorong.
+      1 luang
       1 luangnya
       1 luarnya
-      1 lucifera
-      1 lufoviko
-      1 luka
+      1 lubang.
+      1 lucifera.
+      1 lucu!
+      1 ludoviko.
+      1 luka.
       1 lumrah
       1 lupakan
-      1 luxembourg
+      1 lusa.
+      1 luxembourg.
+      1 maaf!
+      1 mabuk
       1 macam
-      1 macammacam
-      1 macet
+      1 macam-macam
+      1 macet.
       1 mafia
-      1 magfa
-      1 magfalena
+      1 magda
+      1 magdalena
       1 mah
       1 maha
+      1 mahasiswa.
       1 maigo
+      1 main.
       1 mainan
-      1 mainkan
+      1 mainkan,
       1 mainkan?
+      1 makan,
       1 makan?
       1 makanan?
+      1 makananmu!
+      1 makananmu.
+      1 makanlah
+      1 makanlah.
+      1 makasih
+      1 makasih!
+      1 makasih.
       1 makhluk
-      1 maksufku
-      1 maksufmu
-      1 maksufnya
-      1 mal
+      1 maksudku,
+      1 maksudmu.
+      1 maksudnya
+      1 mal.
       1 malah
-      1 malaikat
+      1 malaikat.
       1 malam?
       1 malamnya
       1 malan
       1 malang
-      1 mama
+      1 malu,
+      1 mama,
       1 mampir?
+      1 mampu.
       1 manajer
       1 manapun
-      1 mancung
+      1 mancung.
+      1 mandela.
+      1 mandilah
+      1 mandiri
       1 manfaat
-      1 manfela
-      1 manfilah
-      1 manfiri
       1 mangga
+      1 mangkuk
+      1 mangkuk.
       1 manna
+      1 mantel
       1 manusia?
       1 mara
       1 marc
       1 maret
       1 margaku
+      1 maria,
       1 marie
       1 mariko
       1 markus
-      1 marry
-      1 mars
-      1 masalahku
-      1 masjif
+      1 marry.
+      1 mars.
+      1 masakan.
+      1 masalah!
+      1 masalahku.
+      1 masalahnya.
+      1 masjid
       1 mask
       1 masuk?
+      1 masyarakat
+      1 masyarakat.
+      1 mata,
       1 mataku
-      1 matematikawan
+      1 matematika.
+      1 matematikawan.
+      1 mati,
+      1 matikan!
       1 mayat
       1 mebel
-      1 mefan
+      1 medan.
+      1 mei
+      1 mei.
+      1 meja!
+      1 meja,
+      1 meja."
       1 mekanis?
       1 melafalkan
-      1 melahirkan
+      1 melahirkan.
       1 melaju
+      1 melakukan.
+      1 melakukannya!"
       1 melamar
       1 melamun
       1 melanggar
@@ -1120,29 +1661,36 @@
       1 melaporkannya
       1 melarikan
       1 melawan
-      1 melefak
+      1 meledak.
       1 melekat
+      1 melelahkan
+      1 melelahkan.
       1 melemah
-      1 meleset
+      1 meleset.
       1 meletakannya
-      1 melihatmu
-      1 melintas
+      1 melihat.
+      1 melihatku
+      1 melihatku,
+      1 melihatmu.
+      1 melintas.
       1 melontarkan
       1 meluap
-      1 melukaimu
+      1 melukaimu.
       1 melupakanku
       1 melupakanku?
-      1 melupakannya
-      1 memaafkanku
+      1 melupakannya.
+      1 memaafkanku.
       1 memaafkanku?
-      1 memahamiku
-      1 memahaminya
+      1 memahamiku.
+      1 memahaminya,
       1 memainkan
       1 memajukan
       1 memaksa
       1 memaksanya
       1 memalukan
-      1 memanfang
+      1 memancing,
+      1 memancing.
+      1 memandang
       1 memanggilmu
       1 memanggilnya
       1 memanjangkannya?
@@ -1150,62 +1698,80 @@
       1 memastikan
       1 membaca?
       1 membagi
+      1 membahagiakan
+      1 membahagiakan.
       1 membakar
       1 membalas
       1 membangunkan
-      1 membangunkanku
+      1 membangunkanku.
+      1 membantuku!
+      1 membantuku.
+      1 membantunya
+      1 membantunya.
       1 membawakanku
       1 membawamu
       1 membawanya
       1 membawanya?
       1 membayangkan
+      1 membayar.
       1 membayar?
-      1 membayarnya
-      1 membefah
-      1 membefakan
+      1 membayarnya.
+      1 membedah
+      1 membedakan
       1 membeku
-      1 membelalak
+      1 membelalak.
       1 membelikannya
       1 membelinya
       1 membenci
-      1 membenciku
-      1 membencimu
+      1 membenciku.
+      1 membencimu.
       1 membentak
       1 memberhentikan
+      1 memberi,
       1 memberiku
       1 memberimu
-      1 memberkatimu
+      1 memberkatimu!
       1 membiarkanmu
       1 membiarkannya
       1 membicarakan
       1 membicarakannya
-      1 membifik
+      1 membidik
       1 memborgol
+      1 membosankan
       1 membuatmu
       1 membubuhkan
       1 membujuknya
       1 membuktikan
-      1 membuktikannya
+      1 membuktikannya!
       1 membungkukkan
-      1 membunuhku
+      1 membunuhku.
       1 memburu
-      1 memburuk
+      1 memburuk.
+      1 membutuhkannya
+      1 membutuhkannya.
       1 memecatmu
       1 memecatmu?
       1 memelihara
-      1 memeriksanya
+      1 memeriksanya.
+      1 memesan.
       1 memetik
       1 memicu
       1 memikat
-      1 memikirkanku
-      1 memilihnya
+      1 memikirkanku.
+      1 memilih.
+      1 memilihnya.
       1 meminjamkanku
       1 memintamu
       1 meminum
       1 memohon
-      1 memotongnya
+      1 memotongnya.
       1 memperbaiki
-      1 memperfebatkan
+      1 memperbaikinya,
+      1 memperbaikinya.
+      1 mempercayaiku
+      1 mempercayaiku.
+      1 memperdebatkan
+      1 memperhatikan.
       1 memperingatkan
       1 memperingatkanmu?
       1 memperkenalkan
@@ -1214,21 +1780,28 @@
       1 memperpanjang
       1 mempersiapkan
       1 mempertimbangkan
-      1 memperumitnya
-      1 memprofuksi
+      1 memperumitnya.
+      1 memproduksi
+      1 memuaskan
+      1 memungkinkan,
+      1 memungkinkan.
       1 memungut
       1 memutar
-      1 memutih
+      1 memutih.
       1 menaiki
+      1 menakjubkan!
+      1 menakjubkan.
       1 menambahnya
       1 menanam
       1 menancap
+      1 menang!
       1 menangani
       1 menanganinya
       1 menanggung
       1 menangislah
-      1 menantikannya
+      1 menantikannya.
       1 menari?
+      1 menarik,
       1 menatap
       1 menatapku
       1 menawar
@@ -1237,151 +1810,177 @@
       1 mencarikan
       1 mencarinya
       1 mencintaimu
+      1 mencintainya,
       1 mencintainya?
-      1 mencucinya
+      1 mencoba,
+      1 mencoba.
+      1 mencuci.
+      1 mencucinya.
       1 mencucukkan
       1 mencukur
+      1 mencuri.
+      1 mendadak
+      1 mendapatkannya?
+      1 mendasar
+      1 mendekati
+      1 mendengar.
+      1 mendengarkanmu
+      1 mendengarnya.
+      1 mendengarnya?
+      1 mendengkur.
+      1 menderita.
+      1 mendidih
+      1 mendirikan
+      1 mendorongku
+      1 mendownloadnya
+      1 mendung
       1 menebak
       1 meneleponmu
+      1 meneleponnya
+      1 meneleponnya.
+      1 menelpon.
       1 menelponmu
       1 menemani
       1 menembakkan
-      1 menembaknya
+      1 menembaknya.
       1 menembus
       1 menemuimu
       1 menemuinya
-      1 menemukannya
-      1 menenangkan
-      1 menengah
-      1 menentukannya
+      1 menemukannya.
+      1 menenangkan.
+      1 menengah.
+      1 menentukannya.
       1 menepati
       1 menepuk
       1 menerimal
-      1 menerimanya
+      1 menerimanya,
       1 menerjemahkan
-      1 menertawakannya
+      1 menertawakannya.
       1 menetap
-      1 menfafak
-      1 menfapatkannya?
-      1 menfasar
-      1 menfekati
-      1 menfengarkanmu
-      1 menfengarnya?
-      1 menfengkur
-      1 menferita
-      1 menfifih
-      1 menfirikan
-      1 menforongku
-      1 menfownloafnya
-      1 mengabaikanmu
-      1 mengafuk
+      1 mengabaikanmu.
+      1 mengaduk
+      1 mengagumkan!
       1 mengajak
       1 mengajarimu
       1 mengajukan
       1 mengakhiri
       1 mengaku
       1 mengalahkanku
-      1 mengamatinya
+      1 mengamatinya.
       1 menganalisis
-      1 menganfung
-      1 menganggapmu
+      1 mengandung
       1 mengantuk
       1 mengantuk?
+      1 mengapa.
       1 mengapa?
       1 mengasah
       1 mengasuh
+      1 mengatakannya.
       1 mengawasi
       1 mengecilkan
-      1 mengejarmu
-      1 mengejutkan
+      1 mengejarmu.
+      1 mengejutkan.
       1 mengekspresikan
       1 mengelabui
-      1 mengeluarkanmu
+      1 mengeluarkanmu.
       1 mengeluhkan
-      1 mengemis
-      1 mengemufi
+      1 mengemis,
+      1 mengemudi
       1 mengenakan
-      1 mengenakkan
-      1 mengenalku
-      1 mengenfarainya
-      1 mengental
+      1 mengenakkan.
+      1 mengenalku.
+      1 mengendarainya.
+      1 mengental.
       1 mengerikan?
+      1 mengerti!
       1 mengerti?
-      1 mengganggu
+      1 menggambar
+      1 mengganggu.
       1 mengganggumu
       1 mengganti
       1 menggantikan
       1 menggantung
-      1 menggelikan
-      1 menggelinfing
+      1 menggelikan.
+      1 menggelinding
       1 menggenggam
-      1 menggigit
+      1 menggigit.
       1 menggila?
       1 menggonggong
+      1 menghadirinya.
       1 menghafalkan
-      1 menghafirinya
       1 menghancurkan
       1 menghargai
       1 mengharuskan
       1 menghentikan
-      1 menghiburnya
-      1 menghinfar
+      1 menghiburnya,
+      1 menghindar
       1 menghisap
       1 menghubungiku
       1 menghubunginya
       1 mengijinkan
       1 mengijinkannya
-      1 mengikutiku
-      1 mengikutinya
+      1 mengikutiku.
+      1 mengikutinya.
       1 mengingatkan
       1 mengingatkanku
+      1 menginginkan,
       1 menginjak
       1 mengirimi
       1 mengisi
       1 mengisyaratkan
-      1 mengkhawatirkannya
+      1 mengkhawatirkannya.
       1 mengkoleksi
       1 mengobrol
       1 mengumumkan
       1 mengunci
-      1 menguncinya
-      1 mengunfangku
-      1 mengunfurkan
+      1 menguncinya.
+      1 mengundangku
+      1 mengundurkan
       1 mengunjungimu
       1 mengurangi
       1 mengurus
       1 menikah?
-      1 meninfas
-      1 meninggalkanmu
+      1 menindas
+      1 meninggal,
+      1 meninggalkanmu.
       1 meninggalnya
-      1 menipumu
+      1 menipumu.
       1 meniru
+      1 menit,
       1 menitan
-      1 menjagaku
-      1 menjagamu
+      1 menjagaku.
+      1 menjagamu.
       1 menjalani
       1 menjarah
       1 menjatuhkan
-      1 menjawabnya
+      1 menjawabnya.
       1 menjejerkan
       1 menjelajah
       1 menjelaskan
       1 menjelaskannya
-      1 menjualnya
+      1 menjualnya.
       1 menjumpai
-      1 menolongku
+      1 menolongku.
+      1 menolongnya,
+      1 menolongnya.
+      1 mentega
+      1 mentega,
       1 menteri
       1 menterjemahkan
       1 menuang
+      1 menuduh
+      1 menuduh.
+      1 menulis,
       1 menuliskan
       1 menumpuk
-      1 menunfa
+      1 menunda
       1 menunggang
       1 menunggangi
-      1 menungguku
-      1 menunggunya
+      1 menungguku.
+      1 menunggunya.
       1 menuruni
       1 menurunkanmu
+      1 menutup.
       1 menyajikan
       1 menyakinkan
       1 menyaksikan
@@ -1390,33 +1989,40 @@
       1 menyalami
       1 menyambut
       1 menyampo
-      1 menyanfarkan
+      1 menyandarkan
+      1 menyanyi.
       1 menyarankan
       1 menyaring
       1 menyatakan
-      1 menyebalkan
-      1 menyebarkannya
+      1 menyebalkan.
+      1 menyebarkannya.
       1 menyebrang
       1 menyebrangi
+      1 menyedihkan
+      1 menyedihkan.
       1 menyelamatkan
       1 menyemangati
-      1 menyemangatkan
+      1 menyemangatkan.
       1 menyembah
       1 menyembunyikan
+      1 menyenangkan!
       1 menyentuh
+      1 menyerah
+      1 menyerah,
       1 menyerahkannya
       1 menyeramkan
-      1 menyianyiakan
+      1 menyetir.
+      1 menyia-nyiakan
       1 menyiapkan
       1 menyikat
       1 menyimpannya
-      1 menyinggungnya
+      1 menyinggungnya.
       1 menyingkirkan
       1 menyiram
       1 menyiramkan
       1 menyisir
-      1 menyukaimu
-      1 menyumpah
+      1 menyukaimu.
+      1 menyumpah.
       1 menyuruhku
       1 meragukan
       1 merajut
@@ -1426,139 +2032,202 @@
       1 merauke
       1 merawat
       1 merayap
-      1 merefa
-      1 merekomenfasikan
+      1 mereda
+      1 mereka,
+      1 merekomendasikan
       1 meremehkan
-      1 merenfahkanku
+      1 merendahkanku.
       1 merespon
       1 merestui
-      1 meriah
+      1 meriah.
       1 merilis
+      1 merindukanmu
+      1 merindukanmu.
+      1 merusak,
       1 mesir
       1 mestinya
-      1 meter
+      1 meter.
       1 metro?
-      1 mewah
+      1 mewah.
       1 mewakili
       1 mewarnai
       1 mewawancarai
       1 meyakinkan
-      1 michael
-      1 michelle
       1 mie
       1 miho
       1 mikir
       1 mikrofon
       1 miliki
-      1 milikmu
+      1 milikmu.
       1 miliknya?
       1 mimpiku
       1 mimpimu
       1 minati
-      1 minatmu
+      1 minatmu.
       1 ming
+      1 minta.
+      1 minum,
+      1 minum.
       1 minum?
+      1 minuman.
       1 minuman?
-      1 miskin
+      1 minyak.
+      1 mirip.
+      1 miskin.
+      1 misteri.
       1 mobilku
-      1 mobilmu
-      1 monster
+      1 mobilmu,
+      1 modern
+      1 modern.
+      1 mogok
+      1 monster.
       1 monumen
       1 monyet
       1 moskwa
       1 motivasi
-      1 motomachi
-      1 mufamufi
-      1 mujarab
-      1 muka
+      1 motomachi.
+      1 mudah!
+      1 muda-mudi
+      1 mujarab.
+      1 muka.
       1 mukamu
+      1 mulai!
+      1 mulai.
+      1 mulut.
       1 mulutnya
-      1 murifku
-      1 murifmurifnya
-      1 murifnya
+      1 muncul.
+      1 mungkin.
+      1 muridku.
+      1 murid-murid.
+      1 murid-muridnya.
+      1 muridnya.
+      1 museum
+      1 musik,
       1 musik?
-      1 musiknya
+      1 musiknya,
+      1 musim.
       1 mustahil
       1 musuh
       1 mutlak
-      1 mutu
+      1 mutu.
       1 myanmar
       1 na
       1 nafsu
-      1 nah
+      1 nah,
       1 nakal
+      1 namaku.
+      1 namamu.
+      1 namamu?
+      1 namamu?"
+      1 nama-nama
+      1 nama-nama.
       1 namanya?
+      1 namun,
       1 nantinya
       1 naoko
       1 napoleon
       1 nara
-      1 narita
+      1 narita.
+      1 narkoba
+      1 narkoba,
       1 nasi?
-      1 nasihatnya
-      1 natasha
-      1 negaraku
-      1 negaranegara
-      1 negri
+      1 nasihatnya.
+      1 natasha.
+      1 negara.
+      1 negaraku.
+      1 negara-negara
+      1 negri.
       1 nelayan
       1 nelson
+      1 nenek.
       1 nenekku
       1 neptunus
       1 neraka
-      1 neuralgia
+      1 neuralgia.
       1 ngerjain
-      1 ngomongngomongberapa
+      1 ngomong.
+      1 ngomong-ngomong,berapa
       1 ngotot
       1 nilaimu?
+      1 nol
       1 nona
-      1 nonaktifkan
-      1 noriko
+      1 nonaktifkan!
+      1 noriko.
       1 normal
       1 novel
-      1 november
-      1 nyerah
+      1 november.
+      1 nya.
+      1 nyaman,
+      1 nyaman.
+      1 nyerah!
       1 oak
-      1 obatobatan
+      1 obat.
+      1 obat-obatan
       1 oblong
-      1 oke
+      1 oke.
       1 okinawa
       1 oktober
-      1 olehmu
+      1 olahraga
+      1 olahraga,
+      1 olehmu.
+      1 oleh-oleh.
       1 olinya?
-      1 omongomong
+      1 omong-omong,
       1 ongkosnya?
       1 ontario
       1 opera
-      1 orangorang
-      1 orangtua
+      1 orang,
+      1 orang-orang
+      1 orangtua.
       1 orangtuamu?
       1 organisasi
       1 orkestra
-      1 otomotif
-      1 p
+      1 osaka
+      1 osaka.
+      1 otomotif.
+      1 p.
       1 pacar
-      1 pahami
+      1 pacarnya.
+      1 padam.
+      1 padamu
+      1 padat.
+      1 pagar
+      1 pagar.
+      1 pagi!
+      1 pagi"
+      1 pagi,
+      1 pagi,"
+      1 paham.
+      1 pahami,
       1 pahlawan
+      1 pajak
+      1 pajak.
       1 pajak?
+      1 pak,
       1 pak?
       1 pakai
       1 pakai?
       1 paket
-      1 paksaan
-      1 palsu
+      1 paksaan.
+      1 palsu.
       1 panas?
-      1 panfangan
-      1 pangan
+      1 pandai.
+      1 pandangan
+      1 pangan.
       1 panggilanmu?
       1 panitia
       1 panjang?
-      1 panjangnya
+      1 panjangnya.
       1 pantang
-      1 papanpapan
-      1 park
+      1 papan-papan.
+      1 parah.
+      1 paris,
+      1 paris.
+      1 park.
       1 paruh
       1 pasang
       1 pasar
-      1 pasifik
+      1 pasifik.
       1 pasokan
       1 passport
       1 pasta
@@ -1566,90 +2235,118 @@
       1 patuh
       1 patung
       1 patut
-      1 payah
-      1 payungnya
+      1 payah.
+      1 payung.
+      1 payungnya,
+      1 pdam,
       1 pecahan
-      1 pecahanpecahan
+      1 pecahan-pecahan
       1 pecahkan
-      1 pefagang
-      1 pefang
-      1 pefro
+      1 pedagang.
+      1 pedang
+      1 pedesaan,
+      1 pedesaan.
+      1 pedro
+      1 peduli.
       1 pegang
       1 pegunungan
+      1 pekan
+      1 pekan.
       1 pekan?
       1 pekerja
       1 pekerjaan?
       1 pekerjaanku
+      1 pekerjaanmu
+      1 pekerjaanmu!
       1 pekerjaanmu?
-      1 pekerjanya
+      1 pekerjanya.
+      1 pelajar.
+      1 pelajaran,
       1 pelajarannya
       1 pelajari
       1 pelajarilah
-      1 pelaksanaannya
-      1 pelamar
-      1 pelanggan
+      1 pelaksanaannya.
+      1 pelamar.
       1 pelanggaran
-      1 pelanpelan
-      1 pelatihan
+      1 pelan-pelan
+      1 pelatih
+      1 pelatih,
+      1 pelatihan.
       1 pelayanan
       1 pelayanannya
       1 pelayangan
       1 pelukan
-      1 pelupa
-      1 pemalu
-      1 pemanfangannya
-      1 pemanis
+      1 pelupa,
+      1 pemalu.
+      1 pemandangannya
+      1 pemanis.
       1 pemasukannya
       1 pembangun
       1 pemberi
       1 pemberitahuan
       1 pembicaraan
-      1 pembohong
-      1 pembunuh
+      1 pembohong.
+      1 pembunuh.
+      1 pemburu
+      1 pemburu.
       1 pemeriksaan
+      1 pemerintah
+      1 pemerintah.
       1 pemikiran
-      1 pemilihan
+      1 pemilihan.
       1 pemilik?
       1 pena
-      1 penasaran
-      1 penawaran
+      1 penasaran,
+      1 penawaran.
       1 pencakar
       1 pencurian
+      1 pendengar
+      1 penderitaan
+      1 pendidikan
+      1 penduduk
+      1 penduduk.
       1 penerbangan
       1 penerbitan
-      1 penerjemahan
-      1 penfengar
-      1 penferitaan
-      1 penfifikan
-      1 pengafilan
-      1 pengajar
-      1 pengalamanpengalamannya
+      1 penerjemah
+      1 penerjemah.
+      1 penerjemahan!
+      1 pengacara
+      1 pengacara.
+      1 pengadilan.
+      1 pengajar.
+      1 pengalaman-pengalamannya
       1 pengaman
       1 pengambilan
       1 pengecualian
-      1 pengelana
-      1 pengembang
-      1 pengemis
-      1 pengemufi
+      1 pengelana,
+      1 pengembang.
+      1 pengemis.
+      1 pengemudi
       1 pengeras
       1 pengerjaan
+      1 pengetahuan
+      1 pengetahuan.
       1 penggagas
       1 penggantung
+      1 penghangat.
       1 penghangatnya
       1 pengharum
-      1 penghianat
+      1 penghianat.
       1 pengingat
       1 pengiriman?
       1 pengungsi
       1 pengunjung
       1 peningkatan
-      1 penipuan
-      1 penjahat
+      1 penipuan.
+      1 penjahat.
       1 penjara
       1 penjelasan
       1 penjualan
       1 penonton
       1 pensilnya
+      1 pensiun
+      1 pensiun.
+      1 penting,
       1 penting?
       1 penulisan
       1 penyair
@@ -1658,24 +2355,37 @@
       1 penyewa
       1 penyusup
       1 pepatah
-      1 pepperoni
+      1 pepperoni.
       1 per
       1 perabotannya
+      1 perahu
+      1 perahu.
       1 perancangan
+      1 perancis,
       1 perancis?
+      1 perasaanmu
+      1 perasaanmu.
       1 perasaannya
-      1 perbefaan
-      1 perbefaannya?
-      1 perbintangan
+      1 perawatan
+      1 perawatan.
+      1 perbedaan
+      1 perbedaannya?
+      1 perbintangan.
       1 perbuatan
       1 percayakah
       1 percobaannya
       1 perekam
       1 perempuan?
-      1 pergilah
-      1 perhatian
-      1 perjofohan
+      1 perenang.
+      1 pergi!
+      1 pergilah.
+      1 perhatian!
+      1 peringatan,
+      1 perjalanan.
+      1 perjodohan
       1 perkara
+      1 perkataanmu
+      1 perkataanmu.
       1 perkataannya
       1 perkembangan
       1 permainan
@@ -1689,245 +2399,353 @@
       1 persamaan
       1 persoalan
       1 pertamamu?
-      1 pertamatama
+      1 pertama-tama
       1 pertanian
+      1 pertanyaan,
       1 pertanyaan?
-      1 pertanyaanmu
+      1 pertanyaanmu.
       1 pertanyaannya
       1 pertanyaannya?
       1 pertolong
       1 pertolongan
-      1 pertolonganku
-      1 pertolongannya
+      1 pertolonganku.
+      1 pertolongannya.
       1 pertumbuhan
+      1 perusahaan,
       1 perusahan
-      1 pesantren
+      1 perut,
+      1 perut.
+      1 pesantren.
       1 pesat
-      1 pesawatnya
+      1 pesawatnya.
       1 pestanya
       1 peter
       1 petugas
       1 pewawancara
-      1 pfam
       1 piano?
-      1 pifatomu
+      1 pidatomu
+      1 pihak.
+      1 pikir,
+      1 pikiranmu
+      1 pikiranmu.
       1 pikirkan
-      1 pilihannya
+      1 pilih.
+      1 pilihannya.
       1 pilot
+      1 pinjam
+      1 pinjam.
       1 pinjaman
       1 pinjamkan
+      1 pintar,
+      1 pintu,
       1 pintu?
       1 pipa
-      1 piringmu
+      1 piringmu,
       1 piringnya
-      1 piringpiring
+      1 piring-piring
       1 pizza
-      1 plastik
-      1 pln
+      1 planet.
+      1 plastik.
+      1 pln,
       1 pojok
-      1 pokoknya
+      1 pokoknya.
       1 politik
-      1 politiknya
-      1 polusi
+      1 politiknya.
+      1 polusi.
       1 ponselku
-      1 ponselku?
+      1 ponselku?"
       1 populasi
       1 potong
       1 potongan
+      1 potter
+      1 potter.
       1 praha
       1 prajuritku
       1 prakiraan
       1 pramugari?
-      1 presifen
+      1 prangko.
+      1 presiden
+      1 pribadi,
       1 princess
       1 prinsip
       1 problem
-      1 profuksi
-      1 profusen
-      1 proyektor
-      1 pucat
+      1 produksi
+      1 produsen
+      1 proyektor!
+      1 pucat.
+      1 pukul.
       1 pukulannya
+      1 pulang,
       1 pulanglah
-      1 pulas
-      1 pulaupulau
-      1 pulpen
+      1 pulas.
+      1 pulau.
+      1 pulau-pulau
+      1 pulpen.
       1 pulpenku
-      1 puluhan
-      1 punah
+      1 puluh."
+      1 puluhan.
+      1 punah.
       1 punahnya
       1 puncak
-      1 punfakku
+      1 pundakku
       1 pungutlah
-      1 purbakala
+      1 punya.
+      1 pura-pura
+      1 pura-pura.
+      1 purbakala.
+      1 putih,
       1 putraku
-      1 putranya
-      1 putriku
+      1 putranya.
+      1 putriku.
+      1 putus
+      1 putus.
       1 rabies
-      1 raga
+      1 rabu
+      1 rabu,
+      1 rabu.
+      1 raga.
       1 ragu
+      1 rahasia
+      1 rahasia.
       1 rahasia?
+      1 raja.
       1 rajin
       1 rakyat
-      1 rakyatnya
-      1 ramah
+      1 rakyatnya.
+      1 ramah.
+      1 ramai
       1 rambu
+      1 rambut,
       1 rambutmu
+      1 rambutnya.
       1 ramping
       1 rancangan
       1 ransel
       1 rantai
       1 rasalah
+      1 rasanya
+      1 rasanya.
       1 rasi
-      1 rata
+      1 rata.
       1 ratusan
+      1 raya
+      1 raya.
       1 reagan
       1 real
-      1 realistik
+      1 realistik.
       1 realitas
-      1 refbreast?
-      1 rekomenfasi
+      1 redbreast?
+      1 regu
+      1 regu.
+      1 rekomendasi
       1 rela
       1 relajar
       1 relatif
       1 relawan?
       1 rencananya
-      1 rencanarencana
-      1 reptil
+      1 rencana-rencana
+      1 reptil.
       1 resmi
       1 ribuan
-      1 ributribut?
-      1 rimba
-      1 rinfu
-      1 rintikrintik
-      1 risiko
+      1 ribut,
+      1 ribut-ribut?
+      1 rimba.
+      1 rindu
+      1 rintik-rintik.
+      1 risiko.
       1 risiko?
       1 robert
       1 robin
-      1 rofa
+      1 roda
+      1 rok,
+      1 rok.
       1 rokmu
+      1 rokok,
+      1 rokok.
+      1 roti,
+      1 ruangan.
       1 ruangannya
       1 rujukan?
       1 rumahmu
+      1 rumahnya,
       1 rumahnya?
       1 runtuh
-      1 rupanya
-      1 rupiah
+      1 rupanya.
+      1 rupiah.
+      1 rusak!
       1 sabang
+      1 sabtu.
       1 sabuk
-      1 safar
+      1 sadar
       1 safira
       1 sahabat
       1 saham
       1 sains
       1 saito?
-      1 sajak
-      1 saji
+      1 saja..?
+      1 sajak.
+      1 saji.
+      1 sakit,
       1 saksi
-      1 saku
-      1 sakura
+      1 saku.
+      1 sakunya
+      1 sakura.
+      1 salah,
       1 salah?
       1 salamku
       1 salinan
       1 saljunya
+      1 salon
+      1 salon.
+      1 sama,
       1 sambungan
       1 sambutan
       1 sampahmu
-      1 sampahsampah
-      1 sampo
-      1 sanfal
+      1 sampah-sampah
+      1 sampo.
+      1 sandal.
       1 sang
       1 santa
       1 sapporo
       1 saran
-      1 sarangnya
+      1 sarangnya.
       1 sarankan?
       1 sasaki
       1 sashimi
-      1 sastra
+      1 sastra.
       1 sate
       1 sato
       1 satupun
-      1 saufaramu?
+      1 saudaramu?
       1 sawah
-      1 sebab
+      1 sayangnya
+      1 sayur,
+      1 sebab.
       1 sebagaimana
       1 sebagus
       1 sebaik
-      1 sebaikbaiknya
-      1 sebelumnya
+      1 sebaik-baiknya.
+      1 sebelah.
+      1 sebelumnya.
+      1 sebenarnya
+      1 sebenarnya,
+      1 sebenarnya.
       1 sebentar?
       1 sebesar
       1 seblak
-      1 sebofoh
+      1 sebodoh
       1 sebotol
+      1 sebulan
+      1 sebulan.
       1 secangkir
-      1 seferhana
-      1 segerakan
+      1 sederhana.
+      1 sedih.
+      1 segalanya
+      1 segar
+      1 segar.
+      1 segerakan,
       1 segeralah
       1 seharga
-      1 sehatsehat
+      1 sehari
+      1 seharian,
+      1 sehat-sehat
       1 sehelai
-      1 seinfah
-      1 sejati
-      1 sejujurnya
+      1 seindah
+      1 sejajar
+      1 sejajar,
+      1 sejam
+      1 sejam.
+      1 sejati.
+      1 sejujurnya.
+      1 sejuk
+      1 sejuk.
+      1 sekali!
       1 sekaligus?
+      1 sekarang!
       1 sekejam
-      1 sekelasku
+      1 sekelasku.
       1 sekelompok
-      1 sekitarnya
-      1 sekolahku
+      1 sekitarnya.
+      1 sekolahku.
+      1 sekolahnya
+      1 sekolahnya.
       1 sekompleks
       1 sekotor
       1 sekretaris
       1 selagi
       1 selai
-      1 selanjutnya
+      1 selamat!
+      1 selamat.
+      1 selanjutnya.
       1 selanjutnya?
-      1 selasa
+      1 selasa.
       1 selebaran
       1 selebihnya
       1 selembar
       1 selera
+      1 selimut,
       1 seluruh
+      1 semalam
+      1 semalam,
+      1 semangat!
       1 semarah
-      1 semarang
+      1 semarang.
+      1 sembuh
+      1 sembuh!
+      1 sementara.
       1 semesta
       1 semester
+      1 sempurna
+      1 sempurna.
       1 semuanya?
-      1 semula
-      1 semut
-      1 senapan
-      1 senapannya
-      1 senfoknya
+      1 semula.
+      1 semut.
+      1 senapan.
+      1 senapannya.
+      1 sendiri",
+      1 sendirian
+      1 sendok
+      1 sendoknya.
       1 seni
+      1 senin,
       1 senja
       1 senjata
       1 sensitivitas
       1 sepagi
-      1 sepakbola
-      1 sepefaku
-      1 sepekan
+      1 sepakbola.
+      1 sepedaku
+      1 sepekan.
+      1 sepertinya,
       1 sepi
-      1 september
+      1 september.
+      1 sepuluh,
       1 serajin
       1 serangan
       1 serapa
       1 serasa
+      1 seratus.
       1 seratusan
       1 serba
       1 serbia
-      1 seri
+      1 seri.
+      1 seribu.
+      1 serikat.
+      1 sering.
+      1 serius
+      1 serius.
       1 serius?
-      1 serupa
+      1 serupa.
       1 sesat
-      1 sesukamu
+      1 sesuatu,
+      1 sesukamu.
       1 sesulit
-      1 sesungguhnya
+      1 sesungguhnya.
       1 setahu
-      1 setan
-      1 setimpal
-      1 setoran
-      1 seumurannya
+      1 setan.
+      1 setimpal.
+      1 setoran.
+      1 setuju.
+      1 seumurannya.
       1 sewa
       1 sewajarnya
       1 sewanya
@@ -1935,28 +2753,42 @@
       1 shinjuku?
       1 shizuko
       1 shougongsha
-      1 sial
-      1 siasia
+      1 sial!
+      1 sialan!
+      1 sialan,
+      1 siang!
+      1 siap
+      1 siapapun
+      1 siapa-siapa
+      1 sia-sia
       1 sikap
       1 sikapnya
       1 sikat?
-      1 silva
+      1 silahkan"
+      1 silva.
       1 simpan
       1 simpulan
+      1 singapura
       1 singkat?
       1 singkirkan
+      1 sini!
       1 sinilah
-      1 sinis
+      1 sinis.
       1 sinterklas
       1 siram
       1 sisa
-      1 sistematis
+      1 sistematis.
+      1 situasi
+      1 situasi.
       1 situlah
       1 slip
+      1 smith
+      1 smith.
       1 soalnya
+      1 sofa.
       1 software
       1 sok
-      1 solfer
+      1 solder
       1 somalia
       1 sombang
       1 sopan
@@ -1964,81 +2796,129 @@
       1 sovietolog?
       1 spesial?
       1 staf
-      1 starbucks
+      1 starbucks.
       1 stevie
-      1 stik
+      1 stik.
       1 stimulasi
       1 stroberi
-      1 stufi
+      1 studi
       1 suaka
+      1 suami
+      1 suami.
+      1 suamimu!
+      1 suamimu.
+      1 suaminya.
       1 suaranya
-      1 suasana
-      1 subjektif
-      1 subuh
-      1 sufahlah
-      1 sufut
+      1 suasana.
+      1 subjektif.
+      1 subuh.
+      1 suci
+      1 suci.
+      1 sudahlah,
+      1 sudut
       1 suhunya
+      1 suka,
+      1 sukai.
       1 sukajati
+      1 sukar
+      1 sukar.
+      1 sukses.
+      1 sulit,
+      1 sumpit.
+      1 sungai,
       1 sup
       1 supir
+      1 suratnya
       1 suratnya?
       1 surel
-      1 surya
-      1 susan
+      1 surga.
+      1 surya.
+      1 susah,
+      1 susan,
       1 sushis
-      1 swasta
+      1 swasta.
+      1 sweter
+      1 sweter,
       1 syariah
       1 taat
-      1 tafi?
+      1 tadi?
       1 tafsirkan
+      1 tahu."
       1 tahu?
+      1 tahun!
       1 tahun?
+      1 tahunku
+      1 tahunku.
+      1 tahunmu
       1 tahunmu?
       1 tahunnya?
       1 tajamnya
-      1 takfirtakfir
+      1 takdir-takdir
+      1 takut.
       1 tali
-      1 tama
-      1 tamori
-      1 tamuku
-      1 tanfa
+      1 tama.
+      1 taman,
+      1 tamori.
+      1 tampak.
+      1 tamuku.
+      1 tanah.
+      1 tanaka,
+      1 tanda
+      1 tangan,
       1 tanganku
+      1 tanganmu.
       1 tangannya
+      1 tangga
       1 tanggungjawab
       1 tanjung
       1 tanki
-      1 tanpamu
+      1 tanpamu.
       1 tanpamu?
+      1 tanya.
       1 tanyain
       1 tanyakan
       1 taruh
-      1 tasmu
+      1 tasmu.
+      1 tasnya
+      1 tasnya.
       1 tata
       1 tato
+      1 tatoeba
+      1 tatoeba,
       1 tatoeba:
       1 tawar
-      1 tawaranmu
-      1 tebing
+      1 tawaranmu.
+      1 tebing,
       1 tegang
-      1 teguh
-      1 teheran
+      1 teguh.
+      1 teh,
+      1 teheran.
       1 tekan
       1 teknik
       1 teknologi
       1 telalu
-      1 telanjang
+      1 telanjang.
       1 telanjang?
+      1 telat.
+      1 televisi,
       1 televisinya
       1 telinga
       1 telinganya
-      1 telor
+      1 telor.
+      1 teman,
       1 temanmu
-      1 temannya
-      1 temanteman
-      1 temantemanku
+      1 temannya.
+      1 teman-teman
+      1 teman-temanku.
+      1 teman-temannya
+      1 teman-temannya.
       1 tembakan
-      1 tempatnya
-      1 tenanglah
+      1 tempat,
+      1 tempat.
+      1 tempatnya.
+      1 tenang,
+      1 tenanglah.
+      1 tenggara
       1 tenggorokan
       1 tentara
       1 tentu
@@ -2046,9 +2926,13 @@
       1 tepi
       1 tepinya
       1 tepuk
+      1 terakhir!
+      1 terang.
       1 teratur
-      1 terbahakbahak
-      1 terbaikku
+      1 terbahak-bahak
+      1 terbaikku.
+      1 terbakar.
+      1 terbang!
       1 terbangkan
       1 terbaring
       1 terbaru
@@ -2057,41 +2941,48 @@
       1 terbelah
       1 terbilang
       1 terblokir
-      1 terbunuh
-      1 terburuburu
-      1 terburuburu?
+      1 terbunuh.
+      1 terburu-buru
+      1 terburu-buru?
       1 tercantik
       1 tercapai
       1 tercatat
       1 tercekat
       1 tercepat
-      1 terenfah
+      1 terdekat?
+      1 terdengar
+      1 terdengar.
+      1 terdiri
+      1 terendah.
       1 teresa
-      1 terfekat?
-      1 terfiri
       1 tergambarkan
       1 tergelincir
       1 tergenang
       1 tergigit
-      1 terguling
-      1 terhening
-      1 terikat
+      1 terguling.
+      1 terhening,
+      1 terhormat
+      1 terikat.
       1 terimakasih
       1 terjaga
       1 terjatuh
-      1 terjemahannya
+      1 terjemahannya.
       1 terjual
-      1 terkait
+      1 terkait.
       1 terkuat
+      1 terkunci
+      1 terkunci.
       1 terlebih
+      1 terluka,
       1 terobsesi
       1 terpanjang
       1 terpeleset
       1 terpikir
       1 terpilih
-      1 terputus
+      1 terputus.
       1 tersayang
-      1 tersentuh
+      1 tersentuh.
+      1 tersenyum,
       1 tersenyumlah
       1 terserah
       1 tersingkat
@@ -2099,400 +2990,580 @@
       1 tersusun
       1 tertabrak
       1 tertanam
+      1 tertarik.
       1 tertempel
-      1 tertunfa
+      1 tertidur.
+      1 tertunda
+      1 terus!
+      1 terus,
       1 terusan
+      1 terus-menerus.
       1 tes
       1 tetangga?
-      1 thames
-      1 tifurlah
+      1 thames.
+      1 tiada,
+      1 tiba-tiba.
+      1 tidur!
+      1 tidurlah
       1 tigabelas
-      1 tiket
+      1 tiket.
       1 tiketnya
-      1 times
-      1 timmy
-      1 tinfak
-      1 tinfakan
+      1 tikus.
+      1 tim
+      1 times.
+      1 timmy.
+      1 timur.
+      1 tindak
+      1 tindakan
       1 tinggal?
       1 tingginya
       1 tingkah
       1 tiongkok
-      1 tipuan
+      1 tipis,
+      1 tipis.
+      1 tipuan.
       1 titik
-      1 tokaifo
+      1 tiup
+      1 tiup.
+      1 tokaido
+      1 tokyo,
       1 toleransi
-      1 tolol
+      1 tolol!"
       1 tolol?
+      1 tolong,
+      1 tolong.
+      1 tombol.
       1 tong
-      1 tongkat
+      1 tongkat,
       1 tonton
       1 tonton?
-      1 tony
+      1 tony.
+      1 topan
+      1 topi.
       1 topik
-      1 topinya
-      1 toshi
-      1 trafisi
+      1 topinya.
+      1 toshi.
+      1 tradisi
       1 trafo
+      1 tua,
+      1 tuamu
+      1 tuamu!
       1 tuamu?
-      1 tuan
-      1 tufuhan
+      1 tuan.
+      1 tuanya
+      1 tubuh
+      1 tuduhan
+      1 tugas
       1 tuh?
-      1 tuhannya
+      1 tuhan!
+      1 tuhannya.
       1 tulis?
       1 tulisan
       1 tulisannya
+      1 tulus.
       1 tumbuh
-      1 tunai
+      1 tunai.
       1 tunangan
-      1 tunfa
+      1 tunda
       1 tunggal
+      1 tunggu.
       1 tusuk
-      1 uangku
-      1 uanguang
-      1 ucapanmu
-      1 ufara?
+      1 tutup,
+      1 tutup.
+      1 uang".
+      1 uangku.
+      1 uangnya
+      1 uangnya.
+      1 uang-uang
+      1 ucapanmu.
+      1 udara.
+      1 udara?
       1 ujian?
       1 ukraina
-      1 ular
+      1 ulang.
+      1 ular.
+      1 umum
+      1 umurmu?"
       1 umurnya
+      1 umurnya?
+      1 umurnya?"
       1 uni
       1 unit
-      1 untang
-      1 untukmu
+      1 untang.
+      1 untukmu.
       1 untukmu?
-      1 untuknya
-      1 untungnya
-      1 urban
+      1 untuknya.
+      1 untungnya,
+      1 urban.
+      1 urusanmu
+      1 urusanmu.
       1 urusi
       1 usah
       1 usaha
-      1 usulnya
+      1 usulnya.
+      1 utara,
       1 utara?
       1 vanili
-      1 vegetarian
-      1 viharanya
-      1 vinci
-      1 vinfy
+      1 vegetarian.
+      1 viharanya.
+      1 vinci.
+      1 vindy.
       1 virginia
-      1 visa
+      1 visa.
       1 visualisasi
       1 vokal
-      1 vulgar
-      1 wafuh
-      1 wah
-      1 wajar
+      1 vulgar.
+      1 waduh,
+      1 wah,
+      1 wajar.
+      1 waktu,
       1 waktu?
       1 waktumu
       1 wangi
-      1 waspafalah
+      1 wanita,
+      1 warna,
+      1 wartawan
+      1 waspadalah!
       1 wawancarai
-      1 wawancaranya
-      1 webnya
+      1 wawancaranya.
+      1 webnya.
+      1 wisata
+      1 wisata.
       1 wisatawan
-      1 wisufa?
-      1 wonfer?
-      1 wook
+      1 wisuda?
+      1 wonder?
+      1 wook.
       1 wortelnya?
-      1 yama
+      1 ya...
+      1 yakin,
       1 yoko
       1 yokohama?
       1 yoo
+      1 york
       1 yumiko
-      1 yup
-      1 zamenhof
-      2 ac
+      1 yup!
+      1 zamenhof,
+      2 "berapa
+      2 "jam
+      2 "selamat
+      2 ac!
       2 acara
-      2 aja
+      2 adil,
+      2 akal.
+      2 akhir.
       2 akronim
+      2 aku,
+      2 alam
+      2 alasan.
       2 alat
-      2 amplop
-      2 ancaman
-      2 angkasa
+      2 amplop.
+      2 anak-anak.
+      2 angkasa.
+      2 anjing.
       2 antre
+      2 apel.
+      2 api.
+      2 arah.
+      2 arak
       2 area
       2 artinya
       2 asalkan
-      2 asam
-      2 asbak
+      2 asbak.
+      2 asia
+      2 atas.
+      2 australia
       2 awalnya
       2 awasi
       2 ayahmu
       2 ayahmu?
-      2 bafai
-      2 bagaimanapun
+      2 babi
+      2 badan.
+      2 bagiku
+      2 bagiku.
       2 baginya
+      2 bagus!
+      2 bahagia
+      2 bahaya
+      2 bahaya.
       2 baik?
-      2 baiknya
-      2 bakar
+      2 baiklah
+      2 bali
       2 ban
+      2 bandara
+      2 bangun.
       2 bangunkan
-      2 barunya
-      2 basah
-      2 baseball
-      2 basket
+      2 bantal
+      2 bantal.
+      2 basket.
       2 basri
-      2 bau
+      2 batas
+      2 batu
       2 bawakan
-      2 bebas
-      2 bekas
+      2 bayi.
+      2 bebas.
+      2 bekerja,
       2 bekerja?
       2 belum?
+      2 benar,
       2 benar?
-      2 benci
       2 benteng
+      2 berakhir
+      2 berangkat
+      2 berangkat.
       2 berani
+      2 berapa?
+      2 beras
       2 berbakat
       2 berbatasan
+      2 berbeda.
+      2 berbohong.
       2 bercerai
-      2 bercerita
       2 berenang?
-      2 bergegas
-      2 bergerak
-      2 berguna
-      2 berhantu
+      2 berfungsi.
+      2 berhantu.
+      2 berhenti.
+      2 beristirahat.
       2 beritahukan
-      2 berlalu
-      2 berlibur
+      2 berjalan.
+      2 berjalan-jalan
+      2 berjejer
+      2 berjejer.
+      2 berkurang.
+      2 berlari.
       2 berlumpur
-      2 bermasalah
+      2 bermain.
+      2 bermasalah.
       2 bermula
+      2 bernyanyi
+      2 bernyanyi.
+      2 berolahraga.
+      2 bersalah.
       2 bersama?
-      2 bersamamu
-      2 bersepefa
-      2 bersihbersih
-      2 bersosialisasi
-      2 bertambah
-      2 bertinfak
-      2 besi
+      2 bersih-bersih
+      2 bertahan.
+      2 bertanya,
+      2 bertengkar
+      2 bertindak
+      2 beruang
+      2 biasa
+      2 biasa!
+      2 biasa.
+      2 biayanya
       2 bibi
       2 bibiku
-      2 bijaksana
-      2 bin
+      2 bijaksana.
+      2 bill.
       2 biola
-      2 bir
-      2 bosku
+      2 bioskop
+      2 bioskop.
+      2 biru
+      2 bisbol
+      2 bohong
+      2 bosan
       2 brazil
       2 buang
-      2 bulat
+      2 bukan,
+      2 bulan.
+      2 bulat.
       2 bunuh
       2 busnya
+      2 buta
       2 caramu
+      2 caranya.
+      2 cari
       2 celana
+      2 cepat,
+      2 cepatlah,
+      2 cinta.
       2 cinta?
-      2 cocacola
+      2 coca-cola.
       2 cocok
-      2 coklat
+      2 cukup.
       2 cukup?
+      2 daftar.
+      2 dahulu
+      2 dalam.
+      2 damai.
+      2 danau.
+      2 darah
+      2 dariku.
+      2 darimu.
+      2 data
+      2 datanglah
+      2 datanya
+      2 daya
+      2 delapan,
+      2 denga
+      2 dengannya.
+      2 derajat.
+      2 deras.
+      2 dewasa
+      2 diadakan
+      2 diajak
+      2 diajari
+      2 dialah
+      2 dibalas
+      2 dibubuhi
+      2 dibutuhkan
+      2 diem
+      2 digunakan.
+      2 dijangkau
+      2 dikatakan
+      2 dikelilingi
+      2 dikeluarkan.
+      2 dilarang
+      2 dilihat
+      2 dimakan?
+      2 dimanakah
+      2 diminta
+      2 dinding.
+      2 dinosaurus
+      2 dinosaurus.
+      2 dipakai
+      2 dipaksa
+      2 dipecat
+      2 dipelajari
+      2 dipelajari.
+      2 diperlukan
+      2 diperlukan.
+      2 diriku
+      2 dirimu
+      2 dirumah
+      2 disamping
+      2 disebabkan
+      2 disini
+      2 disukai
+      2 ditemukan.
+      2 ditutup
+      2 doktor
+      2 dolar
+      2 dong
+      2 dr.
+      2 dua.
+      2 duduk.
+      2 dulunya
       2 ekonomi
+      2 e-mail
+      2 empat.
       2 enak?
-      2 esperantis
-      2 estonia
-      2 facebook
-      2 famai
-      2 farah
-      2 fariku
-      2 farimu
-      2 fatanglah
-      2 fatanya
-      2 faya
-      2 femikian
-      2 fenga
-      2 fiafakan
-      2 fiajak
-      2 fiajari
-      2 fialah
-      2 fibalas
-      2 fibersihkan
-      2 fibubuhi
-      2 fibutuhkan
-      2 fiem
-      2 fifepan
-      2 fikatakan
-      2 fikelilingi
-      2 filarang
-      2 filihat
-      2 fimakan?
-      2 fimanakah
-      2 fiminum
-      2 fipaksa
-      2 fipegang
-      2 firumah
-      2 fisamping
-      2 fisebabkan
-      2 fiselesaikan
-      2 fitekan
-      2 foktor
-      2 fong
-      2 fr
-      2 fulunya
+      2 eropa.
+      2 esperanto.
+      2 facebook,
+      2 foto.
+      2 gagal.
       2 gagang
       2 gajah
       2 gaji
-      2 gajinya
       2 ganti
-      2 garpu
-      2 gay
-      2 gempa
+      2 gedung.
+      2 gelas.
+      2 gemuk.
+      2 gereja
       2 getter
+      2 giat.
+      2 gila.
       2 gila?
-      2 giliran
-      2 gorfen
-      2 gorfon
-      2 hafapan
-      2 halte
-      2 hanfphone
-      2 hantu
+      2 gorden
+      2 gordon
+      2 gratis
+      2 gugur
+      2 gula,
+      2 gunung.
+      2 hadapan
+      2 hai,
+      2 halaman.
+      2 halo
+      2 halo,
+      2 handphone
+      2 hantu.
       2 hanyalah
       2 harimau
       2 harry
-      2 hatihati
-      2 hatimu
-      2 helikopter
-      2 hitung
-      2 hormat
-      2 hukum
-      2 hukuman
+      2 hati-hati
+      2 helikopter.
+      2 hewan
+      2 hidup!
+      2 hidup,
+      2 hidupku
+      2 huruf.
+      2 ibu.
       2 ibukota
       2 ikannya
-      2 ikefa
+      2 ikeda
       2 ilmuwan
-      2 infia
-      2 infustri
-      2 insinyur
-      2 intelejen
+      2 india.
+      2 inginkan
+      2 inilah
+      2 insinyur.
+      2 intelejen.
       2 isi
+      2 istirahat.
+      2 istrinya
       2 iya
-      2 jaani
-      2 jack
-      2 jafilah
+      2 jaani.
+      2 jadilah
       2 jagalah
-      2 jahat
+      2 jahat.
       2 jalur
-      2 jamnya
+      2 janji
+      2 jasku
+      2 jasmu.
       2 jauh?
-      2 jebakan
       2 jelas
-      2 jelek
-      2 jenfelanya
+      2 jelek.
+      2 jembatan,
+      2 jendela.
+      2 jendelanya.
       2 jenis
       2 jepang?
-      2 juli
-      2 kabar?
-      2 kafang
-      2 kafe
+      2 jim
+      2 jiwa
+      2 jujur
+      2 jujur.
+      2 kadang
       2 kakakku
-      2 kakek
+      2 kakek.
       2 kalangan
-      2 kalinya
-      2 kamarku
+      2 kalender
+      2 kalinya.
+      2 kamar!
       2 kamu?
-      2 kan
+      2 kamus.
+      2 kanada.
+      2 kanan.
       2 kancing
-      2 katakana
+      2 kantin.
+      2 karaoke.
+      2 kare.
+      2 kartu.
+      2 kaset.
+      2 katanya
       2 kawan
-      2 kayu
-      2 kazuko
-      2 keabafian
+      2 keabadian
       2 kearah
-      2 kebakaran
-      2 kebalikannya
-      2 kebencian
+      2 kebahagiaan
+      2 kebalikannya.
+      2 kebenaran.
       2 keberanian
       2 keberatan
-      2 kebersihan
-      2 keberuntungan
-      2 kebiasaan
+      2 keberuntungan.
       2 kebisingan
-      2 kebohongan
+      2 kebohongan.
+      2 kecap.
       2 kecil?
       2 kecilku
-      2 kejauhan
-      2 kelasmu
+      2 keik
+      2 keinginan
+      2 kejauhan.
+      2 kekalahannya.
       2 kelasnya
       2 kelihatan
       2 keluar?
-      2 keluarganya
-      2 keluhanmu
+      2 keluarganya.
+      2 keluarkan
+      2 kemacetan.
       2 kemajuan
       2 kemanakah
       2 kemanapun
       2 kemarau
+      2 kemaren
       2 kemarin?
-      2 kempes
-      2 kenyang
+      2 kendaraan.
       2 kenyataan
-      2 kepalamu
-      2 kepalanya
-      2 kepercayaan
-      2 kering
-      2 kerjakan
+      2 kepadamu
+      2 kepadamu.
+      2 kepala
+      2 kering.
+      2 kerja.
+      2 kertas.
       2 kerumah
-      2 kesafaran
-      2 kesehatanmu
+      2 kesadaran
+      2 kesehatanmu.
       2 keseimbangan
-      2 kesulitan
       2 kesusahan
       2 ketahui
       2 ketiga
-      2 kilogram
-      2 kilometer
-      2 kirakira
-      2 kokoh
-      2 konfisi
+      2 kilogram.
+      2 kipas
+      2 kira.
+      2 kira-kira
+      2 kokoh.
+      2 kolam.
+      2 kondisi
       2 kopi?
       2 kopinya
       2 korek
+      2 kosong.
       2 kosong?
-      2 krim
-      2 kriminal
+      2 kuatir,
+      2 kuda
+      2 kuenya
       2 kuharap
-      2 kuil
-      2 kupukupu
+      2 kulakukan.
+      2 kuliah
+      2 kuliah.
+      2 kupu-kupu
       2 kursinya
-      2 kurus
-      2 lakilakimu
+      2 lagi,
+      2 lainnya
+      2 lakukan,
+      2 lama,
       2 lama?
       2 lamakah?
-      2 laporanku
-      2 latihan
+      2 lancar.
+      2 langsung
+      2 lari
+      2 larut
       2 lelah?
-      2 lelap
-      2 lelucon
-      2 lembur
+      2 lemari
       2 lengan
+      2 lewat.
       2 lisa
-      2 lonfon
+      2 lokal
+      2 lokal.
+      2 loket.
+      2 london
+      2 luas
       2 lukanya
-      2 lumayan
-      2 mafu
+      2 lumayan.
+      2 lusa
+      2 madu
+      2 mahal!
+      2 mahal,
+      2 mahasiswa
       2 mahir
-      2 makananmu
-      2 makanlah
+      2 main
+      2 makanan.
       2 makna
-      2 mangkuk
+      2 malas
+      2 malas.
+      2 malu.
+      2 manis
+      2 manis.
+      2 maria
+      2 mary,
       2 mary?
-      2 masingmasing
-      2 masyarakat
+      2 masalah,
+      2 masing-masing
+      2 matahari
+      2 matanya
+      2 matanya.
       2 mati?
       2 maupun
-      2 mei
       2 meja?
+      2 melakukannya,
       2 melapor
-      2 melelahkan
       2 meletus
-      2 melihatku
-      2 melinfungi
+      2 melindungi
       2 melukis
       2 memaafkan
       2 memanfaatkan
       2 memanjat
       2 memarahi
       2 memasuki
-      2 membahagiakan
-      2 membanfingkan
-      2 membantuku
-      2 membantumu
-      2 membantunya
+      2 membaca.
+      2 membandingkan
+      2 membantumu.
       2 membatalkan
       2 membawakan
       2 memberikannya
@@ -2503,44 +3574,45 @@
       2 membuatkan
       2 membuatnya
       2 membunuh
-      2 membutuhkannya
       2 memegang
       2 memenangkan
       2 memenuhi
-      2 meminfahkan
+      2 memindahkan
       2 memintanya
-      2 memperbaikinya
-      2 mempercayaiku
-      2 mempercayaimu
-      2 mempercayainya
+      2 mempercayaimu.
+      2 mempercayainya.
       2 memperoleh
-      2 memungkinkan
+      2 memuaskan.
       2 menahannya
-      2 menakjubkan
       2 menambah
       2 menangis?
       2 menara
-      2 menari
+      2 menari.
       2 menaruh
       2 menawarkan
       2 mencapai
+      2 mencuri
+      2 mendaftar
+      2 mendarat
+      2 mendengarkan.
+      2 mendengarnya
+      2 mendukung
       2 menebangi
       2 menekan
-      2 meneleponnya
+      2 menelpon
       2 menempelkan
       2 menemui
       2 meneruskan
-      2 menfaftar
-      2 menfarat
-      2 menfukung
+      2 mengagumkan.
       2 mengakibatkan
       2 mengambilkan
-      2 mengambilnya
+      2 mengambilnya.
       2 mengangkut
       2 mengantar
       2 mengantarkan
-      2 mengantri
-      2 mengaturnya
+      2 mengantri.
+      2 mengatakannya
+      2 mengaturnya.
       2 mengecek
       2 mengejar
       2 mengelilingi
@@ -2548,1631 +3620,1888 @@
       2 mengenalnya
       2 mengerikan
       2 mengetuk
+      2 menggambar.
       2 menggosok
-      2 menghafapi
-      2 menghinfari
+      2 menghadapi
+      2 menghindari
       2 menghormati
       2 mengikuti
+      2 menginginkan
       2 mengoleksi
       2 mengopi
       2 menguasai
-      2 mengunfang
+      2 mengundang
       2 menikmati
-      2 menolongnya
       2 mentah
-      2 mentega
       2 menu
-      2 menufuh
       2 menunggu?
       2 menunggumu
       2 menurunkan
       2 menurutku
       2 menurutmu
       2 menyakiti
+      2 menyanyi
       2 menyapu
       2 menyebabkan
-      2 menyefiakan
-      2 menyefihkan
+      2 menyediakan
       2 menyelam
+      2 menyerah.
+      2 menyetir
       2 menyetor
       2 menyetorkan
       2 menyetujui
       2 menyewa
       2 menyimpan
-      2 merinfukan
-      2 merinfukanmu
+      2 merindukan
+      2 merokok,
       2 meski
       2 mike
       2 mil
       2 mila
-      2 milikku
+      2 milikku.
       2 milikmu?
       2 milyar
+      2 minggu,
       2 minggu?
-      2 mofern
+      2 minyak
+      2 mirip
+      2 misteri
+      2 mogok.
+      2 mu.
       2 muak
       2 mulai?
-      2 namamu?
-      2 namanama
+      2 muncul
+      2 murid-murid
+      2 museum.
       2 nancy
-      2 narkoba
+      2 nasi,
       2 nasihat
-      2 nol
+      2 nenek
+      2 ngomong
       2 nonton
       2 nyenyak
-      2 olahraga
       2 orangnya
-      2 osaka
-      2 pafaku?
-      2 pagar
-      2 pajak
+      2 pacarnya
+      2 padaku?
+      2 padam
+      2 padat
       2 paman
       2 panggil
+      2 pantai
       2 pasangan
       2 pecah
-      2 pefesaan
-      2 pekan
-      2 pekerjaanmu
-      2 pelatih
+      2 pekerjaan,
+      2 pekerjaannya.
+      2 pelajar,
       2 pelayan
-      2 peliharaan
+      2 peliharaan.
       2 pemain
-      2 pemalas
-      2 pemanfangan
+      2 pemalas.
+      2 pemandangan
       2 pemberhentian
-      2 pemburu
-      2 pemerintah
+      2 pen
+      2 pen.
       2 penata
+      2 pendaftaran
       2 penemuan
-      2 penerjemah
-      2 penfaftaran
-      2 penfufuk
-      2 pengacara
-      2 pengalamannya
-      2 pengetahuan
+      2 pengalamannya.
       2 penggunaan
+      2 penghangat
       2 penglihatan
       2 penglihatannya
-      2 pensiun
-      2 penutup
+      2 penuh,
+      2 penuh.
+      2 penutup.
       2 penyakit
-      2 penyanyi
-      2 perahu
-      2 perawatan
+      2 penyanyi.
+      2 perang.
+      2 perangko
+      2 perangko.
       2 perayaan
       2 perbaiki
+      2 perempuan.
+      2 perenang
       2 pergerakan
-      2 perkataanmu
+      2 peringatan.
       2 perlihatkan
       2 perlombaan
+      2 pernikahan.
       2 pernyataan
-      2 persefiaan
+      2 perpustakaan,
+      2 persediaan
+      2 pertama.
+      2 pertanyaan.
       2 pertemuan
       2 perubahan
-      2 perut
       2 pesanan
       2 petunjuk
-      2 pikiranmu
+      2 pihak
+      2 pikiran.
       2 pikirkan?
       2 pilih?
-      2 pinjam
       2 pintunya?
-      2 pohonpohon
+      2 piring.
+      2 pisau.
+      2 pohon-pohon
       2 pompa
-      2 potter
-      2 pribafi?
+      2 praktis
+      2 prangko
+      2 pribadi?
       2 program
       2 proposal
       2 puas
-      2 puisi
-      2 purapura
-      2 pusing
-      2 putus
-      2 rahasia
-      2 ramburambu
+      2 puisi.
+      2 pusing.
+      2 raja
+      2 rambu-rambu
+      2 rambutnya
       2 ranjang
+      2 rapat.
       2 rasakan
-      2 rasanya
-      2 raya
-      2 regu
-      2 renfah
+      2 rendah.
       2 reputasi
-      2 rokok
-      2 roma
+      2 restoran.
+      2 ringan.
+      2 rok
+      2 roma.
       2 rusa
       2 saatnya
-      2 sabun
+      2 sabun.
+      2 saja?
       2 sakit?
-      2 salon
+      2 sakti
+      2 sakti.
+      2 sakunya.
+      2 salju.
       2 sampaikan
       2 sato?
-      2 saufaraku
+      2 saudaraku
+      2 sayangnya,
+      2 sayur.
       2 sebanyak
-      2 sebelas
-      2 sebulan
-      2 segar
+      2 sebelas.
+      2 sebentar!
+      2 sedih
+      2 sedikit,
+      2 segalanya.
       2 segelas
+      2 sehari.
+      2 seharian.
       2 sehingga
-      2 sejajar
-      2 sejam
+      2 sejarah
       2 sejauh
-      2 sejuk
-      2 sekefar
-      2 sekolahnya
-      2 selamanya
+      2 sekali,
+      2 sekedar
+      2 sekelas
+      2 selamanya.
+      2 selatan
       2 selesai?
+      2 selimut.
+      2 semangat
       2 semangka
-      2 sembuh
+      2 sementara
       2 semestinya
-      2 sempurna
-      2 senfiri?
+      2 semua.
+      2 sendiri!
+      2 sendiri?
+      2 sendirian,
+      2 senin
+      2 senin.
       2 sensitif
-      2 senyum
+      2 senyum.
       2 seorangpun
+      2 separuh
+      2 separuh.
       2 sepatumu
       2 seragam
       2 serangga?
-      2 serius
+      2 serikat
       2 serta
+      2 seseorang.
       2 set
       2 setahun
       2 si
-      2 sialan
       2 siap?
+      2 siapapun.
       2 sibuk?
       2 simpati
       2 sinar
       2 singa
       2 sisi
       2 sistem
-      2 situasi
-      2 smith
+      2 situ,
+      2 situ.
+      2 sofa
       2 solusi
       2 sopir
-      2 spanyol
-      2 suami
-      2 suamimu
-      2 suci
+      2 sore.
+      2 spanyol.
       2 suhu
       2 sukai?
-      2 sukar
+      2 sungguh,
       2 supaya
+      2 suratnya.
+      2 surga
+      2 susah
       2 sushi
-      2 sweter
-      2 tahunku
+      2 tahu,
+      2 tahun,
+      2 tahun."
       2 tamat
-      2 tantangan
-      2 tasnya
+      2 tantangan.
+      2 tebal
+      2 tebal.
       2 teh?
       2 tekanan
-      2 teleponnya
-      2 temantemannya
+      2 teleponnya.
+      2 telur
+      2 telur,
       2 tembok
       2 temui
+      2 tenggara.
       2 tepat?
+      2 terakhir
+      2 terbakar
       2 terberkatilah
-      2 terbit
-      2 terfekat
-      2 terfengar
-      2 tergilagila
+      2 terbit.
+      2 terbuka
+      2 terbuka.
+      2 terdekat
+      2 tergila-gila
+      2 terhormat.
       2 terjebak
-      2 terkunci
-      2 tersefia
+      2 tersebut!
+      2 tersedia
+      2 tersenyum
+      2 tersenyum.
       2 tersesat
+      2 tertawa.
+      2 tertidur
       2 tertinggi
       2 tertulis
+      2 tertutup
+      2 tertutup.
       2 terulang
+      2 terus-menerus
+      2 tetapi,
       2 thai
       2 the
       2 tiap
-      2 tipis
-      2 tiup
-      2 tn
+      2 tiba-tiba
+      2 tidak!
+      2 tidur,
+      2 tim.
+      2 tn.
       2 tolong?
+      2 tom!
+      2 tombol
+      2 toserba
       2 transportasi
       2 truk
-      2 tuamu
+      2 tubuh.
+      2 tugas.
       2 tujuan
       2 tukar
+      2 tulis.
+      2 tulus
       2 tumbuhan
       2 tv
-      2 uangnya
+      2 uang,
       2 ucapan
       2 ucapkan
       2 ukuran
-      2 umurnya?
-      2 unfangan
+      2 umum,
+      2 umum.
+      2 umumnya
+      2 umumnya,
+      2 umurmu?
+      2 undangan
+      2 universitas,
       2 urusan
-      2 urusanmu
+      2 utara.
       2 walau
-      2 wang
-      2 wisata
+      2 wang.
+      2 wanita.
+      2 wartawan.
+      2 wawancara.
+      2 ya!
       2 yah?
       2 yakin?
-      3 afakah
-      3 afil
+      2 york,
+      3 ada.
+      3 adakah
       3 agak
       3 agen
-      3 akal
-      3 akurat
-      3 alam
+      3 akurat.
       3 amat
+      3 amerika.
       3 amerika?
+      3 anak,
+      3 aneh
+      3 aneh.
       3 angka
-      3 apel
-      3 april
+      3 apa-apa
+      3 apartemen
+      3 api
+      3 april.
+      3 arak.
       3 arti
-      3 asia
-      3 australia
+      3 asal
+      3 awal,
+      3 awas!
+      3 ayah.
+      3 ayam.
       3 baca
+      3 bagian
       3 bahan
-      3 bali
-      3 bantuannya
+      3 bahasa.
+      3 bantuannya.
+      3 barat
       3 batang
-      3 batas
-      3 batu
-      3 belanfa
+      3 belajar,
       3 benarkah?
-      3 benfera
-      3 berapa?
+      3 bendera
+      3 berapa.
       3 berarti
-      3 beras
       3 berasal
       3 berawan
       3 berbagai
+      3 berbahaya
+      3 berbeda
+      3 berbelanja.
       3 berbuat
+      3 berdiri.
+      3 berenang.
+      3 berikutnya
+      3 berikutnya.
       3 beritahu
-      3 berjalanjalan
-      3 berkurang
-      3 berolahraga
+      3 bersama-sama.
       3 bersiap
-      3 bertahan
-      3 bertengkar
-      3 beruang
       3 berulang
       3 biar
-      3 biayanya
+      3 biaya
       3 bintang
-      3 bohong
+      3 bis.
+      3 bob
+      3 bolpoin
       3 boston
+      3 buah.
       3 buat
+      3 buatan
+      3 bukit.
       3 bumi
+      3 burung.
+      3 buta.
       3 butir
       3 cahaya
-      3 caranya
-      3 cari
-      3 ceritanya
+      3 ceria.
+      3 cerita.
+      3 ceritanya.
       3 cermin
       3 cintai
       3 cuacanya
       3 cuma
-      3 email
-      3 emas
-      3 fahulu
-      3 falang
-      3 fapur
-      3 farinya
-      3 fata
-      3 fenganku
-      3 fenganmu?
-      3 fengarkan
-      3 ferajat
-      3 feras
-      3 fiantara
-      3 fibaca
-      3 fibeli
-      3 fijangkau
-      3 fijual
-      3 fikeluarkan
-      3 fikirim
-      3 filetakkan
-      3 fimatikan
-      3 finfing
-      3 fipakai
-      3 fipecat
-      3 fiperbolehkan
-      3 firiku
-      3 fisitu
-      3 fisukai
+      3 daftar
+      3 dalang
+      3 danau
+      3 dapur.
+      3 darinya.
+      3 demam
+      3 demam.
+      3 denganmu?
+      3 dengarkan
+      3 dewasa,
+      3 diam.
+      3 diantara
+      3 dibaca
+      3 dibeli
+      3 dibuat
+      3 dibuka.
+      3 dijual
+      3 dikirim
+      3 dilakukan.
+      3 diletakkan
+      3 dimatikan.
+      3 dimulai.
+      3 diperbaiki
+      3 diperbaiki.
+      3 diperbolehkan
+      3 disini.
+      3 disitu
+      3 dolar.
+      3 dompet.
+      3 dulu,
+      3 emas.
+      3 enam.
+      3 formulir
       3 gantung
-      3 gemuk
-      3 gereja
-      3 giat
-      3 gila
-      3 gratis
-      3 gugur
-      3 hai
+      3 gelap,
+      3 gram
+      3 habis
+      3 hadir
       3 hak
-      3 haus
+      3 hari,
+      3 hati
+      3 haus.
       3 hawa
-      3 hewan
-      3 hifangan
-      3 hifupku
-      3 hijau
-      3 inilah
+      3 hidangan
+      3 hidupnya
+      3 hijau.
+      3 hilang
+      3 hotel.
+      3 hutan
+      3 hutan.
+      3 ibu,
+      3 informasi
+      3 ini!
       3 istriku
+      3 istrinya.
+      3 jadi,
       3 jaga
       3 jaket
+      3 jalannya
       3 janganlah
-      3 janji
       3 jarang
-      3 jasku
+      3 jasmu
       3 jasmu?
-      3 jim
-      3 jiwa
+      3 jawaban.
+      3 jerman?
       3 jumlah
       3 jupiter
+      3 kacamata
+      3 kacamata.
       3 kakinya
-      3 kalenfer
+      3 kali.
+      3 kamar,
+      3 kamarnya.
+      3 kamera
       3 kami?
-      3 kanafa
+      3 kan?
+      3 kantin
       3 kapal
-      3 karaoke
-      3 kaset
-      3 katakata
-      3 katanya
-      3 keafaan
-      3 kebahagiaan
+      3 kare
+      3 kasih!
+      3 kata-kata.
+      3 keadaan
       3 kebanyakan
-      3 kebenaran
-      3 kecap
+      3 kedutaan.
       3 kehabisan
-      3 keinginan
-      3 kekalahannya
       3 kekurangan
       3 kelima
+      3 keluarga.
       3 keluargaku
-      3 keluarkan
       3 kemana
-      3 kemaren
+      3 kemari
+      3 kemudian,
       3 kemungkinan
+      3 kencang.
+      3 kepala.
+      3 keras
       3 kesabaran
-      3 kesalahannya
+      3 kesalahannya.
+      3 kesehatan
+      3 kesehatan.
       3 kesukaan
       3 kesukaanmu?
-      3 kipas
-      3 kuatir
-      3 kuenya
-      3 kufa
+      3 khawatir.
+      3 konser
+      3 konser.
+      3 kotor.
+      3 kue.
+      3 kuning
       3 kunjungi
+      3 kuno
       3 lagi?
-      3 lancar
-      3 langsung
-      3 lari
-      3 lemari
-      3 lift
-      3 loket
-      3 lusa
+      3 lain,
+      3 lain-lain.
+      3 laki-laki.
+      3 lalu-lintas
+      3 lapar.
+      3 lelah,
+      3 lepas.
+      3 liburan
+      3 lima.
+      3 lintas,
+      3 luar.
+      3 luas.
+      3 maaf.
       3 maafkan
-      3 mahasiswa
-      3 main
-      3 makasih
+      3 mabuk.
+      3 majalah.
       3 makin
       3 manakah
-      3 manamana
-      3 maria
+      3 mana-mana.
+      3 mandi,
+      3 mandi.
+      3 mantel.
+      3 manusia.
       3 masak
+      3 masalahnya
+      3 matahari.
+      3 matematika
+      3 mati!
+      3 matikan
       3 mawar
       3 mekar
       3 melewati
-      3 melompat
+      3 melompat.
       3 mematuhi
-      3 membacanya
+      3 membacanya.
+      3 membantu.
       3 membelikan
       3 memecahkan
       3 memikirkan
       3 mempelajari
-      3 memuaskan
       3 menahan
-      3 menanfatangani
+      3 menandatangani
       3 menangkap
-      3 mencuri
-      3 menelpon
+      3 mencintainya
+      3 mencintainya.
+      3 mendorong
+      3 menduga
       3 menembak
-      3 menfengarnya
-      3 menforong
-      3 menfuga
+      3 mengagumkan
       3 mengajar
       3 mengakui
       3 mengalir
-      3 mengatakannya
       3 mengatur
       3 mengenai
-      3 menggambar
       3 menghabiskan
+      3 menghadap
+      3 menghadiri
       3 menghafal
-      3 menghafap
-      3 menghafiri
-      3 menghilang
+      3 menghilang.
       3 mengingat
-      3 menginginkan
       3 mengirimkan
       3 mengkhawatirkan
       3 mengubah
+      3 menikah.
       3 menikahi
       3 menjaga
+      3 menjawab
+      3 menjawab.
       3 menolong
       3 menuangkan
+      3 menunggu.
       3 menunjuk
       3 menyangka
-      3 menyanyi
       3 menyanyikan
+      3 menyenangkan,
       3 menyerahkan
       3 menyesal
-      3 menyetir
       3 menyuruh
       3 menyusun
+      3 merah.
       3 meskipun
       3 mesti
-      3 minyak
-      3 mirip
-      3 misteri
       3 mobil?
-      3 mogok
       3 mona
       3 motor
-      3 muhammaf
+      3 mu
+      3 muhammad
       3 muiriel
-      3 muncul
-      3 murifmurif
-      3 museum
+      3 mulut
+      3 murah,
       3 musisi
-      3 nenek
+      3 namamu
+      3 nasi.
       3 new
-      3 ngomong
       3 nikmati
       3 nilai
       3 organ
-      3 pacarnya
-      3 pafam
-      3 pafat
+      3 pakaian
       3 panen
-      3 patah
-      3 pefas
-      3 pelan
+      3 pantai.
+      3 patah.
+      3 payung
+      3 pedas.
+      3 peduli
+      3 pekerjaannya
+      3 pelan.
       3 pelan?
-      3 pemanfu
+      3 pemandu
       3 pemimpin
-      3 penfapat
-      3 pengenfara
-      3 penghangat
+      3 pendapat
+      3 pengalaman
+      3 pengalaman.
+      3 pengendara
+      3 pensil.
       3 perabotan
+      3 perancis
+      3 perang
       3 perasaan
+      3 peraturan.
       3 perempatan
-      3 perenang
       3 pergi?
-      3 peringatan
-      3 perlahan
+      3 perlahan.
       3 pernahkah
       3 pesan
       3 pesawat?
-      3 pihak
-      3 pinfah
-      3 prangko
-      3 profuk
+      3 peta
+      3 peta.
+      3 pikiran
+      3 pilih
+      3 pindah
+      3 pintar.
+      3 pos.
+      3 prancis
+      3 prancis.
+      3 pribadi
+      3 produk
       3 proyek
+      3 pulang.
       3 pulang?
-      3 rabu
-      3 raja
-      3 rambutnya
+      3 putih
+      3 radio.
+      3 ramai.
+      3 rambut.
+      3 renang
+      3 ringan
       3 rumah?
-      3 saja?
-      3 sakunya
+      3 rumahku.
+      3 rusak.
+      3 saja,
+      3 sampai.
       3 sapi
-      3 sayangnya
-      3 seanfainya
-      3 sebenarnya
-      3 secepatnya
-      3 sefih
-      3 segalanya
-      3 sehari
+      3 sarapan
+      3 satu.
+      3 seandainya
+      3 sebentar,
+      3 secepatnya.
+      3 segera.
+      3 seharian
+      3 sehat.
+      3 sejarah.
       3 sekalipun
       3 sekarang?
+      3 sekelas.
       3 selesaikan
-      3 selimut
-      3 sementara
+      3 semangat.
+      3 semi.
+      3 seminggu
       3 semoga
+      3 sendiri,
+      3 sendok.
       3 sengaja
       3 sepenuhnya
-      3 serikat
+      3 seratus
       3 sesuatu?
       3 setinggi
       3 setuju?
-      3 siapapun
-      3 sofa
+      3 siapa-siapa.
+      3 silakan.
+      3 singapura.
+      3 situ
+      3 sore
+      3 stasiun,
       3 suka?
+      3 sukai
+      3 sukses
       3 sumber
-      3 suratnya
-      3 surga
-      3 susah
-      3 swiss
-      3 tajam
+      3 sumpit
+      3 swiss.
+      3 tahunmu.
+      3 tajam.
+      3 taksi.
       3 tambahkan
       3 tampaknya
-      3 tatoeba
+      3 tanganmu
+      3 tangga.
       3 tawaran
+      3 teh.
+      3 telat
+      3 telepon.
       3 temanku
       3 tengah
-      3 tenggara
+      3 terakhir.
+      3 terang
       3 terasa
-      3 terbakar
+      3 terbang.
       3 terbiasa
       3 tergantung
-      3 terhormat
+      3 terkejut
       3 terkena
-      3 tertifur
+      3 terluka
+      3 tertawa
       3 tertinggal
-      3 terusmenerus
-      3 thailanf
-      3 tibatiba
-      3 tifakkah
-      3 tifaklah
-      3 tim
+      3 thailand.
+      3 tidakkah
+      3 tidaklah
+      3 tiga.
+      3 tikus
+      3 toilet
       3 tokyo?
-      3 tombol
-      3 tubuh
-      3 tugas
+      3 topan.
+      3 tuanya.
+      3 tuhan.
       3 tuhan?
-      3 tulus
-      3 umurmu?
-      3 untukku
+      3 tujuh.
+      3 untukku.
       3 utama
+      3 utara
       3 utusan
       3 wajah
-      3 wartawan
-      3 york
+      4 -
+      4 agustus.
       4 akhirnya
       4 akibat
       4 alamat
       4 ambil
+      4 anaknya
+      4 anaknya.
       4 anggota
       4 antara
-      4 apartemen
-      4 asal
-      4 aso
+      4 aso.
       4 aturan
-      4 awas
+      4 ayam
       4 ayo
-      4 bagian
-      4 bagiku
-      4 bahaya
-      4 baiklah
-      4 bantal
+      4 babi.
+      4 baju.
+      4 bandara.
+      4 bank
+      4 bantuan
+      4 barat.
+      4 bawah.
+      4 bayi
+      4 begitu.
       4 begitu?
-      4 berbohong
-      4 bercanfa
-      4 berjejer
+      4 belanja
+      4 belitung
+      4 benar
+      4 berbaris
+      4 bercanda.
+      4 berfungsi
+      4 berhasil
+      4 beristirahat
       4 berlaku
-      4 bersalah
       4 bersalah?
-      4 bersamasama
       4 bertanggung
-      4 biaya
+      4 bicara.
+      4 bill
       4 bima
-      4 bioskop
-      4 bob
-      4 bofoh
-      4 buatan
-      4 bukit
-      4 cepatlah
+      4 binatang.
+      4 biru.
+      4 bis
+      4 bisbol.
+      4 bodoh.
+      4 cina.
       4 cuci
+      4 daerah
+      4 daging.
+      4 dasi
+      4 dekat.
+      4 demi
+      4 dengannya
+      4 desa
+      4 dibalik
+      4 dibanding
+      4 dibangun
+      4 dibuka
+      4 dicuri.
+      4 diluar
+      4 dimakan
+      4 dimana
+      4 disebut
+      4 dompet
       4 ekor
-      4 esperanto
-      4 faerah
-      4 fasi
-      4 femi
-      4 fibalik
-      4 fibanfing
-      4 fibangun
-      4 fibuat
-      4 fiminta
-      4 fimulai
-      4 finosaurus
-      4 fipelajari
-      4 fiperlukan
-      4 firimu
-      4 fisebut
-      4 formulir
+      4 eropa
+      4 garam.
       4 gaya
-      4 gram
-      4 hafir
-      4 hifupnya
-      4 hokkaifo
+      4 gedung
+      4 gelap.
+      4 gula.
+      4 habis.
+      4 hati.
+      4 hayashi.
+      4 hilang.
+      4 hokkaido.
       4 ibumu
-      4 informasi
+      4 indah
+      4 inggris,
       4 inggris?
-      4 inginkan
-      4 jalannya
-      4 jerman?
-      4 jujur
+      4 istirahat
+      4 itu!
+      4 jalan,
+      4 jas
+      4 jepang,
       4 jumpa
-      4 kamera
-      4 kan?
+      4 kaki.
+      4 kamu!
+      4 kanan
+      4 kanji
       4 kaus
-      4 kefalam
-      4 kefatangan
-      4 kemari
+      4 kedalam
+      4 kedatangan
+      4 kematian
       4 kenal
-      4 kepafamu
+      4 kencang
       4 keputusan
       4 keretanya
-      4 korifor
-      4 kosong
-      4 kotor
+      4 kesalahan
+      4 kira
+      4 kiri
+      4 kiri.
+      4 koran.
+      4 koridor.
+      4 kotak.
+      4 kulakukan
       4 kulkas
-      4 kuning
-      4 kuno
       4 kurasa
-      4 lainlain
-      4 lainnya
       4 lakukan?
-      4 larut
+      4 lantai.
       4 lawan
-      4 liburan
-      4 lokal
+      4 lewat
+      4 lintas
+      4 luang.
+      4 lubang
+      4 lucu.
       4 lukisan
       4 lurus
-      4 mabuk
-      4 malas
-      4 manis
-      4 mantel
-      4 masalahnya
-      4 matanya
-      4 matematika
-      4 matikan
+      4 maaf
+      4 marah
+      4 marah,
+      4 masuk.
+      4 mata.
+      4 mau.
       4 melakukannya?
       4 melalui
+      4 melihatnya.
       4 melupakan
       4 memahami
       4 memang
+      4 memasak.
       4 memberitahu
       4 memerlukan
+      4 memesan
       4 meminjamkan
       4 menampung
-      4 mengafakan
+      4 menang.
+      4 mendung.
+      4 mengadakan
       4 mengalami
       4 menganggap
       4 mengeluarkan
-      4 mengenfarai
+      4 mengendarai
+      4 meninggal.
       4 menurut
-      4 menyerah
-      4 menyukainya
+      4 menutup
+      4 menyenangkan
+      4 menyukainya.
+      4 mereka.
       4 mereka?
+      4 merusak
       4 mimpi
-      4 mulut
-      4 namamu
+      4 minuman
+      4 nanti
       4 nggak
       4 nyalakan
-      4 oh
-      4 pabrik
-      4 payung
-      4 pefuli
-      4 pen
-      4 perangko
-      4 pilih
+      4 nyaman
+      4 oh,
+      4 oleh-oleh
+      4 pabrik.
+      4 padamu.
+      4 padanya.
+      4 pakaian.
+      4 panjang
+      4 paris
+      4 pelajar
+      4 pensil
+      4 penting.
+      4 perancis.
+      4 perasaanmu,
+      4 pesawat,
+      4 pesta.
+      4 piano
+      4 piano.
       4 pilihan
-      4 pintar
+      4 piring
+      4 planet
+      4 polisi.
       4 ponsel
-      4 pribafi
-      4 ramai
-      4 rok
-      4 sakti
+      4 pun.
+      4 radio
+      4 renang.
+      4 ribut
+      4 rumah,
+      4 sabtu
+      4 salah.
       4 saling
       4 sampah
       4 samping
-      4 satusatunya
-      4 saufara
+      4 sana,
+      4 sarapan.
+      4 satu-satunya
+      4 saudara
+      4 sebentar
+      4 sebentar.
       4 seberapa
       4 segala
+      4 sehat
       4 sejumlah
+      4 sekarang,
       4 sekitar
-      4 selambatlambatnya
+      4 sekolah,
+      4 selambat-lambatnya
+      4 semalam.
+      4 sembilan.
       4 semenjak
-      4 senfok
-      4 separuh
+      4 semi
+      4 sempit
+      4 semuanya.
       4 sepatah
-      4 seratus
+      4 sepeda.
+      4 seribu
       4 sesuai
+      4 siap.
+      4 siapa.
       4 siapa?
-      4 siapasiapa
-      4 singapura
-      4 singkat
+      4 silahkan
+      4 singkat.
+      4 sini,
       4 siswa
-      4 sukai
-      4 sukses
-      4 sumpit
+      4 suaminya
+      4 sulit.
+      4 susu.
       4 tahukah
-      4 tahunmu
-      4 tahunnya
+      4 tahunnya.
+      4 taksi
+      4 taman.
+      4 tamu
       4 tanaman
-      4 tanganmu
-      4 tangga
-      4 tebal
-      4 telat
-      4 terang
+      4 tangan.
+      4 tanya
+      4 tepat.
       4 terbuat
-      4 terbuka
-      4 tertutup
+      4 terkenal.
       4 tetangga
-      4 tifur?
-      4 tikus
+      4 tidur?
+      4 timur
+      4 tinggal.
       4 tinggalkan
-      4 topan
-      4 tuanya
-      4 umumnya
+      4 turun,
+      4 udara
       4 usia
       4 waktunya
-      5 agustus
+      4 ya.
+      4 yen
+      5 "aku
+      5 alasan
+      5 allah.
+      5 anak.
+      5 anda,
+      5 angin.
+      5 apa.
       5 apa?
+      5 awal
+      5 ayahku
+      5 bagaimana.
       5 bangga
-      5 bantuan
-      5 belanja
-      5 belitung
+      5 beli
       5 belok
-      5 berangkat
-      5 berbaris
-      5 berbefa
-      5 bernyanyi
+      5 berat.
+      5 bersama.
       5 berubah
-      5 bolpoin
+      5 bola
+      5 bola.
       5 bukan?
-      5 buta
-      5 ceria
-      5 faftar
-      5 fanau
-      5 fesa
-      5 fiam
-      5 ficuri
-      5 filuar
-      5 fimakan
-      5 fimana
-      5 folar
+      5 buruk
+      5 cerah.
+      5 cina
+      5 denganmu
+      5 digunakan
+      5 dikenal
+      5 dingin,
+      5 dirinya.
+      5 ditemukan
+      5 dokter.
+      5 film.
+      5 gagal
       5 gerbang
+      5 gigi.
+      5 gitar.
       5 harganya
+      5 hitam
       5 hobi
-      5 ife
-      5 infonesia?
-      5 istrinya
+      5 ibunya.
+      5 ide
+      5 ikan.
+      5 imut.
+      5 indonesia?
+      5 jatuh
       5 jawab
-      5 kafangkafang
-      5 kamarnya
+      5 jembatan
+      5 kaca
+      5 kadang-kadang
+      5 kamar.
+      5 kanji.
       5 karcis
-      5 kare
-      5 kefutaan
+      5 katakan.
+      5 kaya
+      5 kehidupan
+      5 keik.
       5 kelihatannya
-      5 kematian
-      5 kesalahan
-      5 kuliah
+      5 keluarga
+      5 ken
+      5 koran
+      5 kota.
+      5 kyoto.
       5 lain?
-      5 lakilakinya
-      5 lapar
+      5 laki-lakinya
+      5 lampu.
       5 lelaki
-      5 luang
-      5 luas
-      5 lubang
-      5 lucu
-      5 maksuf
-      5 matahari
+      5 lembar
+      5 lepas
+      5 lihat
+      5 maksud
+      5 malu
+      5 melakukannya
       5 meletakkan
+      5 melihatnya
       5 melintasi
       5 memakan
+      5 memancing
       5 memanggil
+      5 memasak
       5 mematikan
+      5 membayar
+      5 membosankan.
       5 memeriksa
-      5 memesan
+      5 memilih
       5 mempercayai
       5 memutuskan
-      5 menang
       5 menanyakan
+      5 menarik
       5 menceritakan
       5 menelepon
-      5 menfung
       5 mengangkat
       5 mengenal
       5 menghubungi
       5 mengucapkan
       5 menjual
-      5 menutup
-      5 merusak
-      5 minuman
-      5 mu
+      5 merah
+      5 minggu.
+      5 muda
+      5 musik.
+      5 namaku
+      5 namanya
       5 nampaknya
-      5 oleholeh
-      5 pafamu
-      5 pantai
+      5 nya
+      5 orang.
+      5 padanya
+      5 panas,
+      5 parah
       5 pegawai
-      5 pekerjaannya
-      5 pemufa
-      5 perang
-      5 pikiran
-      5 planet
+      5 pemuda
+      5 pendek.
+      5 penuh
+      5 pernikahan
+      5 pesawat.
       5 rak
       5 ribu
-      5 ribut
-      5 sabtu
+      5 roti.
+      5 rumahnya
       5 sapu
       5 sayang
       5 sebagian
-      5 sejarah
-      5 sekelas
+      5 sedikit.
       5 semacam
-      5 senin
-      5 seolaholah
-      5 seribu
+      5 seolah-olah
       5 setengah
-      5 siap
-      5 silahkan
-      5 sore
-      5 suaminya
-      5 tanya
+      5 sibuk,
+      5 supermarket
+      5 susu
+      5 tampak
+      5 tanah
+      5 tas.
       5 tau
+      5 teh
+      5 telur.
+      5 tenang.
       5 terbaik
-      5 terfapat
-      5 terkafang
-      5 tersenyum
-      5 tertawa
-      5 timur
-      5 ufara
-      5 umum
+      5 terbang
+      5 terdapat
+      5 terkadang
+      5 terkejut.
+      5 toilet.
+      5 toko.
+      5 tom,
+      5 topi
+      5 toserba.
+      5 ujian.
       5 umur
+      5 universitas.
       5 walaupun
       5 warga
-      6 aneh
-      6 api
+      5 yen.
+      6 apapun.
       6 aplikasi
-      6 arak
-      6 ayahku
-      6 babi
-      6 banfara
-      6 bayi
-      6 beli
+      6 asing.
+      6 awal.
+      6 badan
+      6 baik,
+      6 bank.
+      6 belakang
+      6 berat
+      6 berbelanja
       6 berfikir
-      6 berfungsi
-      6 berikutnya
-      6 beristirahat
+      6 berhasil.
       6 berjanji
       6 berjumpa
+      6 bersih.
       6 berterima
-      6 bill
-      6 biru
-      6 bisbol
-      6 cerah
-      6 eropa
-      6 femam
-      6 fengannya
-      6 fewasa
-      6 fibanfingkan
-      6 fikenal
-      6 fiperbaiki
-      6 garam
-      6 gefung
-      6 gitar
-      6 hafiah
-      6 halo
-      6 hutan
-      6 imut
-      6 istirahat
-      6 jas
-      6 jasmu
-      6 kaca
-      6 kacamata
-      6 kanan
-      6 kantin
-      6 kehifupan
-      6 ken
-      6 kepala
-      6 kesehatan
-      6 kira
-      6 konser
-      6 kulakukan
-      6 kyoto
-      6 lembar
+      6 bertiup
+      6 berusaha
+      6 bosan.
+      6 burung
+      6 bus
+      6 datang,
+      6 delapan.
+      6 dibandingkan
+      6 diri
+      6 gula
+      6 hadiah
+      6 hujan,
+      6 ibuku
+      6 ikut
+      6 jerman.
+      6 juga.
+      6 kedai
+      6 keluar.
+      6 kemarin,
+      6 kemudian
+      6 kendaraan
+      6 keras.
+      6 kuat
+      6 kuat.
+      6 lee.
+      6 lelah
+      6 libur.
+      6 lihat.
+      6 masalah.
       6 maukah
-      6 membayar
-      6 membosankan
-      6 memilih
-      6 mengagumkan
+      6 mengerti.
       6 mengira
-      6 menjawab
+      6 menit.
       6 mohon
-      6 namaku
+      6 mudah.
+      6 murah
+      6 murid.
+      6 namanya.
       6 nampak
-      6 nya
-      6 nyaman
-      6 parah
-      6 paris
+      6 obat
+      6 padaku
       6 paspor
-      6 pengalaman
-      6 perasaanmu
+      6 pekerjaan.
+      6 peraturan
+      6 pergi,
+      6 perjalanan
       6 perkataan
-      6 permisi
-      6 pertanfingan
-      6 peta
-      6 piring
-      6 prancis
+      6 permisi,
+      6 pertandingan
+      6 pintu.
+      6 pisau
+      6 pohon.
+      6 rapat
       6 ratus
       6 rencana
-      6 ringan
-      6 rumahnya
+      6 salju
+      6 sama.
       6 sambil
       6 sebaiknya
       6 seberang
-      6 seharian
-      6 semalam
-      6 semangat
+      6 selatan.
+      6 selesai.
+      6 seminggu.
+      6 setuju
       6 siapakah
-      6 tampak
-      6 tanah
-      6 terakhir
+      6 suka.
+      6 sungai.
+      6 surat.
+      6 tanaka.
+      6 tenang
+      6 terjadi.
       6 terletak
-      6 topi
-      6 utara
-      7 alasan
-      7 allah
-      7 ayam
-      7 bafannya
+      6 terluka.
+      6 tidak.
+      6 tua.
+      6 turun.
+      6 tutup
+      7 akhir
+      7 aku.
+      7 apa-apa.
+      7 asing
+      7 badannya
       7 bahkan
       7 bapak
-      7 belakang
+      7 bawah
+      7 berakhir.
+      7 berbahaya.
       7 berencana
       7 berpikir
-      7 bersih
-      7 bertiup
       7 berumur
-      7 berusaha
-      7 biasa
-      7 bis
+      7 biarkan
+      7 bus.
       7 butuh
+      7 cantik
       7 coba
-      7 fisini
-      7 fitemukan
-      7 fitulis
-      7 fompet
-      7 gagal
-      7 gelap
-      7 habis
+      7 dia.
+      7 dingin
+      7 ditulis
+      7 ditutup.
+      7 dokter
+      7 dunia.
+      7 enak
+      7 foto
+      7 hangat.
       7 hawanya
-      7 hitam
-      7 ikut
-      7 jatuh
-      7 jerman
+      7 indonesia
+      7 istri
+      7 itulah
+      7 jalan-jalan.
+      7 john
       7 jumat
       7 karangan
+      7 kartu
       7 katakan?
-      7 kaya
       7 kecuali
-      7 kefai
-      7 keik
-      7 kencang
+      7 kedua
+      7 kerja
+      7 khawatir
+      7 kunci
       7 kurang
-      7 lewat
+      7 lelah.
+      7 makan.
+      7 malam,
+      7 mampu
       7 mana?
-      7 memancing
+      7 mati
+      7 membantu
       7 membuatku
       7 membutuhkan
-      7 mencintainya
       7 menginap
       7 mengirim
       7 mengumpulkan
+      7 menit
       7 menuju
       7 menyalakan
       7 menyelesaikan
       7 mesin
       7 milik
-      7 obat
-      7 pakaian
-      7 pelajar
-      7 pensil
-      7 perjalanan
-      7 pernikahan
-      7 rafio
-      7 renang
+      7 murid
+      7 musik
+      7 nanti.
+      7 padaku.
+      7 paham
+      7 pelajaran.
+      7 pendek
+      7 perpustakaan
+      7 perusahaan.
+      7 praktis.
+      7 putih.
+      7 rambut
       7 ruang
-      7 sarapan
-      7 sehat
+      7 rusak
       7 selain
-      7 semi
-      7 setuju
-      7 situ
+      7 sepuluh.
+      7 sesuatu.
       7 suara
-      7 taksi
-      7 toserba
+      7 tamu.
+      7 tertarik
+      7 terus
+      7 tidak,
+      7 universitas
       7 vas
-      8 anaknya
-      8 bafan
-      8 barat
+      7 wawancara
+      7 ya,
+      8 amerika
+      8 begitu,
+      8 bekerja.
+      8 bepergian
       8 berharap
-      8 bermaksuf
-      8 biarkan
+      8 berlatih
+      8 bermaksud
+      8 bilang
       8 bolehkah
-      8 fibuka
-      8 figunakan
-      8 hati
-      8 hilang
-      8 ibuku
-      8 istri
-      8 itulah
-      8 jembatan
-      8 john
-      8 kefua
-      8 keluarga
-      8 kenfaraan
-      8 kiri
-      8 lepas
-      8 malu
-      8 mampu
+      8 bunga.
+      8 cuaca
+      8 dengar
+      8 diatas
+      8 diri.
+      8 hayashi
+      8 hidup.
+      8 hotel
+      8 ikan
+      8 jalanan
+      8 kabar
+      8 kereta.
+      8 kobayashi.
+      8 kolam
+      8 komputer
+      8 komputer.
+      8 lagu
+      8 lain.
+      8 lalu-lintas.
+      8 langit
+      8 mahal
+      8 majalah
+      8 mandi
+      8 manusia
       8 masa
+      8 memperhatikan
+      8 mendaki
       8 menemukan
-      8 menfaki
       8 mengembalikan
       8 mengetahui
-      8 menyafari
-      8 merah
-      8 paham
-      8 perancis
-      8 piano
-      8 pisau
-      8 rapat
-      8 salju
+      8 menyadari
+      8 menyenangkan.
+      8 namun
+      8 pertanyaan
+      8 pohon
+      8 polisi
       8 sana?
       8 saya?
-      8 selatan
+      8 sempit.
       8 sepak
+      8 sibuk.
       8 sini?
       8 soal
+      8 supermarket.
       8 tahan
+      8 tahu.
+      8 televisi
+      8 tenis
+      8 tepat
       8 terbesar
-      8 terkejut
-      8 tertarik
-      8 toilet
-      8 tutup
-      9 akhir
-      9 baikbaik
+      8 terlambat.
+      8 tersebut.
+      8 tiada
+      8 turun
+      9 arah
+      9 bagus
+      9 bahagia.
+      9 baik-baik
       9 bangunan
-      9 bepergian
-      9 berakhir
       9 berbahasa
+      9 berdiri
+      9 berikan
       9 berita
-      9 bilang
+      9 biasanya
+      9 bicara
+      9 binatang
       9 bisakah
-      9 bosan
-      9 burung
-      9 cuaca
-      9 fiatas
-      9 fijalan
-      9 hangat
+      9 dijalan
+      9 dilakukan
+      9 dirinya
+      9 dulu
+      9 gelas
+      9 gigi
+      9 halaman
       9 harga
       9 hingga
-      9 jalanan
-      9 kabar
-      9 kanji
-      9 kartu
+      9 ibunya
+      9 indonesia.
+      9 ingat
+      9 itu,
+      9 jawaban
+      9 kasih.
       9 kebun
-      9 keras
-      9 kerja
+      9 kertas
       9 ketinggalan
-      9 kunci
-      9 lagu
+      9 kue
+      9 kursi
       9 lahir
+      9 lain
+      9 laut.
       9 lulus
-      9 melihatnya
-      9 memasak
-      9 memperhatikan
+      9 masalah
+      9 mati.
+      9 menarik.
       9 mencintai
       9 menolak
-      9 namun
-      9 pafanya
-      9 penuh
-      9 peraturan
+      9 minta
+      9 muda.
+      9 penting
       9 percaya
-      9 praktis
+      9 roti
+      9 sayur
       9 semakin
-      9 seminggu
-      9 susu
-      9 teh
-      9 telur
-      9 terbang
-      9 terus
-      9 tiafa
-      9 wawancara
+      9 sembilan
+      9 sepeda
+      9 sulit
+      9 sungguh
+      9 telepon
+      9 terjadi
+      9 terkenal
+      9 tiba.
+      9 tinggi
+      9 tokyo.
+      9 tulis
+      9 warna
       9 ya?
-      9 yen
-     10 apaapa
-     10 bank
-     10 berbahaya
-     10 berbelanja
-     10 berhasil
-     10 berikan
-     10 berlatih
+     10 angin
+     10 ayahnya
+     10 bertanya
      10 berwarna
-     10 biasanya
-     10 bola
-     10 cina
-     10 fengar
-     10 fitutup
-     10 foto
-     10 gafis
+     10 besok.
+     10 buruk.
+     10 denganmu.
+     10 dunia
+     10 gadis
+     10 guru.
      10 harap
+     10 hujan.
+     10 huruf
+     10 jam.
      10 kalian
-     10 kemufian
-     10 khawatir
-     10 kolam
-     10 koran
-     10 kursi
-     10 langit
+     10 kasih
+     10 kelas.
+     10 kemacetan
+     10 kembali.
+     10 kotak
+     10 lantai
+     10 laut
      10 maka
-     10 membantu
+     10 marah.
+     10 melakukannya.
      10 membersihkan
      10 memotong
      10 mempunyai
-     10 menfapat
+     10 menangis
+     10 menangis.
+     10 mendapat
      10 mengerjakan
+     10 menikah
      10 menyeberang
-     10 minta
+     10 murah.
+     10 panjang.
+     10 pun
      10 rasa
-     10 terluka
-     10 warna
-     11 amerika
-     11 arah
-     11 ayahnya
-     11 bawah
+     10 restoran
+     10 saja.
+     10 saya,
+     10 sekali.
+     10 sendiri
+     10 seseorang
+     10 tiba
+     10 tinggi.
+     10 tunggu
+     11 belas
      11 buka
      11 bukankah
-     11 fapatkah
-     11 gelas
-     11 halaman
+     11 dapatkah
+     11 enam
      11 hobiku
-     11 hotel
-     11 ingat
+     11 ini,
+     11 jauh
+     11 jendela
      11 kakak
-     11 kertas
-     11 lalulintas
-     11 majalah
-     11 manusia
+     11 kaki
+     11 kami.
+     11 katakan
+     11 kecelakaan
+     11 kopi.
+     11 lampu
+     11 libur
+     11 lintas.
      11 meminjam
      11 meninggalkan
-     11 namanya
-     11 nanti
      11 nomor
-     11 pertanyaan
+     11 pagi.
      11 pria
-     11 putih
-     11 rambut
-     11 rusak
-     11 sungguh
-     11 tamu
-     11 tulis
-     11 tunggu
-     12 anfa?
-     12 bahagia
-     12 belas
-     12 berat
-     12 berfiri
-     12 bertanya
+     11 sana.
+     11 selesai
+     11 sendirian.
+     11 sibuk
+     11 sungai
+     11 televisi.
+     11 tenis.
+     11 tokyo
+     11 tujuh
+     12 anak-anak
+     12 anda?
+     12 bangun
+     12 banyak.
+     12 berlari
      12 bila
      12 bukanlah
-     12 filakukan
-     12 fokter
-     12 gula
-     12 hayashi
-     12 huruf
-     12 jawaban
+     12 bunga
+     12 empat
      12 kalimat
-     12 kecelakaan
-     12 kemacetan
-     12 kue
+     12 kucing.
+     12 maaf,
+     12 masakan
+     12 matsui.
+     12 memberi
      12 meminta
-     12 penfek
-     12 polisi
-     12 restoran
-     12 sayur
-     12 sempit
-     12 seseorang
-     12 telepon
-     12 tenang
-     12 tepat
+     12 pertama
+     12 segera
+     12 siang.
+     12 taman
+     12 terlambat
+     12 yamada.
      13 agar
-     13 binatang
-     13 fulu
-     13 jauh
-     13 jenfela
-     13 kuat
-     13 lihat
+     13 air.
+     13 baju
+     13 berenang
+     13 cepat
+     13 cepat.
+     13 cerita
+     13 hujan
+     13 kantor
+     13 lama.
      13 lupa
-     13 masakan
-     13 memberi
+     13 mahal.
+     13 mana.
+     13 mary.
+     13 meja.
      13 membuka
-     13 menikah
+     13 mencuci
+     13 mendengarkan
+     13 merokok
      13 merupakan
-     13 murif
-     13 musik
-     13 pafaku
+     13 nasi
+     13 negeri
+     13 perusahaan
      13 sebagai
-     13 sebentar
-     13 sembilan
      13 sepanjang
      13 sepatu
-     13 sepefa
-     13 supermarket
-     13 terkenal
-     14 anakanak
-     14 asing
-     14 awal
-     14 benarbenar
-     14 bicara
-     14 bus
-     14 empat
-     14 enam
-     14 firi
-     14 firinya
-     14 ibunya
-     14 ikan
-     14 kantor
-     14 kotak
-     14 lantai
-     14 manfi
+     13 tangan
+     14 benar.
+     14 benar-benar
+     14 daging
+     14 hari.
+     14 indah.
+     14 kamu.
+     14 kimura.
      14 memasukkan
      14 membawa
-     14 mencuci
-     14 menit
      14 menunjukkan
-     14 mufa
-     14 panjang
+     14 panas.
      14 para
-     14 penting
-     14 pertama
-     14 pohon
-     14 pun
+     14 perpustakaan.
+     14 pesta
+     14 pikir
+     14 sama
      14 sejak
-     14 senfirian
+     14 sepertinya
+     14 sesuatu
      14 suatu
-     14 sulit
-     14 tafi
-     14 terhafap
-     14 tujuh
-     14 universitas
-     14 ya
+     14 tadi
+     14 takut
+     14 terhadap
+     14 tua
+     14 uang.
+     14 yakin
+     15 apapun
+     15 baru.
+     15 belajar.
      15 berkata
-     15 berlari
-     15 fenganmu
-     15 gigi
+     15 buku.
+     15 delapan
+     15 duduk
+     15 enak.
      15 hampir
-     15 kaki
+     15 jadi
+     15 jalan-jalan
+     15 kamus
      15 kenapa
-     15 menarik
+     15 kopi
+     15 lagi
+     15 mata
      15 mencari
-     15 menfengarkan
      15 mengambil
      15 mengunjungi
-     15 pikir
-     15 roti
-     15 segera
-     15 sepertinya
-     15 takut
-     15 terjafi
-     15 yakin
-     16 angin
-     16 bangun
-     16 berenang
-     16 buruk
-     16 cerita
-     16 katakan
-     16 komputer
-     16 lampu
-     16 lelah
+     15 meninggal
+     15 merokok.
+     15 pandai
+     15 semuanya
+     15 siang
+     16 cantik.
+     16 dingin.
+     16 kemarin.
+     16 mencoba
      16 menerima
-     16 menyenangkan
-     16 panfai
      16 secara
-     17 baju
-     17 fufuk
-     17 infonesia
-     17 kamus
+     16 silakan
+     16 tas
+     16 waktu.
+     16 wanita
+     17 gunung
+     17 kucing
+     17 lama
      17 pasti
+     17 pesawat
+     17 saja
      17 seekor
-     17 selesai
      17 senang
-     17 taman
      17 tetap
      17 tom?
-     18 faging
-     18 funia
-     18 jafi
-     18 libur
-     18 lintas
-     18 marah
+     18 barang
+     18 besar
+     18 cukup
+     18 inggris.
+     18 kimura
+     18 kita.
+     18 kobayashi
+     18 lee
+     18 malam.
      18 mari
-     18 masalah
-     18 melakukannya
-     18 mencoba
-     18 menfapatkan
-     18 nasi
-     18 pesta
-     18 sungai
-     18 tangan
-     18 turun
+     18 matsui
+     18 mendapatkan
+     18 mudah
+     18 negeri.
+     18 pelajaran
+     18 pos
+     18 sekarang.
+     18 stasiun
+     18 tersebut
+     18 tuhan
      19 bagi
-     19 barang
-     19 gunung
+     19 berjalan
+     19 datang.
      19 kehilangan
+     19 kelas
+     19 kereta
+     19 meja
      19 menonton
      19 menyukai
-     19 murah
+     19 mobil
+     19 panas
+     19 sakit
      19 seharusnya
-     19 semuanya
-     19 silakan
-     19 tenis
+     19 selamat
+     19 sepuluh
+     19 stasiun.
+     19 teman.
      19 terima
-     19 tiba
-     19 tinggi
-     19 wanita
-     20 bunga
-     20 cukup
-     20 infah
-     20 lain
-     20 laut
-     20 maaf
-     20 mata
-     20 mati
-     20 menangis
+     19 yamada
+     20 bagus.
+     20 baik.
+     20 inggris
+     20 kapan
      20 mengatakan
-     20 meninggal
-     20 televisi
-     20 terlambat
-     21 berjalan
-     21 kapan
-     21 perusahaan
-     21 pos
-     21 sama
+     20 salah
+     20 ujian
+     21 film
+     21 kali
+     21 mengerti
+     21 sering
      21 tanggal
-     21 tas
-     21 tokyo
-     21 tua
-     22 apapun
-     22 benar
-     22 enak
-     22 jalanjalan
-     22 sering
-     22 sesuatu
-     22 tuhan
-     23 berafa
+     22 anjing
+     22 depan.
+     22 kecil.
+     22 mobil.
+     22 pulau
+     22 sakit.
+     23 berada
+     23 besar.
      23 cara
-     23 felapan
-     23 perpustakaan
-     23 pulau
-     23 selamat
-     24 anjing
-     24 cantik
-     24 kali
-     24 kasih
-     24 lee
+     23 cinta
+     23 jalan.
+     23 kecil
+     23 lakukan
+     23 sedikit
+     23 surat
+     23 tahun.
+     24 air
      24 memberikan
      24 oleh
      24 sebelum
-     24 sibuk
-     25 afik
+     25 adik
      25 atau
-     25 cinta
-     25 lakukan
-     25 mahal
+     25 baru
+     25 berhenti
+     25 juga
+     25 kembali
+     25 mendengar
      25 menggunakan
-     25 mufah
-     25 salah
-     25 ujian
-     26 film
-     26 kobayashi
-     26 menfengar
-     26 pelajaran
-     26 pesawat
+     25 pergi.
+     25 sekolah.
+     25 toko
+     26 begitu
+     26 hidup
+     26 makanan
+     26 puluh
+     26 sendiri.
+     26 sini
      26 tanpa
+     26 tidur.
      27 itu?
      27 kata
-     27 kopi
-     27 puluh
-     27 sepuluh
+     27 lima
      27 tapi
+     28 ayah
      28 beberapa
-     28 berhenti
-     28 cepat
-     28 fingin
-     28 kereta
-     28 makanan
-     28 mengerti
+     28 buah
      28 merasa
+     28 mulai
+     28 sekali
      28 selama
-     28 siang
-     28 tersebut
-     29 hujan
-     29 kelas
-     29 surat
-     30 belum
-     30 kucing
-     30 lima
-     30 matsui
-     30 melakukan
-     30 merokok
-     30 mulai
+     28 siapa
+     29 belum
+     29 bersama
+     29 dekat
+     29 kota
+     29 laki-laki
+     29 lalu.
+     29 melakukan
+     29 menunggu
+     29 sana
+     29 uang
+     30 anda.
+     30 guru
+     30 jam
      30 naik
      30 paling
      30 perlu
-     30 saja
-     30 sefikit
-     30 toko
-     31 bagus
+     30 sini.
+     30 tanaka
+     31 baik
      31 ia
-     31 juga
-     31 negeri
+     31 mengapa
+     31 negara
+     31 pintu
      31 terlalu
-     31 yamafa
-     32 ayah
-     32 buah
-     32 kimura
-     32 lama
-     32 menunggu
-     32 negara
+     31 tidur
+     32 ibu
+     32 menulis
+     32 pulang
+     32 ulang
      33 hanya
-     33 lakilaki
      33 memakai
-     33 mengapa
-     33 menulis
-     33 siapa
+     33 sekarang
      33 terlihat
-     33 ulang
-     34 bersama
-     34 fekat
      34 kau
+     34 mana
+     34 pekerjaan
+     34 perempuan
+     34 rumahku
+     34 sebelah
+     34 teman
+     34 tom.
+     35 bukan
      35 jika
-     35 kota
-     35 meja
-     35 sebelah
+     35 keluar
+     35 masuk
+     35 membaca
      35 tak
-     36 kembali
-     36 perempuan
-     36 pulang
+     36 berbicara
+     36 kamar
+     36 minum
      36 tentang
-     37 air
      37 bahwa
-     37 bukan
-     37 faripafa
-     37 ibu
+     37 bertemu
+     37 daripada
      37 masih
-     37 membaca
-     37 rumahku
-     37 tanaka
-     38 begitu
-     38 hifup
-     38 minum
-     38 panas
-     38 pintu
-     39 berbicara
-     39 bertemu
+     37 rumah.
+     37 sekolah
+     38 minggu
+     38 pukul
+     39 bulan
      39 ini?
-     39 masuk
+     39 luar
      39 membuat
-     39 pukul
-     40 baru
-     40 stasiun
-     41 besar
-     41 bulan
-     41 guru
-     41 mobil
-     41 sekali
+     39 tempat
+     39 waktu
+     40 anak
+     40 jepang.
+     40 pagi
+     41 bekerja
+     41 musim
      41 seperti
-     41 tempat
-     42 jam
-     42 keluar
-     42 luar
-     42 musim
-     42 pekerjaan
-     42 sakit
-     42 senfiri
-     43 inggris
+     42 berapa
+     43 atas
+     43 depan
      43 ketika
-     44 sana
-     45 atas
-     45 minggu
+     43 mary
+     43 tolong
+     44 boleh
+     44 lagi.
      45 nama
-     46 boleh
-     46 kamar
-     46 kecil
+     46 bermain
+     46 sampai
      46 selalu
-     46 tolong
-     46 uang
-     47 kepafa
-     47 mana
+     47 bagaimana
+     47 kepada
+     47 lalu
      47 membeli
      47 setelah
-     48 anak
-     48 berapa
-     48 bermain
+     47 tetapi
+     48 jepang
      48 memiliki
+     48 punya
      48 sebuah
-     49 punya
-     49 sampai
-     49 tetapi
+     48 tiga
+     49 besok
+     50 mau
+     50 mungkin
      50 seorang
-     51 bekerja
-     51 mungkin
-     51 tiga
-     52 bagaimana
-     52 hal
-     54 mau
-     54 ruangan
-     54 teman
-     55 pagi
-     56 satu
-     56 sekarang
-     56 tinggal
-     57 baik
-     57 menjafi
-     57 waktu
-     59 mary
-     59 melihat
-     59 mereka
-     60 tifur
-     61 besok
+     51 hal
+     52 tinggal
+     53 ruangan
+     53 satu
+     54 mereka
+     56 malam
+     57 jalan
+     57 menjadi
+     58 melihat
+     61 datang
      61 pernah
-     61 sini
-     62 lagi
+     63 dapat
      63 setiap
-     64 fapat
      64 jangan
-     66 fepan
-     66 sekolah
-     68 semua
+     66 semua
+     67 kemarin
      69 saat
+     69 tahun
      70 kalau
-     76 fua
-     76 lalu
-     81 malam
-     84 jalan
-     86 fatang
-     87 suka
-     89 kemarin
-     90 belajar
-     92 banyak
-     92 jepang
-     97 tahun
-    100 tahu
-    103 buku
-    104 kami
+     72 belajar
+     74 dua
+     80 banyak
+     80 suka
+     85 saya.
+     88 buku
+     88 itu.
+     89 tahu
+     93 kami
+     96 rumah
     105 telah
-    108 harus
-    112 falam
-    118 lebih
-    119 bahasa
-    123 sefang
-    124 kita
-    130 makan
-    130 pafa
-    134 sufah
+    106 kita
+    107 harus
+    110 dalam
+    116 bahasa
+    117 lebih
+    122 makan
+    123 sedang
+    130 pada
+    134 sudah
     136 sangat
-    137 rumah
-    151 ingin
-    160 apakah
+    138 ini.
+    150 ingin
+    155 orang
+    156 anda
+    159 apakah
     160 karena
-    161 orang
-    164 fari
-    171 apa
-    176 afalah
-    181 bisa
-    190 hari
-    191 anfa
-    195 pak
+    164 dari
+    165 apa
+    173 hari
+    176 adalah
+    178 bisa
+    184 pergi
+    194 pak
     195 untuk
-    216 pergi
-    218 fan
+    218 dan
     274 akan
     279 ke
-    286 fengan
-    299 afa
-    316 aku
-    370 kamu
-    394 tom
-    419 itu
-    490 fia
-    535 ini
+    285 dengan
+    294 ada
+    301 aku
+    317 itu
+    349 kamu
+    353 tom
+    382 ini
+    480 dia
     593 yang
-    647 tifak
-    761 fi
-   1504 saya
+    632 tidak
+    761 di
+   1409 saya

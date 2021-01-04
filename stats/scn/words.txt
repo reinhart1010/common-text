@@ -1,52 +1,56 @@
-      1 agghiuncitini
+      1 agghiuncitini.
       1 appruvati
       1 avemu
       1 bluccati
       1 bona
       1 bonu
-      1 c
+      1 c'âmu
+      1 càrrica
       1 cci
       1 certi
-      1 cmu
-      1 comu
-      1 crrica
-      1 cucinu
+      1 chi
+      1 chi!
+      1 comu,
+      1 cû
+      1 cucinu!
       1 cunteni
       1 cuntu
       1 cunzenti
-      1 curta
-      1 f
-      1 facstivu
-      1 fari
-      1 fiscursi
+      1 curta.
+      1 dâ
+      1 ḍḍa
+      1 discursi
+      1 è!
+      1 facìstivu
+      1 fari.
       1 frasi
       1 giugnu
-      1 grficu
+      1 gràficu
       1 iu
       1 jurnata
       1 la
       1 lassari
       1 linguaggiu
-      1 longa
-      1 longhi
-      1 luri
-      1 manu
-      1 mari
+      1 longa.
+      1 longhi!
+      1 l'uri
+      1 manu.
+      1 mari!
       1 megghiu
-      1 mia
-      1 mmggini
-      1 mttiri
+      1 mèttiri
+      1 mia,
+      1 mmàggini
       1 na
-      1 nenti
-      1 nmmaru
+      1 nenti!
       1 no?
       1 non
       1 nstallari
+      1 nùmmaru
       1 nzinu
       1 o
-      1 ora
+      1 ora.
       1 pari
-      1 parrari
+      1 parrari,
       1 pinzamunillu
       1 prima
       1 pronti
@@ -54,43 +58,46 @@
       1 ricugghiutu
       1 rispittusu
       1 sacciu
-      1 sallistissi
+      1 s'allistissi,
       1 sapiri
-      1 simana
+      1 semu
+      1 semu!
+      1 simana,
       1 sintiti
       1 siti
       1 spartuti
       1 sta
-      1 su
+      1 s'u
       1 sula?
-      1 tipu
+      1 tipu.
       1 trazzatura
-      1 tri
-      1 tu
+      1 tri!
+      1 tu....
       1 tutali
-      1 uffinzivu
+      1 uffinzivu.
+      1 un
+      1 'un
       1 uri
-      1 va
-      1 vasciu
-      1 vui
+      1 va,
+      1 vasciu.
+      1 veni
+      1 veni!
+      1 vui.
       1 vulemu
       1 vulumi
       2 autri
-      2 chi
-      2 cu
+      2 cu'
       2 e
       2 mi
       2 nun
       2 pozzu
-      2 semu
-      2 tiramu
+      2 tiramu,
       2 u
-      2 un
-      2 veni
       2 vui?
       3 pi
       3 troppu
       4 riggistrazziuni
+      5 è
       6 ca
-      6 fi
-      9 a
+      6 di
+      8 a

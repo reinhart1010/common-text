@@ -1,7 +1,9 @@
+      1 «
+      1 »
       1 a
       1 afar
       1 ambe
-      1 anafa
+      1 anada
       1 anar
       1 anat?
       1 aquel
@@ -9,102 +11,102 @@
       1 aqueste
       1 arribant
       1 as?
-      1 atrapron
+      1 atrapèron
       1 bocin
       1 bon
       1 brava
       1 camin
-      1 canon
+      1 cançon,
       1 capable
-      1 cascarl
-      1 cemetri
+      1 cascarèl
+      1 cemetèri.
       1 chaval
       1 coma
       1 compensar
-      1 confiana
-      1 creire
+      1 confiança.
+      1 creire.
       1 crestian
-      1 crompri
+      1 crompèri
+      1 dabans
+      1 demorar.
+      1 despartin.
+      1 deviá
+      1 dicha
+      1 diguèt:
+      1 disi,
+      1 dura.
       1 ei
       1 envoiar
+      1 èra
       1 eternala
-      1 fabans
-      1 femna
-      1 femorar
-      1 fespartin
-      1 fevi
-      1 ficha
-      1 figut:
-      1 filhonla?
-      1 fisi
-      1 fuc
-      1 fura
-      1 granf
-      1 grs
-      1 juranson
+      1 femna.
+      1 filhonèla?
+      1 fuòc.
+      1 grand.
+      1 gròs
+      1 juranson.
       1 jutge
-      1 laire
-      1 lautre
-      1 lbre
+      1 l’aire
+      1 l’autre.
+      1 lèbre
       1 li
-      1 liuras
-      1 mafama
+      1 liuras.
+      1 madama,
       1 mai
-      1 mam
-      1 manjaire
+      1 mamà
+      1 manjaire.
       1 manjar
       1 matin
-      1 me
-      1 mefecin
-      1 ms
+      1 medecin
+      1 mès
       1 normalament
-      1 nstres
-      1 oficirs
+      1 nòstres
+      1 oficièrs
+      1 òme
+      1 òrt.
       1 paisan
-      1 pap
-      1 parti
+      1 papà,
+      1 partiá
       1 pauruc
       1 pescant
-      1 plaigt
+      1 plaigèt
       1 plan
-      1 poftz
+      1 podètz
       1 porcelana
       1 portar
+      1 pòt
       1 prene
       1 preses
-      1 pt
+      1 qu’un
       1 quan
       1 quant
-      1 quapra
-      1 quei
-      1 quun
-      1 ra
-      1 res
-      1 rsa
-      1 rt
-      1 santvalentin
+      1 qu'apèra
+      1 qu'ei
+      1 res,
+      1 ròsa
+      1 sant-valentin,
       1 sentisses
       1 siaga?
-      1 suprba
+      1 supèrba.
       1 sustot
       1 talent
       1 te
       1 temps
-      1 tiratz
+      1 tiratz,
       1 tota
       1 trenta
-      1 trobt
-      1 vaissla
-      1 vegt
+      1 trobèt
+      1 vaissèla
+      1 vegèt
       1 veni
       1 vesins
       1 vin
       1 vita
-      1 vstre
+      1 vòstre
       2 ai
       2 al
       2 anat
-      2 aqus
+      2 aquò’s
       2 as
       2 e
       2 en
@@ -123,4 +125,4 @@
       5 es
       5 que
       7 lo
-      8 fe
+      8 de
