@@ -1,0 +1,21 @@
+      1 
+      1 aaa:
+      1 aaaa
+      1 axa
+      1 eee
+      1 firefox
+      1 it
+      2 o
+      2 xa
+      2 xe
+      3 oaa
+      3 x
+      6 aaa
+      6 oa
+     16 ee
+     19 aa
+     29 ;
+     45 a
+     53 e
+    106 :
+   1074 ?
