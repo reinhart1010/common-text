@@ -20,7 +20,7 @@ for lang in */ ; do
     cd $lang
     echo $PWD
     # Sort and calculate all words from .txt files (excluding the not-used/ folder)
-    cat raw/*.txt | tr 'A-Z' 'a-z' | sed 's/--/ /g' | sed 's/[^a-z ]//g' | tr -s '[[:space:]]' '\n' | sort | uniq -c | sort -n | tail -n 9999999999 | cat > words.txt
+    cat raw/*.txt | tr 'A-Z' 'a-z' | tr '\xc0-\xd6' '\xe0-\xf6' | tr '\xd8-\xde' '\xf8-\xfe' | sed 's/--/ /g' | sed 's/[^a-z \xe0-\xf6\xf8-\xfe]//g' | tr -s '[[:space:]]' '\n' | sort | uniq -c | sort -n | tail -n 9999999999 | cat > words.txt
     # Collect these values to a JSON file
     cat words.txt | sed 's/^[ \t]*//' | sed 's/[ \t]/,/' | cat > words.csv
     cd ../
