@@ -1,39 +1,11 @@
       1 "
-      1 "ada
-      1 "apa
-      1 "apakah
-      1 "berat"
-      1 "berhenti!"
-      1 "biarkan
-      1 "cepatlah
-      1 "contohnya".
-      1 "dengan
-      1 "dia
-      1 "get"
-      1 "ini,
-      1 "kabar
-      1 "kamu
-      1 "kleopatra"
-      1 "kosong"
-      1 "mary."
-      1 "menganggapmu
-      1 "mengapa
-      1 "michael"
-      1 "michelle"
-      1 "nol".
-      1 "pelanggan
-      1 "ringan".
-      1 "siapa
-      1 "tatoeba"
-      1 "tolong
-      1 "waktu
-      1 "yama".
       1 10
       1 abadi.
       1 abbot
       1 absolut
       1 acuh.
       1 ada,
+      1 "ada
       1 adakah?
       1 adams
       1 adanya
@@ -101,7 +73,9 @@
       1 antik.
       1 antrian
       1 aoi
+      1 "apa
       1 apa-apanya.
+      1 "apakah
       1 apapun,
       1 apartemen.
       1 apel
@@ -261,6 +235,7 @@
       1 berapapun,
       1 berapi
       1 beras.
+      1 "berat"
       1 beratnya
       1 berbagi
       1 berbahagialah.
@@ -312,6 +287,7 @@
       1 berhadiah
       1 berharga
       1 berhati-hati.
+      1 "berhenti!"
       1 berhentilah
       1 berhitung
       1 berhubungan
@@ -446,6 +422,7 @@
       1 betapa
       1 betty?
       1 bhinneka
+      1 "biarkan
       1 biasa,
       1 biasanya.
       1 biaya,
@@ -541,6 +518,7 @@
       1 celanaku
       1 center
       1 cepatlah!
+      1 "cepatlah
       1 cerah,
       1 ceri
       1 ceria
@@ -558,6 +536,7 @@
       1 coklat
       1 coklat.
       1 colorado.
+      1 "contohnya".
       1 cuaca.
       1 cuciannya
       1 cucu-cucunya.
@@ -590,6 +569,7 @@
       1 demikian,
       1 demikian.
       1 demokrasi
+      1 "dengan
       1 denganku
       1 denganku!
       1 denganku.
@@ -609,6 +589,7 @@
       1 dhohirnya
       1 dia!
       1 dia,
+      1 "dia
       1 diagnosa.
       1 diam
       1 diam!
@@ -868,6 +849,7 @@
       1 gerahamku
       1 gerbangnya
       1 gereja.
+      1 "get"
       1 giat
       1 gigi,
       1 gigitan?
@@ -1021,6 +1003,7 @@
       1 inginkan!
       1 inginkan.
       1 inginkan?
+      1 "ini,
       1 inilah,
       1 inisial
       1 inovasi
@@ -1110,6 +1093,7 @@
       1 juzo
       1 kabar?
       1 kabar?"
+      1 "kabar
       1 kabarmu
       1 kabarnya
       1 kabut.
@@ -1135,6 +1119,7 @@
       1 kamis
       1 kamu"
       1 kamu,
+      1 "kamu
       1 kamulah
       1 kan
       1 kan.
@@ -1361,6 +1346,7 @@
       1 kita?
       1 kitadake.
       1 klasik.
+      1 "kleopatra"
       1 kocok
       1 koin.
       1 koko,
@@ -1380,6 +1366,7 @@
       1 korsika.
       1 kosa
       1 kosong
+      1 "kosong"
       1 kota,
       1 kota?
       1 kota-kota
@@ -1623,6 +1610,7 @@
       1 markus
       1 marry.
       1 mars.
+      1 "mary."
       1 masakan.
       1 masalah!
       1 masalahku.
@@ -1869,10 +1857,12 @@
       1 mengamatinya.
       1 menganalisis
       1 mengandung
+      1 "menganggapmu
       1 mengantuk
       1 mengantuk?
       1 mengapa.
       1 mengapa?
+      1 "mengapa
       1 mengasah
       1 mengasuh
       1 mengatakannya.
@@ -2053,6 +2043,8 @@
       1 mewarnai
       1 mewawancarai
       1 meyakinkan
+      1 "michael"
+      1 "michelle"
       1 mie
       1 miho
       1 mikir
@@ -2150,6 +2142,7 @@
       1 ngotot
       1 nilaimu?
       1 nol
+      1 "nol".
       1 nona
       1 nonaktifkan!
       1 noriko.
@@ -2267,6 +2260,7 @@
       1 pelajarilah
       1 pelaksanaannya.
       1 pelamar.
+      1 "pelanggan
       1 pelanggaran
       1 pelan-pelan
       1 pelatih
@@ -2551,6 +2545,7 @@
       1 ribut-ribut?
       1 rimba.
       1 rindu
+      1 "ringan".
       1 rintik-rintik.
       1 risiko.
       1 risiko?
@@ -2758,6 +2753,7 @@
       1 sialan,
       1 siang!
       1 siap
+      1 "siapa
       1 siapapun
       1 siapa-siapa
       1 sia-sia
@@ -2886,6 +2882,7 @@
       1 tatoeba
       1 tatoeba,
       1 tatoeba:
+      1 "tatoeba"
       1 tawar
       1 tawaranmu.
       1 tebing,
@@ -3032,6 +3029,7 @@
       1 tolol?
       1 tolong,
       1 tolong.
+      1 "tolong
       1 tombol.
       1 tong
       1 tongkat,
@@ -3118,6 +3116,7 @@
       1 wajar.
       1 waktu,
       1 waktu?
+      1 "waktu
       1 waktumu
       1 wangi
       1 wanita,
@@ -3136,6 +3135,7 @@
       1 wortelnya?
       1 ya...
       1 yakin,
+      1 "yama".
       1 yoko
       1 yokohama?
       1 yoo
@@ -3143,9 +3143,6 @@
       1 yumiko
       1 yup!
       1 zamenhof,
-      2 "berapa
-      2 "jam
-      2 "selamat
       2 ac!
       2 acara
       2 adil,
@@ -3212,6 +3209,7 @@
       2 berangkat.
       2 berani
       2 berapa?
+      2 "berapa
       2 beras
       2 berbakat
       2 berbatasan
@@ -3405,6 +3403,7 @@
       2 jagalah
       2 jahat.
       2 jalur
+      2 "jam
       2 janji
       2 jasku
       2 jasmu.
@@ -3794,6 +3793,7 @@
       2 sekedar
       2 sekelas
       2 selamanya.
+      2 "selamat
       2 selatan
       2 selesai?
       2 selimut.

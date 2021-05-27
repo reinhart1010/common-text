@@ -1,30 +1,3 @@
-      1 "apache"
-      1 "atrast
-      1 "dzīvot
-      1 "ērgļa
-      1 "gribēju
-      1 "ir".
-      1 "jā!
-      1 "jā"?
-      1 "jaunie
-      1 "makdonaldā"
-      1 "mammu,
-      1 "man
-      1 "mēs"?
-      1 "nē"
-      1 "nekam
-      1 "nogalina
-      1 "piezīmju
-      1 "tad
-      1 "tagad"
-      1 "tas
-      1 "trīs"
-      1 "trīs"!
-      1 "uz
-      1 "vai
-      1 "varbūt
-      1 "viņa
-      1 "zvaigžņu
       1 ā,
       1 abējādi.
       1 ābeles
@@ -39,14 +12,14 @@
       1 abū
       1 abus.
       1 aci
-      1 acī
       1 aci,
       1 aci?
+      1 acī
       1 acīmredzami
       1 acīs.
       1 aculiecinieki
-      1 acumirklī
       1 acumirkli.
+      1 acumirklī
       1 adatām.
       1 adīti
       1 adjutante
@@ -225,6 +198,7 @@
       1 antīkās
       1 antikvāro
       1 anton.
+      1 "apache"
       1 apakšveļu.
       1 aparāts
       1 apbalvojumu?
@@ -352,8 +326,8 @@
       1 apveltīta
       1 apzagi.
       1 apzinājies,
-      1 apziņas
       1 apzinās,
+      1 apziņas
       1 apziņu.
       1 apzvērēt,
       1 ar'.
@@ -531,13 +505,13 @@
       1 atradi
       1 atradi?
       1 atradies
-      1 atradīs
       1 atradis,
+      1 atradīs
       1 atradīs?
       1 atradīsi
-      1 atrādīsies,
       1 atradīsies.
       1 atradīsies?
+      1 atrādīsies,
       1 atradīšu
       1 atradu,
       1 atraduši
@@ -546,6 +520,7 @@
       1 ātrāki
       1 atrakstījusi
       1 atrast,
+      1 "atrast
       1 atrasti
       1 atrastu
       1 ātri?
@@ -605,8 +580,8 @@
       1 atteikt,
       1 attiecībām.
       1 attiecības
-      1 attiecībās
       1 attiecības?
+      1 attiecībās
       1 attiecībās?
       1 attieksmi
       1 atvaino?
@@ -808,9 +783,9 @@
       1 beidz!
       1 beidz,
       1 beidzas
-      1 beidzās
       1 beidzas,
       1 beidzas.
+      1 beidzās
       1 beidzās...
       1 beidzies!
       1 beidzies,
@@ -826,8 +801,8 @@
       1 beigusi.
       1 beigusi?
       1 beigusies.
-      1 bembī
       1 bembi?
+      1 bembī
       1 ben,
       1 ben.
       1 bens.
@@ -918,12 +893,12 @@
       1 bostonā
       1 bostonas.
       1 boulingu
-      1 brāl.
       1 brāl'.
+      1 brāl.
       1 brāļadēls,
       1 brālēnu
-      1 brāļi
       1 brāli.
+      1 brāļi
       1 brālim.
       1 braucamais.
       1 braucamo?
@@ -945,10 +920,10 @@
       1 bremzēt.
       1 bremžu.
       1 brīdi
-      1 brīdī
-      1 brīdī,
       1 brīdi.
       1 brīdi?
+      1 brīdī
+      1 brīdī,
       1 brīdim
       1 brīdina
       1 brīdinājums.
@@ -1251,8 +1226,8 @@
       1 darām,
       1 darāms.
       1 darba,
-      1 darbā,
       1 darba...
+      1 darbā,
       1 darbabiedrs,
       1 darbabiedrs.
       1 darbam,
@@ -1309,8 +1284,8 @@
       1 daru,
       1 daru?
       1 darvas
-      1 dārzā,
       1 dārza.
+      1 dārzā,
       1 datoru,
       1 datubāzē
       1 datumu?
@@ -1399,8 +1374,8 @@
       1 dienā,
       1 dienā?
       1 dienām
-      1 dienās
       1 dienas!
+      1 dienās
       1 dienests?
       1 dieniņ!
       1 dieniņ.
@@ -1462,8 +1437,8 @@
       1 domāju?
       1 domām
       1 domas,
-      1 domās,
       1 domas.
+      1 domās,
       1 domāti
       1 domāts
       1 domāts?
@@ -1486,8 +1461,8 @@
       1 dramatiski.
       1 draņķi,
       1 draņķi?
-      1 draņķīgi,
       1 draņkīgi.
+      1 draņķīgi,
       1 draņķīgs
       1 draud
       1 draudzenes,
@@ -1548,12 +1523,12 @@
       1 dūri
       1 dūru
       1 durvis
-      1 durvīs
       1 durvis,
       1 durvis.
+      1 durvīs
       1 dušas
-      1 dusmās
       1 dusmas,
+      1 dusmās
       1 dusmojaties
       1 dusmojies
       1 dusmotos!
@@ -1647,11 +1622,12 @@
       1 dzīvojat
       1 dzīvojis
       1 dzīvokļa.
-      1 dzīvokļi
-      1 dzīvoklī.
       1 dzīvokli?
+      1 dzīvoklī.
+      1 dzīvokļi
       1 dzīvokļu
       1 dzīvosim
+      1 "dzīvot
       1 dzīvot,
       1 dzīvotu
       1 dzīvs!
@@ -1720,8 +1696,8 @@
       1 elpu?
       1 eltonu
       1 emfizēmai.
-      1 emocionālā
       1 emocionāla.
+      1 emocionālā
       1 ēna.
       1 ēnas
       1 endij,
@@ -1737,6 +1713,7 @@
       1 eņģelis.
       1 e-pastu.
       1 e-pastu?
+      1 "ērgļa
       1 ērgļa
       1 ērglim
       1 ērglis!
@@ -1843,8 +1820,8 @@
       1 gaidījis,
       1 gaidīju
       1 gaidīju,
-      1 gaidījuši
       1 gaidījusi.
+      1 gaidījuši
       1 gaidīšanu.
       1 gaidīšu
       1 gaidīt
@@ -1877,8 +1854,8 @@
       1 gājis
       1 gāju,
       1 gājusi
-      1 gaļa
       1 galā!
+      1 gaļa
       1 galaktikā.
       1 galaktikā...
       1 galaktiku!
@@ -1897,10 +1874,10 @@
       1 gals,
       1 gals.
       1 gaļu.
-      1 galvā
-      1 galvā,
       1 galva.
       1 galva?
+      1 galvā
+      1 galvā,
       1 galvenā
       1 galvenā.
       1 galveno
@@ -1932,8 +1909,8 @@
       1 garus
       1 gatava
       1 gatavam
-      1 gatavās
       1 gatavas,
+      1 gatavās
       1 gatavi.
       1 gatavi?
       1 gatavībā!
@@ -1957,8 +1934,8 @@
       1 gēni
       1 ģeniāla
       1 ģeniālā
-      1 ģimenē.
       1 ģimene?
+      1 ģimenē.
       1 ģimenei.
       1 ģimeni
       1 ģīmi!
@@ -2023,6 +2000,7 @@
       1 gribējās
       1 gribējāt
       1 gribējis
+      1 "gribēju
       1 gribēju,
       1 gribēju.
       1 gribējusi
@@ -2031,9 +2009,9 @@
       1 gribētos
       1 gribētos,
       1 gribu?
+      1 grīda?
       1 grīdā
       1 grīdā!
-      1 grīda?
       1 grīdas.
       1 grīdu,
       1 grīdu.
@@ -2278,8 +2256,8 @@
       1 ierīkot
       1 ierobežojumu.
       1 ieroča.
-      1 ieroči,
       1 ieroci.
+      1 ieroči,
       1 ieroči?
       1 ieročiem?
       1 ierocis.
@@ -2407,6 +2385,7 @@
       1 īpašu.
       1 īpašu?
       1 īpašumu
+      1 "ir".
       1 irānu.
       1 īrei
       1 īres
@@ -2419,8 +2398,8 @@
       1 īss.
       1 īsta.
       1 istaba
-      1 istabā
       1 istaba,
+      1 istabā
       1 istabā?
       1 īstais.
       1 īstam.
@@ -2464,8 +2443,8 @@
       1 izdarīji!
       1 izdarīji.
       1 izdarīju,
-      1 izdarījuši...
       1 izdarījusi?
+      1 izdarījuši...
       1 izdarīs.
       1 izdarīsi?
       1 izdarīts,
@@ -2617,9 +2596,9 @@
       1 izsaki
       1 izsakot
       1 izsalcis?
+      1 izsalkusi?
       1 izsalkuši
       1 izsalkuši.
-      1 izsalkusi?
       1 izsalkušo
       1 izsaukšu
       1 izsisties?
@@ -2699,6 +2678,8 @@
       1 ja!
       1 ja,
       1 ja.
+      1 "jā!
+      1 "jā"?
       1 jā…
       1 jāaizbrauc
       1 jāaizstāj
@@ -2846,14 +2827,15 @@
       1 jaunāks
       1 jaunāks.
       1 jaunam
-      1 jaunās
       1 jaunas.
+      1 jaunās
       1 jauneklīgs!
       1 jauneklis
       1 jaungadā?
       1 jaunība
       1 jaunībā
       1 jaunībā,
+      1 "jaunie
       1 jaunieši.
       1 jauniešus.
       1 jaunietis
@@ -2927,15 +2909,15 @@
       1 jucis,
       1 jums,
       1 jumta
-      1 jumtā
       1 jumta.
+      1 jumtā
       1 jumtam
       1 jumtu
       1 jumtu.
       1 jupis!
-      1 jūrā
       1 jūra,
       1 jūra.
+      1 jūrā
       1 jūrā.
       1 jurim.
       1 jurists.
@@ -2967,8 +2949,8 @@
       1 kāda?
       1 kādai
       1 kādam.
-      1 kādās
       1 kādas,
+      1 kādās
       1 kādēļ?
       1 kādiem?
       1 kadru.
@@ -3062,20 +3044,20 @@
       1 karotes.
       1 kāroto
       1 kārs
-      1 karstā
       1 karsta.
+      1 karstā
       1 karstāk.
       1 karstu
-      1 kārtā
       1 kārta!
+      1 kārtā
       1 kārtā,
       1 karte,
       1 karte.
       1 kartē.
       1 karti
+      1 kārtība.
       1 kārtībā
       1 kārtībā,
-      1 kārtība.
       1 kārtības.
       1 kārtībsargu.
       1 kārtību.
@@ -3209,9 +3191,9 @@
       1 kluss
       1 kļūst.
       1 kļūstam
-      1 kļūšu
       1 klusu!
       1 klusu.
+      1 kļūšu
       1 kļuva
       1 kļuvām
       1 kļuvu
@@ -3233,8 +3215,8 @@
       1 koku?
       1 kokus
       1 kolēģei?
-      1 kolēģi,
       1 kolēgi.
+      1 kolēģi,
       1 kolēģi.
       1 kolekcijas
       1 kolekciju.
@@ -3418,8 +3400,8 @@
       1 lāgā.
       1 laidīs
       1 laidīsimies
-      1 laikā!
       1 laika,
+      1 laikā!
       1 laikā?
       1 laikiem.
       1 laikiem?
@@ -3430,10 +3412,10 @@
       1 laimēšu
       1 laimēt
       1 laimēt.
-      1 laimīgā
       1 laimīga,
       1 laimīga...
       1 laimīga?
+      1 laimīgā
       1 laimīgi
       1 laimīgi,
       1 laimīgi.
@@ -3481,8 +3463,8 @@
       1 laulības
       1 laulību
       1 ļauna
-      1 ļaunā,
       1 ļauna.
+      1 ļaunā,
       1 ļaunā.
       1 launagā.
       1 ļaunākā
@@ -3732,8 +3714,8 @@
       1 maisi
       1 maisiņā?
       1 maisiņu.
-      1 maitā.
       1 maita?
+      1 maitā.
       1 maitu.
       1 maize.
       1 maizi
@@ -3745,8 +3727,8 @@
       1 mājai
       1 mājām.
       1 mājas!
-      1 mājās!"
       1 mājas.
+      1 mājās!"
       1 mājasdarbiem.
       1 mājasdarbus.
       1 mājdzīvnieki.
@@ -3758,9 +3740,10 @@
       1 mājup.
       1 māk
       1 māk,
+      1 maka,
       1 makā
       1 māka
-      1 maka,
+      1 "makdonaldā"
       1 maksā.
       1 maksāšanu,
       1 maksāsi?
@@ -3793,9 +3776,11 @@
       1 mammas.
       1 mammu!
       1 mammu?
+      1 "mammu,
+      1 "man
       1 mana!
-      1 manās
       1 manas.
+      1 manās
       1 manējā
       1 manējā.
       1 manējās.
@@ -3803,8 +3788,8 @@
       1 manieres?
       1 manījāt?
       1 manīju,
-      1 manīs
       1 manis!
+      1 manīs
       1 manos
       1 mans.
       1 mantām.
@@ -3826,11 +3811,11 @@
       1 mašīna
       1 mašīnā!
       1 māsiņām.
-      1 māsiņas
       1 mašīnas!
       1 mašīnas,
-      1 mašīnās,
       1 mašīnas.
+      1 mašīnās,
+      1 māsiņas
       1 mašīnu,
       1 mašīnu...
       1 mašīnu?
@@ -3848,8 +3833,8 @@
       1 maz.
       1 mazais,
       1 mazāk...
-      1 mazākā
       1 mazāka.
+      1 mazākā
       1 mazākais
       1 mazāku.
       1 mazgā
@@ -3943,13 +3928,14 @@
       1 mērija?
       1 mēriņam.
       1 mērķa.
-      1 mērķī!
       1 mērķi.
+      1 mērķī!
       1 mērķis
       1 mērs,
       1 mersedesa,
       1 mersedesu.
       1 mēru.
+      1 "mēs"?
       1 mēs.
       1 mēs?
       1 mēsliem
@@ -3974,8 +3960,8 @@
       1 miegā
       1 miegs
       1 miera
-      1 mierā
       1 miera?
+      1 mierā
       1 mierīga.
       1 mierīgāk.
       1 mierīgāka.
@@ -4002,8 +3988,8 @@
       1 mīkstinātāja
       1 mīkstinātu
       1 mīļa
-      1 mīļā!
       1 mīļa.
+      1 mīļā!
       1 mīļā?
       1 mīļais
       1 mīļais!
@@ -4033,8 +4019,8 @@
       1 miltiem
       1 mīlu?
       1 mīlu…
-      1 mīļumiņ,
       1 mīlumiņ.
+      1 mīļumiņ,
       1 milzu
       1 min
       1 minēja
@@ -4047,8 +4033,8 @@
       1 mirdza.
       1 miris,
       1 miris.
-      1 mirklī
       1 mirkli!
+      1 mirklī
       1 mirkļiem.
       1 mirklīti.
       1 mirkļus.
@@ -4168,9 +4154,9 @@
       1 naksniņa!
       1 nākt
       1 nakti
-      1 naktī
       1 nakti,
       1 nakti?
+      1 naktī
       1 naktīs
       1 nakts,
       1 nakts?
@@ -4199,8 +4185,9 @@
       1 nāvi?
       1 naža
       1 nazis.
-      1 nē
       1 ne!
+      1 "nē"
+      1 nē
       1 nē...
       1 nē?
       1 neadās.
@@ -4445,12 +4432,13 @@
       1 nekā,
       1 nekad!
       1 nekad.
-      1 nekādā
       1 nekāda,
+      1 nekādā
       1 nekādām
       1 nekādos
       1 nekaiš.
       1 nekaitini
+      1 "nekam
       1 nekāpsi
       1 nekas,
       1 nekas?
@@ -4872,8 +4860,8 @@
       1 neveiksmes.
       1 nevēl,
       1 nevēlos.
-      1 nevienā
       1 neviena.
+      1 nevienā
       1 nevienai
       1 nevienam,
       1 nevienam.
@@ -4954,6 +4942,7 @@
       1 noformēsim
       1 nogādāts
       1 nogājis
+      1 "nogalina
       1 nogalinās!
       1 nogalināt
       1 nogalināt.
@@ -5159,8 +5148,8 @@
       1 noziedznieki!
       1 noziedznieks!
       1 noziegums
-      1 nozīmē.
       1 nozīme?
+      1 nozīmē.
       1 nozīmēja.
       1 noziņos
       1 nozog,
@@ -5284,8 +5273,8 @@
       1 paģirām
       1 pagodinājums.
       1 pagraba
-      1 pagrabā,
       1 pagraba.
+      1 pagrabā,
       1 pagrabā.
       1 pagrabu
       1 pagrīdes
@@ -5325,8 +5314,8 @@
       1 pakustināt?
       1 palaid!
       1 palaidiet
-      1 palaidīs.
       1 palaidis?
+      1 palaidīs.
       1 palaidu
       1 palaisti.
       1 palaistuvēm
@@ -5479,8 +5468,8 @@
       1 pārgriez
       1 pārgulēt.
       1 pārguruši.
-      1 pārī
       1 pāri?
+      1 pārī
       1 pārim?
       1 pārītis.
       1 parīzē
@@ -5523,8 +5512,8 @@
       1 pārstātu
       1 pārsteidz
       1 pārsteidz.
-      1 pārsteidzošā
       1 pārsteidzoša.
+      1 pārsteidzošā
       1 pārsteigsim
       1 pārsteiguma
       1 pārtraukta
@@ -5544,8 +5533,8 @@
       1 pārvērtusies
       1 pārzvanīšu.
       1 paša
-      1 pašā
       1 paša.
+      1 pašā
       1 pašai
       1 pasakainas
       1 pasaki:
@@ -5565,8 +5554,8 @@
       1 pasauca
       1 pasaucu
       1 pasaukšu
-      1 pasaulē!
       1 pasaule,
+      1 pasaulē!
       1 pasaules!"
       1 pasaules.
       1 pasaules?
@@ -5849,8 +5838,8 @@
       1 piekritāt.
       1 piekritīs.
       1 piekritu,
-      1 piekrītu,
       1 piekritu.
+      1 piekrītu,
       1 piektais
       1 piektdienā
       1 piekto
@@ -5945,6 +5934,7 @@
       1 pievīlis?
       1 pievīlu.
       1 piezīmes.
+      1 "piezīmju
       1 piezvani,
       1 piezvaniet
       1 piezvanīja,
@@ -6087,10 +6077,10 @@
       1 prātu,
       1 prātu.
       1 precas.
-      1 precējušies
       1 precējusies,
       1 precējusies.
       1 precējusies?
+      1 precējušies
       1 precēt?
       1 precēta."
       1 precēties
@@ -6188,9 +6178,9 @@
       1 puscenu,
       1 pusdesmit?
       1 pusdesmitiem
+      1 pusdienas?
       1 pusdienās
       1 pusdienās,
-      1 pusdienas?
       1 pusdienlaikā
       1 pusdienu.
       1 pusei.
@@ -6215,8 +6205,8 @@
       1 pūzni.
       1 rācijā.
       1 rāciju.
-      1 rāda
       1 rada.
+      1 rāda
       1 radām
       1 radās
       1 rādās,
@@ -6306,8 +6296,8 @@
       1 redzat?
       1 redzējām
       1 redzēji
-      1 redzējuši
       1 redzējusi...
+      1 redzējuši
       1 redzēs.
       1 redzēsi.
       1 redzēt!
@@ -6323,8 +6313,8 @@
       1 reibst
       1 reindžeriem
       1 reindžers
-      1 reizē.
       1 reize?
+      1 reizē.
       1 reizēm.
       1 reizi?
       1 reižu.
@@ -6342,8 +6332,8 @@
       1 resni!
       1 resnis
       1 resnu,
-      1 restorānā,
       1 restorāna.
+      1 restorānā,
       1 restorānu,
       1 retranslatoru.
       1 revolucionārs.
@@ -6406,16 +6396,16 @@
       1 rodrigo,
       1 rok,
       1 rok.
-      1 rokā!
       1 roka,
+      1 rokā!
       1 rokā.
       1 rokā?
       1 rokai.
       1 rokām
       1 rokām.
+      1 rokas?
       1 rokās,
       1 rokās.
-      1 rokas?
       1 rokasgrāmatu.
       1 rokassprādze.
       1 roku!
@@ -6451,9 +6441,9 @@
       1 runa!
       1 runā!
       1 runā.
-      1 runājām
       1 runājam.
       1 runājam?
+      1 runājām
       1 runājat,
       1 runāji?
       1 runājis
@@ -6553,13 +6543,13 @@
       1 sajūsmā
       1 sajūsmā!
       1 sajūta.
-      1 sajūtās,
       1 sajūtas?
+      1 sajūtās,
       1 sajūtu,
       1 sakaltis
+      1 sakām.
       1 sākam
       1 sākām
-      1 sakām.
       1 sakara.
       1 sakari
       1 sakarīga.
@@ -6569,8 +6559,8 @@
       1 sakārtotu
       1 sākas,
       1 sākas.
-      1 sākāt
       1 sakāt.
+      1 sākāt
       1 sakausējuma
       1 sakauti.
       1 saķeršanās.
@@ -6589,8 +6579,8 @@
       1 sāksiet
       1 sāksim,
       1 saku,
-      1 sāku.
       1 saku:
+      1 sāku.
       1 sakūdīji
       1 sākuma
       1 sākušies
@@ -6678,8 +6668,8 @@
       1 saplānot
       1 saplēsu
       1 saplūst
-      1 sapnī
       1 sapni.
+      1 sapnī
       1 sapnis,
       1 sapņo.
       1 sapņoji,
@@ -6930,8 +6920,8 @@
       1 sev.
       1 sev?
       1 sevi,
-      1 sevī,
       1 sevi?
+      1 sevī,
       1 sevišķa.
       1 sēžu
       1 šie?
@@ -6981,8 +6971,8 @@
       1 simtu
       1 sīpolu
       1 sirdi
-      1 sirdī
       1 sirdi.
+      1 sirdī
       1 sirdij.
       1 sirdis
       1 sirdsdāma.
@@ -7076,8 +7066,8 @@
       1 šķīvis.
       1 šķīvjus,
       1 skola,
-      1 skolā,
       1 skola.
+      1 skolā,
       1 skolām.
       1 skolas.
       1 skolas?
@@ -7150,8 +7140,8 @@
       1 slinkums,
       1 sludinājumiem.
       1 smadzenes.
-      1 smagā
       1 smaga.
+      1 smagā
       1 smagās
       1 smagi
       1 smags
@@ -7182,8 +7172,8 @@
       1 smiltīs.
       1 smuki
       1 smukulītis.
-      1 šņabi
       1 šnabi!
+      1 šņabi
       1 šņabja,
       1 sniegs.
       1 sniegt
@@ -7211,8 +7201,8 @@
       1 solīši,
       1 soļo
       1 solos
-      1 somā,
       1 soma.
+      1 somā,
       1 somā.
       1 somām.
       1 somas,
@@ -7243,8 +7233,8 @@
       1 spēks,
       1 spēku.
       1 spēkus.
-      1 spēlē,
       1 spēle?
+      1 spēlē,
       1 spēlei
       1 spēlējām
       1 spēlējies
@@ -7371,8 +7361,8 @@
       1 stūrēt!
       1 stūrēt.
       1 stūrgalvīgs
-      1 stūrī
       1 stūri!
+      1 stūrī
       1 stutē
       1 sūdabrāli.
       1 sūdainu
@@ -7395,8 +7385,8 @@
       1 suņi
       1 suns.
       1 suns?
-      1 šūnu
       1 suņu,
+      1 šūnu
       1 super!
       1 super.
       1 superīgākie
@@ -7463,6 +7453,7 @@
       1 svītru.
       1 tā...
       1 tad.
+      1 "tad
       1 tāda,
       1 tāda?
       1 tādām
@@ -7477,6 +7468,7 @@
       1 tadžmahālu.
       1 tagad,
       1 tagad?
+      1 "tagad"
       1 taisās
       1 taisāties
       1 taisījās
@@ -7509,8 +7501,9 @@
       1 tamlīdzīgs.
       1 tāpēc.
       1 tarkšķēt!
-      1 tās.
       1 tas...
+      1 "tas
+      1 tās.
       1 taukšķu.
       1 taukšķus
       1 tauku.
@@ -7556,8 +7549,8 @@
       1 teikts
       1 teiktu
       1 teiktu:
-      1 teikuši,
       1 teikusi.
+      1 teikuši,
       1 tēja?
       1 tekilas
       1 teksasā.
@@ -7576,8 +7569,8 @@
       1 telpas
       1 telpu.
       1 telti.
-      1 teltī.
       1 telti?
+      1 teltī.
       1 teltis
       1 tematikai.
       1 templā,
@@ -7597,8 +7590,8 @@
       1 tēt!
       1 tēt?
       1 tēti
-      1 tētī
       1 tēti,
+      1 tētī
       1 tētiņ.
       1 tētis,
       1 tētis?
@@ -7706,6 +7699,8 @@
       1 trijos
       1 trijos,
       1 triki.
+      1 "trīs"
+      1 "trīs"!
       1 trīspadsmitā
       1 trīsreiz,
       1 trīsstūris
@@ -7718,13 +7713,13 @@
       1 trusītis?
       1 tu!
       1 tualete
-      1 tualetē
       1 tualete?
+      1 tualetē
       1 tualetes.
       1 tualeti?
       1 tūdaļ
-      1 tukšā
       1 tukša,
+      1 tukšā
       1 tukšā.
       1 tuksnesī.
       1 tūkstoš
@@ -7772,9 +7767,9 @@
       1 tver?
       1 tvītu.
       1 ubagu
+      1 ūdeni.
       1 ūdenī
       1 ūdeņi
-      1 ūdeni.
       1 ūdens
       1 ūdens,
       1 uguni
@@ -7794,6 +7789,7 @@
       1 ūsas.
       1 uti
       1 uts.
+      1 "uz
       1 uzacis.
       1 uzaicinājāt.
       1 uzaicināji
@@ -7954,6 +7950,7 @@
       1 vagu?
       1 vai,
       1 vai...
+      1 "vai
       1 vaicājāt.
       1 vaicāt
       1 vaidēt.
@@ -7975,8 +7972,8 @@
       1 vairogus.
       1 vairuma
       1 vairumam
-      1 vāja!
       1 vajā.
+      1 vāja!
       1 vāja.
       1 vajadzēja!
       1 vajadzētu?
@@ -8003,9 +8000,9 @@
       1 vakardien.
       1 vakardienas
       1 vakariņām?
-      1 vakariņās,
       1 vakariņas.
       1 vakariņas?
+      1 vakariņās,
       1 vakarnakts
       1 vakaros
       1 vakars!
@@ -8043,6 +8040,7 @@
       1 varaskāre
       1 varaskārs
       1 varat?
+      1 "varbūt
       1 varbūt,
       1 vārda
       1 vārdā
@@ -8086,13 +8084,13 @@
       1 vārna
       1 varoņi
       1 varonis.
-      1 vasarā
       1 vasara.
+      1 vasarā
       1 vasarā.
       1 vāverei
       1 vāverīti.
-      1 vecā
       1 veca.
+      1 vecā
       1 vecais,
       1 vecais?
       1 vecajos
@@ -8103,8 +8101,8 @@
       1 vecāks,
       1 vecāku
       1 vecgada
-      1 veči!
       1 veci.
+      1 veči!
       1 vecis
       1 vecis.
       1 vecīt!
@@ -8233,8 +8231,8 @@
       1 vienam.
       1 vienam?
       1 vienatnē.
-      1 vienībā
       1 vienība.
+      1 vienībā
       1 vienībai.
       1 vienīgā,
       1 vienīgā.
@@ -8267,10 +8265,10 @@
       1 viesstrādnieku.
       1 viesu
       1 vietas
-      1 vietās
-      1 vietās!
       1 vietas,
       1 vietas?
+      1 vietās
+      1 vietās!
       1 vietējo
       1 vietējos
       1 vietiņu?
@@ -8292,6 +8290,7 @@
       1 viltots.
       1 viltus
       1 vīlusies
+      1 "viņa
       1 viņā!
       1 viņā.
       1 viņai,
@@ -8382,8 +8381,8 @@
       1 zaķus.
       1 zaļa
       1 zaļais
-      1 zālē,
       1 zāle?
+      1 zālē,
       1 zāli,
       1 zaļiem
       1 zaļos
@@ -8533,6 +8532,7 @@
       1 zvaigznēm?
       1 zvaigznes
       1 zvaigzni?
+      1 "zvaigžņu
       1 zvaigžņu
       1 zvana
       1 zvani
@@ -8548,7 +8548,6 @@
       1 zvēri
       1 zvēriņš
       1 zvirbuļi
-      2 "tu
       2 abas
       2 abās
       2 acīm,
@@ -9237,9 +9236,9 @@
       2 martas
       2 martas.
       2 māsa
+      2 mašīna?
       2 mašīnā,
       2 mašīnā.
-      2 mašīna?
       2 mašīnu
       2 mašīnu.
       2 maskuballes
@@ -9250,8 +9249,8 @@
       2 māti?
       2 matiem,
       2 matu,
-      2 mazā
       2 maza.
+      2 mazā
       2 mazais.
       2 mazajam
       2 mazāk
@@ -9576,9 +9575,9 @@
       2 policija.
       2 posta.
       2 potēm.
+      2 prāta.
       2 prātā
       2 prātā,
-      2 prāta.
       2 prātā?
       2 prātu!
       2 precējies?
@@ -9625,8 +9624,8 @@
       2 restorānu
       2 rezultāts.
       2 riekstu
-      2 riņķī!
       2 riņķi.
+      2 riņķī!
       2 riņķis?
       2 rīta
       2 rīta.
@@ -9850,6 +9849,7 @@
       2 torti.
       2 traki.
       2 trauks
+      2 "tu
       2 tualeti.
       2 tukša
       2 tuksnesi.
@@ -9952,9 +9952,9 @@
       2 vietu,
       2 viktor.
       2 vilku
+      2 viņa,
       2 viņā
       2 vīna
-      2 viņa,
       2 viņai.
       2 viņdien
       2 viņiem!
@@ -9966,8 +9966,8 @@
       2 vīrs.
       2 virtuvi.
       2 vis.
-      2 visā
       2 visa,
+      2 visā
       2 visās
       2 visi,
       2 vislabākais
@@ -10243,8 +10243,8 @@
       3 miniet!
       3 minūtes.
       3 mums,
-      3 mutē
       3 mute.
+      3 mutē
       3 mūžu.
       3 mūžu?
       3 nabags
@@ -10370,9 +10370,9 @@
       3 sāc
       3 šādi.
       3 sāk
-      3 sāka
       3 saka,
       3 saka.
+      3 sāka
       3 saki.
       3 sakot,
       3 sāks
@@ -10524,7 +10524,6 @@
       3 zināt?
       3 zvaigznes.
       3 zvanīšu
-      4 "es
       4 abiem
       4 acis.
       4 aizdomās
@@ -10588,6 +10587,7 @@
       4 eiro
       4 ej.
       4 ejiet
+      4 "es
       4 esat?
       4 esi,
       4 gada
@@ -10651,8 +10651,8 @@
       4 mājā.
       4 mājas
       4 mammu
-      4 manī
       4 mani!
+      4 manī
       4 manis?
       4 manta.
       4 martai
@@ -10978,8 +10978,8 @@
       5 varēsim
       5 vari.
       5 viegli.
-      5 vienā
       5 viena.
+      5 vienā
       5 vienība
       5 viens.
       5 viņam.
@@ -11075,8 +11075,8 @@
       6 teikt,
       6 teikt.
       6 tēt,
-      6 tevī
       6 tevi?
+      6 tevī
       6 tiek
       6 tu,
       6 tūlīt.

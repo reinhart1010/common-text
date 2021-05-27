@@ -1,116 +1,5 @@
-      1 "ä-älä
-      1 "ai,
-      1 "älä
-      1 "anna
-      1 "aup",
-      1 "demokratia
-      1 "eihän
-      1 "eka
-      1 "et
-      1 "fan
-      1 "hah,
-      1 "harvoi
-      1 "he
-      1 "helppohan
-      1 "herkullista",
-      1 "hetkone
-      1 "hiljaa,
-      1 "huhuu?",
-      1 "hyvä
-      1 "ilmatar",
-      1 "ilmatar,
-      1 "joha
-      1 "kädet
-      1 "käyttäkää
-      1 "kerro
-      1 "kui
-      1 "kuljen
-      1 "kuuletsä
-      1 "kyl
-      1 "kylhä
-      1 "lonkeroisten
-      1 "mä
-      1 "meitä
-      1 "mielenkiintoista",
-      1 "minne
-      1 "missäs
-      1 "mistä
-      1 "mite
-      1 "miten
-      1 "mun
-      1 "mut
-      1 "mysteerimies
-      1 "naoko,
-      1 "ne
-      1 "nyt
-      1 "okei,
-      1 "olet
-      1 "olipa
-      1 "otetaa
-      1 "ottakaa
-      1 "päässeensä
-      1 "palavatpahan
-      1 "parempaakaa
-      1 "pidättäkää
-      1 "pistähän
-      1 "pitäisköhä
-      1 "pitäisköhän
-      1 "pysähy",
-      1 "ritva
-      1 "sähä
-      1 "sehän
-      1 "sen
-      1 "senkin
-      1 "sulle
-      1 "tääl
-      1 "tavallistaakko?",
-      1 "te
-      1 "tervetuloa!",
-      1 "thomas,
-      1 "tokenehan
-      1 "tuo
-      1 "tuun
-      1 "uffe,
-      1 "väistäkää!",
-      1 "valehtelet",
-      1 "varo",
-      1 "väsyttää",
-      1 "voittekste
-      1 “äh,
-      1 “ai,
-      1 “ambulanssi
-      1 “e-ei
-      1 “ehkä
-      1 “hyvä,
-      1 “ihan
-      1 “isabelle?”,
-      1 “isabellelle
-      1 “joko
-      1 “joo,
-      1 “joo”,
-      1 “kato
-      1 “kenenkäs
-      1 “meidän
-      1 “miä
-      1 “mie
-      1 “minne
-      1 “missäs
-      1 “mitäs
-      1 “miten
-      1 “myöhän
-      1 “ni-niin”,
-      1 “no
-      1 “no,
-      1 “olen
-      1 “onko
-      1 “ottakaa
-      1 “sano
-      1 “sinun
-      1 “tärkein
-      1 “tehän
-      1 “tiiätkös
-      1 “voinko
       1 aakkosjärjestys
+      1 "ä-älä
       1 aallonpohja
       1 aallot
       1 aaltovoima
@@ -203,6 +92,7 @@
       1 agatha
       1 agathan
       1 agglutinoiva
+      1 “äh,
       1 ahdistamaan.
       1 ahdistavaan
       1 ahdistus
@@ -213,6 +103,8 @@
       1 ahnaina
       1 ahnastelua?
       1 ahtaaksi
+      1 "ai,
+      1 “ai,
       1 aidanseipään
       1 äidillä
       1 äidille.
@@ -364,6 +256,7 @@
       1 aktiiviset
       1 akusta.
       1 akut
+      1 "älä
       1 alaani.
       1 alaisilleni
       1 alaisilleni.
@@ -389,9 +282,9 @@
       1 alistettu
       1 alisuoriutumisesta
       1 alitajuntansa
-      1 älkää
       1 alkaa!",
       1 alkaa!”
+      1 älkää
       1 alkaako?
       1 alkaen
       1 alkaessaan
@@ -467,6 +360,7 @@
       1 alzheimerin
       1 alzheimerissa.
       1 amarna-kaudelle
+      1 “ambulanssi
       1 ämmä
       1 ammatilliseen
       1 ammatti.
@@ -495,6 +389,7 @@
       1 angervoista
       1 ani
       1 änkee
+      1 "anna
       1 annabelleä.
       1 annabellelle
       1 annabellestä,
@@ -708,6 +603,7 @@
       1 aukon
       1 aukossa.
       1 aukottomuudesta.
+      1 "aup",
       1 auringonpaisteessa
       1 auringonsäteet
       1 auringosta.
@@ -817,6 +713,7 @@
       1 datan
       1 delegointivaltaa
       1 demokraattisella
+      1 "demokratia
       1 demokratiassa
       1 diaesitystä.
       1 diagnosoitu
@@ -883,6 +780,7 @@
       1 edustettuina.
       1 edusti,
       1 edustukseen
+      1 “e-ei
       1 ees
       1 eettisesti
       1 eevasta
@@ -907,6 +805,7 @@
       1 ehjänä
       1 ehjin
       1 ehjinä.
+      1 “ehkä
       1 ehkä...
       1 ehkäisemistä
       1 ehkei
@@ -915,10 +814,12 @@
       1 ehtoja
       1 ehtoja,
       1 ei!
+      1 "eihän
       1 eikähän
       1 eiks
       1 eiliseen
       1 eiliseltä.
+      1 "eka
       1 ekana",
       1 ekologian
       1 ekologisesti
@@ -1180,6 +1081,7 @@
       1 esteriä
       1 esteriä.
       1 et?
+      1 "et
       1 etäältä.
       1 etäämmällä…
       1 etabloida
@@ -1235,6 +1137,7 @@
       1 fadlaqalaisten
       1 fadlaqasta.
       1 fan
+      1 "fan
       1 fanin
       1 farida.
       1 faridaa,
@@ -1285,6 +1188,7 @@
       1 hae
       1 haeskelleensa
       1 haetaan.
+      1 "hah,
       1 hahmotelleet
       1 haihtuneet.
       1 haikailla?
@@ -1449,6 +1353,7 @@
       1 härskejä
       1 harteilla.
       1 harteillamme.
+      1 "harvoi
       1 harvoin.
       1 harvoinpa
       1 hassun
@@ -1510,6 +1415,7 @@
       1 havumajassa
       1 havupuuvyöhykkeeltä
       1 hävytön
+      1 "he
       1 hedelmän
       1 hedelmän.
       1 hedelmät,
@@ -1582,6 +1488,7 @@
       1 helppoa,
       1 helppoa.
       1 helppohan
+      1 "helppohan
       1 helteessä
       1 helteessä.
       1 helteestä.
@@ -1642,6 +1549,7 @@
       1 herkullisen
       1 herkullisesta
       1 herkullista.
+      1 "herkullista",
       1 hermo.
       1 hermostuneisuus
       1 herrallekin,
@@ -1659,6 +1567,7 @@
       1 hetkestä
       1 hetkiäni.
       1 hetkinen.
+      1 "hetkone
       1 hevonen
       1 hevonen.
       1 hevoselta
@@ -1693,6 +1602,7 @@
       1 hikosi.
       1 hilattava
       1 hiljaa,
+      1 "hiljaa,
       1 hiljaiseen
       1 hiljaisella
       1 hiljaisina
@@ -1789,6 +1699,7 @@
       1 huhtikuussa
       1 huhuilla
       1 huhuista
+      1 "huhuu?",
       1 huikeasti.
       1 huikkasi:
       1 huikkasin
@@ -1990,6 +1901,8 @@
       1 hyssytellä
       1 hyttiäni.
       1 hyttysiä
+      1 "hyvä
+      1 “hyvä,
       1 hyvää.
       1 hyväkkäälle.
       1 hyväksi
@@ -2038,6 +1951,7 @@
       1 ihailin
       1 ihalainen
       1 ihalainen.
+      1 “ihan
       1 ihanaa
       1 ihanammat
       1 ihanan
@@ -2128,6 +2042,8 @@
       1 ilmastonmuutoksesta.
       1 ilmastonmuutos
       1 ilmastonmuutosta
+      1 "ilmatar",
+      1 "ilmatar,
       1 ilmatarta,
       1 ilmattarena.
       1 ilmeen,
@@ -2208,7 +2124,9 @@
       1 irti?
       1 isäänsä.
       1 isabelle,
+      1 “isabelle?”,
       1 isabellellä
+      1 “isabellelle
       1 isabellen
       1 isabellen,
       1 isällänsä
@@ -2463,6 +2381,7 @@
       1 jauhot
       1 jäykistää
       1 joessa
+      1 "joha
       1 johdolla.
       1 johdonmukaisia.
       1 johtaisi
@@ -2495,6 +2414,7 @@
       1 jokeni
       1 joki,
       1 jokikin
+      1 “joko
       1 jokohan
       1 jokseenkin
       1 jollain
@@ -2517,6 +2437,8 @@
       1 jonottaa,
       1 joo
       1 joo,
+      1 “joo,
+      1 “joo”,
       1 jopas
       1 jopi,
       1 jopia
@@ -2695,6 +2617,7 @@
       1 kädessä,
       1 kädessäni
       1 kädestäni.
+      1 "kädet
       1 kädet.
       1 kadonnut
       1 kadonnut.
@@ -3061,6 +2984,7 @@
       1 kätkössä
       1 katkoviiva.
       1 kätkyestä
+      1 “kato
       1 katoaa
       1 katoavat
       1 katolle
@@ -3209,6 +3133,7 @@
       1 käyttää
       1 käyttää…
       1 käyttäjien
+      1 "käyttäkää
       1 käyttäkää
       1 käyttäneet.
       1 käyttänyt
@@ -3304,6 +3229,7 @@
       1 kemiallisen
       1 ken
       1 kenelle
+      1 “kenenkäs
       1 kengät
       1 kenkiä
       1 kenonen.
@@ -3334,6 +3260,7 @@
       1 kerrassa
       1 kerrasta
       1 kerro.
+      1 "kerro
       1 kerroimme
       1 kerroin
       1 kerroksiin
@@ -3918,6 +3845,7 @@
       1 kriisi
       1 ku,
       1 ku...",
+      1 "kui
       1 kuikuilla,
       1 kuinkaan.
       1 kuinkakohan
@@ -3949,6 +3877,7 @@
       1 kukko.
       1 kukot.
       1 kulissin,
+      1 "kuljen
       1 kuljetettavana.
       1 kuljetettiin
       1 kuljettaja
@@ -4112,6 +4041,7 @@
       1 kuule
       1 kuulekaan.
       1 kuulen
+      1 "kuuletsä
       1 kuuli
       1 kuulimme,
       1 kuulin,
@@ -4206,8 +4136,10 @@
       1 kykenivät
       1 kykin,
       1 kykkimään
+      1 "kyl
       1 kylä
       1 kylälle
+      1 "kylhä
       1 kylille
       1 kyllä,
       1 kyllähän
@@ -4807,6 +4739,7 @@
       1 lonkeroisiin
       1 lonkeroisissa
       1 lonkeroista
+      1 "lonkeroisten
       1 lonkeroita
       1 lonkerolliset
       1 lonkerosilla
@@ -4992,6 +4925,7 @@
       1 lyyli
       1 lyylistä.
       1 lyyriset
+      1 "mä
       1 mä...”
       1 maagisen
       1 maahanmuuttajaperheelle.
@@ -5249,6 +5183,7 @@
       1 meänkieltä
       1 median
       1 meehä
+      1 “meidän
       1 meidänkään
       1 meidät.
       1 meihin
@@ -5259,6 +5194,7 @@
       1 meille:
       1 meille?
       1 meistä?
+      1 "meitä
       1 mekaanikkona
       1 mekko
       1 mekossa.
@@ -5355,8 +5291,10 @@
       1 metsiä.
       1 metso.
       1 metyyliksantiineihin
+      1 “miä
       1 miä
       1 mie
+      1 “mie
       1 miehelle
       1 miehelle.
       1 mieheltä.
@@ -5381,6 +5319,7 @@
       1 mielenkiintoisia
       1 mielenkiintoisimpia
       1 mielenkiintoista
+      1 "mielenkiintoista",
       1 mielensä
       1 mielentilan.
       1 mielessä,
@@ -5451,6 +5390,8 @@
       1 ministerin
       1 ministeriön
       1 minkäs
+      1 "minne
+      1 “minne
       1 minnekään.
       1 minnekäs
       1 minua,
@@ -5465,7 +5406,10 @@
       1 minuuteissa
       1 missä.
       1 missäköhän
+      1 "missäs
+      1 “missäs
       1 missäs
+      1 "mistä
       1 mistään
       1 mistään.
       1 mistään?
@@ -5475,8 +5419,12 @@
       1 mitään!
       1 mitään;
       1 mitäpä
+      1 “mitäs
       1 mitäs
       1 mitattua
+      1 "mite
+      1 "miten
+      1 “miten
       1 mitenkä
       1 mitenkään
       1 mitenkäkö
@@ -5583,6 +5531,7 @@
       1 mummo.
       1 mummolla
       1 mummolle.
+      1 "mun
       1 munani?
       1 munasta
       1 munkit
@@ -5608,6 +5557,7 @@
       1 mustana.
       1 mustanruskeita
       1 mut?
+      1 "mut
       1 mutahautaan.
       1 mutisi
       1 mutkainen
@@ -5671,6 +5621,7 @@
       1 mylvinnän.
       1 mylvivän
       1 myöhäisen
+      1 “myöhän
       1 myöhässä,
       1 myöhässä.
       1 myöhästynyt,
@@ -5714,6 +5665,7 @@
       1 mysteerimiehelle.
       1 mysteerimieheltä.
       1 mysteerimiehestä.
+      1 "mysteerimies
       1 mysteerimieskin
       1 mysteerimiestä
       1 mystiselle
@@ -5814,6 +5766,7 @@
       1 nanna
       1 naoko.
       1 naoko…
+      1 "naoko,
       1 naokon
       1 napakalla
       1 napakasti,
@@ -5885,6 +5838,7 @@
       1 ne,
       1 ne.
       1 ne?
+      1 "ne
       1 neidille.
       1 neidilleen.
       1 neidinkin
@@ -5958,6 +5912,7 @@
       1 nimitti
       1 nimityksellä
       1 nimityksen
+      1 “ni-niin”,
       1 nirri
       1 niskaa",
       1 niskaamme
@@ -5966,6 +5921,8 @@
       1 niskaan?
       1 niskaani.
       1 niukalla
+      1 “no
+      1 “no,
       1 noihin
       1 noin",
       1 noista
@@ -6073,6 +6030,7 @@
       1 nyrkinkö
       1 nyrkkinsä
       1 nyt!",
+      1 "nyt
       1 nythän
       1 nytkään
       1 nytkään.
@@ -6157,6 +6115,7 @@
       1 oivalliseksi
       1 ojensi
       1 ojentaen.
+      1 "okei,
       1 oksennat
       1 oksentaa,
       1 olekaan
@@ -6167,6 +6126,7 @@
       1 olemattomiin.
       1 oleminen
       1 olen.
+      1 “olen
       1 olennaisempaan
       1 olennaisia.
       1 olennaista
@@ -6179,6 +6139,7 @@
       1 olentoja
       1 oleskelun
       1 olet,
+      1 "olet
       1 oletettava
       1 oletin
       1 oletpa
@@ -6213,6 +6174,7 @@
       1 olinkohan
       1 olioita
       1 oliot
+      1 "olipa
       1 olis
       1 olisi.
       1 olisikohan
@@ -6295,6 +6257,7 @@
       1 onkaan
       1 onki.
       1 onkivat,
+      1 “onko
       1 onnellisen
       1 onnenkokemus
       1 onnessansa.
@@ -6404,6 +6367,7 @@
       1 ota
       1 otat
       1 otetaa
+      1 "otetaa
       1 otetaan
       1 otettaisiin
       1 otettavien
@@ -6417,6 +6381,8 @@
       1 ottaessani
       1 ottaisi
       1 ottaisimme
+      1 "ottakaa
+      1 “ottakaa
       1 ottamaan
       1 ottamasta
       1 ottamatta
@@ -6501,6 +6467,7 @@
       1 pääsisivät
       1 pääsivät
       1 päässäni.
+      1 "päässeensä
       1 päässeensä
       1 päästään
       1 päästäkseen
@@ -6703,6 +6670,7 @@
       1 palautin
       1 palauttamisesta
       1 palava
+      1 "palavatpahan
       1 palikat
       1 paljaaltaan.
       1 paljainkaan
@@ -6794,6 +6762,7 @@
       1 paremminkin
       1 parempaa
       1 parempaa.
+      1 "parempaakaa
       1 parempaakaan
       1 parempaan
       1 parempi,
@@ -7012,6 +6981,7 @@
       1 pidät
       1 pidätellen
       1 pidättää.
+      1 "pidättäkää
       1 pidättämisen
       1 pidättämistä
       1 pidättäydyimme
@@ -7113,6 +7083,7 @@
       1 pirttiä
       1 pisara
       1 pisimpään
+      1 "pistähän
       1 pistäisin
       1 pistänyt.
       1 pistävät
@@ -7127,6 +7098,8 @@
       1 pitäisiköhän
       1 pitäisimme
       1 pitäisivät
+      1 "pitäisköhä
+      1 "pitäisköhän
       1 pitäjän
       1 pitäny
       1 pitävänsä
@@ -7498,6 +7471,7 @@
       1 pysähtyivät
       1 pysähtymään?
       1 pysähtynyt
+      1 "pysähy",
       1 pysäytä.
       1 pysäyttämään
       1 pysäyttävät
@@ -7853,6 +7827,7 @@
       1 risuineen
       1 ritsassa
       1 ritva,
+      1 "ritva
       1 ritvaa
       1 ritvalla
       1 ritvat
@@ -7900,8 +7875,8 @@
       1 rosinasta
       1 roskaa
       1 rötkötti.
-      1 rotu-
       1 rotu,
+      1 rotu-
       1 rotuerottelu
       1 rouva,
       1 rouvansa.
@@ -8076,6 +8051,7 @@
       1 sadenutun
       1 sadesimulaattorin
       1 sadetta
+      1 "sähä
       1 sahan
       1 sähkö
       1 sähköhuiskiainen.
@@ -8209,6 +8185,7 @@
       1 sänkyysi.
       1 sännätä
       1 sano.
+      1 “sano
       1 sanoa,
       1 sanoa?
       1 sanoi.
@@ -8291,6 +8268,7 @@
       1 seasta
       1 segmentteihin,
       1 segmenttiryppäässä.
+      1 "sehän
       1 seikat.
       1 seikka
       1 seikkailtuani
@@ -8399,7 +8377,9 @@
       1 semmoiseen.
       1 semmoiselta
       1 semmoisia
+      1 "sen
       1 senkin
+      1 "senkin
       1 sentää
       1 sentähden
       1 separatistinen
@@ -8551,6 +8531,7 @@
       1 sinulla
       1 sinulle
       1 sinulle?
+      1 “sinun
       1 sinunhan
       1 sinusta.
       1 sioille.
@@ -8780,6 +8761,7 @@
       1 sulkeutui.
       1 sulla
       1 sulle
+      1 "sulle
       1 sullouduin
       1 sulloutumistani
       1 suloista
@@ -9016,11 +8998,12 @@
       1 syytön
       1 syyttää?
       1 syyttämään
-      1 tää
       1 taa,
+      1 tää
       1 taakan
       1 taakkaa,
       1 taaksemme
+      1 "tääl
       1 tääl,
       1 tääl?",
       1 täälhä
@@ -9278,6 +9261,7 @@
       1 tärkeän
       1 tärkee
       1 tärkeiksi.
+      1 “tärkein
       1 tärkeitä,
       1 tarkempia
       1 tärkeyteen.
@@ -9393,6 +9377,7 @@
       1 tavallisen
       1 tavallisia
       1 tavallista,
+      1 "tavallistaakko?",
       1 tavanneet.
       1 tavannut
       1 tavannutkaan.
@@ -9428,6 +9413,7 @@
       1 täyttyy
       1 täytynyt
       1 te
+      1 "te
       1 tee.
       1 teen,
       1 teen?
@@ -9441,6 +9427,7 @@
       1 teetä
       1 teetä.
       1 tehää?”
+      1 “tehän
       1 tehdä,
       1 tehdään
       1 tehdään?
@@ -9555,6 +9542,7 @@
       1 terveisistä
       1 tervetulleeksi
       1 tervetullu,
+      1 "tervetuloa!",
       1 terveyden
       1 terveydensuojelusta.
       1 terveys-
@@ -9568,6 +9556,7 @@
       1 teurastaisin
       1 teurastivat
       1 thomas",
+      1 "thomas,
       1 thomasilla
       1 tiedä,
       1 tiedäkään.
@@ -9621,6 +9610,7 @@
       1 tihuttaa.
       1 tiiä,
       1 tiiät,
+      1 “tiiätkös
       1 tiibetiläiset
       1 tiibetinspanieli
       1 tiibetinspanielia
@@ -9809,6 +9799,7 @@
       1 tokaisi,
       1 tokaisin
       1 tökännyt
+      1 "tokenehan
       1 tökittiin.
       1 tökkäisi
       1 tokkuraisena.
@@ -10054,6 +10045,7 @@
       1 tuntunutkin
       1 tuntuu?
       1 tuntuvammin.
+      1 "tuo
       1 tuodakseen
       1 tuohon,
       1 tuohon.
@@ -10200,6 +10192,7 @@
       1 tuulta!"
       1 tuumaili.
       1 tuumaisivat
+      1 "tuun
       1 tuvan.
       1 tuvassa
       1 tuvasta.
@@ -10308,6 +10301,7 @@
       1 tyytyväisiä.
       1 udella,
       1 uffe!",
+      1 "uffe,
       1 uffea
       1 uffea,
       1 uffea.
@@ -10502,8 +10496,8 @@
       1 vaaraa.
       1 väärää.
       1 väärää?
-      1 väärään
       1 vaaraan?
+      1 väärään
       1 vaaralliseen
       1 vaaralliselta.
       1 vaarallista
@@ -10623,6 +10617,7 @@
       1 vaipan
       1 vaipumaan
       1 väistää
+      1 "väistäkää!",
       1 väistämätön
       1 väistämätöntä
       1 väistimme
@@ -10668,6 +10663,7 @@
       1 valahti
       1 valaistaksemme
       1 valehdella
+      1 "valehtelet",
       1 väleissämme
       1 valhe
       1 valheelliset
@@ -10699,8 +10695,8 @@
       1 valistuneita
       1 välisuojastuspisteenä
       1 valita
-      1 välitä
       1 valita,
+      1 välitä
       1 välitä,
       1 välitäkään
       1 välitäkään.
@@ -10887,6 +10883,7 @@
       1 varmistaisimme
       1 varmistan
       1 varmoja,
+      1 "varo",
       1 varoitettu,
       1 varoittamatta
       1 varoitus.
@@ -10971,6 +10968,7 @@
       1 vastuuvapauden.
       1 väsynyt
       1 väsytäkään.
+      1 "väsyttää",
       1 väsyttää,
       1 vatasen
       1 vatsa
@@ -11059,8 +11057,8 @@
       1 vertailuarvojen
       1 vertaisensa,
       1 vertaistaan.
-      1 vesi-
       1 vesi",
+      1 vesi-
       1 vesiputouksena…
       1 vesissä
       1 vesittää,
@@ -11305,6 +11303,7 @@
       1 voimin
       1 voin
       1 voinko
+      1 “voinko
       1 voinu
       1 voinut.
       1 vois
@@ -11325,6 +11324,7 @@
       1 voittaa.
       1 voittaneet
       1 voitte
+      1 "voittekste
       1 voitto
       1 voittoa.
       1 voittomme
@@ -11611,22 +11611,6 @@
       1 ystävyydestäni
       1 zimbabwen
       1 zolakaan
-      2 "hei,
-      2 "hyvin
-      2 "kohta
-      2 "malik,
-      2 "meidän
-      2 "mennää
-      2 "mikä
-      2 "miks
-      2 "moi,
-      2 "myö
-      2 "no,
-      2 "noh,
-      2 “hei,
-      2 “mä
-      2 “me
-      2 “mitä
       2 aamu
       2 aamupäivällä
       2 aamupäivän
@@ -11830,6 +11814,8 @@
       2 hedelmä
       2 hedelmää.
       2 hei
+      2 "hei,
+      2 “hei,
       2 heikko
       2 heitäkään
       2 helpompi
@@ -11883,6 +11869,7 @@
       2 hyvältä
       2 hyvänä.
       2 hyvin,
+      2 "hyvin
       2 hyvinvoinnin
       2 hyvinvointia.
       2 hyvistä
@@ -12116,6 +12103,7 @@
       2 kohdalla
       2 kohdannut
       2 kohdistuu
+      2 "kohta
       2 kohtalon.
       2 kohtia
       2 kohtia.
@@ -12273,6 +12261,7 @@
       2 luottamista.
       2 luottivat
       2 lupasi
+      2 “mä
       2 maahan,
       2 maalaisten
       2 määrän
@@ -12293,6 +12282,7 @@
       2 makaamaan
       2 maksaa
       2 malakiaksen
+      2 "malik,
       2 malikia
       2 maltan
       2 mari
@@ -12310,7 +12300,9 @@
       2 matkusti
       2 mauno.
       2 me,
+      2 “me
       2 mehän
+      2 "meidän
       2 meihin,
       2 meil
       2 meillä.
@@ -12320,6 +12312,7 @@
       2 mene?
       2 menemään.
       2 menisi
+      2 "mennää
       2 mereen
       2 merkit
       2 merkittävin
@@ -12336,14 +12329,18 @@
       2 miestä
       2 miestä.
       2 mietin,
+      2 "mikä
       2 mikäli
+      2 "miks
       2 minäkin
       2 minkäänlaista
       2 minua!
       2 minulta,
       2 minuuttia.
       2 missään
+      2 “mitä
       2 mitää
+      2 "moi,
       2 mökissä
       2 mokoman
       2 mokomatkin
@@ -12380,6 +12377,7 @@
       2 muutokset
       2 muutosten
       2 muuttumaan.
+      2 "myö
       2 myöhäistä
       2 myöhemmin.
       2 myöskään
@@ -12430,6 +12428,8 @@
       2 nimissä.
       2 niskalenkin
       2 no,
+      2 "no,
+      2 "noh,
       2 noi
       2 noiden
       2 nojaten
@@ -13226,9 +13226,6 @@
       2 yrittänytkään.
       2 ystävän
       2 ystävät
-      3 "me
-      3 "tuu
-      3 "voi
       3 aamun
       3 äänellä
       3 äänen
@@ -13485,6 +13482,7 @@
       3 mahtuisi
       3 marsissa
       3 matkustajat
+      3 "me
       3 meitä.
       3 mennään
       3 mentävä
@@ -13748,6 +13746,7 @@
       3 tupuhojon
       3 turvin
       3 tuskissaan.
+      3 "tuu
       3 tuvan
       3 tyttö
       3 tyytyväinen
@@ -13799,6 +13798,7 @@
       3 viime
       3 viimein.
       3 vilkaisee
+      3 "voi
       3 voimakkaasti
       3 voimassa
       3 voimme
@@ -13819,10 +13819,6 @@
       3 ymmärtäneet
       3 ympärillämme
       3 ympärilleen.
-      4 "ei
-      4 "mitä
-      4 "no
-      4 “ei
       4 äänemme
       4 äänestää
       4 äänestäjien
@@ -13851,6 +13847,8 @@
       4 avaruuden
       4 avasi
       4 ei.
+      4 "ei
+      4 “ei
       4 eikös
       4 eilisen
       4 eiväthän
@@ -13962,6 +13960,7 @@
       4 minulle,
       4 minulle.
       4 minulta
+      4 "mitä
       4 mokomakin
       4 monet
       4 monista
@@ -13978,6 +13977,7 @@
       4 näyttää
       4 ni
       4 niihin
+      4 "no
       4 nopeasti.
       4 noussut
       4 ohi.

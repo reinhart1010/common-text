@@ -1,28 +1,7 @@
 1,-
 1,--
-1,"aptitude"
-1,"capitular
-1,"crystallin"
-1,"esser"
-1,"il
-1,"insula
-1,"isto
-1,"le
-1,"munde",
-1,"non
-1,"pisce,
-1,"proque?"
-1,"renovabile",
-1,"si,
-1,"silentio",
-1,"solo
-1,"succurso!"
-1,"superviventia".
-1,"tigre".
-1,"tu
-1,"un
-1,“tu
 1,·
+1,😉
 1,a.
 1,abandonar.
 1,abassava.
@@ -386,6 +365,7 @@
 1,appunctamento.
 1,april
 1,apte
+1,"aptitude"
 1,apud
 1,aqua!
 1,aqua?
@@ -881,6 +861,7 @@
 1,capitalismo.
 1,capite?
 1,capites
+1,"capitular
 1,capitulos
 1,cappa
 1,cappella
@@ -1540,6 +1521,7 @@
 1,cryptographia,
 1,cryptominatores
 1,crystallin.
+1,"crystallin"
 1,cualiata
 1,cuba
 1,cubitos
@@ -2163,6 +2145,7 @@
 1,essential.
 1,essentialmente
 1,esser?
+1,"esser"
 1,essera.
 1,esseres
 1,esseva.
@@ -2904,7 +2887,6 @@
 1,i
 1,i,
 1,i.
-1,i.e.
 1,icbm
 1,iceberg.
 1,icone.
@@ -2922,11 +2904,13 @@
 1,idiota
 1,idiota?
 1,idolos,
+1,i.e.
 1,ied
 1,ig
 1,ignora
 1,ignora.
 1,ignorantia!
+1,"il
 1,ille!
 1,ille,
 1,ille:
@@ -3132,6 +3116,7 @@
 1,instituto
 1,instruction
 1,instrumentos
+1,"insula
 1,insulamento
 1,insulta
 1,insupportabile.
@@ -3255,6 +3240,7 @@
 1,isto!
 1,isto,
 1,isto;
+1,"isto
 1,istos.
 1,italia,
 1,italia.
@@ -3432,6 +3418,7 @@
 1,lavatores
 1,lavatorio?
 1,le·
+1,"le
 1,leader.
 1,leader?
 1,lection?
@@ -3912,6 +3899,7 @@
 1,multivariate.
 1,multo?
 1,mundar
+1,"munde",
 1,mundial.
 1,mundo!
 1,mundo?
@@ -4023,6 +4011,7 @@
 1,noctes.
 1,nocturne,
 1,nodos
+1,"non
 1,non-binari.
 1,non-conventional.
 1,non-lucrative.
@@ -4541,6 +4530,7 @@
 1,pisce,
 1,pisce.
 1,pisce?
+1,"pisce,
 1,piscina!
 1,pistola
 1,pistola?
@@ -4823,6 +4813,7 @@
 1,proprie,
 1,proprietario.
 1,proprietarios
+1,"proque?"
 1,prostituta
 1,protective
 1,protege
@@ -5141,6 +5132,7 @@
 1,renes
 1,renova
 1,renova.
+1,"renovabile",
 1,reparar.
 1,reparate
 1,reparation.
@@ -5553,6 +5545,7 @@
 1,sexy.
 1,shawty,
 1,si?
+1,"si,
 1,siberian.
 1,siccate.
 1,siciliano.
@@ -5572,6 +5565,7 @@
 1,silente,
 1,silentio,
 1,silentio.
+1,"silentio",
 1,silicon
 1,silvas.
 1,simia
@@ -5626,6 +5620,7 @@
 1,sollicitate
 1,solmente.
 1,solo.
+1,"solo
 1,solos
 1,somno
 1,somnole.
@@ -5789,6 +5784,7 @@
 1,successive?
 1,successo,
 1,succurrer
+1,"succurso!"
 1,succute
 1,succuteva
 1,sucrate
@@ -5823,6 +5819,7 @@
 1,superior
 1,superviventes
 1,superviventes.
+1,"superviventia".
 1,supervivera.
 1,superviveva
 1,superviveva.
@@ -5994,6 +5991,7 @@
 1,throno
 1,throno,
 1,thunno
+1,"tigre".
 1,tim
 1,tim.
 1,time.
@@ -6143,6 +6141,8 @@
 1,tsunami
 1,tu!
 1,tu:
+1,"tu
+1,“tu
 1,tuberculina
 1,tulipanes.
 1,tuo
@@ -6171,6 +6171,7 @@
 1,ulucos.
 1,umbras.
 1,un,
+1,"un
 1,undas.
 1,undece
 1,ungulas.
@@ -6446,9 +6447,6 @@
 1,zoologia.
 1,zoologic.
 1,zulu.
-1,😉
-2,"ante
-2,"gratias"
 2,abandonate.
 2,absorbe
 2,abunda
@@ -6534,6 +6532,7 @@
 2,annos,
 2,anque.
 2,anque?
+2,"ante
 2,aperite.
 2,apertura
 2,apes
@@ -7109,6 +7108,7 @@
 2,granmatre.
 2,granpatre
 2,gratias!
+2,"gratias"
 2,gratuite.
 2,gratuitemente.
 2,grecos
@@ -9760,7 +9760,6 @@
 9,visitar
 9,vive.
 9,viver
-10,"io
 10,amicos
 10,amor.
 10,apprende
@@ -9783,6 +9782,7 @@
 10,illac?
 10,infante
 10,intelligente.
+10,"io
 10,jocava
 10,lassava
 10,mangiava

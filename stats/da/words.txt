@@ -1,46 +1,3 @@
-      1 "af
-      1 "ak
-      1 "blomsterne
-      1 "den
-      1 "derfor
-      1 "en
-      1 "et
-      1 "farvel,
-      1 "for
-      1 "gammel
-      1 "gud,
-      1 "hele
-      1 "her
-      1 "herregud,
-      1 "hils
-      1 "huder!
-      1 "hvem
-      1 "hvilket
-      1 "hvordan
-      1 "hvorfor
-      1 "ja,"
-      1 "jo,
-      1 "jo,"
-      1 "min
-      1 "mine
-      1 "mon
-      1 "nå!
-      1 "nej
-      1 "nej!
-      1 "nej,
-      1 "nu
-      1 "også
-      1 "oh,
-      1 "om
-      1 "pipi!"
-      1 "se
-      1 "skal
-      1 "skrålhans!"
-      1 "småbitte
-      1 "tak
-      1 "tør
-      1 "tror
-      1 "ud
       1 åbent
       1 accepteres,
       1 ad.
@@ -54,6 +11,7 @@
       1 ærlige.
       1 af!
       1 af,
+      1 "af
       1 afgrænsede
       1 afhængighedsskabende
       1 afkrævede
@@ -72,6 +30,7 @@
       1 aftes!"
       1 afvise
       1 afvises,
+      1 "ak
       1 aktindsigten
       1 aktivitet
       1 alene,
@@ -226,6 +185,7 @@
       1 blomstens
       1 blomster,"
       1 blomsterne?"
+      1 "blomsterne
       1 blundende
       1 bogtrykker!"
       1 bom
@@ -303,9 +263,11 @@
       1 demokrati.
       1 demokratiske
       1 den!"
+      1 "den
       1 dennes
       1 dens
       1 der!"
+      1 "derfor
       1 derimod
       1 derinde!
       1 dernede
@@ -385,6 +347,7 @@
       1 elsker.
       1 empati.
       1 en,
+      1 "en
       1 én.
       1 ende
       1 endelige
@@ -402,6 +365,7 @@
       1 enkelte
       1 er.
       1 erhvervelsen
+      1 "et
       1 ethvert
       1 eventuelle
       1 eventyr.
@@ -414,10 +378,11 @@
       1 færre,
       1 faldende
       1 familien.
-      1 får
       1 far,
+      1 får
       1 fårekyllingerne
       1 farvel!
+      1 "farvel,
       1 farver!
       1 fastslås
       1 fattig
@@ -456,6 +421,7 @@
       1 folk
       1 folkeregisteret
       1 folket.
+      1 "for
       1 før
       1 forældremyndighedsindehaveren
       1 forærede
@@ -516,8 +482,8 @@
       1 forvandle
       1 frafiltreres
       1 franz
-      1 fred.nul
       1 fredelige
+      1 fred.nul
       1 frem
       1 frem.
       1 fremhævet
@@ -554,6 +520,7 @@
       1 galocherne;
       1 galt"
       1 galt,
+      1 "gammel
       1 gang.
       1 gang?
       1 går.
@@ -612,6 +579,7 @@
       1 grundregler
       1 grupper
       1 gud,
+      1 "gud,
       1 guld
       1 håbe,
       1 hænder.
@@ -645,6 +613,7 @@
       1 heksen!
       1 heksen,
       1 hele.
+      1 "hele
       1 hellere
       1 henblik
       1 henhold
@@ -652,6 +621,7 @@
       1 hensynet
       1 hente
       1 her,
+      1 "her
       1 herbergsteder,
       1 herfor
       1 herhjemme
@@ -665,11 +635,13 @@
       1 herovre?
       1 herre?
       1 herreblade
+      1 "herregud,
       1 herren
       1 hertil
       1 hest
       1 hestehud,
       1 hidtil
+      1 "hils
       1 himlen.
       1 himmel
       1 himmel.
@@ -710,6 +682,7 @@
       1 huden
       1 huder!
       1 huder!"
+      1 "huder!
       1 huen.
       1 huggede
       1 hul
@@ -720,12 +693,16 @@
       1 hus
       1 hus,
       1 huske
+      1 "hvem
       1 hver,"
       1 hverandre!"
       1 hvert
       1 hvide
       1 hvilke
       1 hvilket
+      1 "hvilket
+      1 "hvordan
+      1 "hvorfor
       1 hvorhen
       1 hylde!"
       1 i.
@@ -773,9 +750,12 @@
       1 itu
       1 itu?
       1 ja!"
+      1 "ja,"
       1 jakobsstige
       1 jeg!"
       1 jeres
+      1 "jo,
+      1 "jo,"
       1 job.
       1 jobbet.
       1 johannes,
@@ -1014,8 +994,10 @@
       1 midt
       1 mig?
       1 mig?"
+      1 "min
       1 mind
       1 mindreårige
+      1 "mine
       1 ministeren
       1 mistænksom.
       1 møde
@@ -1025,6 +1007,7 @@
       1 modtagelse,
       1 møllehjul.
       1 mon
+      1 "mon
       1 mønster!
       1 montblanc,
       1 monteres
@@ -1048,6 +1031,7 @@
       1 myndighed
       1 myndigheden
       1 myrdet
+      1 "nå!
       1 nå,
       1 nabokongens
       1 næres
@@ -1066,6 +1050,9 @@
       1 nedsætter
       1 nej
       1 nej!
+      1 "nej
+      1 "nej!
+      1 "nej,
       1 nejede
       1 nejede;
       1 nemme
@@ -1081,6 +1068,7 @@
       1 nok,
       1 normal
       1 nu?"
+      1 "nu
       1 nutiden
       1 nydelige
       1 nydeligste
@@ -1095,8 +1083,10 @@
       1 offentlige
       1 offentligt
       1 ofre
+      1 "også
       1 også,
       1 også.
+      1 "oh,
       1 øjeblik.
       1 øjeblikke"
       1 øjeblikket.
@@ -1113,6 +1103,7 @@
       1 olieudskiller
       1 om,
       1 om?
+      1 "om
       1 omfatte
       1 omfattet
       1 omkring
@@ -1193,6 +1184,7 @@
       1 pige!"
       1 pige,
       1 piger
+      1 "pipi!"
       1 plads
       1 plan
       1 planlægning.
@@ -1326,6 +1318,7 @@
       1 satsreguleringsprocent
       1 se!"
       1 se?"
+      1 "se
       1 sejlede
       1 sejlene
       1 sekretariatsbetjener
@@ -1356,6 +1349,7 @@
       1 skæppe
       1 skæppemål.
       1 skæppevis?"
+      1 "skal
       1 ske
       1 ske!"
       1 ske,
@@ -1372,6 +1366,7 @@
       1 skomagere
       1 skomagerøje,
       1 skoven,
+      1 "skrålhans!"
       1 skrevet,
       1 skrive
       1 skudt
@@ -1393,6 +1388,7 @@
       1 slukkede!"
       1 sluttede
       1 små.
+      1 "småbitte
       1 smagen?
       1 smitsomme
       1 smuk!"
@@ -1428,8 +1424,8 @@
       1 søvnig
       1 spådomskraft
       1 spærrer
-      1 spår
       1 spar.
+      1 spår
       1 spardame
       1 specialeplanlægning
       1 speederpedal
@@ -1522,6 +1518,7 @@
       1 taget
       1 taget,
       1 tagskilt
+      1 "tak
       1 tale
       1 tale!"
       1 taler
@@ -1579,6 +1576,7 @@
       1 tolv
       1 tommelise.
       1 tonen?
+      1 "tør
       1 tørrede
       1 træder
       1 træet?"
@@ -1597,6 +1595,7 @@
       1 tromme,
       1 trommerne
       1 tror?
+      1 "tror
       1 trøst
       1 turde
       1 tydeligvis
@@ -1607,6 +1606,7 @@
       1 ud!"
       1 ud,
       1 ud?"
+      1 "ud
       1 udfordringer
       1 udførelsen
       1 udføres
@@ -1724,17 +1724,6 @@
       1 ydes
       1 ypperligt
       2 "
-      2 "din
-      2 "du
-      2 "gid
-      2 "gud
-      2 "har
-      2 "kan
-      2 "kom
-      2 "man
-      2 "nå,
-      2 "sig
-      2 "vil
       2 ad
       2 ændringer
       2 afhænger
@@ -1777,9 +1766,11 @@
       2 digter,
       2 digter.
       2 digtet
+      2 "din
       2 dødsfald
       2 dør
       2 du?"
+      2 "du
       2 er!"
       2 europa.
       2 faktisk
@@ -1816,16 +1807,19 @@
       2 gang
       2 gav
       2 gerne
+      2 "gid
       2 give
       2 gjorde
       2 god
       2 gøre
       2 gud
+      2 "gud
       2 håbet
       2 hænger
       2 ham,
       2 han,
       2 hånden
+      2 "har
       2 harmonisk
       2 havfrue
       2 havfrue.
@@ -1857,6 +1851,7 @@
       2 just
       2 justitsråden
       2 justitsråden.
+      2 "kan
       2 kejserens
       2 kisten
       2 klappede
@@ -1864,6 +1859,7 @@
       2 klokken
       2 knirkede.
       2 københavn
+      2 "kom
       2 køretøjer
       2 kvinder
       2 kyssede
@@ -1874,6 +1870,7 @@
       2 løsninger
       2 lukkede
       2 lykke.
+      2 "man
       2 mand
       2 mand,
       2 manøvrer
@@ -1887,6 +1884,7 @@
       2 mit
       2 morsomt!"
       2 mosters
+      2 "nå,
       2 nærmeste
       2 ned
       2 nødt
@@ -1923,6 +1921,7 @@
       2 samtykket
       2 selv
       2 sidste
+      2 "sig
       2 sikker
       2 skinnede
       2 skov.
@@ -1987,18 +1986,12 @@
       2 verden!"
       2 vide
       2 vidt
+      2 "vil
       2 vilde
       2 virkelig
       2 vise
       2 viste
       2 vokset
-      3 "der
-      3 "er
-      3 "hvor
-      3 "ja,
-      3 "nej,"
-      3 "og
-      3 "oh
       3 af!"
       3 afdødes
       3 alene
@@ -2011,6 +2004,7 @@
       3 claus.
       3 dem,
       3 dem.
+      3 "der
       3 dér
       3 desværre
       3 det!"
@@ -2020,6 +2014,7 @@
       3 endelig
       3 endnu
       3 ene
+      3 "er
       3 eventyr
       3 fælles
       3 fællesskab
@@ -2032,11 +2027,13 @@
       3 helt
       3 hjælpe
       3 hjem.
+      3 "hvor
       3 hvorfor
       3 ikke,
       3 indføres
       3 ja
       3 ja,
+      3 "ja,
       3 klæder
       3 kommunalbestyrelsen
       3 køreeleven
@@ -2054,9 +2051,12 @@
       3 mine
       3 muligt
       3 næste
+      3 "nej,"
       3 nødvendigt
       3 obduktion
+      3 "og
       3 oh,
+      3 "oh
       3 op,
       3 oplysninger
       3 os
@@ -2086,8 +2086,6 @@
       3 vist
       3 vorherre!
       3 yder
-      4 "jeg
-      4 "lad
       4 afgørelse
       4 afsnit:
       4 behandling
@@ -2116,6 +2114,8 @@
       4 igennem
       4 inde
       4 inden
+      4 "jeg
+      4 "lad
       4 land.
       4 lidt
       4 lige
@@ -2138,8 +2138,8 @@
       4 tog
       4 under
       5 -
-      5 "de
       5 claus,
+      5 "de
       5 denne
       5 deres
       5 derfor
@@ -2168,13 +2168,13 @@
       5 været
       5 verden.
       6 –
-      6 "ja
       6 andre
       6 dem
       6 dog
       6 ham
       6 hen
       6 hende.
+      6 "ja
       6 nej,
       6 på.
       6 sådan
@@ -2205,10 +2205,10 @@
       8 kun
       8 når
       8 sin
-      9 "hvad
       9 din
       9 godt
       9 her
+      9 "hvad
       9 hvem
       9 mange
       9 noget
@@ -2216,12 +2216,12 @@
       9 samme
       9 store
       9 ville
-     10 "men
      10 ældreministeren
      10 bliver
      10 gamle
      10 ganske
      10 gik
+     10 "men
      10 regionsrådet
      10 skulle
      10 sundheds-

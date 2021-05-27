@@ -1,6 +1,4 @@
 1,–
-1,"egyenesen".
-1,"puha
 1,abba!
 1,abba.
 1,abbahagyta
@@ -90,8 +88,8 @@
 1,agyagozni?
 1,agyamat.
 1,ágyamban,
-1,ágyán
 1,agyán,
+1,ágyán
 1,ágyat
 1,ágyazott
 1,agyban
@@ -109,8 +107,8 @@
 1,ágyú,
 1,ágyú.
 1,agyvérzésben.
-1,ahá!
 1,aha.
+1,ahá!
 1,ahelyett,
 1,áhítat
 1,áhítozik
@@ -306,8 +304,8 @@
 1,almárium.
 1,almáriumban
 1,almáriumra,
-1,álmát
 1,almát!
+1,álmát
 1,álmatag
 1,álmodban.
 1,álmodhatott
@@ -765,9 +763,9 @@
 1,beküldeni.
 1,belátta,
 1,belátták,
+1,bele?
 1,belé,
 1,belé.
-1,bele?
 1,bele-belevakkantott
 1,belebújhat
 1,beleburkolózott
@@ -1368,8 +1366,8 @@
 1,csinálja.
 1,csinálja?
 1,csináljak
-1,csinálják
 1,csináljak?
+1,csinálják
 1,csinálni
 1,csinálni,
 1,csinálnom.
@@ -1764,6 +1762,7 @@
 1,egyelőre.
 1,egyenes
 1,egyenesen,
+1,"egyenesen".
 1,egyenesre
 1,egyénét.
 1,egyenleted.
@@ -1854,8 +1853,8 @@
 1,ékességedet
 1,ekkora
 1,eklézsia,
-1,él.
 1,el;
+1,él.
 1,eladják
 1,eladni
 1,elájul
@@ -2832,8 +2831,8 @@
 1,feldolgozni?
 1,feldönti,
 1,fele!
-1,felé,
 1,fele.
+1,felé,
 1,feledhetetlen
 1,feledkezett
 1,felegyenesedett.
@@ -3675,8 +3674,8 @@
 1,gyógyítják.
 1,gyógyulást
 1,gyökeréig!
-1,gyökerét
 1,gyökeret!
+1,gyökerét
 1,gyomorbajosok
 1,gyomrukat,
 1,gyönge,
@@ -3841,8 +3840,8 @@
 1,hallgatóságon
 1,hallgatott,
 1,hallgatta.
-1,hallgatták,
 1,hallgattak.
+1,hallgatták,
 1,hallgattassa
 1,hallhat
 1,hallhatsz
@@ -4047,8 +4046,8 @@
 1,haver.
 1,haza!
 1,haza,
-1,háza,
 1,haza?
+1,háza,
 1,házába,
 1,házából
 1,hazaérkezett
@@ -4333,8 +4332,8 @@
 1,hoztok,
 1,hoztuk
 1,hozz
-1,hozzá!
 1,hozza.
+1,hozzá!
 1,hozzá?
 1,hozzád
 1,hozzád,
@@ -4719,8 +4718,8 @@
 1,ivott
 1,izé…
 1,ízekre
-1,ízét,
 1,izét?
+1,ízét,
 1,ízetlen
 1,izgalom
 1,izgalom.
@@ -5232,9 +5231,9 @@
 1,kerekre
 1,kérem
 1,kerengtek
-1,kérés
 1,keres,
 1,keres?
+1,kérés
 1,kérése
 1,keresed.
 1,keresek
@@ -5290,8 +5289,8 @@
 1,kérőjük
 1,kerozin
 1,kérsz
-1,kért
 1,kert.
+1,kért
 1,kertben.
 1,kérte,
 1,kertelésnek.
@@ -5964,8 +5963,8 @@
 1,közben.
 1,közbeszóló
 1,köze
-1,közé.
 1,köze?
+1,közé.
 1,közébök
 1,közébök,
 1,közéjük.
@@ -6871,8 +6870,8 @@
 1,medve.
 1,medvebundámba!
 1,medvecukorért.
-1,még!
 1,meg:
+1,még!
 1,még?
 1,megajándékoznom
 1,megakadályozhatta
@@ -7225,8 +7224,8 @@
 1,megszokik,
 1,megszokni
 1,megszokott
-1,megszökött
 1,megszokott.
+1,megszökött
 1,megszólalt.
 1,megszolgálta
 1,megszűnése
@@ -7372,9 +7371,9 @@
 1,menne,
 1,menned
 1,mennek
-1,mennék
 1,mennek!
 1,mennek.
+1,mennék
 1,menni?
 1,mennybe.
 1,mennyire.
@@ -7928,8 +7927,8 @@
 1,nevezett?
 1,nevezné:
 1,neveznek!
-1,nevezték,
 1,neveztek.
+1,nevezték,
 1,nevezze
 1,nevezzük.
 1,névsorából.
@@ -8126,8 +8125,8 @@
 1,okát.
 1,őket:
 1,őket;
-1,õket?
 1,őket?
+1,õket?
 1,okod,
 1,ökölbe
 1,ökör!
@@ -8638,8 +8637,8 @@
 1,piperebolt
 1,piramis
 1,pirkadni
-1,píros
 1,piros,
+1,píros
 1,pislantott
 1,piszkít.
 1,piszkos
@@ -8768,6 +8767,7 @@
 1,puding
 1,puffan.
 1,puffantak,
+1,"puha
 1,pulthoz
 1,pulykatojás,
 1,puncs!
@@ -9365,8 +9365,8 @@
 1,sóhajtottak,
 1,sóhajtozott,
 1,sóhivatalba.
-1,sók
 1,sok?
+1,sók
 1,soká
 1,sokadalmas
 1,sokára
@@ -9726,9 +9726,9 @@
 1,szemért,
 1,szemesnek
 1,szemet
+1,szemet.
 1,szemét!
 1,szemét,
-1,szemet.
 1,szemétdomb
 1,szemétdombján.
 1,szemétlapátra
@@ -9953,10 +9953,10 @@
 1,szíves
 1,szívesen!
 1,szívességre
-1,szívét
 1,szívet,
-1,szívét,
 1,szívet.
+1,szívét
+1,szívét,
 1,szívét.
 1,szívfájdalom,
 1,szívszorongva
@@ -10186,8 +10186,8 @@
 1,találta.
 1,találtad
 1,találtak
-1,találták
 1,találtak,
+1,találták
 1,találtál,
 1,találtattál
 1,találtok,
@@ -10331,8 +10331,8 @@
 1,tartotta
 1,tartottak
 1,tartottak,
-1,tartották,
 1,tartottak.
+1,tartották,
 1,tartották:
 1,tartottál?
 1,tartottam?
@@ -10594,9 +10594,9 @@
 1,tette?
 1,tetted
 1,tetted,
-1,tették
 1,tettek.
 1,tettek?
+1,tették
 1,tettél,
 1,tettem,
 1,tettem.
@@ -10768,8 +10768,8 @@
 1,törtem
 1,történeteim
 1,történetesen
-1,történetét,
 1,történetet.
+1,történetét,
 1,történetnek.
 1,történhet.
 1,történhet?
@@ -10989,8 +10989,8 @@
 1,ügyességre
 1,ügyész
 1,ügyészségen
-1,ügyét
 1,ügyet.
+1,ügyét
 1,ügyetlen
 1,ügyfélszolgálat?
 1,úgyis!
@@ -11037,9 +11037,9 @@
 1,ülik
 1,ülj
 1,ülnek,
-1,ülők
 1,ülök,
 1,ülök.
+1,ülők
 1,ülsz,
 1,ült;
 1,ültem,
@@ -11221,8 +11221,8 @@
 1,vágtak
 1,vágtak,
 1,vagy!
-1,vágy,
 1,vagy?!
+1,vágy,
 1,vágyakozó
 1,vágyakozva
 1,vágyálma.
@@ -12143,9 +12143,9 @@
 2,éhezik
 2,éjjel
 2,éjjel?
+2,el?
 2,él
 2,él,
-2,el?
 2,elcseréltem
 2,elder
 2,elefánt
@@ -12180,9 +12180,9 @@
 2,elmondom
 2,elmondták
 2,elmúlt,
-2,élő
 2,elő!
 2,elő,
+2,élő
 2,előbukkant
 2,előkelő
 2,előkelő,
@@ -12293,8 +12293,8 @@
 2,fejére
 2,fejet
 2,fekete.
-2,fél.
 2,fel?
+2,fél.
 2,felállt.
 2,félbevágott
 2,feléje.
@@ -12769,8 +12769,8 @@
 2,legyek.
 2,legyen,
 2,lehet!
-2,lehetnék
 2,lehetnek.
+2,lehetnék
 2,lemegy
 2,len
 2,lennék

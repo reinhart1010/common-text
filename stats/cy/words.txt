@@ -1,60 +1,5 @@
       1 —
-      1 ‘ma.
-      1 ‘na.
-      1 ‘nghar
-      1 ‘odd
-      1 ‘rioed
       1 ’
-      1 ’de.
-      1 ’di?
-      1 ’dolig.
-      1 ’fath
-      1 ’fyd!
-      1 ’fyd?
-      1 ’laen
-      1 ’leni.
-      1 ’li.
-      1 ’llnau
-      1 ’lyb.
-      1 ’mag
-      1 ’ma'n
-      1 ’mhaned.
-      1 ’migwrn
-      1 ’mod
-      1 ’modyn
-      1 ’mynadd
-      1 ’naethom
-      1 ’nafu
-      1 ’nafu.
-      1 ’nai
-      1 ’nathon
-      1 ’nghalon
-      1 ’nghariad
-      1 ’nghlustdlysau.
-      1 ’ngwaith.
-      1 ’ngwallt
-      1 ’ngwallt.
-      1 ’ngwinedd
-      1 ’ngwisgo
-      1 ’ngwyneb
-      1 ’nhe
-      1 ’nôl.
-      1 ’nwylo
-      1 ’rioed.
-      1 ’sgidia.
-      1 ’sgidia’.
-      1 ’sgin
-      1 ’sgwennu
-      1 ’sgwn
-      1 ’stafell
-      1 ’steddfod
-      1 ’ta
-      1 ’u
-      1 ’wbath
-      1 ’yn
-      1 a’ch
-      1 â’ch
-      1 â’m
       1 abacws.
       1 abaty
       1 abdomen,
@@ -87,6 +32,8 @@
       1 acennog.
       1 acer
       1 aceri
+      1 a’ch
+      1 â’ch
       1 achau
       1 achau,
       1 achlysur,
@@ -165,8 +112,8 @@
       1 adio,
       1 adio’r
       1 adlamu
-      1 adleoli’n
       1 adleoliad
+      1 adleoli’n
       1 adlewyrchiad
       1 adlewyrchwyd
       1 adlifol.
@@ -254,9 +201,9 @@
       1 agen
       1 agenda.
       1 agenda?
-      1 agenda’r
       1 agenda'n
       1 agenda'r
+      1 agenda’r
       1 agor,
       1 agorais
       1 agorir
@@ -267,13 +214,12 @@
       1 agosach
       1 agosáu
       1 ah
-      1 ai’r
       1 aie?
       1 aiff
       1 aifft
       1 aifft.
-      1 'ail
       1 ail?
+      1 'ail
       1 ailaddurno
       1 ail-adeiladu
       1 ailadrodd,
@@ -305,6 +251,7 @@
       1 ail-wnaethon
       1 ailymgynnull
       1 ai'r
+      1 ai’r
       1 aitsh
       1 alanas.
       1 alar
@@ -365,6 +312,7 @@
       1 alwodd
       1 alwyd
       1 am...?
+      1 â’m
       1 ama
       1 amaeth
       1 amaethdy'r
@@ -774,8 +722,8 @@
       1 armstrong
       1 arna'
       1 arnaf.
-      1 arni’n
       1 arni'n
+      1 arni’n
       1 arnoch,
       1 arnofio
       1 arnom.
@@ -898,7 +846,6 @@
       1 awyrennau'n
       1 awyru
       1 aye
-      1 b’och
       1 baban
       1 baban.
       1 babanod
@@ -941,9 +888,9 @@
       1 balchder
       1 balconi,
       1 bale
-      1 balé
       1 bale,
       1 bale.
+      1 balé
       1 ball
       1 ballet
       1 ballu
@@ -1049,7 +996,6 @@
       1 bawn
       1 bay,
       1 be,
-      1 be’r
       1 beca
       1 béchamel
       1 bechgyn,
@@ -1111,9 +1057,9 @@
       1 benben,
       1 benben.
       1 benbleth
-      1 benblwydd
       1 ben-blwydd.
       1 ben-blwydd?
+      1 benblwydd
       1 benbwl,
       1 benbyliaid
       1 bencadlys
@@ -1162,6 +1108,7 @@
       1 benysgafn
       1 benyw
       1 benywaidd
+      1 be’r
       1 bêr
       1 beraidd
       1 berchenogion
@@ -1337,6 +1284,7 @@
       1 bobol.
       1 boced,
       1 boced-din.
+      1 b’och
       1 bocsio
       1 bocsio,
       1 bocsys
@@ -1371,8 +1319,8 @@
       1 boneti
       1 bonheddig,
       1 bonheddig.
-      1 bônt
       1 bont.
+      1 bônt
       1 bontardawe.
       1 bontddu,
       1 bontfaen
@@ -1490,8 +1438,8 @@
       1 brifddinas,
       1 briffordd,
       1 brifo,
-      1 brifo’i
       1 brifodl
+      1 brifo’i
       1 brig!
       1 brigau
       1 brigwyn.
@@ -1592,8 +1540,8 @@
       1 buarth,
       1 buarthau
       1 buasai,
-      1 buasai’r
       1 buasai'r
+      1 buasai’r
       1 buasent
       1 bucharest.
       1 buckingham
@@ -1645,8 +1593,8 @@
       1 bwriant
       1 bwriodd
       1 bwrpasol.
-      1 bwrw’r
       1 bwrw'i
+      1 bwrw’r
       1 bws.
       1 bwtler.
       1 bŵts
@@ -1712,11 +1660,11 @@
       1 bytholwyrdd
       1 bythwyrdd.
       1 bythynnod
-      1 byw’n
       1 bywgraffiad,
       1 bywiog
       1 bywiog,
       1 byw'n
+      1 byw’n
       1 bywoliaeth
       1 bywyd,
       1 bywydau'r
@@ -1743,14 +1691,14 @@
       1 cadno
       1 cadog.
       1 cadw,
-      1 cadw’i
-      1 cadw’n
-      1 cadw’u
       1 cadwaladr
       1 cadwaladr.
       1 cadwallon
+      1 cadw’i
+      1 cadw’n
       1 cadwn
       1 cadwraeth
+      1 cadw’u
       1 cadwyd
       1 cae?
       1 caea'r
@@ -1852,8 +1800,8 @@
       1 cannwyll.
       1 canolbarth
       1 canolbwynt
-      1 canolbwyntia’r
       1 canolbwyntiais
+      1 canolbwyntia’r
       1 canolbwyntio,
       1 canolbwyntir
       1 canoldir.
@@ -1873,8 +1821,8 @@
       1 cantores
       1 cantorion
       1 canu’n
-      1 canu’r
       1 canu'r
+      1 canu’r
       1 canwch
       1 canwr
       1 canyniadau
@@ -1934,14 +1882,14 @@
       1 cartwnau.
       1 cartŵns
       1 caru’r
-      1 carwn
       1 carw'n
+      1 carwn
       1 caryl
       1 cas,
       1 cas?
       1 casgliadau
-      1 casglu’r
       1 casglu'r
+      1 casglu’r
       1 casglwr
       1 casglwyd
       1 casia
@@ -1981,11 +1929,11 @@
       1 cegau
       1 cegau’r
       1 cegddu,
-      1 cei’n
       1 ceidwadol.
       1 ceidwadwr
       1 ceidwadwyr
       1 ceidwadwyr,
+      1 cei’n
       1 ceinciau
       1 ceinciau'r
       1 ceiniog,
@@ -2162,15 +2110,15 @@
       1 cherrig.
       1 ches
       1 chês
-      1 chi’ch
-      1 chi’r
       1 chicago
+      1 chi’ch
       1 chicio.
       1 chilient
       1 chiliodd
       1 china
       1 chipiodd
       1 chi'r
+      1 chi’r
       1 chiswell,
       1 chithau
       1 chithau.
@@ -2234,8 +2182,8 @@
       1 chorryn
       1 chorun
       1 chot
-      1 chôt
       1 chot,
+      1 chôt
       1 chrand
       1 chreadigaethau
       1 chreadigrwydd,
@@ -2587,8 +2535,8 @@
       1 clwyfo.
       1 clybiau?
       1 clybiau'r
-      1 clychau’n
       1 clychau'n
+      1 clychau’n
       1 clyfar
       1 clyma
       1 clymodd
@@ -2789,8 +2737,8 @@
       1 creawdwr.
       1 crebachu
       1 credai
-      1 credai’r
       1 credai'n
+      1 credai’r
       1 credent
       1 credid
       1 credu,
@@ -3001,8 +2949,8 @@
       1 cyfandirol.
       1 cyfannedd
       1 cyfanrifau
-      1 cyfansoddi’n
       1 cyfansoddiad.
+      1 cyfansoddi’n
       1 cyfansoddwch
       1 cyfansoddwyr
       1 cyfarch
@@ -3115,8 +3063,8 @@
       1 cyfrifwch
       1 cyfrifwyr.
       1 cyfrifydd
-      1 cyfrin
       1 cyfri'n
+      1 cyfrin
       1 cyfrinachau
       1 cyfrinachau.
       1 cyfrinachedd
@@ -3258,9 +3206,9 @@
       1 cynnwrf
       1 cynnwys,
       1 cynorthwyais
-      1 cynorthwyo’r
       1 cynorthwyodd
       1 cynorthwyo'r
+      1 cynorthwyo’r
       1 cynorthwyydd,
       1 cynosodiadau,
       1 cynradd.
@@ -3268,12 +3216,12 @@
       1 cynrychiolwyr
       1 cynt.
       1 cynt?
-      1 cynta’r
       1 cyntaf?
+      1 cynta’r
       1 cynwal
       1 cynydda
-      1 cynyddu’r
       1 cynyddu'r
+      1 cynyddu’r
       1 cynyddwyd
       1 cynyrchiadau
       1 cypreswydden
@@ -3284,8 +3232,8 @@
       1 cyrff.
       1 cyri
       1 cyri,
-      1 cyrlio’n
       1 cyrliog.
+      1 cyrlio’n
       1 cyrnol.
       1 cyrris
       1 cyrsiau.
@@ -3349,11 +3297,8 @@
       1 cywreinrwydd
       1 cywreinrwydd.
       1 d.
-      1 d’enw
-      1 d’oeurves.
       1 da!
       1 da?
-      1 da’r
       1 dabl
       1 dacl
       1 dacls
@@ -3436,8 +3381,8 @@
       1 dangos.
       1 dangos?
       1 dangosai
-      1 dangosai’r
       1 dangosai'r
+      1 dangosai’r
       1 dangosed
       1 dangoser
       1 dani.
@@ -3451,6 +3396,7 @@
       1 dant-y-llew
       1 danwyddau
       1 dâp
+      1 da’r
       1 dâr.
       1 darddiad.
       1 darfod.
@@ -3500,8 +3446,8 @@
       1 datod
       1 datŵ
       1 datws,
-      1 dau’n
       1 daufiniog,
+      1 dau’n
       1 dauwynebog,
       1 dave.
       1 david,
@@ -3575,8 +3521,8 @@
       1 ddarluniau'r
       1 ddarlunio
       1 ddarlunio.
-      1 ddarlunio’r
       1 ddarlunio'n
+      1 ddarlunio’r
       1 ddarlunydd.
       1 ddarnau'r
       1 ddarogan.
@@ -3588,8 +3534,8 @@
       1 ddata.
       1 ddata'n
       1 ddatblygodd
-      1 ddatblygu’r
       1 ddatblygu'n
+      1 ddatblygu’r
       1 ddatgan
       1 ddatganoledig
       1 ddatgloi
@@ -3694,8 +3640,8 @@
       1 ddiarfogi
       1 ddi-baid
       1 ddiben
-      1 ddibriod
       1 ddi-briod.
+      1 ddibriod
       1 ddicter.
       1 ddidaro
       1 ddidaro.
@@ -3919,8 +3865,8 @@
       1 ddyblu
       1 ddychmygai
       1 ddychmygol
-      1 ddychmygu’u
       1 ddychmygu'r
+      1 ddychmygu’u
       1 ddychrynir
       1 ddydd,
       1 ddydd?
@@ -3961,8 +3907,8 @@
       1 ddylsen
       1 ddympio’i
       1 ddymuniad
-      1 ddymuno’n
       1 ddymunol.
+      1 ddymuno’n
       1 ddyn.
       1 ddynes,
       1 ddynesu
@@ -3983,8 +3929,8 @@
       1 ddysgir
       1 ddysgl
       1 ddysgu,
-      1 ddysgu’r
       1 ddysgu'n
+      1 ddysgu’r
       1 ddysgwr
       1 ddywed
       1 ddywedaf
@@ -3992,6 +3938,7 @@
       1 ddywedem
       1 de,
       1 'de.
+      1 ’de.
       1 deal
       1 deallir
       1 deallus,
@@ -4024,12 +3971,12 @@
       1 dedwyddach
       1 defaid,
       1 defaid?
-      1 deffro’r
       1 deffroad
+      1 deffro’r
       1 defnyddia
-      1 defnyddia’r
       1 defnyddiaf
       1 defnyddiai
+      1 defnyddia’r
       1 defnyddio.
       1 defnyddioldeb
       1 defnyddion
@@ -4061,8 +4008,8 @@
       1 deimlir
       1 deimlo.
       1 deimlo?
-      1 deimlo’u
       1 deimlo'r
+      1 deimlo’u
       1 deintydd
       1 deio
       1 deio,
@@ -4099,6 +4046,7 @@
       1 densiwn,
       1 densiynau
       1 denu’r
+      1 d’enw
       1 denwyd
       1 deor,
       1 depp.
@@ -4116,8 +4064,8 @@
       1 destament.
       1 destunau
       1 dethlir
-      1 deuai’r
       1 deuaidd
+      1 deuai’r
       1 deuawd,
       1 deucanmlwyddiant
       1 deud.
@@ -4139,7 +4087,7 @@
       1 dewisiadau,
       1 dewisol?
       1 di’
-      1 di’r
+      1 ’di?
       1 diacon
       1 diaconiaid
       1 diain
@@ -4293,8 +4241,9 @@
       1 diolwg
       1 diosg
       1 dipio
-      1 'di'r
+      1 di’r
       1 dir.
+      1 'di'r
       1 direswm
       1 dirfawr
       1 dirfeddiannwr,
@@ -4389,7 +4338,6 @@
       1 dlws
       1 dlysach
       1 do?
-      1 do’r
       1 doc?
       1 dochan.
       1 docs
@@ -4408,6 +4356,7 @@
       1 doethuriaeth
       1 doethuriaeth,
       1 doethuriaeth.
+      1 d’oeurves.
       1 dofi
       1 dofi.
       1 dofodol
@@ -4423,6 +4372,7 @@
       1 dolffiniaid
       1 dolgellau,
       1 doli
+      1 ’dolig.
       1 dolur.
       1 dom
       1 domatos.
@@ -4435,6 +4385,7 @@
       1 doniol?
       1 doniolwch
       1 donn,
+      1 do’r
       1 dora
       1 dorch
       1 dorchester.
@@ -4447,9 +4398,9 @@
       1 dorothy
       1 dorres
       1 dorri,
+      1 dorri'n
       1 dorri’n
       1 dorri’r
-      1 dorri'n
       1 dorrwr
       1 dorrwyd
       1 dosau
@@ -4496,9 +4447,9 @@
       1 drasiedi.
       1 drasiedi'r
       1 drasig
-      1 draw’r
       1 drawiadol
       1 drawiadol.
+      1 draw’r
       1 drawsblaniad
       1 drawsfudiad.
       1 drawsfynydd.
@@ -4563,10 +4514,10 @@
       1 droellog
       1 droeodd
       1 droi,
-      1 droi’n
       1 droies
-      1 droir
+      1 droi’n
       1 droi'r
+      1 droir
       1 drôr
       1 dros,
       1 drosedd
@@ -4575,8 +4526,8 @@
       1 droseddu
       1 droseddwyr
       1 drosglwyddo.
-      1 drosglwyddo’r
       1 drosglwyddo'r
+      1 drosglwyddo’r
       1 drosolwg
       1 drosot
       1 drostynt
@@ -4593,8 +4544,8 @@
       1 drwch.
       1 drwchus.
       1 drwsio’r
-      1 drwy’i
       1 drwyddynt.
+      1 drwy’i
       1 drwyn.
       1 drwynol.
       1 drych
@@ -4623,7 +4574,6 @@
       1 dryw
       1 drywsus.
       1 drywydd
-      1 du’r
       1 duach
       1 dudew
       1 dudew.
@@ -4639,6 +4589,7 @@
       1 dunkirk
       1 duodd
       1 duon,
+      1 du’r
       1 dur.
       1 durtur
       1 dusw
@@ -4698,8 +4649,6 @@
       1 dwys.
       1 dwyster.
       1 dwytha
-      1 dŷ’n
-      1 dŷ’r
       1 dybiai
       1 dybiwn
       1 dyblu
@@ -4716,8 +4665,8 @@
       1 dycnwch
       1 dydd-
       1 dyddiau.
-      1 dyddiau’r
       1 dyddiau'r
+      1 dyddiau’r
       1 dyddio.
       1 dyddio?
       1 dydi’i
@@ -4785,6 +4734,7 @@
       1 dymuno'n
       1 dymuno'r
       1 dyn?
+      1 dŷ’n
       1 dynameg
       1 dynerwch
       1 dynes.
@@ -4807,6 +4757,7 @@
       1 dynol?
       1 dyr
       1 dŷ'r
+      1 dŷ’r
       1 dyrau
       1 dyrchafedig
       1 dyrchafiad
@@ -4821,13 +4772,13 @@
       1 dysgedydd
       1 dysgl
       1 dysgu,
-      1 dysgu’n
       1 dysgu'n
+      1 dysgu’n
       1 dysgwyd
       1 dyst
       1 dystar.
-      1 dystio’r
       1 dystion
+      1 dystio’r
       1 dywed,
       1 dywed?
       1 dywedasant
@@ -4905,8 +4856,8 @@
       1 effeithir
       1 effro.
       1 efô.
-      1 efo’i
       1 efo'i
+      1 efo’i
       1 efrog,
       1 efyrnwy.
       1 eglur.
@@ -4926,8 +4877,8 @@
       1 ehangiad
       1 ehangu,
       1 ehangu.
-      1 ehangu’r
       1 ehangu'n
+      1 ehangu’r
       1 ehedydd.
       1 eich,
       1 eicon
@@ -4975,13 +4926,13 @@
       1 eisiau,
       1 eisiau.
       1 eisiau’i
-      1 eisiau’r
       1 eisiau'r
+      1 eisiau’r
       1 eisoes,
       1 eisoes?
       1 eistedd.
-      1 eisteddai’r
       1 eisteddai'r
+      1 eisteddai’r
       1 eisteddasant
       1 eisteddfod,
       1 eisteddfodol
@@ -5072,8 +5023,8 @@
       1 entrepreneur
       1 entrepreneuriaid
       1 enwadau
-      1 enwau’r
       1 enwau'r
+      1 enwau’r
       1 enwebai
       1 enwebiad.
       1 enwebiadau
@@ -5174,10 +5125,6 @@
       1 excel
       1 excel.
       1 excellence.
-      1 f’amddiffyn
-      1 f’arglwydd,
-      1 f’athrawes
-      1 f’esgidiau.
       1 fab.
       1 faban
       1 fabi
@@ -5226,10 +5173,11 @@
       1 falwen
       1 falwoden
       1 fam?
-      1 fama
       1 fa'ma.
+      1 fama
       1 famau
       1 famau.
+      1 f’amddiffyn
       1 famol
       1 fanaweg
       1 fanc,
@@ -5260,6 +5208,7 @@
       1 farddonol
       1 farell.
       1 farfog
+      1 f’arglwydd,
       1 fargod
       1 fari
       1 farmor
@@ -5278,15 +5227,16 @@
       1 fataliwn
       1 f'atgoffa
       1 fath.
+      1 ’fath
       1 fathemategol.
       1 fathodyn.
+      1 f’athrawes
       1 fatsis
       1 fawddwy.
       1 fawnog
       1 fawr!
       1 fawredd
       1 fawrha.
-      1 fe’th
       1 fecanweithiau
       1 fecanweithiau.
       1 fecanyddol
@@ -5385,11 +5335,13 @@
       1 fertigol.
       1 ferw
       1 ferwyn,
+      1 f’esgidiau.
       1 fesicl
       1 fesur.
       1 fesur?
       1 fet.
       1 fetelau
+      1 fe’th
       1 fethdalwr.
       1 fethiant
       1 fethiant.
@@ -5532,8 +5484,8 @@
       1 ffolio
       1 ffonau.
       1 ffoneteg,
-      1 ffonia’n
       1 ffoniai
+      1 ffonia’n
       1 ffonio.
       1 ffonio?
       1 ffonio'i
@@ -5668,8 +5620,8 @@
       1 flewog,
       1 flewog;
       1 flino.
-      1 flino’r
       1 flinodd
+      1 flino’r
       1 flociau?
       1 flodau,
       1 flodau'r
@@ -5681,8 +5633,6 @@
       1 flog
       1 flwydd
       1 flynyddol,
-      1 fo’n
-      1 fo’r
       1 fochyn,
       1 fochyn.
       1 fodca,
@@ -5713,6 +5663,7 @@
       1 foltedd
       1 foment
       1 foment.
+      1 fo’n
       1 fôn,
       1 fôn?
       1 fonedau
@@ -5721,8 +5672,9 @@
       1 fonheddig
       1 fonitro
       1 fonitro'n
-      1 for
       1 fo'r
+      1 fo’r
+      1 for
       1 fôr,
       1 ford.
       1 forfa
@@ -5806,8 +5758,8 @@
       1 frys.
       1 frysio
       1 fryste
-      1 fuasai’n
       1 fuasai'n
+      1 fuasai’n
       1 fuasent
       1 fuaswn
       1 fudd.
@@ -5876,16 +5828,18 @@
       1 fwyta,
       1 fwyta.
       1 fwyta?
+      1 fwytadwy
       1 fwyta’i
+      1 fwytâi
       1 fwyta’n
       1 fwyta’r
-      1 fwytadwy
-      1 fwytâi
       1 fychander,
       1 fychaniaid,
       1 fychaniaid.
       1 fychanu'r
       1 fyd,
+      1 ’fyd!
+      1 ’fyd?
       1 fyddai,
       1 fyddar.
       1 fyddem
@@ -5930,8 +5884,6 @@
       1 fywgraffiadau.
       1 fywiog,
       1 fywiogrwydd
-      1 ga’i
-      1 ga’l
       1 gaban
       1 gabined.
       1 gacennau
@@ -5989,14 +5941,16 @@
       1 gafr.
       1 gafwyd
       1 gafwyd.
+      1 ga’i
       1 gai
-      1 gâi
       1 gai;
+      1 gâi
       1 gaib.
       1 gaiff
       1 gaiff.
       1 gainc
       1 gair?
+      1 ga’l
       1 gal
       1 galapagos.
       1 galar
@@ -6022,8 +5976,8 @@
       1 galli
       1 gallodd
       1 gallu.
-      1 gallu’i
       1 gallu'i
+      1 gallu’i
       1 gallwch.
       1 galon?
       1 galwai
@@ -6059,8 +6013,8 @@
       1 ganibal.
       1 ganlyn.
       1 ganlyniad.
-      1 ganlyniadau’r
       1 ganlyniadau'r
+      1 ganlyniadau’r
       1 ganlynol,
       1 ganmol
       1 ganmol.
@@ -6312,8 +6266,8 @@
       1 glaswenwyn
       1 glasynys
       1 glasynys.
-      1 glaw’n
       1 glawiad
+      1 glaw’n
       1 glawr.
       1 glec,
       1 glefydau
@@ -6378,8 +6332,8 @@
       1 glywaist
       1 glywed!
       1 glywed,
-      1 glywn
       1 glyw'n
+      1 glywn
       1 glywsoch
       1 glywsoch,
       1 glywswn.
@@ -6450,8 +6404,8 @@
       1 gofynnon
       1 gofynnwn
       1 gogh
-      1 goginio’n
       1 goginio'n
+      1 goginio’n
       1 gogledd,
       1 gogledd-orllewin
       1 gogledd-orllewin,
@@ -6586,16 +6540,16 @@
       1 gosbi'n
       1 gosford
       1 gosod.
-      1 gosoda’r
       1 gosodais
+      1 gosoda’r
       1 gosodiadau,
       1 gosodir
       1 gosodwch
       1 gostegu
       1 gostegu.
       1 gostio
-      1 gostio’n
       1 gostiodd
+      1 gostio’n
       1 gostyngeiddrwydd
       1 got,
       1 goth.
@@ -6758,8 +6712,6 @@
       1 gur
       1 gurad
       1 guro.
-      1 gw’bod
-      1 gw’bod.
       1 gwacach.
       1 gwadd
       1 gwaddod
@@ -6785,8 +6737,8 @@
       1 gwahaniaeth?
       1 gwahanol,
       1 gwahanu.
-      1 gwahanu’r
       1 gwahanu'r
+      1 gwahanu’r
       1 gwahoddiad,
       1 gwahoddiad.
       1 gwahoddwyd
@@ -6830,6 +6782,8 @@
       1 gwaywffon
       1 gwaywffon.
       1 gwblhawyd
+      1 gw’bod
+      1 gw’bod.
       1 gwch.
       1 gwcw
       1 gwd
@@ -6849,8 +6803,8 @@
       1 gwefreiriau
       1 gwegian.
       1 gweigion,
-      1 gweini’n
       1 gweinidog.
+      1 gweini’n
       1 gweinydd
       1 gweinydd?
       1 gweinyddes
@@ -6922,9 +6876,9 @@
       1 gwersylla.
       1 gwerthfawrogaf
       1 gwerthfawrogi.
-      1 gwerthfawrogi’r
       1 gwerthfawrogi'n
       1 gwerthfawrogi'r
+      1 gwerthfawrogi’r
       1 gwerthodd
       1 gwerthu’r
       1 gwerthusiad,
@@ -6961,8 +6915,8 @@
       1 gwiriwch
       1 gwirodydd
       1 gwisgo.
-      1 gwisgo’r
       1 gwisgodd
+      1 gwisgo’r
       1 gwitho
       1 gwiwer
       1 gwladgarol.
@@ -7022,8 +6976,8 @@
       1 gwrando?
       1 gwrando’n
       1 gwregys
-      1 gwreiddiau’r
       1 gwreiddiau'n
+      1 gwreiddiau’r
       1 gwreiddiodd
       1 gwreiddyn
       1 gwreng
@@ -7073,8 +7027,8 @@
       1 gwta
       1 gwth
       1 gwthiai’r
-      1 gwthio’r
       1 gwthio'r
+      1 gwthio’r
       1 gwy
       1 gwy.
       1 gwybodus
@@ -7136,8 +7090,8 @@
       1 gwyrddion.
       1 gwyrddlas
       1 gwyrddlas,
-      1 gwyro’i
       1 gwyrodd
+      1 gwyro’i
       1 gwyrthiol
       1 gychwyn,
       1 gychwynnwyd
@@ -7262,8 +7216,8 @@
       1 gyfwerth.
       1 gyfyngder
       1 gyhoeddi.
-      1 gyhoeddi’r
       1 gyhoeddiadau
+      1 gyhoeddi’r
       1 gyhoeddus?
       1 gyhuddiad.
       1 gyhydedd
@@ -7374,8 +7328,8 @@
       1 gynorthwywyr
       1 gynrychiolaeth
       1 gynrychiolaeth.
-      1 gynrychiolir
       1 gynrychioli'r
+      1 gynrychiolir
       1 gynsail
       1 gynt,
       1 gynta'
@@ -7388,9 +7342,9 @@
       1 gyrhaeddem.
       1 gyrion
       1 gyrnol
-      1 gyrra’r
       1 gyrraedd,
       1 gyrraedd?
+      1 gyrra’r
       1 gyrredd
       1 gyrrodd
       1 gyrron
@@ -7421,8 +7375,8 @@
       1 gywilydd
       1 gywilyddio
       1 gywiro
-      1 gywiro’r
       1 gywiro'r
+      1 gywiro’r
       1 gywrain
       1 gywreinrwydd.
       1 gywyddau.
@@ -7566,8 +7520,8 @@
       1 hawddgar.
       1 hawdlau.
       1 hawlfraint.
-      1 hawlia’r
       1 hawliad.
+      1 hawlia’r
       1 hawliau'r
       1 hawliodd
       1 hawsaf
@@ -7612,8 +7566,8 @@
       1 heintiau'r
       1 heisiau
       1 hel.
-      1 hela’r
       1 hela'r
+      1 hela’r
       1 helbul
       1 heledd
       1 helen
@@ -7957,8 +7911,8 @@
       1 iddewig
       1 iddewig-hwngaraidd
       1 iddewon.
-      1 iddi’r
       1 iddi'n
+      1 iddi’r
       1 iddo?
       1 iddynt,
       1 ideal
@@ -7999,8 +7953,8 @@
       1 inc.
       1 indecs
       1 india,
-      1 india’n
       1 indiaidd
+      1 india’n
       1 indy
       1 injan.
       1 innau,
@@ -8066,7 +8020,6 @@
       1 iwerydd.
       1 iwgoslafia.
       1 iwsia’r
-      1 j.o.
       1 jack
       1 jackson
       1 jacob
@@ -8101,6 +8054,7 @@
       1 jiwdo
       1 jiwdo,
       1 jiws
+      1 j.o.
       1 jo
       1 joban.
       1 joben
@@ -8148,6 +8102,7 @@
       1 lacio’r
       1 laddwyd
       1 lady
+      1 ’laen
       1 laeth,
       1 laeth.
       1 lafar,
@@ -8230,8 +8185,8 @@
       1 leiffer?
       1 leifior
       1 leighton
-      1 leihau’r
       1 leihau'r
+      1 leihau’r
       1 lein,
       1 lein?
       1 lein-yps?
@@ -8244,10 +8199,11 @@
       1 lemon,
       1 lemwn.
       1 lena.
+      1 ’leni.
       1 lenni
       1 lens
-      1 lenwi’r
       1 lenwi'n
+      1 lenwi’r
       1 lenyddiaeth.
       1 lenyddol.
       1 leol?
@@ -8274,6 +8230,7 @@
       1 lewyrchus.
       1 lewys
       1 li
+      1 ’li.
       1 lib
       1 libanus,
       1 libanus.
@@ -8314,7 +8271,6 @@
       1 liwiau'r
       1 liwio.
       1 liw'n
-      1 lla’th
       1 llabed
       1 llac.
       1 lladd.
@@ -8397,6 +8353,7 @@
       1 llantrisant,
       1 llanuwchllyn,
       1 llanystumdwy
+      1 lla’th
       1 llathen
       1 llau.
       1 llaw;
@@ -8494,9 +8451,9 @@
       1 llidiog
       1 llifai
       1 llif-ddorau
-      1 llifo’n
       1 llifogydd?
       1 llifo'n
+      1 llifo’n
       1 llifwaddod.
       1 llifwaddodol
       1 llifwr
@@ -8515,6 +8472,7 @@
       1 lliwiau’r
       1 lliw-llawn
       1 lliw-llawn.
+      1 ’llnau
       1 llnau’r
       1 llo
       1 lloches
@@ -8550,8 +8508,8 @@
       1 llosgfynyddoedd
       1 llosgfynyddoedd,
       1 llosgi.
-      1 llosgi’r
       1 llosgiadau
+      1 llosgi’r
       1 lloyd,
       1 lloyd.
       1 llugoer.
@@ -8562,8 +8520,8 @@
       1 lluniaeth,
       1 lluniaidd
       1 lluniais
-      1 lluniau’n
       1 lluniau'n
+      1 lluniau’n
       1 lluniodd
       1 lluniwch
       1 lluoedd
@@ -8579,9 +8537,9 @@
       1 llusg.
       1 llusgai
       1 llusga'r
+      1 llusgodd
       1 llusgo’i
       1 llusgo’r
-      1 llusgodd
       1 lluwchwynt,
       1 llwfryn
       1 llwgu
@@ -8744,9 +8702,10 @@
       1 lwyed
       1 lwyn
       1 lwyni.
+      1 ’lyb.
       1 lydaw,
-      1 lydaw’n
       1 lydaweg,
+      1 lydaw’n
       1 lydia
       1 lyfio
       1 lyfli,
@@ -8782,6 +8741,7 @@
       1 lywydd
       1 ma'
       1 'ma,
+      1 ‘ma.
       1 mab,
       1 mabon
       1 mabwysiadodd
@@ -8805,9 +8765,8 @@
       1 madrid
       1 mae,
       1 mae.
-      1 mae’ch
-      1 mae’u
       1 mae'ch
+      1 mae’ch
       1 maelienydd,
       1 maelor
       1 maelor.
@@ -8823,8 +8782,10 @@
       1 maes-y-dderwen,
       1 maesyfed
       1 maesyfed.
+      1 mae’u
       1 mafon
       1 mag
+      1 ’mag
       1 magi
       1 magiau
       1 magi'r
@@ -8854,6 +8815,7 @@
       1 mamiaith.
       1 mamolaeth
       1 ma'n
+      1 ’ma'n
       1 manceinion
       1 manceinion,
       1 mandela
@@ -8884,9 +8846,9 @@
       1 marnes,
       1 martin
       1 marw,
-      1 marw’n
       1 marwaidd
       1 marw'n
+      1 marw’n
       1 marx
       1 mary?
       1 mas.
@@ -9048,6 +9010,7 @@
       1 mhader.
       1 mhafiliwn
       1 mhanad
+      1 ’mhaned.
       1 mharashiwtio
       1 mharc
       1 mharis
@@ -9098,6 +9061,7 @@
       1 michigan.
       1 microsoft
       1 micsar
+      1 ’migwrn
       1 mike,
       1 mil,
       1 mil.
@@ -9124,9 +9088,9 @@
       1 miss
       1 mississippi
       1 miwsig.
+      1 mlaen?
       1 mla’n
       1 mla’n,
-      1 mlaen?
       1 mlân
       1 mlwyddiant?
       1 mobsters
@@ -9134,10 +9098,12 @@
       1 mochyn.
       1 mochyn?
       1 mod.
+      1 ’mod
       1 moddion
       1 modiwlau,
       1 modlen.
       1 modryb.
+      1 ’modyn
       1 moel,
       1 moelwyn
       1 moelydd
@@ -9243,6 +9209,7 @@
       1 mynachdy’n
       1 mynachlog
       1 mynachlog-ddu,
+      1 ’mynadd
       1 mynedfa
       1 myneged
       1 mynegodd
@@ -9269,9 +9236,7 @@
       1 myw,
       1 myw.
       1 n
-      1 na’n
-      1 na’th
-      1 na’u
+      1 ‘na.
       1 nabod?
       1 nadd
       1 nadd.
@@ -9279,11 +9244,16 @@
       1 naddo.
       1 naddo?
       1 nadreddu
+      1 ’naethom
+      1 ’nafu
+      1 ’nafu.
       1 nage,
+      1 ’nai
       1 naid?
       1 nail
       1 na'm
       1 na'n
+      1 na’n
       1 nancy
       1 nano
       1 nant.
@@ -9294,13 +9264,16 @@
       1 narlithydd
       1 nas
       1 nash
+      1 na’th
       1 nathan
+      1 ’nathon
       1 natsïaid
       1 natsïaid,
       1 naturiaethwr
       1 naturiaethwr,
       1 naturiol,
       1 naturioldeb
+      1 na’u
       1 nau
       1 naw,
       1 nawarlywydd
@@ -9349,9 +9322,9 @@
       1 nerfol
       1 nerfus.
       1 nerth.
-      1 'nes
       1 nes,
       1 nes.
+      1 'nes
       1 nesa,
       1 nesa?
       1 nesa'n
@@ -9359,9 +9332,9 @@
       1 nesi
       1 'nest
       1 neu,
-      1 neu’n
       1 neud.
       1 neu'i
+      1 neu’n
       1 nevill
       1 new
       1 newid?
@@ -9396,13 +9369,16 @@
       1 nghaerfaddon.
       1 nghaerhirfryn
       1 nghaernarfon
+      1 ’nghalon
       1 'nghalonogi
       1 nghamddeall
       1 nghanlyniada’
       1 nghanlyniadau
       1 nghantref
+      1 ‘nghar
       1 nghariad
       1 nghariad.
+      1 ’nghariad
       1 nghario
       1 nghario.
       1 nghartref
@@ -9420,6 +9396,7 @@
       1 nghernyw,
       1 nghernyw.
       1 nghi
+      1 ’nghlustdlysau.
       1 nghlustiau
       1 nghlwyd,
       1 nghlyw
@@ -9489,7 +9466,10 @@
       1 ngwahanol
       1 ngwair
       1 ngwaith,
+      1 ’ngwaith.
       1 'ngwallt
+      1 ’ngwallt
+      1 ’ngwallt.
       1 ngwas
       1 ngwddw
       1 ngwead
@@ -9497,12 +9477,15 @@
       1 ngwefus
       1 ngwersyll
       1 ngwinadd
+      1 ’ngwinedd
       1 ngwiriondeb
+      1 ’ngwisgo
       1 ngŵr
       1 ngwybodaeth,
       1 ngŵydd
       1 ngŵyl
       1 ngwynab
+      1 ’ngwyneb
       1 ngwynedd.
       1 ngwynfa
       1 ngwynt.
@@ -9514,6 +9497,7 @@
       1 nhaith.
       1 nhalaith
       1 nhaliad
+      1 ’nhe
       1 nhedi
       1 nheip
       1 nhermau'r
@@ -9539,9 +9523,9 @@
       1 nhw’u
       1 nhwyllo.
       1 nhŷ.
-      1 nhŷ’r
       1 nhyb
       1 nhymor
+      1 nhŷ’r
       1 nhywyllwch
       1 nhywyn,
       1 nia,
@@ -9601,6 +9585,7 @@
       1 nofio?
       1 nofiodd
       1 nol
+      1 ’nôl.
       1 nôl,
       1 nolgellau
       1 nolgellau,
@@ -9631,6 +9616,7 @@
       1 nwy?
       1 nwydus.
       1 nwyf
+      1 ’nwylo
       1 nychryn
       1 nyddai'r
       1 nyddiadur.
@@ -9648,11 +9634,9 @@
       1 nythod
       1 nythu
       1 nyts.
-      1 o'
       1 o!
+      1 o'
       1 o’
-      1 o’s
-      1 o’th
       1 obaith
       1 obeithia
       1 oblaen?
@@ -9671,6 +9655,7 @@
       1 octopws
       1 od?
       1 odd
+      1 ‘odd
       1 odda
       1 oddach
       1 oddef
@@ -9803,8 +9788,8 @@
       1 on
       1 on,
       1 on’
-      1 on’d
       1 onast
+      1 on’d
       1 one
       1 onest,
       1 ongl.
@@ -9849,8 +9834,8 @@
       1 ormodol
       1 ornest
       1 oroesi
-      1 oroesi’r
       1 oroesi'r
+      1 oroesi’r
       1 ororau
       1 orsaf.
       1 orsaf?
@@ -9862,6 +9847,7 @@
       1 orymdaith
       1 orymdeithiau
       1 orymdeithio
+      1 o’s
       1 oscar.
       1 osgoi,
       1 osmosis
@@ -9873,6 +9859,7 @@
       1 ostwng
       1 ostyngiad
       1 oswallt.
+      1 o’th
       1 ots
       1 over
       1 owain,
@@ -10000,8 +9987,8 @@
       1 pelen
       1 pelfis,
       1 pell,
-      1 pella’r
       1 pellach?
+      1 pella’r
       1 pellgyrhaeddol.
       1 pelydrau
       1 pelydrau'r
@@ -10011,8 +9998,8 @@
       1 penbedw
       1 penbleth
       1 penbleth.
-      1 penblwydd
       1 pen-blwydd?
+      1 penblwydd
       1 penblwyddi.
       1 penbwl!
       1 pencampwriaeth
@@ -10058,9 +10045,9 @@
       1 penseli.
       1 pensil
       1 pensiliau
+      1 pen-teulu.
       1 penteulu
       1 penteulu.
-      1 pen-teulu.
       1 pentir.
       1 pentra’
       1 pentre,
@@ -10320,8 +10307,8 @@
       1 plis
       1 plotio'r
       1 plotiwch
-      1 plu’r
       1 pluo
+      1 plu’r
       1 plwtoniwm.
       1 plwy.
       1 plwyfol
@@ -10348,8 +10335,8 @@
       1 podlediadau
       1 poen,
       1 poenau'r
-      1 poeni’n
       1 poeni'n
+      1 poeni’n
       1 poenus,
       1 poethaf
       1 pôl
@@ -10481,8 +10468,8 @@
       1 profiad.
       1 profiadol.
       1 profi'n
-      1 profir
       1 profi'r
+      1 profir
       1 profwyd
       1 prognosis.
       1 project
@@ -10519,8 +10506,8 @@
       1 prynes
       1 pryniad
       1 prynon
-      1 prynu’r
       1 prynu'r
+      1 prynu’r
       1 prys,
       1 prysglwyn.
       1 prysgwydd.
@@ -10641,8 +10628,8 @@
       1 recordiau.
       1 recordio.
       1 recordio?
-      1 recordio’r
       1 recordio'r
+      1 recordio’r
       1 recordydd
       1 recriwtio
       1 red
@@ -10751,8 +10738,8 @@
       1 rheoledig.
       1 rheoleiddiwr.
       1 rheoli.
-      1 rheolir
       1 rheoli'r
+      1 rheolir
       1 rheolwr.
       1 rheolwyd
       1 rheolwyr,
@@ -10854,8 +10841,8 @@
       1 rhwyd.
       1 rhwydd
       1 rhwygo.
-      1 rhwygo’r
       1 rhwygodd
+      1 rhwygo’r
       1 rhwyll
       1 rhwyma
       1 rhwymedd
@@ -10927,14 +10914,14 @@
       1 rili,
       1 rimyn
       1 rio.
+      1 ‘rioed
+      1 ’rioed.
       1 risg.
       1 risga
       1 risotto
       1 rîtwîtiau.
       1 riwbob.
       1 ro
-      1 ro’en
-      1 ro’n
       1 rob
       1 robert.
       1 robin,
@@ -10948,6 +10935,7 @@
       1 roeddem
       1 roeg,
       1 roeg.
+      1 ro’en
       1 roger
       1 roi.
       1 roi'ch
@@ -10958,6 +10946,7 @@
       1 roma
       1 romani
       1 rombws
+      1 ro’n
       1 ron
       1 rong,
       1 ronyn.
@@ -10981,7 +10970,6 @@
       1 rownd.
       1 roy
       1 royal
-      1 ru’r
       1 ruban
       1 rufeinig
       1 rufeinig?
@@ -10991,6 +10979,7 @@
       1 run
       1 'run
       1 ruodd
+      1 ru’r
       1 ruth
       1 ruth.
       1 ruthro
@@ -11005,9 +10994,9 @@
       1 rwla
       1 rwmania
       1 rwmania.
-      1 rwsia’n
       1 rwsiaid
       1 rwsiaidd,
+      1 rwsia’n
       1 rwsieg
       1 rwsieg?
       1 rwydwaith
@@ -11047,7 +11036,6 @@
       1 rywiol.
       1 rywle,
       1 rywogaethau
-      1 sa’n
       1 saboth
       1 sach,
       1 sachau
@@ -11063,8 +11051,8 @@
       1 saethau
       1 saethiad
       1 saethodd.
-      1 saethu’r
       1 saethu'n
+      1 saethu’r
       1 saethwyd
       1 saethyddiaeth
       1 saethyddiaeth.
@@ -11106,6 +11094,7 @@
       1 sampleri
       1 samplwyd
       1 samwrai.
+      1 sa’n
       1 sanau.
       1 sanctaidd.
       1 saniteiddio
@@ -11252,8 +11241,11 @@
       1 sgert.
       1 sgerti.
       1 sgetshis
+      1 ’sgidia.
+      1 ’sgidia’.
       1 sgil-effeithiau.
       1 sgin
+      1 ’sgin
       1 sgipiodd
       1 sgitsoffrenia.
       1 sglaffio
@@ -11279,8 +11271,8 @@
       1 sgrifennaf
       1 sgrifennodd
       1 sgrifennu'r
-      1 sgrîn
       1 sgrin.
+      1 sgrîn
       1 sgriniau
       1 sgrinluniau
       1 sgriptiau.
@@ -11293,14 +11285,16 @@
       1 sgwarnog
       1 sgwaronglog.
       1 sgweier.
-      1 sgwenna’r
       1 sgwennaist
+      1 sgwenna’r
       1 sgwenni
       1 sgwennodd
-      1 sgwennu’r
+      1 ’sgwennu
       1 sgwennu'r
+      1 sgwennu’r
       1 sgwennwyd
       1 sgwenodd
+      1 ’sgwn
       1 sgwrsio.
       1 sgyrsiau.
       1 shakes¬peare,
@@ -11464,6 +11458,7 @@
       1 stadiwm
       1 staenio’n
       1 stafell,
+      1 ’stafell
       1 stafelloedd.
       1 staffio
       1 stamp.
@@ -11474,6 +11469,7 @@
       1 startsh
       1 statudol
       1 statws.
+      1 ’steddfod
       1 steffan.
       1 steil
       1 steil.
@@ -11510,8 +11506,8 @@
       1 stond.
       1 stopio.
       1 stopio?
-      1 stopio’r
       1 stopiodd.
+      1 stopio’r
       1 stori?
       1 storïau,
       1 storio.
@@ -11565,8 +11561,8 @@
       1 swyddau
       1 swyddfa.
       1 swyddfa’n
-      1 swyddfa’r
       1 swyddfa'r
+      1 swyddfa’r
       1 swyddfeydd,
       1 swyddi'n
       1 swyddion
@@ -11653,16 +11649,15 @@
       1 syrpreis
       1 syrthiaist
       1 syrthio.
-      1 syrthio’n
       1 syrthio'n
+      1 syrthio’n
       1 system,
       1 syth,
       1 sythwelediad,
       1 t
       1 t.
-      1 t’wchu
       1 ta?
-      1 ta’r
+      1 ’ta
       1 tab?
       1 tabled
       1 tabled,
@@ -11685,8 +11680,8 @@
       1 taffi.
       1 tafla’r
       1 taflu’i
-      1 taflu’r
       1 taflunnir
+      1 taflu’r
       1 tafod
       1 tafodiaith.
       1 tafodieitheg
@@ -11713,8 +11708,8 @@
       1 taliad.
       1 talsarnau.
       1 talu.
-      1 talu’r
       1 talu'r
+      1 talu’r
       1 talwm!
       1 talwyd
       1 tal-y-bont.
@@ -11742,6 +11737,7 @@
       1 tap
       1 tap.
       1 tapestrïau.
+      1 ta’r
       1 tarddiad.
       1 tarddiadau.
       1 tarddle
@@ -11798,8 +11794,8 @@
       1 teimladau.
       1 teimladwy
       1 teimlai’n
-      1 teimlai’r
       1 teimlai'r
+      1 teimlai’r
       1 teimlid
       1 teimlo.
       1 teip.
@@ -11809,9 +11805,9 @@
       1 teisi
       1 teithiai
       1 teithiau
-      1 teithio’r
       1 teithiol,
       1 teithiol.
+      1 teithio’r
       1 teithiwr
       1 teithiwr,
       1 teitl,
@@ -11910,8 +11906,8 @@
       1 thelyn.
       1 thema.
       1 thema’r
-      1 themâu’r
       1 themâu'n
+      1 themâu’r
       1 thenor
       1 thensiwn
       1 thensiwn.
@@ -11973,8 +11969,8 @@
       1 throed.
       1 throes
       1 throi.
-      1 throi’r
       1 throi'n
+      1 throi’r
       1 throlio
       1 throseddu
       1 throsi
@@ -11984,9 +11980,9 @@
       1 throwsus.
       1 thrwsiadus.
       1 thrwy
-      1 thrwy’r
       1 thrwyn.
       1 thrwy'r
+      1 thrwy’r
       1 thrychiad
       1 thrydan,
       1 thrydan?
@@ -12028,10 +12024,10 @@
       1 tirfeddianwyr.
       1 tirffurf.
       1 tirffurfiau
-      1 tirio’r
       1 tiriogaeth
       1 tiriogaeth,
       1 tirion
+      1 tirio’r
       1 tirlithriad.
       1 tirlun
       1 tirweddau
@@ -12163,8 +12159,8 @@
       1 trefniadau.
       1 trefniant
       1 trefnodd
-      1 trefnu’r
       1 trefnu'n
+      1 trefnu’r
       1 trefnwch
       1 trefol.
       1 trefor,
@@ -12206,17 +12202,16 @@
       1 trigolion?
       1 trigonometreg.
       1 trim.
-      1 trio’i
-      1 trio’n
       1 trioedd.
       1 triog
+      1 trio’i
       1 trioleg
+      1 trio’n
       1 triongl,
       1 trip.
       1 tripiau
       1 trist,
       1 trîtio
-      1 tro’r
       1 troad
       1 troais
       1 trochi,
@@ -12230,11 +12225,12 @@
       1 trofannol.
       1 troi,
       1 troi.
-      1 troi’r
       1 troi'r
+      1 troi’r
       1 trois
       1 tro'n
       1 troon
+      1 tro’r
       1 trorym?
       1 trosedd?
       1 troseddau
@@ -12246,10 +12242,10 @@
       1 trosglwyddiad
       1 trosglwyddo’r
       1 trosgynnol
-      1 trosi’r
       1 trosiadau
       1 trosiannol
       1 trosiant
+      1 trosi’r
       1 trosoch
       1 trosodd
       1 trosom
@@ -12301,6 +12297,7 @@
       1 tudwal
       1 tunplat
       1 twb
+      1 t’wchu
       1 tweet
       1 twickenham
       1 twitter?
@@ -12324,7 +12321,6 @@
       1 twymyn,
       1 ty
       1 tŷ?
-      1 tŷ’n
       1 tybaco.
       1 tybia
       1 tybiaethau
@@ -12344,6 +12340,7 @@
       1 tymhorau.
       1 tymhorau’r
       1 tymor.
+      1 tŷ’n
       1 tynasom
       1 tynna’r
       1 tynnu.
@@ -12374,6 +12371,7 @@
       1 tywysoges
       1 tywysoges,
       1 tywysydd
+      1 ’u
       1 uchafbwyntiau'r
       1 uchafswm,
       1 uchder,
@@ -12543,6 +12541,7 @@
       1 wawr.
       1 wawrio.
       1 wbath
+      1 ’wbath
       1 wbeth
       1 wddf,
       1 wddw
@@ -12576,8 +12575,8 @@
       1 weithiau?
       1 weithiau'n
       1 weithio?
-      1 weithio’r
       1 weithio'n
+      1 weithio’r
       1 weithredol
       1 weithredu’r
       1 weithwyr,
@@ -12599,8 +12598,8 @@
       1 welltog,
       1 welson
       1 welwyd
-      1 wely’n
       1 welyau
+      1 wely’n
       1 wen!
       1 wen,
       1 wenai
@@ -12793,14 +12792,14 @@
       1 wylia’?
       1 wyliadwrus
       1 wyliau,
-      1 wylio’r
       1 wylio'n
       1 wylio'r
+      1 wylio’r
       1 wylltio
       1 wylodd
       1 wylofain
-      1 ŵyn
       1 wyn?
+      1 ŵyn
       1 wyna.
       1 wynab.
       1 wyneb,
@@ -12845,9 +12844,9 @@
       1 ydwyf
       1 ydy!
       1 ydy.
-      1 ydy’n
       1 ydym,
       1 ydy'n
+      1 ydy’n
       1 ydynt,
       1 ydyw;
       1 ydyw'n
@@ -12862,7 +12861,6 @@
       1 yfwyd
       1 yli
       1 yli.
-      1 ym¬geisydd
       1 yma!
       1 ymadrodd
       1 ymaflai
@@ -12933,6 +12931,7 @@
       1 ymgasglu
       1 ymgeisio
       1 ymgeiswyr.
+      1 ym¬geisydd
       1 ymgodai
       1 ymgodai'r
       1 ymgodi
@@ -13006,9 +13005,10 @@
       1 ymwelydd
       1 ymyrraeth
       1 yn,
+      1 ’yn
       1 yna!
-      1 yna’r
       1 ynadon
+      1 yna’r
       1 ynddi?
       1 ynddo,
       1 ynddo'n
@@ -13021,12 +13021,12 @@
       1 ynghyd,
       1 ynghyd.
       1 ynghynt;
-      1 yno.sero
-      1 yno’n
       1 ynof
       1 ynof.
       1 ynom.
+      1 yno’n
       1 ynon
+      1 yno.sero
       1 ynot
       1 yntau,
       1 yntau'n
@@ -13038,8 +13038,8 @@
       1 ynyd
       1 ynyd.
       1 ynysaidd.
-      1 ynysoedd,y
       1 ynysoedd.
+      1 ynysoedd,y
       1 ynysol
       1 ynysu
       1 ynysu.
@@ -13143,15 +13143,6 @@
       1 zambezi.
       1 zambia
       1 zimbabwe
-      2 ‘na
-      2 ‘switch
-      2 ’blaw
-      2 ’im
-      2 ’mlaen
-      2 ’neud
-      2 ’r
-      2 ’run
-      2 a’n
       2 abdomen
       2 aber.
       2 aberdâr,
@@ -13164,8 +13155,8 @@
       2 academaidd.
       2 a'ch
       2 â'ch
-      2 achosi’r
       2 achosion.
+      2 achosi’r
       2 achub.
       2 actores
       2 actorion.
@@ -13248,6 +13239,7 @@
       2 amserwch
       2 amsugno
       2 amwythig,
+      2 a’n
       2 anad
       2 anadl,
       2 anadlodd
@@ -13363,8 +13355,8 @@
       2 atoch.
       2 atom.
       2 atomau
-      2 aton
       2 ato'n
+      2 aton
       2 atyniad
       2 atyniadau
       2 atyniadol
@@ -13460,6 +13452,7 @@
       2 blaenorol.
       2 blaguro.
       2 blant?
+      2 ’blaw
       2 bleidleisio.
       2 blentyn,
       2 bleserus.
@@ -13537,8 +13530,8 @@
       2 brynais
       2 brynu’r
       2 brywes
-      2 buasai’n
       2 buasai'n
+      2 buasai’n
       2 bugunad
       2 bugunad.
       2 bully,
@@ -13579,8 +13572,6 @@
       2 byrlymus
       2 bysellfwrdd
       2 bysiau
-      2 c’nawon
-      2 ca’l
       2 cabinet.
       2 cadach
       2 cadeiriau
@@ -13596,6 +13587,7 @@
       2 caf
       2 cafod
       2 cafon
+      2 ca’l
       2 calan
       2 calchfaen
       2 calcwlws.
@@ -13774,6 +13766,7 @@
       2 clywir
       2 clywyd
       2 cnau.
+      2 c’nawon
       2 coch,
       2 coctêl
       2 coctêls
@@ -13837,8 +13830,8 @@
       2 cryfder
       2 crynu
       2 crynwyr.
-      2 cuddio’r
       2 cuddiodd
+      2 cuddio’r
       2 curo
       2 cwblhawyd
       2 cwestiwn.
@@ -13984,8 +13977,8 @@
       2 dafarn.
       2 dafarn?
       2 daflodd
-      2 daflu’r
       2 dafluniol,
+      2 daflu’r
       2 daid
       2 dail.
       2 daily
@@ -13994,8 +13987,8 @@
       2 daleithiau,
       2 dalent
       2 damcaniaethau
-      2 dân
       2 dan,
+      2 dân
       2 danadl.
       2 danau
       2 danfonodd
@@ -14156,8 +14149,8 @@
       2 deffrodd
       2 deffroes
       2 defnyddiau
-      2 defnyddio’r
       2 defnyddio'n
+      2 defnyddio’r
       2 defnyddiwr
       2 defnyddiwr.
       2 deg.
@@ -14355,7 +14348,6 @@
       2 dywysoges
       2 e!
       2 e?
-      2 e’i
       2 ebay
       2 ebe
       2 e-bost?
@@ -14386,6 +14378,7 @@
       2 ehangu'r
       2 ehangwyd
       2 ehedai
+      2 e’i
       2 eidalaidd
       2 eidaleg
       2 eiddgar
@@ -14435,12 +14428,12 @@
       2 enillwyr
       2 enillwyr.
       2 ennyn
-      2 enw’r
       2 enwebu
-      2 enwir
       2 enwi'r
+      2 enwir
       2 enwog.
       2 enwogrwydd
+      2 enw’r
       2 eos
       2 epileptig
       2 epoc
@@ -14505,7 +14498,6 @@
       2 fawr?
       2 fe,
       2 fe?
-      2 fe’m
       2 fechgyn
       2 fector
       2 fedd.
@@ -14521,6 +14513,7 @@
       2 felen
       2 felin
       2 felyn
+      2 fe’m
       2 fenywod.
       2 ferch,
       2 fersiynau
@@ -14637,7 +14630,6 @@
       2 frycheiniog.
       2 fryn
       2 fryniau
-      2 fu’r
       2 fuan,
       2 fuasech
       2 fuddugoliaeth
@@ -14645,6 +14637,7 @@
       2 fudr.
       2 fugail
       2 funud,
+      2 fu’r
       2 furiau
       2 fusnesa
       2 fwlch
@@ -14695,9 +14688,9 @@
       2 gamgymeriadau.
       2 gamp
       2 gân,
-      2 ganddo’r
       2 ganddoch
       2 ganddon
+      2 ganddo’r
       2 ganddynt.
       2 ganiad
       2 ganlynol.
@@ -14791,8 +14784,8 @@
       2 gloddiau
       2 glofa
       2 gloi,
-      2 gloi’r
       2 gloi'r
+      2 gloi’r
       2 glöwr
       2 glust.
       2 glustog
@@ -15017,9 +15010,9 @@
       2 gwywo.
       2 gychod
       2 gyd,
+      2 gyda'ch
       2 gyda’ch
       2 gyda’u
-      2 gyda'ch
       2 gydnabod
       2 gydraddoldeb
       2 gydweithwyr.
@@ -15196,11 +15189,11 @@
       2 hwnna?
       2 hwnna’r
       2 hwrê
-      2 hwy’n
       2 hwyaden
       2 hwyl,
       2 hwyl.
       2 hwylus
+      2 hwy’n
       2 hwynt
       2 hwyr?
       2 hwyrach,
@@ -15228,7 +15221,6 @@
       2 hysgol
       2 hystyrir
       2 hywel.
-      2 i’th
       2 iddew
       2 iddewon
       2 iddi?
@@ -15248,6 +15240,7 @@
       2 ilar
       2 ildio.
       2 ill
+      2 ’im
       2 imperialaidd
       2 inc
       2 incwm
@@ -15265,6 +15258,7 @@
       2 is-olygydd
       2 isradd.
       2 israel.
+      2 i’th
       2 iwan
       2 iwerddon,
       2 japan
@@ -15310,8 +15304,8 @@
       2 lerpwl,
       2 lestri
       2 lethr
-      2 licio’r
       2 licio'r
+      2 licio’r
       2 lifer
       2 lifer.
       2 lifftiau
@@ -15347,7 +15341,6 @@
       2 llawdriniaeth.
       2 llawer,
       2 llawrydd.
-      2 lle’n
       2 llechen
       2 llecyn
       2 lled.
@@ -15359,6 +15352,7 @@
       2 lleihau'r
       2 lleill
       2 lleisiau’n
+      2 lle’n
       2 llenwch
       2 llenwi
       2 lleoliad.
@@ -15391,8 +15385,8 @@
       2 llwydda
       2 llwynogod
       2 llydan.
-      2 llydaw’n
       2 llydaweg
+      2 llydaw’n
       2 llynedd
       2 llynnoedd
       2 llysoedd
@@ -15424,9 +15418,8 @@
       2 lythyr
       2 lythyrau
       2 lywodraethwyr
-      2 'ma
       2 ma?
-      2 ma’n
+      2 'ma
       2 mabinogi
       2 mae’i
       2 maer
@@ -15439,6 +15432,7 @@
       2 mamaeth.
       2 mamal
       2 mam-gu
+      2 ma’n
       2 mân.
       2 manwl,
       2 map.
@@ -15505,6 +15499,7 @@
       2 miss,
       2 mistres
       2 mlaen.
+      2 ’mlaen
       2 mlaenau
       2 mo
       2 moch.
@@ -15548,6 +15543,7 @@
       2 myrddin
       2 mywyd.
       2 na!
+      2 ‘na
       2 nabod.
       2 naddo,
       2 nadolig?
@@ -15579,6 +15575,7 @@
       2 nesáu
       2 nest.
       2 netflix
+      2 ’neud
       2 neu’r
       2 newid,
       2 newidyn
@@ -15614,8 +15611,8 @@
       2 nhe.
       2 nhermau
       2 nhrwyn
-      2 nhw’r
       2 nhw'r
+      2 nhw’r
       2 nia
       2 niferus
       2 nitrig.
@@ -15705,7 +15702,6 @@
       2 osian
       2 ots,
       2 owen,
-      2 p’nawn
       2 pabell
       2 paciodd
       2 paentio’r
@@ -15820,6 +15816,7 @@
       2 plith
       2 plot
       2 plygwch
+      2 p’nawn
       2 poblogaeth
       2 poblogaidd.
       2 poced.
@@ -15885,7 +15882,7 @@
       2 pys
       2 pysgod
       2 pysgota
-      2 r’wbath
+      2 ’r
       2 radar
       2 radicaliaeth
       2 ragfynegi
@@ -15988,7 +15985,9 @@
       2 rong.
       2 ros
       2 rufeinig.
+      2 ’run
       2 rwanawr
+      2 r’wbath
       2 rybudd
       2 ryddhau
       2 ryddiaith,
@@ -16036,8 +16035,8 @@
       2 sêr.
       2 serennog.
       2 sesiynau
-      2 sêt
       2 set.
+      2 sêt
       2 sgaffaldiau
       2 sgarlad
       2 sgerbwd
@@ -16134,6 +16133,7 @@
       2 sŵ.
       2 swffragét
       2 swigod.
+      2 ‘switch
       2 swnio’n
       2 swnllyd.
       2 swp
@@ -16302,8 +16302,8 @@
       2 tyfir
       2 tyfodd
       2 tyfu.
-      2 tyfu’n
       2 tyfu'n
+      2 tyfu’n
       2 tymhorol
       2 tŷ'n
       2 tyner
@@ -16339,8 +16339,8 @@
       2 wahardd
       2 waldo
       2 waliau,
-      2 waliau’r
       2 waliau'r
+      2 waliau’r
       2 walter
       2 wartheg
       2 wasaidd
@@ -16494,13 +16494,6 @@
       2 ystyried,
       2 ystyriodd
       2 ywain
-      3 ’da
-      3 ’di’n
-      3 ’di’r
-      3 ’m
-      3 ’rioed
-      3 â’n
-      3 â’u
       3 aberdâr
       3 aberhonddu.
       3 absennol
@@ -16546,6 +16539,7 @@
       3 amlosgfa
       3 amlwg,
       3 a'n
+      3 â’n
       3 anadlu.
       3 anafiadau
       3 andrews
@@ -16595,6 +16589,7 @@
       3 atomig
       3 atyn
       3 atynt
+      3 â’u
       3 awdl
       3 awstralia
       3 awstria
@@ -16808,8 +16803,8 @@
       3 criced
       3 crio,
       3 crio.
-      3 croesi’r
       3 croesi'r
+      3 croesi’r
       3 crwn.
       3 cryno
       3 crynodeb
@@ -16877,6 +16872,7 @@
       3 cysylltiedig
       3 cysyniadau
       3 cywilydd
+      3 ’da
       3 dadleuon
       3 dafad
       3 daflen
@@ -16895,8 +16891,8 @@
       3 datblygu.
       3 datrysiad
       3 dau.
-      3 daw’r
       3 dawn
+      3 daw’r
       3 ddadlau
       3 ddaeth,
       3 ddamwain
@@ -16981,7 +16977,9 @@
       3 digidol.
       3 digwydd,
       3 dilys.
+      3 ’di’n
       3 diogelu
+      3 ’di’r
       3 direidus
       3 diriogaeth
       3 dirywiad
@@ -17043,8 +17041,8 @@
       3 dychryn
       3 dychymyg
       3 dydd?
-      3 dydy’r
       3 dydy'r
+      3 dydy’r
       3 dyfais
       3 dyfalu
       3 dyfarnwyd
@@ -17064,7 +17062,6 @@
       3 dysgwr
       3 dywedais
       3 e,
-      3 e’r
       3 ebrill.
       3 edrychai’r
       3 edrychais
@@ -17100,6 +17097,7 @@
       3 enillydd
       3 enwad
       3 enwyd
+      3 e’r
       3 erbyn.
       3 eryri.
       3 esgobaeth
@@ -17535,19 +17533,20 @@
       3 lwynog
       3 lyfryn
       3 lywodraeth
-      3 ma’r
+      3 ’m
       3 machlud
       3 maeth
       3 magwraeth
-      3 mai’r
       3 main
       3 main.
+      3 mai’r
       3 maldwyn
       3 mali
       3 mali.
       3 malu.
       3 mangor
       3 mangor.
+      3 ma’r
       3 marchnata
       3 maria
       3 mark
@@ -17571,7 +17570,6 @@
       3 milwyr
       3 min
       3 misoedd.
-      3 mo’i
       3 moch
       3 mochyn
       3 modd.
@@ -17579,6 +17577,7 @@
       3 modryb
       3 moethus.
       3 mohono
+      3 mo’i
       3 môr?
       3 morwyn
       3 motor
@@ -17626,10 +17625,10 @@
       3 nheulu
       3 nhref
       3 nhŷ
-      3 ni’r
       3 nicotin
       3 nillad
       3 ninnau
+      3 ni’r
       3 niwclear.
       3 niwlog.
       3 nodau
@@ -17640,7 +17639,6 @@
       3 nwyon
       3 nyrsio
       3 nyth.
-      3 o’nd
       3 od
       3 oddan
       3 odli
@@ -17663,6 +17661,7 @@
       3 olew.
       3 ollwng
       3 olynydd
+      3 o’nd
       3 opsiynau
       3 orchuddio
       3 orffwys
@@ -17797,6 +17796,7 @@
       3 rhywbryd.
       3 rhywogaethau
       3 rili
+      3 ’rioed
       3 roddodd
       3 roedd,
       3 rolau
@@ -18064,12 +18064,6 @@
       3 ysgrifennai
       3 ysgyfaint
       3 ystryd
-      4 ’dach
-      4 ’mond
-      4 ’sdi.
-      4 ’sgidia
-      4 ’so
-      4 a’m
       4 academaidd
       4 acen
       4 achlysurol
@@ -18090,6 +18084,7 @@
       4 albwm
       4 alla
       4 almaen.
+      4 a’m
       4 amdan
       4 amdanyn
       4 amgueddfa.
@@ -18189,10 +18184,10 @@
       4 brydain.
       4 bryderus
       4 brysia
-      4 bu’r
       4 budr
       4 bûm
       4 bunt
+      4 bu’r
       4 bur
       4 busnes.
       4 bwled
@@ -18314,6 +18309,7 @@
       4 cystadlu
       4 cytundeb
       4 'da
+      4 ’dach
       4 dacw
       4 daethant
       4 daflu
@@ -18660,8 +18656,8 @@
       4 helaeth.
       4 henry
       4 heol
-      4 hi’i
       4 hiaith
+      4 hi’i
       4 hirdymor
       4 hoes.
       4 hoffet
@@ -18764,6 +18760,7 @@
       4 modiwl
       4 modur
       4 'mond
+      4 ’mond
       4 môr,
       4 morgan,
       4 morgannwg
@@ -18800,7 +18797,6 @@
       4 nodyn
       4 nwyddau
       4 nyth
-      4 o’m
       4 oeddym
       4 oen.
       4 oeri.
@@ -18813,6 +18809,7 @@
       4 ohonot
       4 ôl,
       4 oleuni
+      4 o’m
       4 onest
       4 orau?
       4 oresgyn
@@ -18904,12 +18901,14 @@
       4 sam.
       4 san
       4 sbïo
+      4 ’sdi.
       4 sebon
       4 sector
       4 seremoni
       4 serth
       4 seth
       4 sgarff
+      4 ’sgidia
       4 sgript
       4 sgrym.
       4 sialens
@@ -18925,6 +18924,7 @@
       4 siôn.
       4 sir.
       4 siriol
+      4 ’so
       4 stad
       4 stafelloedd
       4 storm.
@@ -19041,11 +19041,8 @@
       4 ystyr,
       4 ystyriwch
       4 yswiriant
-      4 yw’n
       4 ywen
-      5 ’s
-      5 ’sa
-      5 a’th
+      4 yw’n
       5 aber
       5 abertawe.
       5 achos.
@@ -19084,6 +19081,7 @@
       5 asia
       5 ataf
       5 atgyfnerthu
+      5 a’th
       5 athroniaeth
       5 atodi
       5 atodiad
@@ -19604,6 +19602,8 @@
       5 rwsia.
       5 ryngwladol
       5 rywsut
+      5 ’s
+      5 ’sa
       5 saff
       5 sâl.
       5 sam
@@ -19703,9 +19703,6 @@
       5 ysgwyd
       5 ystâd
       6 –
-      6 ’ma?
-      6 ’n
-      6 ’swn
       6 adegau
       6 adeiladwyd
       6 adenydd
@@ -19897,8 +19894,8 @@
       6 ffres
       6 ffrwyth
       6 ffurfiol
-      6 fi’n
       6 fi'n
+      6 fi’n
       6 flas
       6 flynyddol
       6 forwyn
@@ -19975,9 +19972,9 @@
       6 hyfforddwr
       6 hyfryd.
       6 hynny?
-      6 i’ch
       6 iâ
       6 iach.
+      6 i’ch
       6 iddynt.
       6 imi
       6 isel.
@@ -20007,6 +20004,7 @@
       6 llyfrau.
       6 llythrennedd
       6 lwcus
+      6 ’ma?
       6 magu
       6 manteision
       6 marc
@@ -20023,19 +20021,20 @@
       6 misoedd
       6 miwsig
       6 mlaen
-      6 mo’r
       6 model
       6 modern.
       6 moel
       6 môn
       6 môn,
+      6 mo’r
       6 morynion
       6 mwclis
       6 mynd?
       6 mywyd
+      6 ’n
       6 'na
-      6 na’i
       6 nadolig.
+      6 na’i
       6 nain
       6 nant
       6 nesa.
@@ -20048,13 +20047,13 @@
       6 nodir
       6 nodwch
       6 nyffryn
-      6 o’u
       6 o'ch
       6 oeddet
       6 ofal
       6 ogystal,
       6 olau.
       6 olwyn
+      6 o’u
       6 paent
       6 pen-blwydd
       6 pennaeth
@@ -20100,6 +20099,7 @@
       6 streic
       6 stryd.
       6 swm
+      6 ’swn
       6 symptomau
       6 syrthiodd
       6 tad
@@ -20147,7 +20147,6 @@
       6 yna’n
       6 ynddi
       6 yw,
-      7 ’ma
       7 aberystwyth
       7 achlysur.
       7 acw
@@ -20386,6 +20385,7 @@
       7 llydaw.
       7 llyn.
       7 llywydd
+      7 ’ma
       7 madarch
       7 maes.
       7 man.
@@ -20482,8 +20482,8 @@
       7 thri
       7 trawiadol
       7 trên.
-      7 troi’n
       7 troi'n
+      7 troi’n
       7 trydan.
       7 tywod
       7 tywyll
@@ -20504,14 +20504,13 @@
       7 ydoedd,
       7 ydoedd.
       7 ydyw,
-      7 yma’n
       7 ymadael
+      7 yma’n
       7 ymarferol
       7 ymlaen,
       7 ysbrydion
       7 ysgrifennu.
       7 ysgrifennwch
-      8 ’na?
       8 adeiladau
       8 adnoddau
       8 adre.
@@ -20679,12 +20678,12 @@
       8 honni
       8 hybu
       8 hyfforddi
-      8 i’m
       8 iau.
       8 ichi
       8 ieuan
       8 ieuenctid
       8 ifanc,
+      8 i’m
       8 is
       8 jac
       8 james
@@ -20693,10 +20692,10 @@
       8 lan.
       8 leol
       8 llawr.
-      8 lle’r
       8 lleisiau
       8 llenyddol
       8 lleoliad
+      8 lle’r
       8 lleuad
       8 llinellau
       8 llu
@@ -20719,6 +20718,7 @@
       8 minnau
       8 mlwydd
       8 na,
+      8 ’na?
       8 neb.
       8 negeseuon
       8 neidiodd
@@ -20789,10 +20789,10 @@
       8 ysbyty.
       8 ystafell.
       9 -
-      9 â’i
       9 adnodd
       9 agored.
       9 â'i
+      9 â’i
       9 air
       9 amlwg.
       9 amseroedd
@@ -21197,8 +21197,6 @@
      10 ysgol,
      10 ysgrifennydd
      10 ystyrir
-     11 ’dan
-     11 ’na.
      11 achlysur
      11 acw.
      11 adrannau
@@ -21240,6 +21238,7 @@
      11 cymry
      11 cynrychioli
      11 cytuno
+     11 ’dan
      11 darganfod
      11 datrys
      11 ddata
@@ -21300,6 +21299,7 @@
      11 moyn
      11 mudiad
      11 mynydd.
+     11 ’na.
      11 nadolig
      11 ne
      11 neu'r
@@ -21396,8 +21396,8 @@
      12 dde
      12 dderbyn
      12 deunydd
-     12 di’n
      12 digwyddodd
+     12 di’n
      12 diweddaraf
      12 drama
      12 droi
@@ -21571,8 +21571,8 @@
      13 marw
      13 mlynedd.
      13 mynyddoedd
-     13 na’r
      13 nabod
+     13 na’r
      13 natur.
      13 newidiadau
      13 offer
@@ -21604,12 +21604,12 @@
      13 ymennydd
      13 ymgyrch
      13 yrfa
-     14 a’u
      14 adael
      14 adar
      14 adolygiad
      14 adran
      14 amgylch
+     14 a’u
      14 aur
      14 awn
      14 bara
@@ -21989,8 +21989,6 @@
      18 un.
      18 wlad.
      18 ydi’r
-     19 ’ma.
-     19 ’y
      19 adeg
      19 alban.
      19 allwedd
@@ -22026,6 +22024,7 @@
      19 law
      19 llinell
      19 llundain.
+     19 ’ma.
      19 mhrifysgol
      19 naill
      19 poblogaidd
@@ -22038,6 +22037,7 @@
      19 sgwrs
      19 sicr
      19 thad
+     19 ’y
      19 ymysg
      20 agored
      20 agwedd
@@ -22492,12 +22492,12 @@
      39 sefyll
      39 symud
      39 ystafell
-     40 ’i
      40 aml
      40 dilyn
      40 diwedd
      40 draws
      40 gelwir
+     40 ’i
      40 oed
      40 roeddwn
      40 rwy'n
@@ -22567,14 +22567,14 @@
      49 nes
      49 rwyf
      49 yno.
-     50 â’r
      50 ap
      50 â'r
+     50 â’r
      50 bywyd
      50 diwrnod
      50 dyma'r
-     50 gyda’r
      50 gyda'r
+     50 gyda’r
      50 heddiw.
      50 jones
      50 tro
@@ -22695,9 +22695,9 @@
      78 cyntaf
      78 gwybod
      78 mwyn
-     80 ’na
      80 dau
      80 e
+     80 ’na
      80 pwy
      81 ag
      81 ef

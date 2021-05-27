@@ -1,5 +1,3 @@
-1,"ik
-1,‘t
 1,aadlike
 1,aafke.
 1,aai.
@@ -105,8 +103,8 @@
 1,akwadukt.
 1,akwaria
 1,akwarium?
-1,ál
 1,al?
+1,ál
 1,alarmbel
 1,alarmsystemen
 1,aldehou.
@@ -1303,8 +1301,8 @@
 1,dermei.
 1,dernei
 1,dernêst.
-1,dêroan
 1,deroan,
+1,dêroan
 1,dêroer,
 1,derôf.
 1,derta
@@ -1549,8 +1547,8 @@
 1,duorsumheid.
 1,durk.
 1,dus,
-1,dûs,
 1,dus?
+1,dûs,
 1,dútsk
 1,dútsk.
 1,duvels
@@ -1604,8 +1602,8 @@
 1,eb
 1,ebbers
 1,echode
-1,écht
 1,echt,
+1,écht
 1,echtpear.
 1,eddy
 1,eefkes.
@@ -1703,8 +1701,8 @@
 1,emigrearjen.
 1,emma
 1,emoasje
-1,èn
 1,en,
+1,èn
 1,ende
 1,enerzjykosten
 1,enerzjyrekken
@@ -2027,8 +2025,8 @@
 1,fernijende
 1,fernijing.
 1,fernijingen
-1,fernimmen.
 1,fernimmen'.
+1,fernimmen.
 1,fernommen,
 1,fernuvering
 1,fernuvering.
@@ -2046,8 +2044,8 @@
 1,ferplantsjen
 1,ferpleatse.
 1,ferpleechhûs.
-1,ferpleechhûzen
 1,ferpleechhuzen.
+1,ferpleechhûzen
 1,ferpleechkundige
 1,ferpleechkundige.
 1,ferpleging
@@ -2361,8 +2359,8 @@
 1,foarsprong
 1,foarsprong.
 1,foarstean
-1,'foarstel'
 1,foarstel.
+1,'foarstel'
 1,foarstelle
 1,foarstellings
 1,foarstelt?
@@ -3140,8 +3138,8 @@
 1,hoarten
 1,hoastje
 1,hobbelet
-1,hobby‘s
 1,hobbykeamer
+1,hobby‘s
 1,hobbys?
 1,hoe.
 1,hoechsto
@@ -3227,9 +3225,9 @@
 1,húsruiljen
 1,hússikingen,
 1,huverje
-1,hûzen
 1,huzen,
 1,huzen.
+1,hûzen
 1,huzet
 1,huzet.
 1,hylpen?
@@ -3306,6 +3304,7 @@
 1,ijsko.
 1,ik!
 1,ik?
+1,"ik
 1,ingelân
 1,ingelske
 1,inisjativen.
@@ -3679,8 +3678,8 @@
 1,klauwen.
 1,klean.
 1,kleankast
-1,'klear'.
 1,klear?
+1,'klear'.
 1,klearmakke
 1,klearstoomd
 1,kleaster
@@ -4041,8 +4040,8 @@
 1,lânboubestridingsmiddels
 1,lânboukundich
 1,lânbouministers
-1,lange-
 1,lange,
+1,lange-
 1,langehoekspôle.
 1,lângenoat,
 1,langere
@@ -4574,8 +4573,8 @@
 1,moarden.
 1,moardner
 1,moarnen
-1,moarns-
 1,moarns,
+1,moarns-
 1,moarnsbesiten
 1,moarnsdauwe,
 1,moarnsfeart
@@ -5097,8 +5096,8 @@
 1,ôfbrekke
 1,ôfbrekken
 1,ôfbrutsen
-1,ôfbylding
 1,ofbylding.
+1,ôfbylding
 1,ôfbylding.
 1,ôfbyldingen.
 1,ôfdielingen
@@ -5553,8 +5552,8 @@
 1,plof
 1,plomfeedong.
 1,plúzjen.
-1,'plysje'
 1,plysje,
+1,'plysje'
 1,plysjebus
 1,plysjebuske
 1,plysjebussen.
@@ -5815,8 +5814,8 @@
 1,rêdbraakt
 1,rede
 1,rêde,
-1,rêden,
 1,reden.
+1,rêden,
 1,redenaasjes
 1,redenen.
 1,redens
@@ -7105,6 +7104,7 @@
 1,systeemspesifikaasjes
 1,systeemûntwikkeler.
 1,sytske.
+1,‘t
 1,taak
 1,taalboarterij.
 1,taalgefoelich
@@ -7314,9 +7314,9 @@
 1,timmerlju.
 1,tine
 1,tineke
-1,'tink
 1,tink!
 1,tink?
+1,'tink
 1,tinkbyld
 1,tinkers
 1,tinkst
@@ -7761,8 +7761,8 @@
 1,unyk
 1,urven
 1,ús?
-1,út-
 1,út!
+1,út-
 1,útbaarnd.
 1,útbetelje.
 1,útbetelle
@@ -8122,8 +8122,8 @@
 1,wiisheid
 1,wiismeitsje.
 1,wij
-1,'wike
 1,wike,
+1,'wike
 1,wiken.
 1,wikkerdewik,
 1,wikselen
@@ -9038,8 +9038,8 @@
 2,flotte
 2,fluch
 2,flugger
-2,foar-
 2,foar!
+2,foar-
 2,foarby,
 2,foarbyld.
 2,foarbylden.
@@ -13670,8 +13670,8 @@
 27,sjogge
 27,stean.
 27,stik
-27,wêrom
 27,werom.
+27,wêrom
 27,wêr't
 28,bedriuw
 28,bêste

@@ -1,18 +1,4 @@
       1 ​​
-      1 ​​đời
-      1 ​​lời
-      1 ​​mà
-      1 ​​những
-      1 ​​tên
-      1 ​đôi
-      1 ​giống
-      1 ​không
-      1 ​mà
-      1 ​sẽ
-      1 ​tình
-      1 "​sao
-      1 "ăn
-      1 "chăm".
       1 à,
       1 ải
       1 album
@@ -20,8 +6,9 @@
       1 ầm
       1 ảm
       1 ậm
-      1 ăn,
       1 an.
+      1 "ăn
+      1 ăn,
       1 áng
       1 anh,
       1 áo.
@@ -30,21 +17,21 @@
       1 ầy
       1 ấylắc
       1 ba,
-      1 bậc
       1 bạc,
-      1 bái
+      1 bậc
       1 bai,
-      1 bấm
+      1 bái
       1 bẵm
+      1 bấm
       1 băn
-      1 bâng
       1 bẵng
+      1 bâng
       1 bão
       1 bạo
       1 bạt
+      1 bay,
       1 bầy
       1 bẩy
-      1 bay,
       1 be
       1 bế
       1 bề
@@ -82,24 +69,25 @@
       1 cấm
       1 cẩm
       1 camera
+      1 cằn
       1 cân
       1 cấn
-      1 cằn
-      1 cận
-      1 cặn
       1 cạn.
+      1 cặn
+      1 cận
       1 cành,
-      1 cáo"
       1 cao.
+      1 cáo"
       1 câù
       1 cấu
       1 cay
       1 chà
       1 chai
+      1 "chăm".
       1 châm
       1 chan
-      1 chặn
       1 chăn,
+      1 chặn
       1 chạng
       1 chánh
       1 cháo,
@@ -115,10 +103,10 @@
       1 chênh
       1 chép...
       1 chết,
+      1 chi?
       1 chí​
       1 chí.
       1 chỉ...
-      1 chi?
       1 chiếc,
       1 chiếm
       1 chim"quảng
@@ -140,26 +128,26 @@
       1 chừa
       1 chức
       1 chúi
-      1 chững
       1 chung.
+      1 chững
       1 chuồng
       1 chuộng
       1 chường
       1 chuột
       1 chút,
       1 chuyền
+      1 có.
+      1 cô?!
       1 cỡ
       1 cở
       1 cọ,
-      1 có.
-      1 cô?!
       1 cọc
       1 còi
       1 côi
       1 còm
       1 côn
-      1 cõng
       1 công.
+      1 cõng
       1 cửa,
       1 cục
       1 củi
@@ -169,21 +157,21 @@
       1 cười,
       1 cuốn
       1 cuồng
+      1 cuồng,
       1 cương
       1 cường
-      1 cuồng,
       1 cướp
       1 cụp
       1 dả
       1 đặc,
       1 dai
+      1 dài!
+      1 dại​
+      1 dại.
+      1 dại...
       1 đai
       1 đài
       1 đãi
-      1 dại​
-      1 dài!
-      1 dại.
-      1 dại...
       1 dâm
       1 dặm
       1 đam
@@ -196,24 +184,24 @@
       1 đàng
       1 đăng
       1 đẳng
-      1 đanh
       1 danh,
+      1 đanh
       1 đánh.
       1 dao
       1 đáp:'mùa
       1 dát
       1 dâu
-      1 đẩu
       1 đau,
       1 đâu:
+      1 đẩu
       1 đax
       1 dày
-      1 dãy
       1 dấy
-      1 đày
-      1 đây!
+      1 dãy
       1 dạy,
       1 dậy,
+      1 đày
+      1 đây!
       1 đầy...
       1 dè
       1 đê
@@ -226,29 +214,29 @@
       1 đèo
       1 đẹp,
       1 dệt
+      1 dí,
       1 dĩ
-      1 đĩ
       1 đi​
       1 đi!
-      1 dí,
       1 đi...
+      1 đĩ
       1 đĩa
       1 điếm
       1 điệp
       1 diết
       1 điếu
       1 điểu
+      1 dò,
       1 dỗ
       1 dơ
       1 dở
-      1 đò
-      1 đô
-      1 đờ
-      1 đở
-      1 dò,
       1 đó,
       1 đó.
+      1 đò
+      1 đô
       1 đỗ.
+      1 đờ
+      1 đở
       1 đọa
       1 đoan
       1 doanh
@@ -256,26 +244,28 @@
       1 đôgn
       1 dồi
       1 dỗi
+      1 ​đôi
+      1 ​​đời
       1 dội
-      1 đội
-      1 đợi"​
+      1 đôi?
       1 đời,
       1 đời.
-      1 đôi?
+      1 đợi"​
+      1 đội
       1 dơn
       1 dớn
       1 dờn
+      1 dọn,
       1 đôn
       1 đốn
-      1 độn
-      1 đớn​
-      1 dọn,
       1 đơn...
+      1 đớn​
+      1 độn
       1 đong
-      1 đồng-
       1 đông.
-      1 dột
+      1 đồng-
       1 dợt
+      1 dột
       1 đốt
       1 dư
       1 dụ
@@ -321,25 +311,26 @@
       1 gẫu
       1 gáy
       1 ghì
+      1 già,
       1 giã
       1 gìa
-      1 già,
       1 giặc
       1 giam
       1 gián
       1 giàn
       1 giận,
-      1 giáng
       1 giang,
+      1 giáng
       1 giành
       1 giáo
       1 giất
       1 giày
+      1 gió:
       1 giỏ
       1 giơ
-      1 gió:
       1 giời
       1 giởi
+      1 ​giống
       1 giữ,
       1 giụa
       1 giùm
@@ -347,8 +338,8 @@
       1 gõ
       1 góc,
       1 gói
-      1 gội
       1 gọi,
+      1 gội
       1 gom
       1 gớm
       1 gòn
@@ -363,8 +354,8 @@
       1 hái
       1 hải
       1 ham
-      1 hãm
       1 hầm
+      1 hãm
       1 han
       1 hân
       1 hạn,
@@ -391,18 +382,18 @@
       1 hoá
       1 hoà
       1 hoạch
-      1 hoải
       1 hoài,
+      1 hoải
       1 hoắt
       1 hóc
       1 hốc
-      1 hộc
       1 học,
+      1 hộc
       1 họccặp
       1 hoen
       1 hối
-      1 hỏn
       1 hôn,
+      1 hỏn
       1 hóng
       1 hòng
       1 hống
@@ -455,8 +446,8 @@
       1 khiên
       1 khiễng
       1 khiêu
-      1 khố
       1 khó.
+      1 khố
       1 khoa
       1 khoá
       1 khoả
@@ -467,12 +458,13 @@
       1 khoăn
       1 khóc:
       1 khóe
+      1 khói:
       1 khối
       1 khơi
       1 khởi
-      1 khói:
       1 khóm
       1 khôn.
+      1 ​không
       1 không​
       1 không.
       1 không???
@@ -492,18 +484,18 @@
       1 kìm
       1 kớ
       1 lạch
-      1 lại​
       1 lai,
+      1 lại​
       1 lại...
       1 lại?​
       1 laij
       1 lam
-      1 lâm
-      1 lấm
-      1 lầm
       1 lắm!
       1 lắm,
       1 lắm.
+      1 lâm
+      1 lấm
+      1 lầm
       1 lân
       1 lấn
       1 lẩn
@@ -514,9 +506,9 @@
       1 lạnh?
       1 lảo
       1 lat
-      1 lật
-      1 lặt
       1 lát,
+      1 lặt
+      1 lật
       1 láy
       1 lẩy
       1 lạy
@@ -532,8 +524,8 @@
       1 lịa
       1 lịch
       1 liếm
-      1 liện
       1 liền,
+      1 liện
       1 liêu
       1 liều
       1 lìm
@@ -550,21 +542,22 @@
       1 loang
       1 loạt
       1 loè
+      1 ​​lời
       1 lòi
       1 lơi
-      1 lọi
       1 lởi
       1 lợi.
+      1 lọi
       1 lơn
       1 lộn
       1 long
+      1 lòng:
       1 lông
       1 lòng,yêu
-      1 lòng:
       1 lốp
       1 lột
-      1 lư
       1 lũ.
+      1 lư
       1 lữa
       1 lựa
       1 luận
@@ -576,6 +569,8 @@
       1 lưỡng
       1 luyến
       1 ma,
+      1 ​​mà
+      1 ​mà
       1 mạ,
       1 mạc
       1 mách
@@ -592,18 +587,18 @@
       1 máo
       1 mào
       1 mạo
-      1 mật
       1 mắt!
-      1 mật.
       1 mắt:
+      1 mật
+      1 mật.
       1 mãu
-      1 mảy
+      1 may.
       1 máy,
       1 mày,
-      1 may.
+      1 mảy
       1 me
-      1 mẹ!
       1 mê...
+      1 mẹ!
       1 mẹ...
       1 mềm
       1 mèo
@@ -615,9 +610,9 @@
       1 miệt
       1 miếu
       1 mịt
+      1 mổ
       1 mõ
       1 mỏ
-      1 mổ
       1 mớ
       1 mỡ
       1 móc
@@ -627,15 +622,15 @@
       1 mới,
       1 món
       1 mơn
-      1 mông
       1 mong.
+      1 mông
       1 'một
       1 một,chờ
       1 mù
       1 mũ
+      1 mua.
       1 múa
       1 mưa!
-      1 mua.
       1 mưa...
       1 mục
       1 muối
@@ -656,8 +651,8 @@
       1 nập
       1 này.
       1 nề
-      1 nể
       1 nề,
+      1 nể
       1 nép
       1 nết
       1 nêu
@@ -665,26 +660,26 @@
       1 ngăm
       1 ngẩm
       1 ngậm
-      1 ngấn
       1 ngán,
       1 ngàn.​​
+      1 ngấn
       1 ngẩng
       1 ngào.
       1 ngấu
-      1 ngày.
       1 ngay?
+      1 ngày.
       1 nghè
-      1 nghị
       1 nghĩ,
       1 nghĩ:
+      1 nghị
       1 nghiềm
       1 nghiến
       1 nghiền
       1 ngộ
       1 ngoa
       1 ngoắc
-      1 ngoãn
       1 ngoằn
+      1 ngoãn
       1 ngoẵng
       1 ngoảnh
       1 ngoc
@@ -692,8 +687,8 @@
       1 ngoèo
       1 ngói
       1 ngổn
-      1 ngụ
       1 ngủ...
+      1 ngụ
       1 ngựa
       1 ngực!
       1 ngủi
@@ -704,22 +699,22 @@
       1 người:
       1 nguyễn
       1 nguyển
-      1 nhã
-      1 nhả
       1 nha,
       1 nhá,
       1 nhà:
       1 nhà;
+      1 nhã
+      1 nhả
       1 nhác
-      1 nhái
       1 nhai,
+      1 nhái
       1 nhại,
       1 nhấm
       1 nhảm
       1 nhăn
       1 nhắn...cám
-      1 nhánh
       1 nhanh,
+      1 nhánh
       1 nháo
       1 nhạo
       1 nháp
@@ -728,55 +723,56 @@
       1 nhât
       1 nhạt
       1 nhật
+      1 nhé!
       1 nhè
       1 nhễ
-      1 nhé!
       1 nhẹ.
       1 nhẹn
-      1 nhị
       1 nhỉ?
+      1 nhị
       1 nhiệm
       1 nhiệt
       1 nhít
-      1 nhơ
       1 nhỏ,
+      1 nhơ
       1 nhoà
       1 nhoáng
       1 nhóc
       1 nhối
       1 nhón
-      1 nhọn
       1 nhờn
+      1 nhọn
       1 nhộn
       1 nhớt
       1 nhục:
       1 nhún
       1 nhung
       1 nhung,
-      1 nhưng...cứ
       1 nhung?
+      1 ​​những
+      1 nhưng...cứ
       1 nhường
       1 nỉ
       1 niêu
       1 ninh
       1 niu
       1 níu
-      1 nô
       1 nó,
+      1 nô
       1 nọ,
-      1 nối
       1 nói,
+      1 nối
       1 nồng.
       1 nữa!
       1 nữa.
       1 nực
       1 núi,
-      1 nuối
       1 nuôi:
+      1 nuối
       1 nút
       1 ny
-      1 ơ
       1 ổ
+      1 ơ
       1 ơ,
       1 ôi!
       1 ôi,
@@ -805,29 +801,29 @@
       1 phổ
       1 phơ,
       1 phớt
+      1 phú...
       1 phũ
       1 phụ,
-      1 phú...
       1 phúc.
       1 phụng
       1 phượt
       1 pương
-      1 quà
-      1 quá!-tôi
       1 qua,
       1 qua.
+      1 quà
       1 quai
       1 quại
-      1 quằn
-      1 quặn
       1 quan,
       1 quan:
+      1 quằn
+      1 quặn
       1 quáng
       1 quàng
       1 quầng
       1 quạnh
       1 quất
       1 quạt
+      1 quá!-tôi
       1 quây
       1 quên​
       1 quét
@@ -837,8 +833,8 @@
       1 quyến
       1 quyện
       1 quýt
-      1 rã
       1 ra,
+      1 rã
       1 rã...
       1 rác
       1 rắc
@@ -849,14 +845,14 @@
       1 rằng:
       1 rành
       1 ráo
-      1 rạo
       1 rào,
+      1 rạo
       1 rạt
       1 ratrầm
       1 râu
       1 rầu
-      1 rãy
       1 rẫy
+      1 rãy
       1 rảy
       1 rễ
       1 rẻ
@@ -866,14 +862,14 @@
       1 rệt
       1 rỉ
       1 ro
-      1 rộ
       1 rõ.
+      1 rộ
       1 roi
       1 rôì
-      1 rỗi
-      1 rọi
       1 rồi,
       1 rồi.
+      1 rỗi
+      1 rọi
       1 rong
       1 rông
       1 rỗng
@@ -884,8 +880,8 @@
       1 rủa
       1 rữa
       1 rừng.
-      1 rượi
       1 ruồi:
+      1 rượi
       1 rướn
       1 ruồng
       1 ruột
@@ -898,6 +894,7 @@
       1 sẵn
       1 sẳn
       1 sáng,
+      1 "​sao
       1 sáp
       1 sashimi
       1 sâu,
@@ -905,16 +902,17 @@
       1 say!
       1 say...
       1 se
+      1 ​sẽ
       1 sexy
       1 siêng
       1 siêng.
       1 sinh,
       1 snapchat
-      1 sở
       1 số.
+      1 sở
       1 soạn
-      1 sởn
       1 sơn,
+      1 sởn
       1 sóng​
       1 sông​
       1 sông​​
@@ -930,17 +928,17 @@
       1 sướt
       1 suy'.
       1 suỵt
+      1 ta.
       1 tã
       1 tạ,
-      1 ta.
-      1 tẩm
       1 tâm,
+      1 tẩm
       1 tamj
-      1 tân
-      1 tăn
-      1 tấn
       1 tan​
       1 tàn,
+      1 tăn
+      1 tân
+      1 tấn
       1 tảo
       1 tát
       1 tạt
@@ -950,11 +948,12 @@
       1 té
       1 tè
       1 teams
+      1 ​​tên
       1 tết
-      1 thâm
+      1 thăm.
       1 thẳm
       1 thẳm!
-      1 thăm.
+      1 thâm
       1 than
       1 thán
       1 thăng
@@ -967,9 +966,9 @@
       1 thật,
       1 thâu
       1 thấu,
-      1 thảy
       1 thấy.
       1 thầy:
+      1 thảy
       1 thế!
       1 thế,
       1 thế...!
@@ -980,27 +979,27 @@
       1 thiệp
       1 thiệu
       1 thỉu
-      1 thọ
       1 thơ,
       1 thơ.
+      1 thọ
       1 thoa
       1 thoáng
       1 thốc
       1 thoi
       1 thói
-      1 thơi
       1 thôi...
+      1 thơi
       1 thong
-      1 thống
       1 thông:
+      1 thống
       1 thót
       1 thớt
       1 thừ
       1 thửa
       1 thuần
       1 thuật
-      1 thục
       1 thực...
+      1 thục
       1 thuê
       1 thui
       1 thủi
@@ -1012,35 +1011,36 @@
       1 ti
       1 tị
       1 tia
+      1 tiền.
       1 tiễn
       1 tiển
-      1 tiền.
-      1 tiểng
       1 tiếng:
+      1 tiểng
       1 ti-gôn
       1 tim.
       1 tin:
+      1 ​tình
       1 tình!
       1 tít
       1 tíu
-      1 tờ
       1 to.
       1 to:
+      1 tờ
       1 tòa
       1 toạc
       1 toan
       1 toán
       1 toang
       1 tốc
+      1 tôi.
       1 tồi
       1 tới,
-      1 tôi.
       1 ton
       1 tôn
       1 tồn
       1 tổng
-      1 tọt
       1 tốt,
+      1 tọt
       1 trại
       1 trạm
       1 tràn
@@ -1051,8 +1051,8 @@
       1 trầu
       1 trề
       1 trễ
-      1 trẻ,
       1 trễ.
+      1 trẻ,
       1 treo
       1 trèo,
       1 trêu
@@ -1064,14 +1064,14 @@
       1 trính
       1 trinhmở
       1 trồ
-      1 trợ
       1 trơ.
+      1 trợ
       1 trối
-      1 trơn
-      1 trộn
-      1 trợn
       1 tròn!
+      1 trơn
       1 trớn:"
+      1 trợn
+      1 trộn
       1 trống.
       1 tru
       1 trú
@@ -1084,17 +1084,17 @@
       1 truyện,
       1 tù
       1 tủ
-      1 tụ
       1 tử.
+      1 tụ
       1 túm
       1 tưng
       1 tụng
       1 tước
       1 tuổi,
       1 tuồng
+      1 tuồng:
       1 tướng
       1 tường,
-      1 tuồng:
       1 tút
       1 ty
       1 tý
@@ -1112,17 +1112,17 @@
       1 uyên
       1 vã
       1 vách
-      1 vãi
       1 vai!
       1 vai?
+      1 vãi
       1 van
       1 ván
       1 văn,
       1 váng
-      1 vảng
-      1 vẳng
-      1 vạng,
       1 vắng,​
+      1 vẳng
+      1 vảng
+      1 vạng,
       1 vánh
       1 vàotrong
       1 vắt
@@ -1133,8 +1133,8 @@
       1 vi
       1 vía
       1 viêt
-      1 võ
       1 vỗ
+      1 võ
       1 vơ
       1 vờ
       1 vợ:
@@ -1148,17 +1148,17 @@
       1 vua
       1 vừa,
       1 vục
-      1 vùi
       1 vui.
+      1 vùi
       1 vườn
       1 vuông
       1 vướng
-      1 xá
       1 xa.
+      1 xá
       1 xạc
       1 xách
-      1 xẩm
       1 xăm.
+      1 xẩm
       1 xắn
       1 xào
       1 xây
@@ -1172,14 +1172,14 @@
       1 xơ
       1 xoa
       1 xoá
-      1 xòa
       1 xóa,
-      1 xởi
+      1 xòa
       1 xôi.
+      1 xởi
       1 xóm:
       1 xộn
-      1 xông
       1 xong,
+      1 xông
       1 xử
       1 xuân:
       1 xuất,
@@ -1189,15 +1189,15 @@
       1 xuyên
       1 ý,
       1 yêu!
-      2 "anh
       2 ;
       2 á
       2 ạ.
       2 ẩm
       2 án
-      2 ẩn
       2 ăn.
+      2 ẩn
       2 anh.
+      2 "anh
       2 ảo
       2 ập
       2 âu
@@ -1213,8 +1213,8 @@
       2 bét
       2 bia
       2 biên
-      2 bơ
       2 bổ
+      2 bơ
       2 bối
       2 bồn
       2 bồng
@@ -1261,9 +1261,9 @@
       2 dà
       2 dãi
       2 dẫm
-      2 đâm
       2 đăm
       2 đắm
+      2 đâm
       2 đậm
       2 dán
       2 dằn
@@ -1329,8 +1329,8 @@
       2 hư
       2 huyền
       2 kamen
-      2 kẽ
       2 kế
+      2 kẽ
       2 kém
       2 keo
       2 khắc
@@ -1376,8 +1376,8 @@
       2 lộp
       2 lũ
       2 luân
-      2 lục
       2 lúc,
+      2 lục
       2 lúng
       2 luống
       2 lượng
@@ -1411,8 +1411,8 @@
       2 ngải
       2 ngâm
       2 ngầm
-      2 ngân
       2 ngăn
+      2 ngân
       2 ngần
       2 ngẩn
       2 ngập
@@ -1444,10 +1444,10 @@
       2 nhoẻn
       2 nhuộm
       2 niệm​
-      2 nợ
       2 no,
-      2 nôn
+      2 nợ
       2 non.
+      2 nôn
       2 nồng
       2 nức
       2 ồ
@@ -1472,8 +1472,8 @@
       2 quỳnh
       2 rách
       2 rãi
-      2 rầm
       2 rằm
+      2 rầm
       2 ráng
       2 rạng
       2 reo
@@ -1493,8 +1493,8 @@
       2 sâm
       2 sạm
       2 sánh
-      2 sáo
       2 sao,
+      2 sáo
       2 sảy
       2 si
       2 so
@@ -1538,8 +1538,8 @@
       2 thợ
       2 thoạt
       2 thôn
-      2 thụ
       2 thử
+      2 thụ
       2 thuyền
       2 thuyết
       2 tịch
@@ -1593,11 +1593,11 @@
       2 vù
       2 vươn
       2 vút
-      2 vụt
       2 vứt
+      2 vụt
+      2 xa,
       2 xả
       2 xạ
-      2 xa,
       2 xế
       2 xét
       2 xí
@@ -1648,14 +1648,14 @@
       3 đạc
       3 đặc
       3 dàng
-      3 đãng
       3 đằng
+      3 đãng
       3 đảng
       3 dành
       3 dào
       3 dập
-      3 đấu
       3 đâu,
+      3 đấu
       3 đầu,
       3 đẩy
       3 đền
@@ -1685,8 +1685,8 @@
       3 hàm
       3 hay,
       3 hổ
-      3 hộ
       3 hở
+      3 hộ
       3 hởi
       3 hôn
       3 hỏng
@@ -1771,8 +1771,8 @@
       3 phủ
       3 phục
       3 phước
-      3 quản
       3 quẩn
+      3 quản
       3 quát
       3 rảnh
       3 rắt
@@ -1847,8 +1847,8 @@
       4 ca
       4 cẩn
       4 cặp
-      4 chấm
       4 chằm
+      4 chấm
       4 chậm
       4 chăn
       4 chập
@@ -1955,8 +1955,8 @@
       4 riết
       4 rít
       4 rỡ
-      4 rộn
       4 rợn
+      4 rộn
       4 ruồi
       4 sách
       4 sẻ
@@ -2055,8 +2055,8 @@
       5 la
       5 lang
       5 lãnh
-      5 lọ
       5 lờ
+      5 lọ
       5 lóc
       5 lung
       5 ly
@@ -2122,8 +2122,8 @@
       5 vuốt
       5 vượt
       5 xao
-      5 yểu
       5 yêu,
+      5 yểu
       6 ào
       6 bận
       6 cà

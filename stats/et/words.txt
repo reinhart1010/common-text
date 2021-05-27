@@ -1,15 +1,8 @@
       1 --
       1 .
       1 ?
-      1 0,25-protsendilise
-      1 0,3
-      1 0,5
-      1 0,5-1dl
-      1 0,5dl
-      1 0,8
-      1 0,9
-      1 00.00-5.00.
       1 000,
+      1 00.00-5.00.
       1 000-eurone
       1 000-eurose
       1 000-ga,
@@ -17,93 +10,89 @@
       1 000-pealises
       1 01.00
       1 012
+      1 0,25-protsendilise
+      1 0,3
+      1 0,5
       1 0-5
       1 05.00
       1 05.00.
       1 05.08.2004.
+      1 0,5-1dl
       1 052d-klassi
+      1 0,5dl
       1 061
-      1 1,0.
-      1 1,051.
-      1 1,07
-      1 1,09
-      1 1,25
-      1 1,35
-      1 1,52
-      1 1,5-2
-      1 1,67
-      1 1,7
-      1 1,7kilomeetrisel
-      1 1,9
-      1 1.01,13
-      1 1.-2.
-      1 1.34,6
-      1 1.39,0
-      1 1.39,485.
-      1 1.44
+      1 0,8
+      1 0,9
       1 -10
+      1 1,0.
       1 10,
-      1 10,3
-      1 10,5
-      1 10.00.
-      1 10.10
-      1 10.15
       1 100-
+      1 10.00.
       1 1000.
       1 1000-1200
       1 1002
-      1 100eurose
       1 100-eurose
+      1 100eurose
       1 100g
       1 100-kraadises
       1 100m
       1 100-meetrise
       1 100-protsendilise
+      1 10.10
+      1 1.01,13
+      1 10.15
       1 1015
-      1 102,0
       1 10-20
+      1 102,0
+      1 10,3
+      1 10,5
       1 105
+      1 1,051.
       1 106
       1 106.
+      1 1,07
       1 107
+      1 1,09
       1 10aastane
       1 10-punktise
       1 -11
-      1 11,32.
-      1 11,4
-      1 11,5
-      1 11,5ga.
-      1 11.00-18.00.
-      1 11.45
-      1 11.66.
       1 1100.
+      1 11.00-18.00.
       1 110-meetrised
       1 113.
+      1 11,32.
+      1 11,4
       1 114.
+      1 11.45
       1 1146
+      1 11,5
       1 115
+      1 11,5ga.
       1 116
+      1 11.66.
       1 117
       1 11-aastased
       1 11aastasest
       1 11-le,
       1 1-2
-      1 -12,2
-      1 12,7,
+      1 1.-2.
       1 12.00,
       1 12.00.
-      1 12.30
-      1 12.30,
-      1 12.55
       1 1204
       1 121
       1 1217
+      1 -12,2
       1 122
       1 1220.
       1 12252
+      1 12.30
+      1 12.30,
+      1 1,25
+      1 12.55
       1 1256,7
       1 1260-kraadise
       1 1265,08
+      1 12,7,
       1 127,4
       1 128
       1 129
@@ -114,36 +103,41 @@
       1 1-2-meetriseid
       1 12-tonniste
       1 -13,
-      1 13,6
-      1 13,7
+      1 1300
       1 13.05
+      1 1309
       1 13.10,
-      1 13.18
+      1 1313.
       1 13.-18.
+      1 13.18
+      1 1323-eurose
       1 13.28
       1 13.30
-      1 1300
-      1 1309
-      1 1313.
-      1 1323-eurose
       1 1334
       1 134
-      1 134,5
       1 1343.
+      1 134,5
+      1 1.34,6
+      1 1,35
       1 135
+      1 13,6
+      1 13,7
       1 139
+      1 1.39,0
+      1 1.39,485.
       1 13aastaselt
       1 13-korruselist
       1 13-lt
-      1 14,4
-      1 14.20,
-      1 14.55,
       1 1400
       1 1400-ruutmeetrine
       1 140-tähemärgilise
       1 141
       1 142
+      1 14.20,
       1 1421
+      1 1.44
+      1 14,4
+      1 14.55,
       1 146
       1 14aastasena
       1 14korruselise
@@ -151,12 +145,13 @@
       1 14lapselisest
       1 1-5
       1 15,
-      1 15,9
       1 1500-2000
       1 1503.
       1 150-aastane.
       1 151
       1 15-16-eurose
+      1 1,5-2
+      1 1,52
       1 153
       1 1544?
       1 1550.
@@ -164,51 +159,55 @@
       1 15-74-aastasest
       1 1579,5-ruutmeetrisel
       1 1583
+      1 15,9
       1 15-aastane
       1 15-liikmeline
       1 15-sekundilise
       1 15st
       1 16-
-      1 16,6
-      1 16,7
+      1 1600
       1 16.10,
       1 16.14.
-      1 16.30,
-      1 16.45.
-      1 1600
       1 16-18
       1 1628.
+      1 16.30,
+      1 16.45.
+      1 16,6
       1 166
       1 1669
+      1 1,67
+      1 16,7
       1 16-aastast
       1 16ndal
       1 16-noalisi
       1 16-s.
       1 16st.
+      1 1,7
       1 17,
-      1 17,5
-      1 17.15
-      1 17.-18.
-      1 17.55
       1 1700
       1 1705
       1 171
       1 1714
+      1 17.15
+      1 17.-18.
       1 172.
       1 174
+      1 17,5
       1 175
       1 1750
+      1 17.55
       1 176
       1 1792.
       1 17-aastased
+      1 1,7kilomeetrisel
       1 17st
       1 -18
-      1 18.20
-      1 18.30
       1 1800
       1 1807-1870
       1 1814
       1 182
+      1 18.20
+      1 18.30
       1 1843.
       1 1853,
       1 1854.
@@ -224,24 +223,24 @@
       1 18-aastane
       1 18-aastaselt.
       1 18-meetrise
+      1 1,9
       1 19,
-      1 19.-23.
-      1 19.-31.
-      1 19.46
       1 190
       1 1904
       1 191
       1 1912
       1 1912.
       1 1917.
-      1 1922
       1 19-22.
+      1 1922
+      1 19.-23.
       1 1924.
       1 1928
       1 1928.
       1 1930.
       1 1930ndate
       1 1930-ndatest
+      1 19.-31.
       1 1932
       1 1935
       1 1937.
@@ -253,11 +252,12 @@
       1 1942.
       1 1944.
       1 1945.
+      1 19.46
       1 1947.
       1 1950
       1 1953
-      1 1960.
       1 -1960.
+      1 1960.
       1 1960ndatel.
       1 1962
       1 1962.
@@ -292,22 +292,7 @@
       1 19-aastase
       1 19-aastasena.
       1 1sl
-      1 2,1
-      1 2,246
-      1 2,3
-      1 2,4
-      1 2,49
-      1 2,6-kordselt
-      1 2,7
-      1 2,7-3,1
-      1 2,92
-      1 2.05.
-      1 2.07-5.54
       1 20,
-      1 20,8
-      1 20.40
-      1 20.45
-      1 20.49.
       1 2002-08
       1 2004
       1 2005.-2008.
@@ -317,8 +302,8 @@
       1 2008-2015
       1 2009
       1 2009,
-      1 2009.aastal
       1 2009-2014.
+      1 2009.aastal
       1 200-kohaline
       1 2011
       1 2011.a.
@@ -340,66 +325,77 @@
       1 20-30
       1 2030-2040
       1 2037
+      1 20.40
+      1 20.45
+      1 20.49.
+      1 2.05.
       1 205
       1 2050
       1 206
       1 2060
+      1 2.07-5.54
       1 2077
+      1 20,8
       1 208
-      1 20aastane
       1 20-aastane
+      1 20aastane
       1 20-le
       1 20ni,
+      1 2,1
       1 21,
-      1 21,2
-      1 21,8
-      1 21.00
-      1 21.30
-      1 21.30.
-      1 21.49
-      1 21.sajandil
       1 210
+      1 21.00
       1 2100
       1 2100.
       1 2101
       1 2105
       1 2115
+      1 21,2
       1 212
       1 212,6
+      1 21.30
+      1 21.30.
       1 214
       1 2142.
+      1 21.49
       1 2160
-      1 21aastane
+      1 21,8
       1 21-aastane
+      1 21aastane
       1 21-aastased
-      1 22!
-      1 22,5
-      1 22,6
-      1 22,7
+      1 21.sajandil
       1 2-2.
+      1 22!
+      1 220
+      1 220.
       1 22.06.2017
       1 22.15,
       1 22.17.
-      1 220
-      1 220.
       1 224
+      1 2,246
+      1 22,5
       1 225
+      1 22,6
+      1 22,7
       1 228
-      1 22aastase
       1 22-aastase
+      1 22aastase
+      1 2,3
       1 2-3
       1 23,2
-      1 23,4
-      1 23,6
-      1 23,9,
       1 23.-24.
       1 2330
+      1 23,4
+      1 23,6
       1 2365
+      1 23,9,
       1 239
       1 23-aastane
-      1 24,3
+      1 2,4
       1 241
+      1 24,3
       1 248
+      1 2,49
       1 24-aastane
       1 24-liikmeline
       1 2-5
@@ -413,33 +409,37 @@
       1 25-aastaselt
       1 25x25
       1 26,
-      1 26,1
       1 2600
+      1 26,1
       1 2625,
       1 26-27
       1 2665
       1 26aastase
       1 26-aastast
+      1 2,6-kordselt
       1 26-st
+      1 2,7
+      1 272
+      1 2,7-3,1
       1 27,6
       1 27,84.
       1 27,86,
-      1 27,98
-      1 272
       1 2787
+      1 27,98
       1 27-aastane
-      1 28,4
-      1 28,65
-      1 28.-30.
       1 280
       1 2814
+      1 28.-30.
+      1 28,4
       1 285
       1 286
+      1 28,65
       1 28st
-      1 29,7
       1 291
+      1 2,92
       1 294.
       1 2963
+      1 29,7
       1 298
       1 29aastane
       1 29aastast
@@ -451,27 +451,14 @@
       1 2torni
       1 -3
       1 3,
-      1 3,3
-      1 3,3-protsendilise
-      1 3,48
-      1 3,5
-      1 3,5-sentimeetrilise
-      1 3,5-tonniste,
-      1 3,67
-      1 3,75.
       1 3.0
-      1 3.13.
-      1 3.30
-      1 3.4,
-      1 3.-6.
-      1 3.b
-      1 30.05.2017
-      1 30.06.2018
-      1 30.09.2017.
       1 300,
       1 3000.
       1 3003
       1 300-330
+      1 30.05.2017
+      1 30.06.2018
+      1 30.09.2017.
       1 303
       1 3040
       1 30-50
@@ -484,27 +471,34 @@
       1 30-kordse
       1 30-meetrine
       1 30ruutmeetrisesse
+      1 3.13.
       1 317
       1 31aastaseks
       1 32,
       1 32.
       1 324
       1 326,64
-      1 32aastane
       1 32-aastane
+      1 32aastane
       1 32aastasee
-      1 33,27
-      1 33,7
+      1 3,3
+      1 3.30
       1 330
       1 3310
+      1 33,27
+      1 33,7
       1 338
       1 33-aastane
-      1 34,7
-      1 34.10ga.
+      1 3,3-protsendilise
+      1 3.4,
       1 340
+      1 34.10ga.
       1 342
       1 345
+      1 34,7
+      1 3,48
       1 348
+      1 3,5
       1 35!
       1 350.
       1 3500
@@ -516,16 +510,21 @@
       1 35-aastase
       1 35-aastasel
       1 35-protsendilise
-      1 36,3
+      1 3,5-sentimeetrilise
+      1 3,5-tonniste,
+      1 3.-6.
       1 36.
       1 362
+      1 36,3
       1 366
+      1 3,67
       1 367
-      1 37,8
       1 370.
+      1 3,75.
       1 3762.
-      1 37aastane
+      1 37,8
       1 37-aastane
+      1 37aastane
       1 37-aastast
       1 38.
       1 3800.
@@ -534,16 +533,10 @@
       1 398
       1 399
       1 39-protsendiline
+      1 3.b
       1 3cular
       1 3d-printeri.
       1 3x1,5
-      1 4,3
-      1 4,33
-      1 4,39
-      1 4,5
-      1 4,6
-      1 4,7
-      1 4,9
       1 4000,
       1 400-kilomeetrise
       1 405
@@ -560,24 +553,30 @@
       1 42
       1 42,4
       1 42-aastane
-      1 43,4
+      1 4,3
       1 43.
+      1 4,33
+      1 43,4
       1 4365
+      1 4,39
       1 43-aastane
-      1 44,6
-      1 44,9
       1 440
+      1 44,6
       1 448
+      1 44,9
       1 44aastase
+      1 4,5
       1 4-5
-      1 45,7.
       1 454
+      1 45,7.
       1 458
       1 45-minutilise
-      1 46,5
+      1 4,6
       1 463
       1 464.
+      1 46,5
       1 46-aastasele
+      1 4,7
       1 47
       1 470
       1 474
@@ -590,76 +589,70 @@
       1 482
       1 484
       1 486
+      1 4,9
+      1 490
       1 49,10
+      1 4919
       1 49,38.
       1 49,8
-      1 490
-      1 4919
       1 49er
       1 4a,
       1 4k-telerid
       1 4-kuune
       1 5,
-      1 5,3
-      1 5,4
-      1 5,5
-      1 5,7
-      1 5,79
-      1 5,9
       1 5.-
       1 5.0
-      1 5.detsembril
-      1 50,43
-      1 50.3
-      1 50.33,3.
       1 -5000
       1 500-800
       1 500-eurone
       1 501
       1 50-100
+      1 50.3
+      1 50.33,3.
       1 504
+      1 50,43
       1 50-50,
       1 506
       1 50-60.
       1 509
       1 50m
       1 51
-      1 510
       1 5-10
+      1 510
       1 5-11,
       1 516
       1 51-aastasel
-      1 52,1
       1 520
+      1 52,1
       1 522,
+      1 5,3
       1 533
       1 534,8
       1 53-kilomeetrit
+      1 5,4
       1 54-aastane
       1 54-aastase
-      1 55,7
+      1 5,5
       1 550
       1 555.
+      1 55,7
       1 557
       1 56
       1 564
       1 56-aastase
+      1 5,7
       1 570
       1 575
       1 576
+      1 5,79
       1 58
-      1 58,52.
       1 580
+      1 58,52.
+      1 5,9
       1 59
       1 5a
       1 5-aastasena
-      1 6,3
-      1 6,6
-      1 6,9
-      1 6.36.
-      1 6.46
-      1 6.46-le
-      1 6.56,390.
+      1 5.detsembril
       1 60-70
       1 60-85
       1 6-13
@@ -667,53 +660,57 @@
       1 6211
       1 625
       1 62-aastast
+      1 6,3
       1 6300
       1 632
+      1 6.36.
       1 638
       1 63-aastase
       1 63aastaselt
       1 64
+      1 6.46
+      1 6.46-le
       1 64aastane.
       1 64-aastast
       1 64e.
-      1 65,5
       1 65.
+      1 65,5
+      1 6.56,390.
       1 65-aastaseid
       1 65-aastaseks
-      1 66,3
+      1 6,6
       1 661,
       1 662
+      1 66,3
       1 67
-      1 67,5
       1 670
+      1 67,5
       1 67-aastaseks
-      1 68.88-ga.
       1 680
       1 684
       1 685
+      1 68.88-ga.
       1 68-aastane
+      1 6,9
       1 69-aastasele
       1 6-korruseline
       1 6-tunni
       1 7,
-      1 7,1
-      1 7,7
-      1 7,99
-      1 7.06
-      1 7.8
       1 70,
-      1 70,7
       1 70.
       1 703
+      1 7.06
+      1 70,7
       1 70ndatel
+      1 7,1
       1 71
       1 7164
       1 71-aastane
       1 72
       1 72,
-      1 72,8
       1 720
       1 7200
+      1 72,8
       1 730
       1 732
       1 7370
@@ -728,9 +725,11 @@
       1 765,50
       1 76-aastane
       1 76ersi
+      1 7,7
       1 7701
       1 7702
       1 7703
+      1 7.8
       1 78
       1 7800
       1 781
@@ -738,22 +737,23 @@
       1 78-aastane.
       1 78-aastasel
       1 790
+      1 7,99
       1 79-aastase
       1 79st
-      1 8,5
-      1 8,6
-      1 8.11,
-      1 8.30.
-      1 8.57
       1 80.
       1 80-aastase
+      1 8.11,
       1 8-23
       1 83
+      1 8.30.
       1 839,
       1 8391
+      1 8,5
       1 85.
       1 850
+      1 8.57
       1 85-aastase
+      1 8,6
       1 86.
       1 8615
       1 863
@@ -767,34 +767,33 @@
       1 899
       1 8-aastane
       1 -9,
-      1 9,1.
-      1 9,3
-      1 9,6
-      1 9,60.
-      1 9.-12.
-      1 9.40
       1 900.
       1 90-minutilist
       1 90ndate
+      1 9,1.
       1 91
       1 9-11
+      1 9.-12.
       1 91-aastane
       1 92,1
       1 922
       1 924
+      1 9,3
       1 93
       1 94.
+      1 9.40
       1 95
       1 954
       1 9561
+      1 9,6
       1 96
+      1 9,60.
       1 97
       1 971
       1 996
       1 9-aastane
       1 9-kuune
       1 a,
-      1 a.kokk
       1 a1
       1 a4
       1 aabi
@@ -1011,8 +1010,8 @@
       1 aegadel,
       1 aegadest
       1 aegadest,
-      1 aegajalt
       1 aeg-ajalt.
+      1 aegajalt
       1 aegamööda
       1 aeglane.
       1 aeglaselt
@@ -1290,6 +1289,7 @@
       1 aknapesijad
       1 aknaplekil
       1 akne
+      1 a.kokk
       1 akordid
       1 akordionist,
       1 akrobaadi
@@ -2170,12 +2170,12 @@
       1 armastatumaid
       1 armastatusse
       1 armastav
-      1 armastus?oota
       1 armastusega
       1 armastusest,
       1 armastusest.
       1 armastuseta,
       1 armastuslugu.
+      1 armastus?oota
       1 armatuurlaualt.
       1 armee,
       1 armees,
@@ -2415,8 +2415,8 @@
       1 asi.
       1 asian
       1 asiga
-      1 asile
       1 as-ile
+      1 asile
       1 asisem
       1 asitõenditel.
       1 asja-
@@ -3016,8 +3016,8 @@
       1 biseksuaalsed.
       1 bitcoini
       1 bitcoin'ides
-      1 bitcoinides,
       1 bitcoin'ides.
+      1 bitcoinides,
       1 bizzarri.
       1 björgen,
       1 björgeni
@@ -3105,9 +3105,9 @@
       1 brad
       1 brahma
       1 bränd.
-      1 brand.estonia.ee.
       1 brände
       1 brandenburgi
+      1 brand.estonia.ee.
       1 brändi.
       1 brändide
       1 brändijuhi
@@ -3387,11 +3387,10 @@
       1 cv
       1 cv.
       1 cv9035,
-      1 cvd
       1 cv-d
+      1 cvd
       1 c-vitamiinil
       1 cvt
-      1 d.j.
       1 daam,
       1 daami
       1 dacresile
@@ -3612,6 +3611,7 @@
       1 dividendidemaksete
       1 dividendiplaane
       1 divisionis
+      1 d.j.
       1 dl
       1 dmack
       1 dmacki
@@ -3732,7 +3732,6 @@
       1 dzotile.
       1 e-
       1 e.
-      1 e.r.s.i
       1 ea
       1 eagelsisse
       1 eaglesi
@@ -4657,8 +4656,8 @@
       1 eneli
       1 enercom
       1 energeetiliseks
-      1 energia-
       1 energia,
+      1 energia-
       1 energia.
       1 energiaallikaid.
       1 energiaandjad
@@ -4762,8 +4761,8 @@
       1 epee
       1 epideemilise
       1 epidemioloogilise
-      1 epiim
       1 e-piim.
+      1 epiim
       1 e-piima
       1 epikoja
       1 epirb
@@ -4951,6 +4950,7 @@
       1 err.ee.
       1 err-i
       1 err-ile.
+      1 e.r.s.i
       1 erukindral
       1 erutab
       1 erutav
@@ -6457,8 +6457,8 @@
       1 helgemast
       1 helgemate
       1 helgi
-      1 heli-
       1 heli,
+      1 heli-
       1 helide
       1 heliisa
       1 helikindel
@@ -6737,8 +6737,8 @@
       1 hiv-testide
       1 hjk
       1 hkp
-      1 hõbeda-
       1 hõbeda,
+      1 hõbeda-
       1 hõbedane.
       1 hõbedast
       1 hõbehaigruid,
@@ -7846,8 +7846,8 @@
       1 iseteeninduskassas
       1 isetehtud
       1 isevalmistatud
-      1 isi
       1 is-i
+      1 isi
       1 isiklikel
       1 isiklikult.
       1 isiklikus
@@ -9192,8 +9192,8 @@
       1 kahaneva
       1 kahar
       1 kahe-,
-      1 kaheaastase
       1 kahe-aastase
+      1 kaheaastase
       1 kaheaastaselt
       1 kaheastmelise
       1 kahed
@@ -10147,8 +10147,8 @@
       1 katastroofilisi
       1 katastroofipiirkonda,
       1 kate
-      1 käte-
       1 kate.
+      1 käte-
       1 kategooriaid
       1 kategoorias
       1 kategoorias,
@@ -10387,8 +10387,8 @@
       1 keeldude,
       1 keeldudele.
       1 keeldusid
-      1 keele-
       1 keele,
+      1 keele-
       1 keeled.
       1 keeledki.
       1 keelega
@@ -11244,8 +11244,8 @@
       1 klientidest
       1 klientidest.
       1 klientuur
-      1 kliima-
       1 kliima,
+      1 kliima-
       1 kliimakaitse
       1 kliimaläbirääkimiste
       1 kliimamuutuse
@@ -11824,8 +11824,8 @@
       1 kõlbavad
       1 'kõlblik
       1 kole
-      1 kõle
       1 kole,
+      1 kõle
       1 koledaks.
       1 koledamad
       1 kolesterooli
@@ -11890,8 +11890,8 @@
       1 kolme-
       1 kolme-,
       1 kolme.
-      1 kolmeaastane
       1 kolme-aastane?
+      1 kolmeaastane
       1 kolmeaastase
       1 kolmeaastasest
       1 kolmekilomeetrisel
@@ -13207,8 +13207,8 @@
       1 küljelt
       1 külla,
       1 kullaga
-      1 küllaga
       1 kullaga.
+      1 küllaga
       1 kullakaevandaja
       1 kullakarva
       1 kullamaa
@@ -13614,8 +13614,8 @@
       1 kutsusid
       1 kutsuti,
       1 kutsutud.
-      1 kütt
       1 kutt,
+      1 kütt
       1 kütta
       1 kütte-
       1 kütteefektiivsust
@@ -15184,8 +15184,8 @@
       1 linköpingu
       1 linlased
       1 linlik
-      1 linna-
       1 linna,
+      1 linna-
       1 linna.
       1 linnaaktivist
       1 linnaatmosfäärist
@@ -15554,9 +15554,9 @@
       1 looklevalt
       1 looks.
       1 loole
+      1 looma.
       1 lööma
       1 lööma,
-      1 looma.
       1 lööma.
       1 loomaaed
       1 loomaaiad.
@@ -16968,8 +16968,8 @@
       1 mc
       1 mcauliffe.
       1 mccormic
-      1 mcdonaldsi
       1 mcdonald'si
+      1 mcdonaldsi
       1 mcgowan,
       1 mcgraw
       1 mcgregor.
@@ -17119,8 +17119,8 @@
       1 meesdirigentide
       1 meesjuunioridest
       1 meeskolleeg,
-      1 -meeskond
       1 meeskond.
+      1 -meeskond
       1 meeskondade
       1 meeskondadel
       1 meeskonna,
@@ -17346,9 +17346,9 @@
       1 metroos
       1 metroost
       1 metroosüsteemi
-      1 metsä
       1 metsa,
       1 metsa.
+      1 metsä
       1 metsaala
       1 metsad.
       1 metsades,
@@ -18278,8 +18278,8 @@
       1 muudatust,
       1 muudatustest
       1 muudatustest.
-      1 müüdavad
       1 muudavad,
+      1 müüdavad
       1 müüdavat
       1 müüdavate
       1 müüdavatel
@@ -18339,8 +18339,8 @@
       1 müüriorva
       1 müürisepa
       1 muus
-      1 müüs
       1 muus.
+      1 müüs
       1 muusaks
       1 muuseas
       1 muuseum.
@@ -18455,8 +18455,8 @@
       1 nadal,
       1 nädal,
       1 nädal.
-      1 nädala-
       1 nädala,
+      1 nädala-
       1 nädala.
       1 nädalaga,
       1 nädalaid
@@ -18680,8 +18680,8 @@
       1 napisõnaline
       1 näpistada
       1 napp
-      1 näppima.
       1 nappima?
+      1 näppima.
       1 nappus
       1 nappusega.
       1 napsi,
@@ -18967,8 +18967,8 @@
       1 ninna
       1 nipp
       1 nippi.
-      1 niqab-i
       1 niqab'i.
+      1 niqab-i
       1 nirgile
       1 nirisemist
       1 nisadesse.
@@ -19305,7 +19305,6 @@
       1 nyse
       1 o
       1 o'
-      1 o.d.
       1 oad
       1 oberstdorfis
       1 obinitsa
@@ -19323,6 +19322,7 @@
       1 oblast.
       1 oblasti
       1 oblikaga
+      1 o.d.
       1 odav.
       1 odavaid
       1 odavaima
@@ -19396,8 +19396,8 @@
       1 ohtlikule
       1 ohtlikum
       1 ohtu,
-      1 õhtu,
       1 ohtu.
+      1 õhtu,
       1 ohtude
       1 õhtuga
       1 õhtuhämaruses
@@ -19492,8 +19492,8 @@
       1 õige,
       1 õigeaegselt
       1 õiged.
-      1 õigeks
       1 -õigeks
+      1 õigeks
       1 õigem
       1 õigemal
       1 õigemini,
@@ -19627,13 +19627,13 @@
       1 õlga
       1 õlgadele
       1 olgem
-      1 õlgu
       1 olgu,
+      1 õlgu
       1 oli!
-      1 õli,
       1 oli?
-      1 õlid.
+      1 õli,
       1 olid?
+      1 õlid.
       1 olidki
       1 oligi.
       1 oliividega,
@@ -19807,9 +19807,9 @@
       1 online-portaalid
       1 õnn
       1 õnn,
-      1 õnne-
       1 õnne!
       1 õnne,
+      1 õnne-
       1 õnnega,
       1 õnneks,
       1 õnneks.
@@ -20213,8 +20213,8 @@
       1 oscarid
       1 oscherslebeni
       1 oselini
-      1 osi
       1 os-i
+      1 osi
       1 oskad.
       1 oskagi
       1 oskaks
@@ -20244,8 +20244,8 @@
       1 ossinovsky
       1 õssu
       1 ost
-      1 osta.ee
       1 ostab,
+      1 osta.ee
       1 ostaks
       1 ostapenko
       1 ostate?
@@ -20891,8 +20891,8 @@
       1 pangaga
       1 pangakontodel,
       1 pangal
-      1 pangandus-
       1 pangandus,
+      1 pangandus-
       1 panganduse
       1 pangandusest
       1 pangasaladuse
@@ -21848,8 +21848,8 @@
       1 pilet
       1 pileteid.
       1 pileti
-      1 pileti-
       1 pileti,
+      1 pileti-
       1 piletid
       1 piletiga
       1 piletihinda
@@ -22087,8 +22087,8 @@
       1 platvormi.
       1 platvormid.
       1 play
-      1 play-offi
       1 play-off'i
+      1 play-offi
       1 play-off'is.
       1 pleedi
       1 plehku
@@ -22341,8 +22341,8 @@
       1 polegi,
       1 polegi.
       1 polegi....
-      1 põleks
       1 poleks.
+      1 põleks
       1 polekski
       1 põlema.
       1 põlemiseks,
@@ -22463,8 +22463,8 @@
       1 polüfenoolid
       1 polümeerpelletite
       1 põlv
-      1 põlva-
       1 põlva,
+      1 põlva-
       1 põlvamaal
       1 põlvamaal.
       1 põlvamaalt,
@@ -22517,8 +22517,8 @@
       1 poodiumil
       1 poodiumile
       1 poodiumile.
-      1 pool-
       1 pool,
+      1 pool-
       1 poolaasta
       1 poolaeg,
       1 poolaga
@@ -25022,7 +25022,6 @@
       1 ruutmeetrit,
       1 ružomberok
       1 ryan
-      1 s.-i
       1 sa,
       1 saabast.
       1 saabuda
@@ -25603,8 +25602,8 @@
       1 šebalini
       1 sebastian
       1 seci
-      1 -seda
       1 seda?
+      1 -seda
       1 sedagi
       1 sedasi.
       1 sedaviisi
@@ -26062,6 +26061,7 @@
       1 shulman
       1 shy
       1 shyma
+      1 s.-i
       1 siberis
       1 sibul
       1 sibula
@@ -26137,8 +26137,8 @@
       1 siililegi
       1 siim-sander
       1 siim-steni
-      1 siin-
       1 siin!
+      1 siin-
       1 siinjuures
       1 siinkirjutajal
       1 siinmail
@@ -26850,10 +26850,10 @@
       1 söötu
       1 sootuks
       1 soouuringute
-      1 soov.ee.
       1 soovaatluse
       1 söövad.
       1 söövale
+      1 soov.ee.
       1 soovid,
       1 soovid?
       1 soovida,
@@ -26868,8 +26868,8 @@
       1 soovin,
       1 soovis,
       1 soovita.
-      1 söövitab
       1 soovitab.
+      1 söövitab
       1 soovitakse,
       1 soovitaksin,
       1 soovitame
@@ -27496,8 +27496,8 @@
       1 sündi
       1 sündi,
       1 sundida
-      1 sündida
       1 sundida.
+      1 sündida
       1 sündida.
       1 sündides
       1 sundima
@@ -27672,8 +27672,8 @@
       1 süttivaks.
       1 süü
       1 süüa,
-      1 süüd
       1 suud,
+      1 süüd
       1 suuda.
       1 suudab,
       1 suudabki
@@ -28202,8 +28202,8 @@
       1 tahtes
       1 tahtest
       1 tahtis,
-      1 tähtis,
       1 tahtis.
+      1 tähtis,
       1 tähtis?
       1 tahtlik
       1 tahtlikku
@@ -29263,11 +29263,11 @@
       1 tehistingimustes
       1 tehke
       1 tehnika,
-      1 tehnika...kuidas
       1 tehnikaajastu
       1 tehnikad
       1 tehnikafirma,
       1 tehnikahuviline,
+      1 tehnika...kuidas
       1 tehnikas
       1 tehnikat
       1 tehnikat.
@@ -29842,8 +29842,8 @@
       1 toad
       1 toakilkide,
       1 toast
-      1 tõbe
       1 tobe.
+      1 tõbe
       1 tobedate
       1 tõbedesse
       1 tõbras
@@ -29861,8 +29861,8 @@
       1 toe
       1 tõega.
       1 toeka
-      1 tõeks
       1 toeks.
+      1 tõeks
       1 tõeks.
       1 tõekspidamised
       1 toel?
@@ -29946,9 +29946,9 @@
       1 toetustele
       1 toetustest.
       1 toggl
-      1 tõhi
       1 tohi.
       1 tohi?
+      1 tõhi
       1 tohiks.
       1 tohtri
       1 tõhus,
@@ -30193,10 +30193,10 @@
       1 tonnist
       1 tont,
       1 tony
-      1 töö-
       1 too,
-      1 töö-,
       1 too.
+      1 töö-
+      1 töö-,
       1 tööaastal
       1 tööaega,
       1 tööajal
@@ -30219,8 +30219,8 @@
       1 toodavad,
       1 toodavate
       1 toode,
-      1 tööde,
       1 toode?
+      1 tööde,
       1 töödega,
       1 töödelda.
       1 töödeldavad
@@ -31638,8 +31638,8 @@
       1 ühistulise
       1 ühitades
       1 uhiuue
-      1 uhke-
       1 uhke,
+      1 uhke-
       1 uhked
       1 uhked,
       1 uhkeldavad
@@ -32210,8 +32210,8 @@
       1 uss
       1 ussirohu
       1 ust
-      1 -uste
       1 uste,
+      1 -uste
       1 ustel
       1 usu.
       1 usuäärmuslus
@@ -32290,8 +32290,8 @@
       1 uuendatakse
       1 uuendati
       1 uuendavad
-      1 uuendus-
       1 uuendus,
+      1 uuendus-
       1 uuendused
       1 uuenduseks.
       1 uuendusi,
@@ -32308,8 +32308,8 @@
       1 uuesti.
       1 uukkivi.
       1 uuri
-      1 üürida.
       1 uurida?
+      1 üürida.
       1 üürielamute
       1 üürihind
       1 üürihindadest,
@@ -32685,8 +32685,8 @@
       1 vahendaja.katrin
       1 vahendajaks
       1 vähendama.
-      1 vähendamine
       1 vahendamine,
+      1 vähendamine
       1 vähendamine.
       1 vahendamise
       1 vahendamises
@@ -32703,8 +32703,8 @@
       1 vähendav
       1 vähendavad
       1 vähendavad.
-      1 -vahendeid
       1 vahendeid.
+      1 -vahendeid
       1 vahendid,
       1 vahendit
       1 vahendite
@@ -32868,11 +32868,11 @@
       1 vaikivad
       1 vaikla
       1 vaikne,
-      1 väikseks
       1 vaikseks.
+      1 väikseks
       1 vaiksel
-      1 väikselt
       1 vaikselt.
+      1 väikselt
       1 väiksemad,
       1 väiksemaks.
       1 väiksemapalgalistele
@@ -33198,8 +33198,8 @@
       1 välistanud
       1 välistas
       1 välistatud
-      1 väliste
       1 -väliste
+      1 väliste
       1 välistele
       1 välistööjõud,
       1 välistöötajates,
@@ -33347,9 +33347,9 @@
       1 väljus,
       1 väljutada
       1 väljuvad
-      1 välk
       1 valk,
       1 valk.
+      1 välk
       1 valke
       1 valki
       1 valku.
@@ -33674,8 +33674,8 @@
       1 varisemisohus.
       1 variser
       1 variseridel
-      1 värises,
       1 varises.
+      1 värises,
       1 varjab
       1 varjagi,
       1 varjamine
@@ -33742,8 +33742,8 @@
       1 varustas
       1 varustatakse
       1 varustus
-      1 -varustusest
       1 varustusest.
+      1 -varustusest
       1 varustuskindlust.
       1 varustust
       1 varutud
@@ -35092,8 +35092,8 @@
       1 wissamiga
       1 wolfgang
       1 wolti
-      1 womens
       1 women's
+      1 womens
       1 won-chol
       1 woodi
       1 woodsi
@@ -35179,21 +35179,21 @@
       1 zvaigzdes
       1 zvm-2901
       2 ,
+      2 00.00
       2 0,1
       2 0,4
-      2 00.00
-      2 1,3
-      2 1,5
       2 10,2
       2 11,
       2 112.
       2 1175
       2 12,
       2 1200
+      2 1,3
       2 137
       2 14,
       2 140
       2 14-aastane
+      2 1,5
       2 15.30
       2 155
       2 161
@@ -35211,8 +35211,6 @@
       2 1980ndate
       2 1986.
       2 1994.
-      2 2,6
-      2 2,9
       2 2000.
       2 2001
       2 2003.
@@ -35223,14 +35221,15 @@
       2 2030.
       2 237
       2 250
+      2 2,6
       2 26-aastane
       2 270
       2 275
       2 28.
       2 28aastane
+      2 2,9
       2 29
       2 293
-      2 3,8
       2 30-40
       2 30aastane
       2 31-aastane
@@ -35238,14 +35237,15 @@
       2 3-4
       2 35
       2 3700
+      2 3,8
       2 4,
-      2 4,1
-      2 4,8
       2 40.
       2 404
+      2 4,1
       2 432
       2 450
       2 460
+      2 4,8
       2 48-aastane
       2 4x5
       2 50.
@@ -37336,8 +37336,8 @@
       2 lauljatar
       2 laulma.
       2 laulmine
-      2 laulu-
       2 laulu,
+      2 laulu-
       2 laulukaarel
       2 laulupeol
       2 lauluraamatu
@@ -40656,10 +40656,10 @@
       2 žürii
       3 000.
       3 1,
-      3 1,2
       3 100.
       3 1100
       3 112
+      3 1,2
       3 130
       3 13-aastane
       3 160
@@ -40671,12 +40671,12 @@
       3 1989.
       3 1991.
       3 1998.
-      3 2,2
       3 2002.
       3 2003
       3 2005
       3 2013
       3 2015
+      3 2,2
       3 26
       3 27
       3 29-aastane
@@ -40693,8 +40693,8 @@
       3 54
       3 55
       3 6
-      3 7,5
       3 7000
+      3 7,5
       3 87
       3 9000
       3 99.
@@ -41297,8 +41297,8 @@
       3 koguduste
       3 kogunevad
       3 koguses
-      3 köha
       3 koha,
+      3 köha
       3 kohalikul
       3 kohalikust
       3 kohast.
@@ -42793,9 +42793,9 @@
       3 williams
       3 x-mängude
       3 york
-      4 1,6
       4 13.
       4 1500
+      4 1,6
       4 1992.
       4 1999.
       4 2001.
@@ -43822,8 +43822,8 @@
       4 tuleva
       4 tulevik
       4 tulevikku
-      4 tüli
       4 tuli,
+      4 tüli
       4 tulu.
       4 tulumaksuvaba
       4 tunda,
@@ -45128,12 +45128,12 @@
       7 18.
       7 1993.
       7 2,
-      7 2,5
       7 20.
       7 2008.
       7 2017
       7 21
       7 23
+      7 2,5
       7 31
       7 32
       7 400

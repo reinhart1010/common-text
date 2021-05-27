@@ -1,10 +1,5 @@
 1,-
 1,–
-1,"beatha
-1,"croí
-1,(dollair
-1,(fostaíochtaí
-1,‘ollamh
 1,ábalta
 1,abhaile.
 1,abhainn.
@@ -99,7 +94,6 @@
 1,athnuachan
 1,atoghadh.
 1,b
-1,b’fhearr
 1,bá
 1,babhla.
 1,bac
@@ -123,6 +117,7 @@
 1,beár
 1,béarla
 1,bearta.
+1,"beatha
 1,beathach
 1,beatty
 1,béil
@@ -130,6 +125,7 @@
 1,beirigí
 1,beirt
 1,beo?
+1,b’fhearr
 1,bhaineann
 1,bhairbre
 1,bharr
@@ -453,6 +449,7 @@
 1,crith.
 1,cró
 1,croch
+1,"croí
 1,crú
 1,crua
 1,cruachás
@@ -478,14 +475,6 @@
 1,curtha
 1,cuspóir.
 1,d
-1,d’éirigh
-1,d’fhéach
-1,d’iarrachtaí
-1,d’imigh
-1,d’inniu
-1,d’intinní
-1,d’iompaigh
-1,d’iontaobhas
 1,daichead
 1,dáimhe
 1,dair
@@ -515,9 +504,11 @@
 1,deireadh,
 1,deirfiúr
 1,deiridh.
+1,d’éirigh
 1,d'éirinn
 1,deise.
 1,d'eitil
+1,d’fhéach
 1,d'fhoghlaim
 1,dhaingniú
 1,dhálaigh
@@ -554,17 +545,23 @@
 1,dian-iarrachtaí
 1,diarmaid
 1,d'iarr
+1,d’iarrachtaí
 1,díbh
 1,díbhse
 1,dílse,
+1,d’imigh
 1,d'infheistiú.
 1,ding
 1,dinnéar
+1,d’inniu
+1,d’intinní
 1,díograis
 1,díol.
 1,díolúintí
 1,díom
+1,d’iompaigh
 1,d'iompraigh
+1,d’iontaobhas
 1,díot
 1,díot.
 1,d'ísligh
@@ -576,6 +573,7 @@
 1,dóchas
 1,doherty
 1,d'oibrigh
+1,(dollair
 1,dom?
 1,domhanda
 1,domhnaigh
@@ -741,6 +739,7 @@
 1,formhór
 1,fórsaí
 1,fós,
+1,(fostaíochtaí
 1,fostaíochtaí
 1,fóta-iriseoir
 1,francisco.
@@ -1053,7 +1052,6 @@
 1,luí.
 1,luí?
 1,luimníoch.
-1,m’iarratas
 1,machina
 1,maidí
 1,maighréad
@@ -1124,6 +1122,7 @@
 1,mhuinseó
 1,mhúinteoirí,
 1,mianta
+1,m’iarratas
 1,mí-cheadtach
 1,micheál
 1,míchumais
@@ -1238,6 +1237,7 @@
 1,oisín
 1,ól
 1,ólann
+1,‘ollamh
 1,ólta
 1,óm
 1,o'mahony,
@@ -1623,8 +1623,8 @@
 1,tú.
 1,tú?
 1,tuathail
-1,tuathlímistéir
 1,tuath-límistéir
+1,tuathlímistéir
 1,tubaisteach
 1,tugaim
 1,tuí
@@ -1682,8 +1682,8 @@
 2,anois,
 2,anseo,
 2,aonú
-2,ardmhéara
 2,ard-mhéara
+2,ardmhéara
 2,átha
 2,athbheochan
 2,báistí

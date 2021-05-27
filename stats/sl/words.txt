@@ -1,6 +1,4 @@
       1 ...
-      1 »to
-      1 »vidite,«
       1 adijo
       1 adijo,
       1 aerodinamična
@@ -246,8 +244,8 @@
       1 čaroben.
       1 čarobno
       1 čas,
-      1 čaša;
       1 časa?
+      1 čaša;
       1 časi,
       1 čast.
       1 časti
@@ -1992,8 +1990,8 @@
       1 mošnjo
       1 mošnjo,
       1 most
-      1 mošt
       1 most.
+      1 mošt
       1 mostove
       1 mostove.
       1 moteč.
@@ -4385,8 +4383,8 @@
       1 sol
       1 šole
       1 soli
-      1 šoli
       1 soli.
+      1 šoli
       1 šolska
       1 šolske
       1 solz.
@@ -4828,6 +4826,7 @@
       1 tlakovane
       1 tlemi.
       1 tli.
+      1 »to
       1 toče.
       1 toči
       1 točili
@@ -5125,12 +5124,12 @@
       1 varnostna
       1 varnostnik?
       1 varuh
-      1 vaš
       1 vas.
       1 vas?
+      1 vaš
       1 vaša
-      1 vaši
       1 vasi,
+      1 vaši
       1 vate!
       1 vaza
       1 včeraj
@@ -5228,6 +5227,7 @@
       1 vidimo,
       1 vidiš?
       1 vidite.
+      1 »vidite,«
       1 vidre
       1 viha
       1 vijak
@@ -5435,8 +5435,8 @@
       1 vzvod
       1 watt
       1 wau!
-      1 wifi
       1 wi-fi?
+      1 wifi
       1 wikipedija
       1 william
       1 wow,
